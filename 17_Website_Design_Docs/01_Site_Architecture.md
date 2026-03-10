@@ -67,11 +67,13 @@ The homepage does most of the work for launch. If Danish books a call after the 
 - Navigation right: Work / How It Works / Apply
 - Oxblood background on hero scroll, transitions to cream on content sections
 - No hamburger menu on desktop. Mobile: simple hamburger, three items only
-- Sticky on scroll: logo + "Apply" CTA button remain visible
+- Sticky on scroll: logo + "Apply" CTA button remain visible at all times as the user scrolls through the page
+
+**On the "Apply" sticky CTA:** This is the persistent escape hatch. At any point during the scroll — after reading the hero, after seeing the creative, after reading the proof — Danish can click "Apply" in the nav without having to reach the bottom CTA section. It always goes to `/apply`. This is how the page handles the reader who's ready early without breaking the experience for the reader who wants the full story first.
 
 **Copy:** Nav labels are functional. No copy decisions needed here.
 
-**Content status:** Ready once logo/wordmark is finalized. Alex to supply final logo file.
+**Content status:** Wordmark and icon are finalized and available. Ready to use.
 
 ---
 
@@ -105,11 +107,11 @@ The homepage does most of the work for launch. If Danish books a call after the 
 - Orientation line: close to final, needs legal review for any claims
 - Logo/wordmark: Alex to supply
 
-**What Alex needs to supply:** Finalized credits from founder backgrounds to anchor the credential subhead precisely.
+**Credits for credential subhead:** Davis — 18 years, Disney, Google, Samsung. Alex — TradeStation (million-user trading app, FINRA/SEC compliant). Sasha — ASOS, Bose, Coach, Diageo programmatic. All available in founder files. Final wording needs one pass for precision.
 
 ---
 
-### SECTION 3 — THE CREATIVE
+### SECTION 3 — THE CREATIVE WORK
 
 **Strategic purpose:** The hero made a claim. This section proves it. The advertising is shown, not described. No explanatory copy. The contrast between category norm and Second Chair output IS the argument.
 
@@ -126,73 +128,97 @@ The homepage does most of the work for launch. If Danish books a call after the 
 
 **Mobile:** Vertical stack. Category above, Second Chair below. Still works.
 
-**Content status:** BLOCKED on creative assets. Alex needs to supply:
-- Best available campaign creative (video or static) from the Second Chair portfolio
-- OR the Davis/Alex collaboration that represents the intended creative direction
+**Content status:** BLOCKED on creative assets. Davis supplies these — he has the campaign creative. This section cannot be designed or built until Davis provides the assets.
 
-**What Alex needs to supply:** Campaign creative assets. This section cannot be designed or built until these exist.
+**What Davis needs to supply:** Campaign creative (video or static) from the Second Chair portfolio. This is the single biggest design blocker on the page.
 
 ---
 
-### SECTION 4 — THE MOAT (THREE ADVANTAGES)
+### SECTION 4 — CHANNEL TRUST BAR
 
-**Strategic purpose:** Now that the creative has been demonstrated, explain the system behind it. Three pillars — not three bullet lists. Brief by design. This is "why Second Chair is a competitive advantage for the firm that works with them, not just a vendor."
+**Strategic purpose:** After Danish has seen the quality of the creative, this section signals operational scale — the creative runs everywhere his clients are. Positioned here, after the proof of quality, it reads as "and we deploy this across every channel" rather than a capabilities checklist. Inspired by the Casely Group's "what we manage for performance" section — but tighter.
+
+**Roundtable note:** Deliberately placed AFTER the creative proof, not before it. Placing it before the creative interrupts the hero-to-proof momentum. Placed after, it extends and expands the proof.
+
+**Color:** Cream `#F5F0E8`. Full-width, low-height. Thin burgundy rule above and below.
+
+**Layout:** Small label centered or left-aligned, then channel logos in a clean horizontal row.
+
+**Label:**
+> "Where the creative runs."
+
+**Logos to display:** Meta / Facebook Ads, Google Ads, TikTok, YouTube, LinkedIn, Programmatic / Display (StackAdapt), Instagram. Clean, consistent icon treatment. No explanatory copy — the logos do the work.
+
+**Mobile:** Logos wrap into two rows. Still clean.
+
+**Content status:** Logos sourced from platform brand assets. No copy decisions needed. Design can proceed immediately.
+
+---
+
+### SECTION 5 — THE MOAT (THREE ADVANTAGES)
+
+**Strategic purpose:** Now that the creative has been demonstrated, explain the system behind it. Three pillars — not three bullet lists. Brief by design. The AI-systems angle lives here — not as a gimmick but as the structural reason why three founders produce the output of a forty-person operation. This is "why Second Chair is a competitive advantage for any firm that works with them, not just a vendor."
 
 **Color:** Cream `#F5F0E8`. Three-column editorial grid. Thin burgundy rule above each column.
 
 **Layout:** Three columns, equal width. Each column: small all-caps category label, one-sentence headline, two to three lines of supporting copy. No bullet points.
 
-**Column 1 — Creative Craft**
+---
+
+**Column 1 — Creative & Strategy Systems**
 
 *Category label:* `THE ADVERTISING`
 
 *Column headline:*
-> "We make creative that your clients actually stop for."
+> "18 years of advertising knowledge, built into every campaign we make."
 
-*Supporting copy direction:* The advertising is built from research into what PI claimants actually respond to — psychological triggers, authentic creative, channel-appropriate formats. We don't make lawyer ads. We make advertising that performs.
+*Named concept — Zip Code Creative:*
+> "We don't target demographics. We target zip codes — and build creative for the people who live there."
+
+*Supporting copy direction:* Davis's 18 years of advertising experience is synthesized into a creative system: research agents, strategy, behavioral psychology, compliance review, execution. The equivalent of a full-service ad agency specialized entirely in PI. Creative is built from deep research into who the claimants in your specific market are — their neighborhoods, their language, what they respond to. A Miami campaign looks different from a Los Angeles campaign. Neither looks like the category norm. No templates. No recycled creative. Specific.
 
 *Placeholder supporting copy:*
-> "Our creative team comes from brand advertising, not legal marketing. That difference is visible in every frame, and it shows up in your CPL."
+> "We don't make lawyer ads. We build advertising from research into who your claimants are — their market, their zip codes, their neighborhood. The system that makes it is built from 18 years of brand advertising experience. Your competitors can't access it because you can't hire it."
 
 ---
 
-**Column 2 — Compliance**
+**Column 2 — Compliance Architecture**
 
 *Category label:* `THE COMPLIANCE`
 
 *Column headline:*
 > "Every lead we generate is FCC 2025 compliant. By design, not by accident."
 
-*Supporting copy direction:* The 2025 FCC ruling closed the lead generator loophole. One-to-one explicit consent, per seller, per contact. Most vendors are still running non-compliant leads. This is a real legal liability sitting in your CRM right now. Second Chair builds the compliant consent architecture into every funnel from the start.
+*Supporting copy direction:* The 2025 FCC ruling closed the lead generator loophole. One-to-one explicit consent, per seller, per contact. Most vendors are still running non-compliant leads — the California ads alone, with specific dollar amounts and implied settlement values, are non-compliant under both FCC rules and state bar advertising guidelines. This is a real legal liability sitting in Danish's CRM right now. Second Chair builds the compliant consent architecture into every funnel from the start, and compliance review is built into the creative system.
 
 *Placeholder supporting copy:*
-> "The 2025 FCC ruling changed the compliance landscape. Most lead vendors haven't caught up. We built our entire consent architecture around one-to-one consent from day one."
+> "The 2025 FCC ruling changed what compliant lead gen looks like. Most vendors haven't updated. We built our entire consent architecture around one-to-one consent from day one. Your leads are clean. Your exposure is zero."
 
 ---
 
-**Column 3 — Product Intelligence**
+**Column 3 — Product & Performance Intelligence**
 
 *Category label:* `THE INTELLIGENCE`
 
 *Column headline:*
-> "You'll see what's working — and what it's costing — in real time."
+> "You'll see what's working — and what it's costing you — in real time."
 
-*Supporting copy direction:* Second Chair builds a performance dashboard for each client. Creative performance, lead volume, CPL tracking. As the relationship matures, this gets more sophisticated — eventually incorporating intake optimization and AI-assisted lead scoring. The visibility is the advantage: no more black box lead vendors.
+*Supporting copy direction:* Alex built a million-user, FINRA/SEC compliant trading platform from scratch using AI-native development. He brings that same compliance-grade infrastructure and build speed to Second Chair's product layer. Each client gets a performance dashboard: CPL, lead volume, creative performance — visible as it happens. As cases close and you report back, your cost-per-signed-case emerges. No black box. No guessing. The product and tracking infrastructure is built to scale — and built AI-native from day one, which means it gets more sophisticated as the relationship matures.
 
 *Placeholder supporting copy:*
-> "A performance dashboard built for each campaign. CPL, volume, creative performance — visible as it happens. This is what it looks like when your lead gen partner can show their work."
+> "A performance dashboard built for your campaign. Your CPL, your lead volume, your creative performance — live. And as your signed case data comes in, your CPSC starts to form. Built by the same engineer who shipped a FINRA-compliant trading platform to a million users."
 
-*Design note:* "Product Intelligence" is the column where the Phase 2 roadmap lives — but only as a brief forward-looking line. Do not make AI intake a current-state claim.
+*Design note:* The primary KPI is CPSC — not CPL. CPL is visible immediately; CPSC accumulates as the firm reports signed cases back. This reporting loop is the relationship. Phase 2 product roadmap gets one brief forward-looking line here only.
 
-**Content status:** Copy direction is solid, placeholder copy needs a writer pass. Column 3 needs Davis to confirm what the dashboard actually shows at launch vs. what's roadmap.
+**Content status:** Copy direction locked, needs writer pass. Column 3 needs dashboard screenshot or mockup when available.
 
-**What Alex needs to supply:** Dashboard screenshot or mockup for the visual layer of Column 3.
+**What's needed:** Dashboard screenshot or mockup for Column 3 visual. Alex to supply when built.
 
 ---
 
-### SECTION 5 — THE FOUNDERS
+### SECTION 6 — THE FOUNDERS
 
-**Strategic purpose:** Closes the "who are these people?" gap. Someone came from a cold email, saw a bold claim, saw impressive creative, and now wants to know: is this real? Three founder cards with real credentials. The Fortune 500 backgrounds live here in full.
+**Strategic purpose:** Closes the "who are these people?" gap. Someone came from a cold email, saw a bold claim, saw impressive creative, and now wants to know: is this real? Three founder cards with real credentials. The Fortune 500 backgrounds live here in full. The AI-systems dimension gets a one-line callout per card — not tech-speak, just "here's what this person built."
 
 **Color:** Cream `#F5F0E8`. Three-column card layout. Thin burgundy rule above each card.
 
@@ -202,53 +228,100 @@ The homepage does most of the work for launch. If Danish books a call after the 
 
 *Role:* Co-Founder, Creative Strategy
 
-*Credentials to draw from:* [Exact credits TBD — Davis to confirm which Fortune 500 work to surface here. Disney, Samsung, Google are the anchors. Need exact campaign or brand names, not just company names.]
+*Credentials (sourced from founding docs):*
+- 18 years building advertising for Disney, Google, Samsung
+- Built the Vacation brand from zero — creative direction, strategy, voice, visual identity
+- Compliance-heavy brand experience: Dinari (SEC-backed), healthcare at Fortune 500 level
+- CXL certified, behavioral science-informed creative approach
 
-*Bio direction:* Built advertising at [specific credits]. Saw the gap between how the PI lead gen category advertises and how great creative actually works. Second Chair is the response to that gap.
+*System callout (small, below bio):* `Creative & strategy systems — research, behavioral psychology, compliance, execution`
+
+*Bio direction:* Spent 18 years making advertising for the biggest brands in the world, then looked at the PI lead gen category and saw advertising so bad it was embarrassing — non-compliant, manipulative, visually embarrassing. Second Chair is the direct response: what happens when you apply real advertising craft, built into a system, to a space that has never seen it.
 
 ---
 
-**Card 2 — Alex [Last Name]**
+**Card 2 — Alex DuBelko**
 
 *Role:* Co-Founder, Product & Technology
 
-*Credentials to draw from:* Alex to supply. Focus on product/engineering background, any notable companies or builds.
+*Credentials (sourced from founding docs):*
+- Built a 0-to-1 mobile trading platform at TradeStation: 1 million users, 99.96% crash-free, 100% FINRA/SEC compliant from launch
+- CXL certified in conversion optimization and digital psychology
+- Reforge training in growth and product strategy
+- AI-native development — built production systems using Claude Code and AI agent teams
 
-*Bio direction:* [Alex to brief.]
+*System callout (small, below bio):* `Product & data systems — dashboards, pipelines, tracking infrastructure`
+
+*Bio direction:* Built the kind of product most teams get years to build, in the time most teams spend planning it. Brings compliance-grade product infrastructure and AI-native build speed to a category that has neither. The dashboard you see is the edge of what he's building.
 
 ---
 
-**Card 3 — Sasha [Last Name]**
+**Card 3 — Sasha Zinshtein**
 
-*Role:* Co-Founder, [Role TBD]
+*Role:* Co-Founder, Sales & Media
 
-*Credentials to draw from:* Sasha to supply. Focus on sales, legal industry relationships, business development.
+*Credentials (sourced from founding docs):*
+- Programmatic media buying across ASOS, Bose, Coach, Diageo, Tinder
+- Pioneered programmatic strategy for cannabis brands when major platforms were closed
+- Sales and account management across ad-tech, financial services, and architecture
+- Ukrainian-American, first-generation entrepreneur
 
-*Bio direction:* [Sasha to brief.]
+*System callout (small, below bio):* `Performance media — buying, targeting, optimization, client transparency`
+
+*Bio direction:* Has been in the room for every kind of "no" — and knows exactly how to turn it into a real conversation. Pioneered media in markets where the obvious tools were closed. Brings the same problem-solving instinct and performance discipline to PI. He's the one who makes sure the work Davis and Alex build actually reaches the right people — and that you can see exactly how it's performing.
 
 **Design direction:** Photos should be editorial, not polished corporate. Think: real person at work or in a real space, not studio backdrop. Consistent treatment across all three. No suits required. The founders' backgrounds are impressive enough — the photos don't need to perform authority.
 
-**Content status:** BLOCKED on founder supplied content:
-- Davis to confirm exact Fortune 500 credits and preferred bio language
-- Alex to supply credentials and bio direction
-- Sasha to supply credentials and bio direction
-- Photos: all three founders need editorial portrait photography
+**Closing line (below all three cards — full width, centered, larger type):**
+> "Three founders. The output of forty."
 
-**What Alex needs to supply:** His own credentials and bio. Also coordinate with Davis and Sasha on photo shoot or supply existing photos.
+*Design note:* This is a quiet statement, not a headline. Sit it below the cards in a slightly larger type size, centered, with breathing room above and below. It should feel like a conclusion the reader arrives at after seeing what all three built — not a claim they're asked to accept at the start. No supporting copy needed. The cards did the work.
+
+**Content status:** Credentials sourced from founding docs — ready to write. One pass needed to confirm exact wording with each founder before publishing. Photos: all three founders need editorial portrait photography (not corporate headshots).
+
+**What's needed:** Photo shoot or existing editorial-quality photos for all three founders. Credential wording to be confirmed with Davis, Alex, and Sasha before going live.
 
 ---
 
-### SECTION 6 — THE PROOF
+### SECTION 7 — THE PROOF
 
-**Strategic purpose:** Richard Shotton's mandate — give the skeptical buyer anchored data before you ask them to act. Three proof panels: category economics, compliance reality, creative cost advantage. All data is sourced, labeled honestly (modeled vs. industry benchmark). No fabricated results.
+**Strategic purpose:** Give the skeptical buyer anchored data before you ask them to act. Three proof panels in a deliberate psychological sequence: fear first (compliance liability they may already have), efficiency second (creative approach advantage), economics third (the full CPSC picture). Loss aversion activates the reader; the following panels give him reasons to act on that activation. All data is sourced and labeled honestly.
 
-**Color:** Cream `#F5F0E8`. Exhibit-style layout — think editorial data journalism, not a pitch deck. Thin rules, restrained typography, the data does the visual work.
+**Roundtable note on sequence:** FCC compliance leads because it creates the strongest emotional activation — loss aversion. Danish may already have TCPA liability sitting in his CRM. That fear primes him to evaluate Second Chair as a solution. The creative cost panel follows as a positive signal: our approach is more efficient. The CPSC comparison closes with the full economic case. Problem → solution → payoff.
+
+**Color:** Cream `#F5F0E8`. Exhibit-style layout — editorial data journalism, not a pitch deck. Thin rules, restrained typography, the data does the visual work.
 
 **Layout:** Three panels stacked or in an editorial grid.
 
 ---
 
-**Proof Panel 1 — The CPSC Reality**
+**Proof Panel 1 — The Compliance Reality**
+
+*Panel headline:* "Most of the leads in your CRM right now are non-compliant."
+
+*Supporting copy direction:* In January 2025, the FCC closed the "lead generator loophole." The old model — single blanket consent checkbox covering multiple sellers — is no longer legally sufficient for robocalls or texts. Every non-compliant lead is a potential TCPA liability. Most lead vendors have not updated their consent flows. The California ads alone — with specific dollar amounts, implied settlements, and generic consent — are non-compliant under both FCC rules and state bar advertising guidelines. Second Chair built one-to-one consent architecture from the start.
+
+*Placeholder copy:*
+> "The 2025 FCC ruling requires one-to-one, explicitly named consent for each seller before any robocall or text contact. The old blanket checkbox is no longer sufficient. We build this into every funnel by default. Your current vendor probably hasn't."
+
+*Design note:* This panel should feel like a regulatory briefing, not a competitor attack. Editorial tone. The FCC rule is a fact. The implication — that Danish's current vendors are behind — is left for him to arrive at.
+
+---
+
+**Proof Panel 2 — The Creative Cost Advantage**
+
+*Panel headline:* "The advertising format matters as much as the spend."
+
+*Supporting copy direction:* Meta ad creative built to look like PI advertising (polished, lawyer-at-desk, "We Fight For You") generates leads at $100–150 CPL because it triggers ad-blindness. Pattern-interrupt creative — built to look like content rather than advertising — generates leads at $50–100 CPL on the same platform. Same budget, same targeting, different creative approach. Second Chair builds for the lower number by design — not by cutting corners, but because the research shows how the algorithm rewards content people actually engage with.
+
+*Placeholder copy:*
+> "Polished 'lawyer ad' creative on Meta: $100–150 CPL. Pattern-interrupt creative built to look like content: $50–100 CPL. Same platform, same targeting, different creative. We build for the lower number — because we understand what the algorithm actually rewards."
+
+*Sourcing note:* Industry benchmark data synthesized from campaign performance research. Label as "Industry benchmark ranges, Meta advertising research 2024–2025."
+
+---
+
+**Proof Panel 3 — The CPSC Reality**
 
 *Panel headline:* "What does a signed case actually cost you?"
 
@@ -260,43 +333,15 @@ The homepage does most of the work for launch. If Danish books a call after the 
 - TV / Radio: $5,000–$15,000+ per signed case
 - Second Chair: **~$750–$1,600 avg per signed case**
 
-*Sourcing notes for design:* Google/TV figures are real industry benchmarks (sourced from category research). Second Chair figure is MODELED — must be labeled: *"Modeled at 10% lead-to-sign conversion rate based on Second Chair's targeted CPL range."* This is not a historical average. Be precise.
+*Sourcing notes for design:* Google/TV figures are real industry benchmarks. Second Chair figure is MODELED — must be clearly labeled: *"Modeled at 10% lead-to-sign conversion rate based on Second Chair's targeted CPL range."* This is not a historical average. The honest label is a brand decision, not just a legal requirement.
 
-*Design note:* Label must be visible. Not buried in a footnote. Honest framing is a brand decision, not just a legal one. The footnote IS the brand.
+**Content status:** Panels 1 and 2 are research-backed and can be written now. Panel 3 needs final CPL target confirmation from Davis/Alex before the modeled CPSC number is set. All three need a copywriter pass.
 
----
-
-**Proof Panel 2 — The Compliance Reality**
-
-*Panel headline:* "Most of the leads in your CRM right now are non-compliant."
-
-*Supporting copy direction:* In January 2025, the FCC closed the "lead generator loophole." The old model — single blanket consent checkbox covering multiple sellers — is no longer legally sufficient for robocalls or texts. Every non-compliant lead is a potential TCPA liability. Most lead vendors have not updated their consent flows. Second Chair built one-to-one consent architecture from the start.
-
-*Placeholder copy:*
-> "The 2025 FCC ruling requires one-to-one, explicitly named consent for each seller before any robocall or text contact. The old blanket checkbox is no longer sufficient. We build this into every funnel by default. Your current vendor probably hasn't."
-
-*Design note:* This panel should feel like a regulatory briefing, not a competitor attack. Editorial tone. The FCC rule is a fact. The implication — that Danish's current vendors are behind — is left for him to arrive at.
+**What's needed:** Davis and Alex to confirm the CPL range Second Chair can realistically target — this sets the modeled CPSC figure in Panel 3.
 
 ---
 
-**Proof Panel 3 — The Creative Cost Advantage**
-
-*Panel headline:* "The advertising format matters as much as the spend."
-
-*Supporting copy direction:* Meta ad creative built to look like PI advertising (polished, lawyer-at-desk, "We Fight For You") generates leads at $100–150 CPL because it triggers ad-blindness. Pattern-interrupt creative — built to look like content rather than advertising — generates leads at $50–100 CPL on the same platform. Same budget. More leads. Second Chair builds for the lower end of that range by design.
-
-*Placeholder copy:*
-> "Polished 'lawyer ad' creative on Meta: $100–150 CPL. Pattern-interrupt creative built to look like content: $50–100 CPL. Same platform, same targeting, different creative approach. We build for the lower number — not because we cut corners, but because we understand how the algorithm rewards content that people actually engage with."
-
-*Sourcing note:* Industry benchmark data synthesized from campaign performance research. Label as "Industry benchmark ranges based on Meta advertising research, 2024–2025."
-
-**Content status:** Panel 1 data direction locked, needs final number confirmation from Davis/Alex on the Second Chair CPL target. Panels 2 and 3 are research-backed and can be written now. All three need a copywriter pass.
-
-**What Alex needs to supply:** Confirm the CPL range Second Chair can realistically target for the modeled CPSC in Panel 1.
-
----
-
-### SECTION 7 — HOW WE WORK
+### SECTION 8 — HOW WE WORK
 
 **Strategic purpose:** Shows rigor. Tells Danish what happens after he books the call — removes the fear of the unknown. Four phases, brief by design. Not a list of benefits — a description of a real process.
 
@@ -305,27 +350,33 @@ The homepage does most of the work for launch. If Danish books a call after the 
 **Layout:** Four numbered steps with a thin burgundy rule or connecting line. Each step: number, short title, two to three lines of description.
 
 **Step 1 — Discovery**
-> "We start with a call to understand your market, your case mix, your current channels, and what you've tried before. We come prepared with research on your market. This call determines whether there's a fit."
+> "We start with a call to understand your market, your case mix, your current channels, and what you've tried before. Before the call, our research system maps your market — competitor activity, zip code demographics, claimant profile. We come prepared. This call determines whether there's a fit."
+
+*System note:* The pre-call research is done by Davis's creative and strategy system before the first conversation. Danish arrives on a call with people who already know his market.
 
 **Step 2 — Creative Development**
-> "We build the campaign creative before you commit to a lead volume. You see the advertising before you say yes. No surprises, no generic templates — creative built for your market and your firm's identity."
+> "We build the campaign creative before you commit to a lead volume. You see the advertising before you say yes. No surprises, no generic templates — creative built for your specific market, your firm's identity, and the claimants in your zip codes."
+
+*System note:* Creative development uses the full research-to-execution pipeline: audience research, behavioral psychology brief, creative execution, compliance review. The output looks different from anything else in the category because the process is different.
 
 **Step 3 — Campaign Launch**
-> "We launch with your market, your consent architecture built for FCC 2025 compliance, and your performance dashboard live from day one. You see what's running, what it costs, and how it's performing."
+> "We launch with FCC 2025-compliant consent architecture, your campaign running across the right channels for your market, and your performance dashboard live from day one. You see what's running, what it costs, and how it's performing — in real time."
+
+*System note:* The dashboard is built by Alex's product infrastructure. It connects media spend to lead quality to signed case data as it accumulates.
 
 **Step 4 — Optimization and Growth**
-> "We optimize on creative, channel mix, and lead quality as data accumulates. As the relationship matures, we layer in deeper performance intelligence and intake optimization."
+> "We optimize on creative, channel mix, and lead quality as data accumulates. As the relationship matures and case data comes in, we layer in deeper performance intelligence — and eventually, intake optimization and AI-assisted lead scoring."
 
-*Note on Phase 4:* This is where AI intake and advanced lead scoring appear — as a future-state line, not a current promise. "As the relationship matures" is the framing. It signals roadmap without overclaiming.
+*Note on Phase 4:* This is where the advanced product roadmap enters — one forward-looking line, not a current-state promise. The "eventually" framing is intentional and honest.
 
 **Below the four steps — one supporting line:**
-> "We work with a small number of firms. Every engagement gets the full team."
+> "We work with a small number of firms. Every engagement gets the full team — and the full system."
 
 **Content status:** Copy direction is clear, placeholder copy is close to final. Needs a copywriter pass for voice and precision.
 
 ---
 
-### SECTION 8 — DISCOVERY CALL CTA
+### SECTION 9 — DISCOVERY CALL CTA
 
 **Strategic purpose:** The close. Adam Ferrier's mandate — this should feel like the logical conclusion Danish arrives at, not a push. The framing is mutual evaluation. Second Chair is selective; the prospect is evaluating a partnership. No pressure, no urgency, no forms asking for budget.
 
@@ -351,7 +402,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 
 ---
 
-### SECTION 9 — FOOTER
+### SECTION 10 — FOOTER
 
 **Strategic purpose:** Functional. Legal compliance. Light brand reinforcement.
 
@@ -470,19 +521,18 @@ The homepage does most of the work for launch. If Danish books a call after the 
 | Section 8 CTA copy | Direction locked, needs final headline | Copywriter |
 | All mobile-truncated versions | Every section needs a mobile copy pass | Copywriter |
 
-### What Alex Needs to Supply
+### What's Still Needed (By Person)
 
-| Item | Blocks | Priority |
-|------|--------|----------|
-| Campaign creative assets (video/static) | Section 3 (The Creative), `/work` page | **P0 — cannot design without** |
-| Founder credits (Davis, Alex, Sasha) | Section 2 hero, Section 5 Founders | **P0 — cannot finalize hero** |
-| Founder photos (editorial) | Section 5 Founders | P1 |
-| Dashboard screenshot/mockup | Section 4 Column 3 | P1 |
-| Booking link / form destination | Section 8 CTA, `/apply` page | P1 |
-| Final CPL target range | Section 6 Proof Panel 1 (CPSC model) | P1 |
-| Logo / wordmark file | Nav, Footer | P1 |
-| Contact email + social handles | Footer | P2 |
-| Confirmation of "Attorney Advertising" disclaimer applicability | Footer | P2 |
+| Item | Blocks | Who | Priority |
+|------|--------|-----|----------|
+| Campaign creative assets (video/static) | Section 3 (The Creative), `/work` page | **Davis** | **P0 — cannot design without** |
+| Founder photos (editorial) | Section 5 Founders | All three | P1 |
+| Dashboard screenshot/mockup | Section 4 Column 3 | Alex | P1 |
+| Booking link / form destination | Section 8 CTA, `/apply` page | Alex | P1 |
+| Final CPL target range (for CPSC model) | Section 6 Proof Panel 1 | Davis + Alex | P1 |
+| Founder credential wording sign-off | Section 2 hero, Section 5 | Davis, Alex, Sasha | P1 |
+| Contact email + social handles | Footer | Davis | P2 |
+| "Attorney Advertising" disclaimer confirmation | Footer | Legal check | P2 |
 
 ---
 
@@ -506,14 +556,15 @@ The homepage does most of the work for launch. If Danish books a call after the 
 
 ## OPEN QUESTIONS (RESOLVE BEFORE DESIGN BRIEF)
 
-1. **Exact founder Fortune 500 credits** — which brands, which campaigns, exact wording. Davis and Alex to supply.
-2. **CPL target range** — what number is Second Chair comfortable modeling the CPSC from? Affects Panel 1.
-3. **"Attorney Advertising" disclaimer** — does it apply to the firm's own B2B website, or only to client-facing advertising? Quick legal check.
-4. **Booking flow** — Calendly embed or custom form on `/apply`? Alex to decide.
-5. **Domain** — is `secondchair.com` acquired? If not, what's the intended URL?
-6. **Campaign creative** — what's the timeline for Alex to deliver assets? This is the critical path blocker for design start.
+1. **CPL target range** — what CPL range is Second Chair comfortable modeling the CPSC from? Davis and Alex to agree. Affects Proof Panel 1.
+2. **"Attorney Advertising" disclaimer** — does it apply to the firm's own B2B website, or only to client-facing advertising? Quick legal check.
+3. **Booking flow** — Calendly embed or custom form on `/apply`? Alex to decide.
+4. **Domain** — is `secondchair.com` acquired? If not, what's the intended URL?
+5. **Campaign creative timeline** — Davis has the assets. When are they ready for design? This is the single critical path blocker for design start.
+
+*Resolved: Logo/wordmark — exists, ready to use. Founder credentials — sourced from founding docs, available in 02_Alex_Input.md, 04_Sasha_Input.md, 01_Davis_Input.md.*
 
 ---
 
 *Document owner: Davis Ballard*
-*Next action: Share with Alex → supply assets → brief copywriter → Figma design start*
+*Next action: Davis supplies campaign creative → brief copywriter → Figma design start*
