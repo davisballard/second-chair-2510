@@ -1,4 +1,4 @@
-# ClaimJusticeNow Brand Identity System
+﻿# ClaimJusticeNow Brand Identity System
 **Designed by Massimo Vignelli (Visual Systems Architect)**  
 **Date:** February 10, 2026  
 **Brand:** ClaimJusticeNow — Consumer-facing PI Lead Generation
@@ -118,7 +118,7 @@ Clean, geometric scales of justice — a strong vertical pillar with balanced se
 ### Supporting Colors
 
 **Charcoal**  
-**Hex:** #2C2C2C  
+**Hex:** #1C1917  
 **Usage:** Body text, secondary elements
 
 **White**  

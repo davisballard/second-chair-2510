@@ -1,4 +1,4 @@
-# Second Chair — Logo Directions
+﻿# Second Chair — Logo Directions
 *Session: March 1, 2026 | Massimo Vignelli (lead) + Graham Fink + John Hegarty*
 
 ---
@@ -36,12 +36,12 @@ The Supreme Court. The Harvard Law Review. The West Reporter spine. The Goldman 
 - Size relationship: "SECOND" and "CHAIR" on a single line, separated by a standard word space
 
 **Color:**
-- Primary version: Warm Charcoal `#2C2C2C` letterforms on Cream `#F5F0E8` background
-- Reverse version: Cream `#F5F0E8` letterforms on Warm Charcoal `#2C2C2C` background
-- Engraved version: Old Gold `#B8962E` letterforms on Oxford Navy `#1B2A4A` (physical collateral only — letterpress, foil)
+- Primary version: Warm Charcoal `#1C1917` letterforms on Cream `#FFF7F0` background
+- Reverse version: Cream `#FFF7F0` letterforms on Warm Charcoal `#1C1917` background
+- Engraved version: Old Gold `#E8C165` letterforms on Oxford Navy `#0F1E3A` (physical collateral only — letterpress, foil)
 
 **The Rule:**
-- A single hairline horizontal rule in Burgundy `#6B1A1A`
+- A single hairline horizontal rule in Burgundy `#490A0A`
 - Weight: 0.5pt (0.5px at 1x)
 - Position: Full width of the wordmark, flush left to flush right, sitting 8–10pt below the baseline of the wordmark
 - This rule is the only chromatic element in the primary mark — it does not compete with the letterforms, it anchors them
@@ -58,11 +58,11 @@ The Supreme Court. The Harvard Law Review. The West Reporter spine. The Goldman 
 - A monogram reduction for favicon/app: "SC" in Century Schoolbook small caps, within a hairline square border
 
 **Figma frame spec:**
-- Canvas: `#F5F0E8` (Cream)
+- Canvas: `#FFF7F0` (Cream)
 - Wordmark text layer: Century Schoolbook, Regular, All Small Caps (via OpenType feature)
 - Letter-spacing: 0.12em
-- Text color: `#2C2C2C`
-- Rule: Rectangle, height 0.5px, width = wordmark width, color `#6B1A1A`, positioned 8px below text baseline
+- Text color: `#1C1917`
+- Rule: Rectangle, height 0.5px, width = wordmark width, color `#490A0A`, positioned 8px below text baseline
 
 ### The Rand Diagnostic
 
@@ -114,15 +114,15 @@ The engraved nameplate on a partner's office door. The ex libris stamp inside a 
 - Letter-spacing: Standard (0em) — the two letters sit in natural relationship, not artificially spaced
 - Border: A hairline rectangular rule enclosing the "SC", leaving equal internal padding on all four sides (padding = approximately 50% of the cap-height of the "S")
 - Rule weight: 0.5pt (matching the wordmark rule weight — the same pen, the same hand)
-- Color: Mark in Burgundy `#6B1A1A`, border in Burgundy `#6B1A1A`
-- Background: Cream `#F5F0E8`
-- Alternative: Mark in Old Gold `#B8962E` on Oxford Navy `#1B2A4A` (physical collateral — engraved quality)
+- Color: Mark in Burgundy `#490A0A`, border in Burgundy `#490A0A`
+- Background: Cream `#FFF7F0`
+- Alternative: Mark in Old Gold `#E8C165` on Oxford Navy `#0F1E3A` (physical collateral — engraved quality)
 
 **Why Century Schoolbook for the monogram (not Bodoni):**
 Century Schoolbook's ball terminals and wide proportions give the "S" and "C" letterforms a weight and openness that read well at small sizes and in engraved form. Bodoni would be tempting for the high contrast aesthetic, but at small sizes the hairline strokes disappear. Century holds. The system unity is also critical — the monogram and the wordmark are the same typeface.
 
 **The Wordmark (identical to Direction A with one modification):**
-- "SECOND CHAIR" in Century Schoolbook small caps, +30 tracking, `#2C2C2C` on `#F5F0E8`
+- "SECOND CHAIR" in Century Schoolbook small caps, +30 tracking, `#1C1917` on `#FFF7F0`
 - The Burgundy 0.5pt rule below the wordmark is maintained
 
 **Combination lockup (primary):**
@@ -144,7 +144,7 @@ Century Schoolbook's ball terminals and wide proportions give the "S" and "C" le
 
 **Figma frame spec:**
 - Monogram: Text layer "SC", Century Schoolbook Regular, All Small Caps (OpenType), letter-spacing 0em
-- Border: Auto Layout frame around text, padding 50% of cap height, border 0.5px color `#6B1A1A`, fill none
+- Border: Auto Layout frame around text, padding 50% of cap height, border 0.5px color `#490A0A`, fill none
 - Combination lockup: Auto Layout, horizontal, gap = width of "S" character
 - Wordmark: Identical to Direction A spec
 
@@ -204,17 +204,17 @@ This is the register of the modern classic: the institution that knows its histo
   - Case: Title case — standard mixed case, NOT small caps. The editorial voice is not in small caps.
   - Tracking: Standard (0em — Tiempos sets beautifully at default tracking)
   - Size: This is the dominant element — set the scale here first
-  - Color: Warm Charcoal `#2C2C2C`
+  - Color: Warm Charcoal `#1C1917`
 
 - Line 2: "CHAIR" in Adobe Caslon Pro Regular
   - Case: Standard mixed case
   - Size: Approximately 50–55% of the point size of "SECOND" — this is the key proportion. The size differential must read as intentional editorial hierarchy, not inconsistency. Test: at the selected sizes, does "CHAIR" read as a subhead or as co-equal? It should read as subhead.
   - Tracking: +10–15 units (slightly more open than standard to match the weight of "SECOND" visually across the size difference)
-  - Color: Burgundy `#6B1A1A`
+  - Color: Burgundy `#490A0A`
   - Alignment: Flush-left, aligned with the left edge of the "S" in "SECOND"
 
 **The Rule:**
-- A 0.5pt Burgundy `#6B1A1A` horizontal rule
+- A 0.5pt Burgundy `#490A0A` horizontal rule
 - Position: Between "SECOND" and "CHAIR", sitting on the baseline of "SECOND"
 - Width: Exactly the width of "SECOND" (not the width of "CHAIR", not full-width — it belongs to "SECOND")
 - This rule is a descender line — it marks where the first word ends and the second begins
@@ -225,8 +225,8 @@ This is the register of the modern classic: the institution that knows its histo
 - The optical test: Stand back from the screen. "SECOND" should dominate. "CHAIR" should read as the precise institutional qualifier that earns "SECOND" the right to be large.
 
 **Color:**
-- Primary: Warm Charcoal `#2C2C2C` (SECOND) + Burgundy `#6B1A1A` (CHAIR) on Cream `#F5F0E8`
-- Secondary: Cream `#F5F0E8` (SECOND) + Old Gold `#B8962E` (CHAIR) on Warm Charcoal `#2C2C2C` or Oxford Navy `#1B2A4A`
+- Primary: Warm Charcoal `#1C1917` (SECOND) + Burgundy `#490A0A` (CHAIR) on Cream `#FFF7F0`
+- Secondary: Cream `#FFF7F0` (SECOND) + Old Gold `#E8C165` (CHAIR) on Warm Charcoal `#1C1917` or Oxford Navy `#0F1E3A`
 
 **Monogram reduction for Direction C:**
 - This direction is the least straightforward to reduce to a favicon/app mark
@@ -234,11 +234,11 @@ This is the register of the modern classic: the institution that knows its histo
 - Recommendation: Option 2 (single "S" in Tiempos Bold) for its simplicity and distinctive letterform
 
 **Figma frame spec:**
-- Layer 1 (SECOND): Text layer, Tiempos Headline Bold, standard case, 0em letter-spacing, `#2C2C2C`
-- Layer 2 (CHAIR): Text layer, Adobe Caslon Pro Regular, standard case, letter-spacing 0.04em, `#6B1A1A`, flush left to "S"
-- Layer 3 (Rule): Rectangle, 0.5px height, width = bounding box of "SECOND" text layer, `#6B1A1A`, positioned on baseline of SECOND layer
+- Layer 1 (SECOND): Text layer, Tiempos Headline Bold, standard case, 0em letter-spacing, `#1C1917`
+- Layer 2 (CHAIR): Text layer, Adobe Caslon Pro Regular, standard case, letter-spacing 0.04em, `#490A0A`, flush left to "S"
+- Layer 3 (Rule): Rectangle, 0.5px height, width = bounding box of "SECOND" text layer, `#490A0A`, positioned on baseline of SECOND layer
 - Frame: Auto Layout vertical, gap = 4px, left-aligned
-- Canvas: `#F5F0E8`
+- Canvas: `#FFF7F0`
 
 **Font sourcing:**
 - Tiempos Headline: Available at klim.co.nz — Klim Type Foundry, Bold weight

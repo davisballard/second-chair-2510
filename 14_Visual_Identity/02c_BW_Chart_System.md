@@ -1,4 +1,4 @@
-# Second Chair — B&W Editorial Chart System
+﻿# Second Chair — B&W Editorial Chart System
 *March 2026 | Massimo Vignelli (lead) | Graham Fink (art direction)*
 
 ---
@@ -11,9 +11,9 @@ The prestige publications that constitute Second Chair's visual reference world 
 
 The monochrome system is also the correct system for the cream-paper world. Color sits differently on cream than on white — it muddles, it warms, it loses precision. Black and gray on cream is sharp. It is the relationship the prestige law publication and the quality annual report have used for a century because it is correct.
 
-**Single color accent (Oxblood Burgundy `#6B1A1A`) is permitted and strategically important.** It is used the way The Economist uses its signature red: one element, maximum contrast, making the critical reading unavoidable. Nothing else.
+**Single color accent (Oxblood Burgundy `#490A0A`) is permitted and strategically important.** It is used the way The Economist uses its signature red: one element, maximum contrast, making the critical reading unavoidable. Nothing else.
 
-**Old Gold (`#B8962E`) is permanently excluded from all chart and document contexts.** See gold exclusion section.
+**Old Gold (`#E8C165`) is permanently excluded from all chart and document contexts.** See gold exclusion section.
 
 ---
 
@@ -72,22 +72,22 @@ Before digital, editorial designers differentiated chart series using adhesive p
 
 ## THE TONAL LADDER — 6 STOPS
 
-All tones are warm-cast, not neutral grey. On cream stock (`#F5F0E8`), neutral grey appears cool and disconnected. Warm grey harmonizes with the paper and reads as print ink at various densities. These values are calibrated for screen display; for print, verify against press proof on Crane Lettra or equivalent cream stock.
+All tones are warm-cast, not neutral grey. On cream stock (`#FFF7F0`), neutral grey appears cool and disconnected. Warm grey harmonizes with the paper and reads as print ink at various densities. These values are calibrated for screen display; for print, verify against press proof on Crane Lettra or equivalent cream stock.
 
 Print black is never `#000000`. Pure black on cream stock is harsh and reads as digital, not print.
 
 | Stop | Name | Hex | Use |
 |---|---|---|---|
-| 1 | Print Black | `#2C2C2C` | Primary series fill, chart borders, axis lines, all type |
+| 1 | Print Black | `#1C1917` | Primary series fill, chart borders, axis lines, all type |
 | 2 | 75% Tone | `#4D4845` | Secondary solid series, heavy emphasis fills |
 | 3 | 50% Tone | `#7A736E` | Tertiary series, supporting data, reference marks |
 | 4 | 25% Tone | `#B5ADA8` | Background fills, non-highlighted bars, reference bands |
 | 5 | 10% Tone | `#DDD8D3` | Very light backgrounds, subtle reference zones, alternating table rows |
-| 6 | Paper | `#F5F0E8` | Ground. The "white" of this system. Never replaced with pure white. |
+| 6 | Paper | `#FFF7F0` | Ground. The "white" of this system. Never replaced with pure white. |
 
 ### How the Tonal Ladder Works in Practice
 
-**Two-series chart:** Series A in Print Black `#2C2C2C` solid. Series B in 25% Tone `#B5ADA8` solid.
+**Two-series chart:** Series A in Print Black `#1C1917` solid. Series B in 25% Tone `#B5ADA8` solid.
 
 **Three-series chart:** Print Black / 50% Tone / 25% Tone. Or: Oxblood (featured series) / Print Black / 50% Tone.
 
@@ -103,16 +103,16 @@ Print black is never `#000000`. Pure black on cream stock is harsh and reads as 
 
 Used when tonal differentiation is insufficient — typically at four or more categorical series, or when a chart must be legible when photocopied or printed in pure black-and-white (removing even the tonal differentiation).
 
-Patterns always use Print Black `#2C2C2C` ink on Paper `#F5F0E8` ground, or on the relevant tone fill as background.
+Patterns always use Print Black `#1C1917` ink on Paper `#FFF7F0` ground, or on the relevant tone fill as background.
 
 | Pattern | Name | Description | SVG/CSS Reference | Zip-a-Tone Equivalent |
 |---|---|---|---|---|
-| P1 | Solid | 100% fill, no pattern | `fill: #2C2C2C` | 100% screen |
+| P1 | Solid | 100% fill, no pattern | `fill: #1C1917` | 100% screen |
 | P2 | Horizontal Rule | Horizontal lines, 3px spacing, 0.75px weight | SVG `pattern` — see below | Zip 62-8 |
 | P3 | Diagonal Rule | 45° diagonal lines, 3px spacing, 0.75px weight | SVG `pattern` — see below | Zip 60-8 |
 | P4 | Crosshatch | Horizontal + vertical, 4px spacing, 0.5px weight | SVG `pattern` — see below | Zip 64-5 |
 | P5 | Dot Screen | Circular dots, ~25% coverage, 4px grid | SVG `pattern` — see below | Zip 30-25 |
-| P6 | Open | Paper ground only, 1px Print Black border | `fill: #F5F0E8; stroke: #2C2C2C; stroke-width: 1` | Open |
+| P6 | Open | Paper ground only, 1px Print Black border | `fill: #FFF7F0; stroke: #1C1917; stroke-width: 1` | Open |
 
 ### SVG Pattern Definitions
 
@@ -121,25 +121,25 @@ These can be dropped directly into SVG chart elements or referenced via CSS.
 ```svg
 <!-- P2: Horizontal Rule -->
 <pattern id="sc-p2-horizontal" patternUnits="userSpaceOnUse" width="6" height="3">
-  <line x1="0" y1="1.5" x2="6" y2="1.5" stroke="#2C2C2C" stroke-width="0.75"/>
+  <line x1="0" y1="1.5" x2="6" y2="1.5" stroke="#1C1917" stroke-width="0.75"/>
 </pattern>
 
 <!-- P3: Diagonal Rule -->
 <pattern id="sc-p3-diagonal" patternUnits="userSpaceOnUse" width="4" height="4">
-  <line x1="0" y1="4" x2="4" y2="0" stroke="#2C2C2C" stroke-width="0.75"/>
-  <line x1="-1" y1="1" x2="1" y2="-1" stroke="#2C2C2C" stroke-width="0.75"/>
-  <line x1="3" y1="5" x2="5" y2="3" stroke="#2C2C2C" stroke-width="0.75"/>
+  <line x1="0" y1="4" x2="4" y2="0" stroke="#1C1917" stroke-width="0.75"/>
+  <line x1="-1" y1="1" x2="1" y2="-1" stroke="#1C1917" stroke-width="0.75"/>
+  <line x1="3" y1="5" x2="5" y2="3" stroke="#1C1917" stroke-width="0.75"/>
 </pattern>
 
 <!-- P4: Crosshatch -->
 <pattern id="sc-p4-crosshatch" patternUnits="userSpaceOnUse" width="5" height="5">
-  <line x1="0" y1="2.5" x2="5" y2="2.5" stroke="#2C2C2C" stroke-width="0.5"/>
-  <line x1="2.5" y1="0" x2="2.5" y2="5" stroke="#2C2C2C" stroke-width="0.5"/>
+  <line x1="0" y1="2.5" x2="5" y2="2.5" stroke="#1C1917" stroke-width="0.5"/>
+  <line x1="2.5" y1="0" x2="2.5" y2="5" stroke="#1C1917" stroke-width="0.5"/>
 </pattern>
 
 <!-- P5: Dot Screen -->
 <pattern id="sc-p5-dots" patternUnits="userSpaceOnUse" width="4" height="4">
-  <circle cx="2" cy="2" r="0.9" fill="#2C2C2C"/>
+  <circle cx="2" cy="2" r="0.9" fill="#1C1917"/>
 </pattern>
 ```
 
@@ -155,7 +155,7 @@ These can be dropped directly into SVG chart elements or referenced via CSS.
 
 ## OXBLOOD ACCENT — RULES OF USE
 
-`#6B1A1A` is the single permitted color accent in the B&W editorial chart system. It functions identically to The Economist's red: one element per chart, maximum intentionality, the critical reading made unavoidable.
+`#490A0A` is the single permitted color accent in the B&W editorial chart system. It functions identically to The Economist's red: one element per chart, maximum intentionality, the critical reading made unavoidable.
 
 ### Permitted Uses
 
@@ -174,17 +174,17 @@ These can be dropped directly into SVG chart elements or referenced via CSS.
 - **Never on two elements in the same chart** — one use per exhibit, maximum
 - **Never for decorative rules** — only structural rules that separate actual sections
 - **Never at reduced opacity** — no oxblood at 30% or 50% transparency. Use a tone from the tonal ladder instead.
-- **Never on a colored background** — oxblood only appears against Cream `#F5F0E8` or Print Black `#2C2C2C` reversal
+- **Never on a colored background** — oxblood only appears against Cream `#FFF7F0` or Print Black `#1C1917` reversal
 
 ---
 
 ## GOLD EXCLUSION — PERMANENT, WITH RATIONALE
 
-**Old Gold `#B8962E` is excluded from all chart, document, screen, and exhibit contexts. This is not a preference — it is a contrast and authenticity failure.**
+**Old Gold `#E8C165` is excluded from all chart, document, screen, and exhibit contexts. This is not a preference — it is a contrast and authenticity failure.**
 
 ### Contrast Failure
 
-`#B8962E` on `#F5F0E8` (cream background) produces a contrast ratio of approximately **1.6:1**. WCAG AA requires 4.5:1 for normal text, 3:1 for large text. At 1.6:1, gold on cream is nearly invisible — a thin rule or small label in gold on cream disappears. The colors are too close in lightness.
+`#E8C165` on `#FFF7F0` (cream background) produces a contrast ratio of approximately **1.6:1**. WCAG AA requires 4.5:1 for normal text, 3:1 for large text. At 1.6:1, gold on cream is nearly invisible — a thin rule or small label in gold on cream disappears. The colors are too close in lightness.
 
 ### Authenticity Failure
 
@@ -231,28 +231,28 @@ HOW MANY CATEGORICAL SERIES?
 
 | Element | Spec |
 |---|---|
-| X-axis rule | Print Black `#2C2C2C`, 0.75pt |
-| Y-axis rule | Print Black `#2C2C2C`, 0.75pt |
+| X-axis rule | Print Black `#1C1917`, 0.75pt |
+| Y-axis rule | Print Black `#1C1917`, 0.75pt |
 | Top / right axis | None (open chart, Tufte convention) |
 | Horizontal grid lines | 10% Tone `#DDD8D3`, 0.5pt, at labeled y-values only |
 | Vertical grid lines | None (except time-series with meaningful interval marks) |
-| Axis labels | Söhne Regular, 8pt, Warm Grey `#8C8680`, aligned to axis |
+| Axis labels | Söhne Regular, 8pt, Warm Grey `#6E6862`, aligned to axis |
 | Chart title | Tiempos Headline Bold or Caslon Pro Bold — states the conclusion |
 | Exhibit label | "EXHIBIT N:" Caslon Pro small caps, 8pt, Warm Grey, above title |
-| Source line | Caslon Pro small caps or Söhne, 7pt, Warm Grey OR oxblood `#6B1A1A` |
+| Source line | Caslon Pro small caps or Söhne, 7pt, Warm Grey OR oxblood `#490A0A` |
 | Data labels | Direct on bars/points — Söhne Regular 7–8pt. No floating legend. |
 
 ### Table Grammar
 
 | Element | Spec |
 |---|---|
-| Header rule | Print Black `#2C2C2C`, 1pt, full width |
+| Header rule | Print Black `#1C1917`, 1pt, full width |
 | Header type | Caslon Pro small caps or Söhne, 8pt, Print Black, centered or left-aligned |
 | Row rules | 10% Tone `#DDD8D3`, 0.5pt, between all rows |
 | Column rules | None |
 | Alternating rows | Optional: 10% Tone `#DDD8D3` fill on alternate rows for wide tables |
 | Body type | Caslon Pro Regular 9pt or Söhne Regular 8pt |
-| Emphasized cell | Oxblood type `#6B1A1A` — one cell per table maximum |
+| Emphasized cell | Oxblood type `#490A0A` — one cell per table maximum |
 | Footer / source | Caslon Pro small caps, 7pt, Warm Grey |
 
 ---
@@ -262,13 +262,13 @@ HOW MANY CATEGORICAL SERIES?
 ### Color Styles to Create
 
 ```
-SC/Chart/PrintBlack      #2C2C2C
+SC/Chart/PrintBlack      #1C1917
 SC/Chart/Tone75          #4D4845
 SC/Chart/Tone50          #7A736E
 SC/Chart/Tone25          #B5ADA8
 SC/Chart/Tone10          #DDD8D3
-SC/Chart/Paper           #F5F0E8
-SC/Chart/OxbloodAccent   #6B1A1A
+SC/Chart/Paper           #FFF7F0
+SC/Chart/OxbloodAccent   #490A0A
 ```
 
 ### Pattern Components
@@ -303,13 +303,13 @@ Use these as fill overrides on chart bar/area components.
 ```
 SECOND CHAIR B&W CHART SYSTEM — QUICK REFERENCE
 
-TONES (warm-cast, all on cream #F5F0E8):
-  Print Black  #2C2C2C   Primary series, type, axes
+TONES (warm-cast, all on cream #FFF7F0):
+  Print Black  #1C1917   Primary series, type, axes
   75% Tone     #4D4845   Secondary solid series
   50% Tone     #7A736E   Tertiary series
   25% Tone     #B5ADA8   Supporting/background fills
   10% Tone     #DDD8D3   Grid lines, subtle reference zones
-  Paper        #F5F0E8   Ground color — the cream
+  Paper        #FFF7F0   Ground color — the cream
 
 PATTERNS (use at 4+ series, for accessibility):
   P1  Solid             Primary
@@ -320,9 +320,9 @@ PATTERNS (use at 4+ series, for accessibility):
   P6  Open (paper)      Senary / reference
 
 ACCENT (one use per chart, maximum):
-  Oxblood  #6B1A1A    Bar cap / featured series / key callout / section rule
+  Oxblood  #490A0A    Bar cap / featured series / key callout / section rule
 
 EXCLUDED PERMANENTLY:
-  Gold  #B8962E   Contrast failure on cream + authenticity failure — physical material only
+  Gold  #E8C165   Contrast failure on cream + authenticity failure — physical material only
   Any other color from the brand palette or data palette in this context
 ```

@@ -1,4 +1,4 @@
-# Film & Television Production Design Research
+﻿# Film & Television Production Design Research
 ## Second Chair — The Visual World of Prestige Law (1986–1995)
 
 **Research Lead:** Graham Fink, Senior Art Director
@@ -250,10 +250,10 @@ In Wall Street, the law firm scenes — primarily the conference rooms and attor
 | Element | Consistent Color | Hex Approximation |
 |---|---|---|
 | Walls | Warm off-white to warm ivory | `#E0D8CC` to `#E8DDD5` |
-| Carpet | Deep burgundy or warm neutral grey | `#7A3535` or `#8C8680` |
+| Carpet | Deep burgundy or warm neutral grey | `#7A3535` or `#6E6862` |
 | Mahogany (desk, table, shelving) | Deep warm brown | `#2A1205` to `#3D1C0C` |
 | Leather chairs | Oxblood or dark green | `#4A2020` or `#1E3A20` |
-| Law reporter spines | Burgundy + gold or forest green + gold | `#7B1E1E` / `#1E4D2B` + `#B8962E` |
+| Law reporter spines | Burgundy + gold or forest green + gold | `#7B1E1E` / `#163A21` + `#E8C165` |
 | Brass fixtures | Aged brass | `#B08030` |
 | Light temperature | Warm amber incandescent | 2700–3000K |
 

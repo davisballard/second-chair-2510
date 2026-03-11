@@ -1,4 +1,4 @@
-# Three Cs Master Synthesis
+﻿# Three Cs Master Synthesis
 ## Second Chair — What It All Means for the Business
 
 **Prepared for:** Second Chair Founding Team
@@ -143,7 +143,7 @@ Byron Sharp's insight: marketing must be mapped to specific trigger moments when
 ### Visual Identity and Brand Expression
 - Second Chair should look like a creative agency that happens to generate leads — not a lead company that happens to do creative. The visual difference from every competitor should be immediate and unignorable.
 - The category's visual language (navy blue, stat banners, stock lawyer photography, anonymous testimonials) is the explicit reference for what Second Chair is not.
-- The visual system researched for Second Chair — 1986–1995 prestige legal aesthetic, Century Schoolbook, cream (#F5F0E8), Burgundy (#6B1A1A), Gold (#B8962E) — positions the brand in the visual grammar of institutional authority, which is exactly the register the Creative Advantage claim requires.
+- The visual system researched for Second Chair — 1986–1995 prestige legal aesthetic, Century Schoolbook, cream (#FFF7F0), Burgundy (#490A0A), Gold (#E8C165) — positions the brand in the visual grammar of institutional authority, which is exactly the register the Creative Advantage claim requires.
 
 ### What Session 04 (Company) Must Verify
 

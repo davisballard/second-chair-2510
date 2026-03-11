@@ -1,4 +1,4 @@
-# Distinctive Asset Candidates
+﻿# Distinctive Asset Candidates
 ## Second Chair — Track 2 Synthesis
 
 **Research Lead:** Byron Sharp, Brand Growth Scientist
@@ -38,7 +38,7 @@ This is the window. The prestige legal aesthetic is available territory right no
 - Typeface: Century Schoolbook Pro (or ATF Century Schoolbook) with true optical small caps
 - Application: All-small-caps for "SECOND CHAIR" — not mixed case, not full caps, not italic
 - Size: To be determined by the wordmark development phase, but the small caps height should be approximately 60–65% of the surrounding full cap height
-- Color: Warm charcoal `#2C2C2C` on cream `#F5F0E8` for primary application; reversed (cream on burgundy or cream on navy) for cases requiring a dark background
+- Color: Warm charcoal `#1C1917` on cream `#FFF7F0` for primary application; reversed (cream on burgundy or cream on navy) for cases requiring a dark background
 - Tracking: Slightly positive — approximately +30 units in the type system — to give the small caps appropriate presence without crowding
 - Weight: Regular (not bold) — the authority comes from the letterform, not from weight
 
@@ -58,7 +58,7 @@ This is the window. The prestige legal aesthetic is available territory right no
 ### CANDIDATE 2: The Cream Background as Primary Brand Field
 **Priority: Highest**
 
-**What it is:** The consistent use of `#F5F0E8` (or the calibrated equivalent after physical paper matching) as the primary background color across all Second Chair digital and physical touchpoints.
+**What it is:** The consistent use of `#FFF7F0` (or the calibrated equivalent after physical paper matching) as the primary background color across all Second Chair digital and physical touchpoints.
 
 **Why this is a primary candidate:**
 1. **Uniqueness:** The competitive audit confirmed that every PI lead gen competitor uses white or light grey as their primary background. The warm cream is completely unclaimed.
@@ -66,7 +66,7 @@ This is the window. The prestige legal aesthetic is available territory right no
 3. **Compound effect:** When the cream is combined with Century Schoolbook small caps and burgundy accents, the system immediately reads as legal prestige. But even in isolation — before any type or color is added — a cream background separates Second Chair from every competitor.
 
 **Consistency feasibility:**
-- Digital: The hex value must be exactly specified and enforced across all digital properties (website, email templates, presentation files, document templates). CSS variable: `--sc-cream: #F5F0E8;`
+- Digital: The hex value must be exactly specified and enforced across all digital properties (website, email templates, presentation files, document templates). CSS variable: `--sc-cream: #FFF7F0;`
 - Print: Pantone matching from physical paper reference. Recommended Pantone starting point: Pantone Warm White C (slightly cooler than target — adjust from there). Or specify paper stock (Crane Lettra Natural White) and design to the stock rather than matching to a Pantone.
 - Physical: Paper stock recommendation is the cream specification itself. The paper IS the brand standard.
 
@@ -83,7 +83,7 @@ This is the window. The prestige legal aesthetic is available territory right no
 Burgundy alone (or any dark red) is used in many contexts across many industries. What would be distinctive is the *specific way* Second Chair uses it — the precision of a 0.5pt rule on cream, the single-color-only convention in charts, the foil application on physical materials. This application convention, repeated identically across all materials, becomes recognizable as Second Chair even when the color alone is not immediately identifiable.
 
 **Specific application specifications:**
-- **As a section divider rule:** 0.5pt weight, burgundy `#6B1A1A`, spanning the full column width, above section headers. Used in all document formats: pitch decks, capability brochures, website section breaks.
+- **As a section divider rule:** 0.5pt weight, burgundy `#490A0A`, spanning the full column width, above section headers. Used in all document formats: pitch decks, capability brochures, website section breaks.
 - **As chart accent:** The only non-grey color used in any Second Chair data visualization. Highlights the primary data series, the most important data point, or the comparison element.
 - **As foil on physical covers:** Brass-tone hot foil (or Pantone 872C for offset) used exclusively for the brand name on printed covers and business cards.
 - **As small emphasis rule:** A 0.25pt burgundy rule used beneath the brand name in letterhead and formal document headers.
@@ -110,7 +110,7 @@ Easy to apply across all formats. Requires only a documentation standard specify
 
 **The specific format:**
 - "Exhibit 1:" in small caps (Century Schoolbook Pro small caps)
-- At approximately 8pt, in warm grey `#8C8680`
+- At approximately 8pt, in warm grey `#6E6862`
 - On the line above the chart title
 - Left-aligned
 - Numbered sequentially within each document

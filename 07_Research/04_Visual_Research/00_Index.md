@@ -1,4 +1,4 @@
-# Visual Research Index
+﻿# Visual Research Index
 ## Second Chair — 1986–1995 Legal Prestige Aesthetic
 
 **Project:** Second Chair Brand Visual Identity
@@ -46,7 +46,7 @@ Web-researched primary source documentation: Fonts In Use analysis, Supreme Cour
 **`02_Color/COLOR_SYSTEM_RESEARCH.md`**
 The complete color system, with each color derived from a physical object in the prestige legal world. Oxford Navy, Burgundy/Oxblood, Forest Green, Old Gold/Brass, Cream/Ivory, Warm Charcoal, Warm Grey. Includes Track 2 assessment for each color, specific hex values, Pantone starting points, paper stock recommendations, and digital application notes.
 
-**Key finding:** The specific cream (`#F5F0E8`) is the highest-priority Track 2 candidate in the color system. It is completely unclaimed by competitors and creates an immediate categorical distinction.
+**Key finding:** The specific cream (`#FFF7F0`) is the highest-priority Track 2 candidate in the color system. It is completely unclaimed by competitors and creates an immediate categorical distinction.
 
 **Key correction incorporated:** The Economist's off-white is `#F5F4F0` (slightly cooler than Second Chair's proposed cream). Both are valid — the warmer version reads as cotton-rag stationery (Second Chair's target), the cooler as newsprint stock (the Economist's target).
 

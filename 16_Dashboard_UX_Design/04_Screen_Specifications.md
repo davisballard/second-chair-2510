@@ -1,4 +1,4 @@
-# Second Chair — Screen Specifications
+﻿# Second Chair — Screen Specifications
 *Primary Dashboard View: Panel-by-Panel Figma-Ready Detail*
 *Luke Grabowski (lead) + Massimo Vignelli + Graham Fink | Session: March 2, 2026*
 
@@ -56,7 +56,7 @@ Background: --sc-screen-secondary (#E8E3DC)
   Y: 24px from sidebar top
   Width: 172px (172 = 220 - 24 - 24)
   Scale: Equivalent to ~14px type size
-  Color: --sc-charcoal (#2C2C2C)
+  Color: --sc-charcoal (#1C1917)
 
 [LOGOTYPE SEPARATOR]
   Component: Brand rule
@@ -64,7 +64,7 @@ Background: --sc-screen-secondary (#E8E3DC)
   Y: [logotype baseline + 16px]
   Width: 220px (full sidebar width)
   Height: 0.5px
-  Color: --sc-burgundy (#6B1A1A)
+  Color: --sc-burgundy (#490A0A)
 
 [NAV ITEMS — vertical list]
   Starting Y: [separator Y + 24px]
@@ -127,14 +127,14 @@ Background: --sc-screen (same as page)
   Text: "Dashboard"
   Typeface: Tiempos Headline Bold
   Size: 36px
-  Color: --sc-charcoal (#2C2C2C)
+  Color: --sc-charcoal (#1C1917)
   X: 0 (flush to content area left)
   Y: 16px from top of header
 
 [ACCOUNT INFO LINE]
   Text: "[Client Firm Name] · Account #[ID]"
   Typeface: Söhne Regular 13px
-  Color: --sc-grey-warm (#8C8680)
+  Color: --sc-grey-warm (#6E6862)
   X: 0
   Y: [page title baseline + 8px]
 
@@ -150,7 +150,7 @@ Background: --sc-screen (same as page)
   Y: 76px (bottom of header area)
   Width: full content area width
   Height: 0.5px
-  Color: --sc-burgundy (#6B1A1A)
+  Color: --sc-burgundy (#490A0A)
 ```
 
 ---
@@ -178,7 +178,7 @@ Interior padding: 24px
   Text: "EXHIBIT 1:"
   Typeface: Adobe Caslon Pro, OpenType smcp (true small caps)
   Size: 9px
-  Color: --sc-grey-warm (#8C8680)
+  Color: --sc-grey-warm (#6E6862)
   Tracking: +20
   X: 0, Y: 0
 
@@ -195,13 +195,13 @@ Interior padding: 24px
   Text: "47"
   Typeface: Tiempos Headline Bold
   Size: 80px
-  Primary face color: --sc-burgundy (#6B1A1A)
+  Primary face color: --sc-burgundy (#490A0A)
   Depth effect:
     - Duplicate text layer
     - Offset: +4px X, +3px Y
     - Color: Burgundy at -25% lightness = #3D0F0F
     - Place below primary layer
-  Shadow: Drop shadow — color #2C2C2C, opacity 15%, Y offset 2px, blur 6px
+  Shadow: Drop shadow — color #1C1917, opacity 15%, Y offset 2px, blur 6px
   X: 0, Y: [exhibit title baseline + 16px]
 
 [CONTEXT LABEL]

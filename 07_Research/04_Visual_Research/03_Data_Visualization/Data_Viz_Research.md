@@ -1,4 +1,4 @@
-# Data Visualization Research
+﻿# Data Visualization Research
 ## Second Chair — The Authority Standard for Charts, Tables, and Exhibits
 
 **Research Lead:** Massimo Vignelli, Brand Identity Designer
@@ -50,7 +50,7 @@ In the WSJ and McKinsey traditions derived from Tufte: chart titles are not desc
 **5. Data-to-ink ratio applied to color**
 Use one color for data. Use a second color only to highlight the most important element. Never use color as decoration. The Economist uses exactly one accent color (their specific red) for all highlighted data across all chart types. Everything else is rendered in black, grey, or the chart background color.
 
-*Application:* Second Chair's chart accent color is burgundy (`#6B1A1A`). All highlighted data points, critical comparisons, and emphasis elements use this single color. Background data uses warm grey. Axis lines and grid references use a lighter grey. No other colors appear in charts.
+*Application:* Second Chair's chart accent color is burgundy (`#490A0A`). All highlighted data points, critical comparisons, and emphasis elements use this single color. Background data uses warm grey. Axis lines and grid references use a lighter grey. No other colors appear in charts.
 
 ---
 
@@ -89,7 +89,7 @@ The Economist's data journalism in this era was consistently excellent and is av
 
 **The single accent color rule:** Every highlighted data element — the current year's bar in a historical comparison, the focal country in a geographic comparison — uses Economist red. Everything else is in grey. This single-color discipline is what makes the Economist's charts immediately recognizable.
 
-*Application for Second Chair:* Replace Economist red with Second Chair burgundy (`#6B1A1A`). Every chart uses exactly this convention: highlighted elements in burgundy, supporting elements in warm grey, text in warm charcoal.
+*Application for Second Chair:* Replace Economist red with Second Chair burgundy (`#490A0A`). Every chart uses exactly this convention: highlighted elements in burgundy, supporting elements in warm grey, text in warm charcoal.
 
 **Chart titles as headlines:** The Economist writes chart titles as journalistic headlines — complete sentences that state the analytical point. "Oil production has outpaced demand for the third consecutive quarter." "Smaller firms in the study show consistently higher case acceptance rates."
 
@@ -159,11 +159,11 @@ Fortune magazine's annual Fortune 500 ranking tables are among the most sophisti
 Based on the research above, the recommended conventions for Second Chair's data exhibits:
 
 ### Color Rules
-- Highlighted/featured data: Burgundy `#6B1A1A`
-- Supporting data: Warm Grey `#8C8680`
+- Highlighted/featured data: Burgundy `#490A0A`
+- Supporting data: Warm Grey `#6E6862`
 - Axis lines and fine rules: `#C8C4C0` (lighter warm grey)
-- Background: Cream `#F5F0E8` or white — never a colored chart background
-- Text: Warm Charcoal `#2C2C2C`
+- Background: Cream `#FFF7F0` or white — never a colored chart background
+- Text: Warm Charcoal `#1C1917`
 
 ### Typography Rules
 - All chart labels, axes, and captions: Same typeface as body text (Adobe Caslon Pro at 8–9pt)
@@ -181,7 +181,7 @@ Based on the research above, the recommended conventions for Second Chair's data
 
 ### Table Rules
 - Fine horizontal rules at `#C8C4C0`, 0.25pt
-- Heavier section dividers at `#8C8680`, 0.5pt
+- Heavier section dividers at `#6E6862`, 0.5pt
 - Column headers in small caps
 - Numbers right-aligned, text left-aligned
 - Total rows indicated by double rules below the total, not by bold type

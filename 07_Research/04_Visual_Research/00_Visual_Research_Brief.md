@@ -1,4 +1,4 @@
-# Second Chair: Visual Research & Creative Direction Brief
+﻿# Second Chair: Visual Research & Creative Direction Brief
 ### The Integrated Case for Legal Prestige — 1986–1995
 
 **Team:** Nigel Bogle (routing) · Julian Cole (strategy) · Jon Steel (narrative) · John Hegarty (creative territory) · Massimo Vignelli (visual systems) · Graham Fink (art direction) · Richard Shotton (behavioral science) · Byron Sharp (growth science)
@@ -112,13 +112,13 @@ Professional DTP at its peak produced annual reports, capabilities brochures, an
 
 | Color | Hex | Where It Came From | How It Was Used |
 |---|---|---|---|
-| Oxford Navy | `#1B2A4A` | Brooks Brothers suits, law firm lobby color schemes, American Express card | Primary — on cream, never as a background behind white type |
-| Burgundy / Oxblood | `#6B1A1A` | West Law Reporter spines (General Federal), Harvard Law Review binding, partner chair leather | Alternative primary — tradition, earned authority |
-| Forest Green | `#1E4D2B` | Harvard Law Review cover, West Reporter state series, legal pad color | Accent — deeply resonant, used sparingly |
-| Old Gold / Brass | `#B8962E` | Brass door placards, letterhead foiling, West Reporter spine lettering | Prestige accent only — foil, small rules, marks on dark |
-| Cream / Ivory | `#F5F0E8` | Heavy bond laid stationery, law review paper stock, cotton-rag document paper | The background — never pure white, which reads as photocopier |
-| Warm Charcoal | `#2C2C2C` | Quality printing on cream stock — pure black on cream reads printed, not photocopied | Body text |
-| Warm Grey | `#8C8680` | Marble floors, limestone courthouse exteriors, a partner's wool trousers | Secondary text, footnotes, supporting elements |
+| Oxford Navy | `#0F1E3A` | Brooks Brothers suits, law firm lobby color schemes, American Express card | Primary — on cream, never as a background behind white type |
+| Burgundy / Oxblood | `#490A0A` | West Law Reporter spines (General Federal), Harvard Law Review binding, partner chair leather | Alternative primary — tradition, earned authority |
+| Forest Green | `#163A21` | Harvard Law Review cover, West Reporter state series, legal pad color | Accent — deeply resonant, used sparingly |
+| Old Gold / Brass | `#E8C165` | Brass door placards, letterhead foiling, West Reporter spine lettering | Prestige accent only — foil, small rules, marks on dark |
+| Cream / Ivory | `#FFF7F0` | Heavy bond laid stationery, law review paper stock, cotton-rag document paper | The background — never pure white, which reads as photocopier |
+| Warm Charcoal | `#1C1917` | Quality printing on cream stock — pure black on cream reads printed, not photocopied | Body text |
+| Warm Grey | `#6E6862` | Marble floors, limestone courthouse exteriors, a partner's wool trousers | Secondary text, footnotes, supporting elements |
 
 ### The Quality Gate
 
@@ -226,7 +226,7 @@ The font alone is not the system. What made legal typography distinctive:
 - West Law Reporter volumes — Used law bookshops, $5–$10 per volume. Buy three or four from different series (burgundy-gold, green-gold). The physical spines are a color system.
 - Harvard Law Review back issues — approximately Pantone 201 C. HathiTrust for digital; physical on eBay $10–$20. Buy a physical copy — the binding and paper are part of the reference.
 
-**Track 2 note on color:** The specific cream value (`#F5F0E8` is the starting point, not the final answer) should be calibrated against physical paper samples. Pantone has paper-matching tools. The cream that becomes Second Chair's should be precise enough to be reproduced identically across digital screens, printed stock, and embossed covers. This is the work of Track 2.
+**Track 2 note on color:** The specific cream value (`#FFF7F0` is the starting point, not the final answer) should be calibrated against physical paper samples. Pantone has paper-matching tools. The cream that becomes Second Chair's should be precise enough to be reproduced identically across digital screens, printed stock, and embossed covers. This is the work of Track 2.
 
 ---
 

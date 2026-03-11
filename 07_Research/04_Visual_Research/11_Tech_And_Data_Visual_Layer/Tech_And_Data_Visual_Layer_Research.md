@@ -1,4 +1,4 @@
-# Second Chair — Intelligence Layer Visual Research
+﻿# Second Chair — Intelligence Layer Visual Research
 *The Print-to-Digital Aesthetic: What If the Best Designers of 1988 Had Modern Tools?*
 *Research Lead: Massimo Vignelli + Graham Fink | Compiled: March 1, 2026*
 
@@ -211,7 +211,7 @@ These are the design principles that emerge from the above research. They are th
 
 **03. The exhibit convention is everywhere.** Every data panel, every chart, every analytical output carries "EXHIBIT N:" in Caslon small caps. This is the single highest-value distinctive asset in the digital register.
 
-**04. One accent per surface.** Burgundy `#6B1A1A` is the single chart accent color on cream. On dark backgrounds, the extended warm palette applies (see Color System document). Never two accent colors competing for attention on the same surface.
+**04. One accent per surface.** Burgundy `#490A0A` is the single chart accent color on cream. On dark backgrounds, the extended warm palette applies (see Color System document). Never two accent colors competing for attention on the same surface.
 
 **05. Restraint as signal.** The absence of decorative elements communicates that Second Chair's confidence comes from analytical rigor, not visual distraction. No gradients, no card shadows, no rounded corners, no colored sidebars.
 

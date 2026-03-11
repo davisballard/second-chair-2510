@@ -1,4 +1,4 @@
-# Second Chair Visual Identity — Brainstorm Log
+﻿# Second Chair Visual Identity — Brainstorm Log
 *Live session capture — March 1, 2026*
 *This is the working memory document. Updated in real-time.*
 
@@ -22,7 +22,7 @@
 - NOT stark white — cream white pages fail, aged cotton-rag cream pages win
 - Physical reference: Crane Lettra 110lb — the cotton fiber visible in the letterpress macro image
 - Davis reaction: consistently drawn to aged cream over white across every test
-- CSS: `#F5F0E8` confirmed
+- CSS: `#FFF7F0` confirmed
 
 ### Wordmark Structure: Confirmed Rendering
 - The book cover images are generating "SECOND CHAIR" with correct layout
@@ -58,7 +58,7 @@ The 9-image mood board grid is the definitive brand world:
 
 ### PALETTE DECISION — Oxblood + Gold + Cream
 
-**Selected: Oxblood Burgundy `#6B1A1A` + Old Gold `#B8962E` on Cream `#F5F0E8`**
+**Selected: Oxblood Burgundy `#490A0A` + Old Gold `#E8C165` on Cream `#FFF7F0`**
 
 Strategic rationale (Davis's insight, confirmed by psychographic research):
 - Oxblood = West Federal Reporter = SCOTUS, circuits, the highest courts = what PI attorneys ACTUALLY aspire to
@@ -66,7 +66,7 @@ Strategic rationale (Davis's insight, confirmed by psychographic research):
 - Second Chair's brand position is aspirational ("grow your practice consistent with why you became a lawyer")
 - The identity must match the aspiration, not the daily reality
 - Jon Steel research: "BigLaw alums who entered PI describe BigLaw with reverence. The longing for a credential they never received."
-- Research had already identified Burgundy `#6B1A1A` as the PRIMARY distinctive asset — Forest Green was always secondary
+- Research had already identified Burgundy `#490A0A` as the PRIMARY distinctive asset — Forest Green was always secondary
 - Oxblood is completely unclaimed in the PI lead gen category
 
 Forest Green: Retained as a secondary/variant palette. Not the primary identity.
@@ -78,8 +78,8 @@ Both physical palettes need to be flipped for digital readability:
 
 | Physical | Digital equivalent | Contrast ratio |
 |---|---|---|
-| Gold on Green | Forest Green `#1E4D2B` on Cream `#F5F0E8` | 8.5:1 — AAA |
-| Gold on Oxblood | Oxblood `#6B1A1A` on Cream `#F5F0E8` | 7.4:1 — AA |
+| Gold on Green | Forest Green `#163A21` on Cream `#FFF7F0` | 8.5:1 — AAA |
+| Gold on Oxblood | Oxblood `#490A0A` on Cream `#FFF7F0` | 7.4:1 — AA |
 
 Both work on web when inverted. The gold rule stays decorative in both digital versions.
 

@@ -1,4 +1,4 @@
-# Adjacent Brand References Research
+﻿# Adjacent Brand References Research
 ## Second Chair — Finance, Consulting, and Institutional Brands (1986–1995)
 
 **Research Lead:** Graham Fink, Senior Art Director
@@ -233,7 +233,7 @@ In this era, the senior partner's business card was:
 The most important physical object in the entire reference library:
 - Format: approximately 8.5" × 11" × 2" (the specific dimensions vary by series volume)
 - Spine: the most visually important surface
-  - Field color: Burgundy (`#6B1A1A`) for Federal series, Forest Green (`#1E4D2B`) for state series
+  - Field color: Burgundy (`#490A0A`) for Federal series, Forest Green (`#163A21`) for state series
   - Spine lettering: Gold foil, embossed, in Century (confirmed)
   - Lettering format: "FEDERAL REPORTER" in full caps at top; volume number in large numerals in the middle; "2D SERIES" below; year range at the bottom
 - The physical weight of the volume: approximately 4–5 pounds. The weight is part of the experience — these are authoritative objects because they are substantial.

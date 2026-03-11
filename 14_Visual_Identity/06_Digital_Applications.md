@@ -1,4 +1,4 @@
-# Second Chair — Digital Applications: The Intelligence Register
+﻿# Second Chair — Digital Applications: The Intelligence Register
 *The Second Register: Screens, Dashboards, Data, and Digital Product*
 *Massimo Vignelli (systems) + Graham Fink (art direction) | March 1, 2026*
 
@@ -50,12 +50,12 @@ Before specifications: what this system explicitly is not.
 ### 01 — SCREEN BACKGROUNDS
 
 **Primary screen surface:** `#F0EBE3`
-A slightly cooler, slightly more neutral version of Cream `#F5F0E8`. Warm cast without being too amber for sustained screen reading. Distinguishable from pure white (`#FFFFFF`) — which reads as blank, digital, default — and from full cream — which can feel heavy on backlit screens at standard brightness.
+A slightly cooler, slightly more neutral version of Cream `#FFF7F0`. Warm cast without being too amber for sustained screen reading. Distinguishable from pure white (`#FFFFFF`) — which reads as blank, digital, default — and from full cream — which can feel heavy on backlit screens at standard brightness.
 
 **Secondary screen surface (panels, sidebars):** `#E8E3DC`
 One step darker and cooler than primary. Used for sidebar panels, secondary content areas, modal backgrounds. Creates gentle surface hierarchy without introducing a new color.
 
-**Inverse surface (dark panels, high-contrast moments):** `#2C2C2C`
+**Inverse surface (dark panels, high-contrast moments):** `#1C1917`
 Warm Charcoal — the same as the primary text color. When a dark surface is needed (a header bar, a modal overlay, a data panel in high-contrast mode), it uses Warm Charcoal — not pure black, not a navy, not a dark grey. The continuity is intentional: the same value that makes type on cream reads as warm and quality makes a dark panel feel considered rather than harsh.
 
 **Background never:** `#FFFFFF` pure white, `#000000` pure black, any blue-grey, any cool neutral.
@@ -124,7 +124,7 @@ The single most important distinctive asset in the digital register. Every data 
 | Typeface | Adobe Caslon Pro |
 | Style | True optical small caps (never CSS `font-variant: small-caps` on scaled caps) |
 | Size | 8–9px on screen; 7–8pt in print |
-| Color | Warm Grey `#8C8680` |
+| Color | Warm Grey `#6E6862` |
 | Position | Top-left of the exhibit/panel, above the exhibit title |
 | Tracking | +20 |
 | Numbering | Sequential within a report/session; resets per document |
@@ -132,7 +132,7 @@ The single most important distinctive asset in the digital register. Every data 
 **Exhibit title line (below the label):**
 - Typeface: Adobe Caslon Pro Regular Italic
 - Size: 14–16px
-- Color: Warm Charcoal `#2C2C2C`
+- Color: Warm Charcoal `#1C1917`
 - Content: The conclusion, not the subject. "Cost per signed case declined 23% in Q4" not "CPSC Performance."
 
 **Why this works:**
@@ -162,9 +162,9 @@ Every chart title states the finding, not the subject. "Cost per signed case dec
 Data values labeled directly on or immediately adjacent to the data element. No floating legend boxes — the series colors are distinct enough to be identified from a color key at the bottom of the chart (Caslon small caps, 8pt, inline). No color key tables that require the eye to travel off-chart to understand the data.
 
 **03 — Full categorical palette for multi-series charts.**
-Single-series charts: Burgundy `#6B1A1A` as the primary accent — unchanged.
-Multi-series charts: Use the 6-series categorical palette in order (Burgundy → Forest Blue → Success Green → Amber → Warm Teal → Terracotta). Series 1 is always the most important or primary data series. Maximum 6 series per chart; group overflow as "Other" in Warm Grey `#8C8680`.
-Status/performance charts: Success Green `#2A6B3C` = positive, Burgundy `#6B1A1A` = negative, Amber `#C9943A` = pending — universal conventions honored.
+Single-series charts: Burgundy `#490A0A` as the primary accent — unchanged.
+Multi-series charts: Use the 6-series categorical palette in order (Burgundy → Forest Blue → Success Green → Amber → Warm Teal → Terracotta). Series 1 is always the most important or primary data series. Maximum 6 series per chart; group overflow as "Other" in Warm Grey `#6E6862`.
+Status/performance charts: Success Green `#2A6B3C` = positive, Burgundy `#490A0A` = negative, Amber `#C9943A` = pending — universal conventions honored.
 
 **04 — Structure from rules and borders, not from decoration.**
 No gridlines except a single 0.5px baseline at zero. No rounded corners on bars. Chart panels sit inside thick 2pt rule borders (see Dimensional Treatments below) — the border frames the chart as an object with presence. Color communicates meaning; rule weight communicates structure; dimensional form communicates importance. These jobs do not overlap.
@@ -190,7 +190,7 @@ The test before any dimensional treatment: does it read as *designed on purpose*
 Bar charts are rendered in isometric 3D projection. Each bar is a rectangular prism with three visible faces — not a flat rectangle with a highlight.
 
 - **Projection angle:** 30-degree isometric (true isometric, not a perspective distortion)
-- **Front face:** The primary color of the series (e.g., Burgundy `#6B1A1A` for Series 1)
+- **Front face:** The primary color of the series (e.g., Burgundy `#490A0A` for Series 1)
 - **Top face:** The primary color at +20% lightness — this is the face that catches "light"
 - **Side face (right):** The primary color at -25% lightness — this is the shadow face
 - **Bar width:** Each bar occupies 60% of its column slot; 40% is spacing
@@ -209,7 +209,7 @@ Pie charts are rendered as physical disk objects with visible edge depth — not
 - **Disk height:** 12–16px of visible edge depth below the flat face of the pie
 - **Face:** The pie slices in their full categorical colors on the flat top surface
 - **Edge:** Each slice's edge in that color at -30% lightness — the shadow side of the disk
-- **Drop shadow:** 20% opacity warm shadow (color: `#2C2C2C`) at 4px Y offset, 12px blur beneath the entire disk — lifts the chart off the surface
+- **Drop shadow:** 20% opacity warm shadow (color: `#1C1917`) at 4px Y offset, 12px blur beneath the entire disk — lifts the chart off the surface
 - **Highlighted/exploded slice:** The primary slice (the most important data point) is offset 10px outward from the center, with a visible gap to the rest of the disk
 - **Donut variant:** A 40% inner radius version of the above — the donut hole shows the screen surface color (`#F0EBE3`), and a single hero number (the total or primary metric) sits centered inside in Tiempos Headline Bold at 28–36px
 
@@ -222,10 +222,10 @@ The disk form is how Nigel Holmes and Fortune Magazine rendered pies in the 1980
 Featured single-metric callouts (the most important number on the dashboard) are rendered with dimensional depth — the number appears to have physical material and presence.
 
 - **Depth treatment:** The numeral is rendered with a side face and bottom face at -25% lightness of the number color, offset 3–4px right and down from the main face
-- **Main face color:** Series 1 Burgundy `#6B1A1A` or Success Green `#2A6B3C` depending on metric type
-- **Shadow:** 15% opacity warm shadow, 2px Y offset, 6px blur, `#2C2C2C`
+- **Main face color:** Series 1 Burgundy `#490A0A` or Success Green `#2A6B3C` depending on metric type
+- **Shadow:** 15% opacity warm shadow, 2px Y offset, 6px blur, `#1C1917`
 - **Size:** 64–96px Tiempos Headline Bold — the number is the largest element on the screen
-- **Context label:** Caslon Pro small caps, 10pt, Warm Grey `#8C8680`, beneath the number — "COST PER SIGNED CASE" or "LEADS SIGNED THIS MONTH"
+- **Context label:** Caslon Pro small caps, 10pt, Warm Grey `#6E6862`, beneath the number — "COST PER SIGNED CASE" or "LEADS SIGNED THIS MONTH"
 - **Supporting micro-data:** Caslon Pro 12pt below the context label — trend direction, period comparison, delta percentage
 
 This is the equivalent of a magazine cover number — the stat that an attorney photographs and sends to their partner. It has presence because it is designed to have presence.
@@ -236,7 +236,7 @@ This is the equivalent of a magazine cover number — the stat that an attorney 
 
 Every chart element sits inside a thick rule-bordered panel. This is the frame that makes the dashboard read as a collection of designed objects, not a grid of floating data elements.
 
-- **Border weight:** 2pt (2px) Warm Charcoal `#2C2C2C` — the same color as primary text
+- **Border weight:** 2pt (2px) Warm Charcoal `#1C1917` — the same color as primary text
 - **Border style:** Solid rule, no radius (no rounded corners)
 - **Interior padding:** 24px on all sides between the border and the chart content
 - **Exhibit label position:** Inside the panel, top-left, 8px from the top border — the "EXHIBIT N:" label sits inside the frame, not above it
@@ -291,13 +291,13 @@ The area around a data exhibit communicates that the exhibit is what matters. Mi
 ### 06 — INTERACTIVE STATES AND MOTION
 
 **Hover states:**
-- Text links: Color shift from Charcoal `#2C2C2C` to Burgundy `#6B1A1A`. No underline added (underline is not part of the typographic system).
-- Button hover: Background shifts from Charcoal `#2C2C2C` to Navy `#1B2A4A`. Transition: 150ms ease-out. No scale change, no shadow addition.
+- Text links: Color shift from Charcoal `#1C1917` to Burgundy `#490A0A`. No underline added (underline is not part of the typographic system).
+- Button hover: Background shifts from Charcoal `#1C1917` to Navy `#0F1E3A`. Transition: 150ms ease-out. No scale change, no shadow addition.
 - Table rows: Background shifts from transparent to Amber Pale `#F2E4C0`. Subtle, warm, deliberate.
 - Data bars: Opacity shift to 80% on hover of adjacent non-selected bars. The selected bar remains at 100%.
 
 **Focus states (accessibility):**
-- A 2px Burgundy `#6B1A1A` outline, 2px offset. Visible and on-brand. Never the browser default blue focus ring.
+- A 2px Burgundy `#490A0A` outline, 2px offset. Visible and on-brand. Never the browser default blue focus ring.
 
 **Motion profile:**
 - Duration: 100–200ms for UI transitions (hover, state changes)
@@ -307,7 +307,7 @@ The area around a data exhibit communicates that the exhibit is what matters. Mi
 - No color-to-color transitions between brand colors — transitions are opacity and position changes, not color blends
 
 **Loading states:**
-- A thin 1px Burgundy `#6B1A1A` progress line at the top of the loading area — the same rule weight as the brand rule, animated
+- A thin 1px Burgundy `#490A0A` progress line at the top of the loading area — the same rule weight as the brand rule, animated
 - No spinner icons with rounded corners, no pulsing skeleton screens with blue gradients
 - If a skeleton screen is functionally necessary: a subtle opacity pulse (60–100%) on the surface color `#F0EBE3` — the surface itself breathes, no colored skeleton elements
 
@@ -334,16 +334,16 @@ The texture file: a 200×200px tileable PNG of the Crane Lettra grain, exported 
 **Rule weights (locked, no exceptions):**
 | Rule | Weight | Color |
 |---|---|---|
-| Brand rule (letterhead, cards, section dividers, chart dividers) | 0.5pt / 1px | Burgundy `#6B1A1A` |
-| Table column separator | 0.25pt / 0.5px | Warm Grey `#8C8680` |
-| Table total row | Double 0.25pt, 2px apart | Warm Grey `#8C8680` |
-| Focus outline | 2px | Burgundy `#6B1A1A` |
-| Chart baseline (zero line) | 0.5px | Warm Grey `#8C8680` |
+| Brand rule (letterhead, cards, section dividers, chart dividers) | 0.5pt / 1px | Burgundy `#490A0A` |
+| Table column separator | 0.25pt / 0.5px | Warm Grey `#6E6862` |
+| Table total row | Double 0.25pt, 2px apart | Warm Grey `#6E6862` |
+| Focus outline | 2px | Burgundy `#490A0A` |
+| Chart baseline (zero line) | 0.5px | Warm Grey `#6E6862` |
 
 These weights are identical to the analog register's rule conventions. The continuity is deliberate and non-negotiable.
 
 **Monospace data field treatment:**
-In any field displaying machine-generated data (IDs, timestamps, codes): IBM Plex Mono at 11px, Warm Grey `#8C8680`. The field background shifts to `#E8E3DC` (secondary surface) to frame the data field as distinct from prose. No border on the field — the surface color contrast is sufficient.
+In any field displaying machine-generated data (IDs, timestamps, codes): IBM Plex Mono at 11px, Warm Grey `#6E6862`. The field background shifts to `#E8E3DC` (secondary surface) to frame the data field as distinct from prose. No border on the field — the surface color contrast is sufficient.
 
 ---
 
@@ -358,7 +358,7 @@ The following UI components are specifically excluded because they carry the vis
 - **Color-coded navigation items** — Navigation items do not change color by section or category. They are Söhne Regular in Charcoal, with active state indicated by a 0.5pt Burgundy left-border rule, not by color fill.
 - **Emoji in UI copy** — Not in labels, button text, empty states, or system messages.
 - **Progress bars with gradient fill** — A progress indicator is a thin 1px Burgundy rule filling from left to right. No gradient, no glow, no animation faster than 200ms.
-- **Illustration or abstract icons** — Icons are a single-weight 1px stroke, Warm Grey `#8C8680`, from a single consistent icon set (e.g., Lucide Icons — stroke-based, minimal). No filled illustrations, no decorative iconography.
+- **Illustration or abstract icons** — Icons are a single-weight 1px stroke, Warm Grey `#6E6862`, from a single consistent icon set (e.g., Lucide Icons — stroke-based, minimal). No filled illustrations, no decorative iconography.
 
 ---
 
@@ -373,8 +373,8 @@ font-family: 'Söhne', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
 **Email-safe color fallbacks:**
 - Background: `#F0EBE3` (most clients render hex colors correctly — cream is safe)
-- Primary text: `#2C2C2C`
-- Burgundy rule: `#6B1A1A` — rendered as a 1px top/bottom border on a `<div>`, not as a CSS rule
+- Primary text: `#1C1917`
+- Burgundy rule: `#490A0A` — rendered as a 1px top/bottom border on a `<div>`, not as a CSS rule
 - If cream cannot render: fallback to `#FFFFFF` pure white — this is the only context where white is acceptable
 
 **Email layout:**
@@ -404,8 +404,8 @@ This is not a visual direction problem being solved by AI-generated imagery. It 
 |---|---|---|
 | **Context** | Law library, brass, cream paper, oxblood cloth | Dashboard, report, pitch deck, digital surface |
 | **Typefaces** | Same: Tiempos + Caslon + Söhne | Same: Tiempos + Caslon + Söhne |
-| **Background** | Cream `#F5F0E8` | Screen cream `#F0EBE3` |
-| **Primary accent** | Burgundy `#6B1A1A` | Burgundy `#6B1A1A` |
+| **Background** | Cream `#FFF7F0` | Screen cream `#F0EBE3` |
+| **Primary accent** | Burgundy `#490A0A` | Burgundy `#490A0A` |
 | **Rule weight** | 0.5pt everywhere | 0.5pt everywhere |
 | **Exhibit convention** | In print decks and proposals | On every digital data panel |
 | **What it says** | "We understand who you are" | "We can deliver what we promise" |

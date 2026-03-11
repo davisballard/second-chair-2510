@@ -1,4 +1,4 @@
-# Second Chair — Component Inventory
+﻿# Second Chair — Component Inventory
 *Every UI Component, Mapped to the Visual System*
 *Luke Grabowski (lead) + Massimo Vignelli (spec verification) | Session: March 2, 2026*
 
@@ -47,7 +47,7 @@
 
 | Attribute | Value |
 |---|---|
-| Background color | `#2C2C2C` (Warm Charcoal) |
+| Background color | `#1C1917` (Warm Charcoal) |
 | Applies to | High-severity alert banners, dark panel variant (if needed), header bar in dark mode contexts |
 
 ---
@@ -77,15 +77,15 @@ This is the most important component in the system. Every analytical output — 
 
 | Attribute | Value |
 |---|---|
-| Border weight | 2px (2pt) Warm Charcoal `#2C2C2C` |
+| Border weight | 2px (2pt) Warm Charcoal `#1C1917` |
 | Border radius | 0px — no radius whatsoever |
 | Interior padding | 24px all sides |
 | Background | Primary screen surface `#F0EBE3` (same as page — the border creates the object) |
 | Box shadow | None |
 
 **Internal structure (top-down order):**
-1. Exhibit label: "EXHIBIT [N]:" — Caslon Pro Small Caps, 8–9px, Warm Grey `#8C8680`, tracking +20, positioned 0px from interior top-left (already inside the 24px padding)
-2. Exhibit title line: Caslon Pro Regular Italic, 14–16px, Warm Charcoal `#2C2C2C` — states the conclusion, not the subject
+1. Exhibit label: "EXHIBIT [N]:" — Caslon Pro Small Caps, 8–9px, Warm Grey `#6E6862`, tracking +20, positioned 0px from interior top-left (already inside the 24px padding)
+2. Exhibit title line: Caslon Pro Regular Italic, 14–16px, Warm Charcoal `#1C1917` — states the conclusion, not the subject
 3. [Chart or data element]
 4. Optional: Source attribution — Caslon Pro Regular 9–10px, Warm Grey, bottom of panel
 
@@ -106,7 +106,7 @@ This is the most important component in the system. Every analytical output — 
 | Typeface | Adobe Caslon Pro |
 | Style | True optical small caps (OpenType `smcp` feature — NOT CSS `font-variant: small-caps` on scaled caps) |
 | Size | 8–9px on screen |
-| Color | Warm Grey `#8C8680` |
+| Color | Warm Grey `#6E6862` |
 | Tracking | +20 |
 | Content format | "EXHIBIT [N]:" — colon included, sequential numbering per view |
 
@@ -122,7 +122,7 @@ This is the most important component in the system. Every analytical output — 
 |---|---|
 | Typeface | Adobe Caslon Pro Regular Italic |
 | Size | 14–16px |
-| Color | Warm Charcoal `#2C2C2C` |
+| Color | Warm Charcoal `#1C1917` |
 | Content rule | States the finding, not the subject: "Lead volume declined 12% in Q1" not "Lead Volume — Q1 2026" |
 
 ---
@@ -140,15 +140,15 @@ Used for the three top-row exhibit panels (Lead Volume, CPSC, Cases Signed).
 | Typeface | Tiempos Headline Bold |
 | Size | 64–96px |
 | Depth treatment | Side face at -25% lightness of primary color, offset 3–4px right and down |
-| Primary face color | Lead Volume: Burgundy `#6B1A1A` | CPSC: Burgundy `#6B1A1A` | Cases Signed: Success Green `#2A6B3C` |
-| Shadow | 15% opacity warm shadow, 2px Y offset, 6px blur, `#2C2C2C` |
+| Primary face color | Lead Volume: Burgundy `#490A0A` | CPSC: Burgundy `#490A0A` | Cases Signed: Success Green `#2A6B3C` |
+| Shadow | 15% opacity warm shadow, 2px Y offset, 6px blur, `#1C1917` |
 
 **Context label (below hero number):**
 | Attribute | Value |
 |---|---|
 | Typeface | Adobe Caslon Pro Small Caps |
 | Size | 10px |
-| Color | Warm Grey `#8C8680` |
+| Color | Warm Grey `#6E6862` |
 | Content | All caps, describes what the number represents: "LEADS DELIVERED" / "COST PER SIGNED CASE" / "CASES SIGNED" |
 
 **Supporting stat (below context label):**
@@ -167,7 +167,7 @@ Used for supporting numbers that appear below hero metrics or in summary panels.
 | Attribute | Value |
 |---|---|
 | Typeface | Söhne Regular 13px |
-| Color | Warm Charcoal `#2C2C2C` |
+| Color | Warm Charcoal `#1C1917` |
 | Delta indicator | Söhne Medium 13px, color-coded per performance direction |
 | Label | Söhne Regular 11px, ALL CAPS, +8 tracking, Warm Grey |
 
@@ -186,14 +186,14 @@ Used for supporting numbers that appear below hero metrics or in summary panels.
 | Top face | Primary color at +20% lightness |
 | Side face (right) | Primary color at -25% lightness |
 | Bar width | 60% of column slot; 40% spacing |
-| Baseline | Single 1px Warm Grey `#8C8680` rule |
+| Baseline | Single 1px Warm Grey `#6E6862` rule |
 | Value labels | Directly above top face of each bar — Caslon Pro 10px, Warm Charcoal |
 | Axis labels | Below each bar — Söhne Regular 10px, ALL CAPS, Warm Grey |
 | Color key | Caslon Small Caps 8px, inline below chart — only when multi-series |
 
-**Single-series:** Burgundy `#6B1A1A`
-**Multi-series order:** Burgundy `#6B1A1A` → Forest Blue `#1B3A6B` → Success Green `#2A6B3C` → Amber `#C9943A` → Warm Teal `#2A6B5C` → Terracotta `#8B3A1E`
-**Maximum series:** 6. Overflow grouped as "Other" in Warm Grey `#8C8680`.
+**Single-series:** Burgundy `#490A0A`
+**Multi-series order:** Burgundy `#490A0A` → Forest Blue `#1B3A6B` → Success Green `#2A6B3C` → Amber `#C9943A` → Warm Teal `#2A6B5C` → Terracotta `#8B3A1E`
+**Maximum series:** 6. Overflow grouped as "Other" in Warm Grey `#6E6862`.
 
 **Functional states:**
 - Hover: Non-hovered bars shift to 80% opacity; hovered bar remains 100% opacity + tooltip appears
@@ -202,7 +202,7 @@ Used for supporting numbers that appear below hero metrics or in summary panels.
 
 **Tooltip on hover:**
 - Background: Secondary surface `#E8E3DC`
-- Border: 0.5px Warm Charcoal `#2C2C2C`
+- Border: 0.5px Warm Charcoal `#1C1917`
 - Text: Söhne Regular 12px; Caslon Pro 12px for data values
 - Content: [Period label] | [Series name] | [Value]
 - No rounded corners, no shadow
@@ -235,7 +235,7 @@ Used for supporting numbers that appear below hero metrics or in summary panels.
 | Disk height | 12–16px visible edge depth |
 | Face | Categorical slices at 100% opacity on top |
 | Edge | Each slice's edge at -30% lightness of slice color |
-| Drop shadow | 20% opacity warm shadow (`#2C2C2C`), 4px Y offset, 12px blur |
+| Drop shadow | 20% opacity warm shadow (`#1C1917`), 4px Y offset, 12px blur |
 | Inner radius | 40% (donut variant) |
 | Hero number (donut center) | Tiempos Headline Bold 28–36px, primary metric total |
 | Hero label (below center number) | Caslon Pro Small Caps 9px, Warm Grey |
@@ -257,7 +257,7 @@ Used for supporting numbers that appear below hero metrics or in summary panels.
 | Stage bars | Horizontal — width proportional to stage count |
 | Bar height | 20px per stage |
 | Stage gap | 24px between stages |
-| Bar color | Burgundy `#6B1A1A` throughout — the narrowing is the visual |
+| Bar color | Burgundy `#490A0A` throughout — the narrowing is the visual |
 | Stage labels | Caslon Pro Small Caps 9px, Warm Grey, left-aligned of each bar |
 | Stage counts | Söhne Medium 12px, right-aligned within each bar |
 | Conversion rates | Between stages: Söhne Regular 11px, Warm Grey (e.g., "↓ 68% contacted") |
@@ -276,12 +276,12 @@ Used for supporting numbers that appear below hero metrics or in summary panels.
 
 | Attribute | Value |
 |---|---|
-| Column header typeface | Söhne Medium, 11px, ALL CAPS, tracking +8, Warm Grey `#8C8680` |
-| Row data typeface | Söhne Regular 13px, Warm Charcoal `#2C2C2C` |
+| Column header typeface | Söhne Medium, 11px, ALL CAPS, tracking +8, Warm Grey `#6E6862` |
+| Row data typeface | Söhne Regular 13px, Warm Charcoal `#1C1917` |
 | Numerical values | IBM Plex Mono 11px, Warm Charcoal (right-aligned) |
 | Lead IDs / codes | IBM Plex Mono 11px, Warm Grey |
-| Row separator rule | 0.25pt Warm Grey `#8C8680` |
-| Section divider rule | 0.5pt Burgundy `#6B1A1A` |
+| Row separator rule | 0.25pt Warm Grey `#6E6862` |
+| Section divider rule | 0.5pt Burgundy `#490A0A` |
 | Totals/summary row separator | Double 0.25pt Warm Grey, 2px apart |
 | Row hover | Background shifts to Amber Pale `#F2E4C0` — 150ms ease-out |
 | Active/selected row | Background `#E8E3DC` (secondary surface) |
@@ -293,8 +293,8 @@ Same as 05-A with an additional column type:
 
 | Attribute | Value |
 |---|---|
-| Inline bar column | Proportional-width filled bar within the cell — Burgundy `#6B1A1A` at 60% height of row |
-| Bar background | Warm Grey `#8C8680` at 20% opacity (shows full cell width; fill shows proportion) |
+| Inline bar column | Proportional-width filled bar within the cell — Burgundy `#490A0A` at 60% height of row |
+| Bar background | Warm Grey `#6E6862` at 20% opacity (shows full cell width; fill shows proportion) |
 | Bar width | Proportional to value (widest = 100% of cell width) |
 
 ---
@@ -312,9 +312,9 @@ Same as 05-A with an additional column type:
 | Logotype | Second Chair wordmark, top, 24px padding |
 | Logotype separator | 0.5pt Burgundy rule, full sidebar width |
 | Nav item typeface | Söhne Regular 13px, Title Case |
-| Nav item color (default) | Warm Charcoal `#2C2C2C` |
+| Nav item color (default) | Warm Charcoal `#1C1917` |
 | Nav item color (hover) | No change — cursor changes to pointer |
-| Nav item active state | Söhne Medium 13px + 0.5pt Burgundy `#6B1A1A` left-border rule |
+| Nav item active state | Söhne Medium 13px + 0.5pt Burgundy `#490A0A` left-border rule |
 | Active indicator width | 3px Burgundy rule flush to left edge |
 | Nav item padding | 12px top/bottom, 24px left |
 | Bottom rule | 0.5pt Burgundy, above account section items |
@@ -324,9 +324,9 @@ Same as 05-A with an additional column type:
 | Attribute | Value |
 |---|---|
 | Typeface | Söhne Regular 11px, ALL CAPS, tracking +8 |
-| Active option | Söhne Medium 11px, Burgundy `#6B1A1A` |
-| Inactive options | Warm Grey `#8C8680` |
-| Separator | Warm Grey `#8C8680` | character (pipe) between options |
+| Active option | Söhne Medium 11px, Burgundy `#490A0A` |
+| Inactive options | Warm Grey `#6E6862` |
+| Separator | Warm Grey `#6E6862` | character (pipe) between options |
 | Position | Below main nav items, above bottom section rule in sidebar |
 
 ### 06-C: PAGE HEADER
@@ -349,11 +349,11 @@ Same as 05-A with an additional column type:
 
 | Attribute | Value |
 |---|---|
-| Background | Warm Charcoal `#2C2C2C` |
-| Text | Cream `#F5F0E8`, Söhne Medium 13px, Title Case, tracking +2 |
+| Background | Warm Charcoal `#1C1917` |
+| Text | Cream `#FFF7F0`, Söhne Medium 13px, Title Case, tracking +2 |
 | Border radius | 0px — no radius |
 | Padding | 10px top/bottom, 20px left/right |
-| Hover state | Background shifts to Oxford Navy `#1B2A4A` — 150ms ease-out |
+| Hover state | Background shifts to Oxford Navy `#0F1E3A` — 150ms ease-out |
 | No gradient | None. Flat fill only. |
 | No shadow | None. |
 
@@ -362,7 +362,7 @@ Same as 05-A with an additional column type:
 | Attribute | Value |
 |---|---|
 | Background | None (transparent) |
-| Text | Burgundy `#6B1A1A`, Söhne Medium 13px, Title Case |
+| Text | Burgundy `#490A0A`, Söhne Medium 13px, Title Case |
 | Hover state | Underline appears (0.5pt, Burgundy) — no color change |
 | Border | None |
 
@@ -370,7 +370,7 @@ Same as 05-A with an additional column type:
 
 | Attribute | Value |
 |---|---|
-| Outline | 2px Burgundy `#6B1A1A`, 2px offset |
+| Outline | 2px Burgundy `#490A0A`, 2px offset |
 | No browser default | The default blue focus ring is replaced system-wide |
 
 ---
@@ -382,7 +382,7 @@ Same as 05-A with an additional column type:
 | Attribute | Value |
 |---|---|
 | Background | Primary surface `#F0EBE3` |
-| Border | 0.5px Warm Charcoal `#2C2C2C` |
+| Border | 0.5px Warm Charcoal `#1C1917` |
 | Border radius | 0px |
 | Label typeface | Söhne Regular 12px, Title Case, Warm Charcoal |
 | Value typeface | Söhne Medium 12px, Warm Charcoal |
@@ -405,17 +405,17 @@ Same as 05-A with an additional column type:
 
 | Attribute | Value |
 |---|---|
-| Background | Warm Charcoal `#2C2C2C` |
-| Text | Cream `#F5F0E8`, Söhne Regular 13px |
-| Left rule | 3px Burgundy `#6B1A1A` flush left |
+| Background | Warm Charcoal `#1C1917` |
+| Text | Cream `#FFF7F0`, Söhne Regular 13px |
+| Left rule | 3px Burgundy `#490A0A` flush left |
 | Position | Full content-area width, below page header, above Exhibit 1 |
-| Dismiss | "×" right-aligned, Söhne Regular 16px, Cream `#F5F0E8` |
+| Dismiss | "×" right-aligned, Söhne Regular 16px, Cream `#FFF7F0` |
 
 ### 09-B: ALERT ITEM (medium/low severity, in alert panel)
 
 | Attribute | Value |
 |---|---|
-| Left severity rule | 1px left border: Burgundy (high) | Amber `#C9943A` (medium) | Warm Grey `#8C8680` (low/informational) |
+| Left severity rule | 1px left border: Burgundy (high) | Amber `#C9943A` (medium) | Warm Grey `#6E6862` (low/informational) |
 | Text | Söhne Regular 13px, Warm Charcoal |
 | Action link | Söhne Medium 13px, Burgundy — hover: underline |
 | Row separator | 0.25pt Warm Grey |
@@ -425,8 +425,8 @@ Same as 05-A with an additional column type:
 
 | Attribute | Value |
 |---|---|
-| Background | Burgundy `#6B1A1A` |
-| Text | Cream `#F5F0E8`, Söhne Medium 10px, ALL CAPS |
+| Background | Burgundy `#490A0A` |
+| Text | Cream `#FFF7F0`, Söhne Medium 10px, ALL CAPS |
 | Shape | 16×16px minimum, no rounded corners (2px max radius — structural not aesthetic) |
 | Position | Top-right corner of relevant nav item |
 
@@ -440,7 +440,7 @@ Same as 05-A with an additional column type:
 
 | Attribute | Value |
 |---|---|
-| Form | 1px Burgundy `#6B1A1A` horizontal rule |
+| Form | 1px Burgundy `#490A0A` horizontal rule |
 | Animation | Animate from left to right across panel width |
 | Duration | 200ms ease-out per sweep |
 | Position | Top of chart area within exhibit panel (below exhibit title line) |
@@ -451,7 +451,7 @@ Same as 05-A with an additional column type:
 
 | Attribute | Value |
 |---|---|
-| Form | 1px Burgundy `#6B1A1A` horizontal rule at very top of viewport |
+| Form | 1px Burgundy `#490A0A` horizontal rule at very top of viewport |
 | Width | Grows from 0% to 100% of viewport width as page loads |
 | Disappears | On complete load |
 
@@ -464,7 +464,7 @@ Same as 05-A with an additional column type:
 | Attribute | Value |
 |---|---|
 | Background | Secondary surface `#E8E3DC` |
-| Border | 0.5px Warm Charcoal `#2C2C2C` |
+| Border | 0.5px Warm Charcoal `#1C1917` |
 | Border radius | 0px |
 | Text | Söhne Regular 11px, Warm Charcoal |
 | Data values within tooltip | Caslon Pro Regular 12px, Warm Charcoal |
@@ -507,20 +507,20 @@ Same as 05-A with an additional column type:
 
 | Token | Value | Usage |
 |---|---|---|
-| `--sc-cream` | `#F5F0E8` | Brand background (print); email background |
+| `--sc-cream` | `#FFF7F0` | Brand background (print); email background |
 | `--sc-screen` | `#F0EBE3` | Primary screen surface |
 | `--sc-screen-secondary` | `#E8E3DC` | Sidebar, secondary panels, field backgrounds |
-| `--sc-charcoal` | `#2C2C2C` | Primary text; panel borders; inverse surface |
-| `--sc-burgundy` | `#6B1A1A` | Brand accent; active states; rules; Series 1 |
-| `--sc-navy` | `#1B2A4A` | Button hover; Oxford Navy; Series 2 alt |
+| `--sc-charcoal` | `#1C1917` | Primary text; panel borders; inverse surface |
+| `--sc-burgundy` | `#490A0A` | Brand accent; active states; rules; Series 1 |
+| `--sc-navy` | `#0F1E3A` | Button hover; Oxford Navy; Series 2 alt |
 | `--sc-forest-blue` | `#1B3A6B` | Series 2 in multi-series charts |
-| `--sc-gold` | `#B8962E` | Old Gold; physical collateral; decorative only |
+| `--sc-gold` | `#E8C165` | Old Gold; physical collateral; decorative only |
 | `--sc-green` | `#2A6B3C` | Success / positive / cases signed |
 | `--sc-amber` | `#C9943A` | Pending / caution / warning |
 | `--sc-amber-pale` | `#F2E4C0` | Table row hover |
 | `--sc-teal` | `#2A6B5C` | Series 5 |
 | `--sc-terracotta` | `#8B3A1E` | Series 6 |
-| `--sc-grey-warm` | `#8C8680` | Secondary text; metadata; axis labels; Series overflow |
+| `--sc-grey-warm` | `#6E6862` | Secondary text; metadata; axis labels; Series overflow |
 
 ---
 

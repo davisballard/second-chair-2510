@@ -1,4 +1,4 @@
-# Second Chair — Website Architecture Blueprint
+﻿# Second Chair — Website Architecture Blueprint
 ## `01_Site_Architecture.md`
 
 > **Document Purpose:** Section-by-section, page-by-page blueprint for the Second Chair website. Covers strategic purpose, copy direction, placeholder headlines, design notes, content status, and what Alex needs to supply for each section. Use this to brief Figma design, copywriting, and build.
@@ -54,7 +54,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 ## HOMEPAGE — FULL SKELETON
 
 **URL:** `/`
-**Design framework:** Casely-referenced editorial grid. Oxblood full-bleed for hero and closing CTA. Cream `#F5F0E8` for all content sections. Thin burgundy rule lines as grid accents. Gold as accent/highlight color for hero text hierarchy.
+**Design framework:** Casely-referenced editorial grid. Oxblood full-bleed for hero and closing CTA. Cream `#FFF7F0` for all content sections. Thin burgundy rule lines as grid accents. Gold as accent/highlight color for hero text hierarchy.
 
 ---
 
@@ -81,7 +81,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 
 **Strategic purpose:** Three jobs in one section. (1) Make a bold category claim that stops a skeptical, busy attorney in his tracks. (2) Anchor the claim with credentials that explain how this is possible. (3) Orient someone with zero prior knowledge so they know what Second Chair is and what to do next.
 
-**Color:** Oxblood full-bleed `#6B1A1A`. White headline. Gold accent on credential line. Cream on orientation line.
+**Color:** Oxblood full-bleed `#490A0A`. White headline. Gold accent on credential line. Cream on orientation line.
 
 **Layout:** Left-aligned editorial. Large headline. Credential subhead below. One-line orientation below that. Single CTA button. No hero image at launch — the typography and color IS the design statement. (Fast-follow: consider full-bleed campaign image behind with overlay.)
 
@@ -115,7 +115,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 
 **Strategic purpose:** The hero made a claim. This section proves it. The advertising is shown, not described. No explanatory copy. The contrast between category norm and Second Chair output IS the argument.
 
-**Color:** Cream `#F5F0E8` section. Full editorial width.
+**Color:** Cream `#FFF7F0` section. Full editorial width.
 
 **Layout:** Two-panel split.
 - **Left panel:** A representative sample of generic PI advertising — the category norm. Existing billboard/TV/digital creative from the PI space (sourced from public competitors, no logos shown). Dark, flat, stock-photo lawyer at desk, "We Fight For You." This panel needs a subtle label: "The category."
@@ -140,7 +140,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 
 **Roundtable note:** Deliberately placed AFTER the creative proof, not before it. Placing it before the creative interrupts the hero-to-proof momentum. Placed after, it extends and expands the proof.
 
-**Color:** Cream `#F5F0E8`. Full-width, low-height. Thin burgundy rule above and below.
+**Color:** Cream `#FFF7F0`. Full-width, low-height. Thin burgundy rule above and below.
 
 **Layout:** Small label centered or left-aligned, then channel logos in a clean horizontal row.
 
@@ -159,7 +159,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 
 **Strategic purpose:** Now that the creative has been demonstrated, explain the system behind it. Three pillars — not three bullet lists. Brief by design. The AI-systems angle lives here — not as a gimmick but as the structural reason why three founders produce the output of a forty-person operation. This is "why Second Chair is a competitive advantage for any firm that works with them, not just a vendor."
 
-**Color:** Cream `#F5F0E8`. Three-column editorial grid. Thin burgundy rule above each column.
+**Color:** Cream `#FFF7F0`. Three-column editorial grid. Thin burgundy rule above each column.
 
 **Layout:** Three columns, equal width. Each column: small all-caps category label, one-sentence headline, two to three lines of supporting copy. No bullet points.
 
@@ -220,7 +220,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 
 **Strategic purpose:** Closes the "who are these people?" gap. Someone came from a cold email, saw a bold claim, saw impressive creative, and now wants to know: is this real? Three founder cards with real credentials. The Fortune 500 backgrounds live here in full. The AI-systems dimension gets a one-line callout per card — not tech-speak, just "here's what this person built."
 
-**Color:** Cream `#F5F0E8`. Three-column card layout. Thin burgundy rule above each card.
+**Color:** Cream `#FFF7F0`. Three-column card layout. Thin burgundy rule above each card.
 
 **Layout:** Three cards, equal width. Each card: portrait photo (editorial, not corporate headshot), name, role, three to four credential lines. Brief bio sentence below credentials.
 
@@ -289,7 +289,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 
 **Roundtable note on sequence:** FCC compliance leads because it creates the strongest emotional activation — loss aversion. Danish may already have TCPA liability sitting in his CRM. That fear primes him to evaluate Second Chair as a solution. The creative cost panel follows as a positive signal: our approach is more efficient. The CPSC comparison closes with the full economic case. Problem → solution → payoff.
 
-**Color:** Cream `#F5F0E8`. Exhibit-style layout — editorial data journalism, not a pitch deck. Thin rules, restrained typography, the data does the visual work.
+**Color:** Cream `#FFF7F0`. Exhibit-style layout — editorial data journalism, not a pitch deck. Thin rules, restrained typography, the data does the visual work.
 
 **Layout:** Three panels stacked or in an editorial grid.
 
@@ -345,7 +345,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 
 **Strategic purpose:** Shows rigor. Tells Danish what happens after he books the call — removes the fear of the unknown. Four phases, brief by design. Not a list of benefits — a description of a real process.
 
-**Color:** Cream `#F5F0E8`. Four-step horizontal flow on desktop, vertical stack on mobile. Numbered, minimal, editorial.
+**Color:** Cream `#FFF7F0`. Four-step horizontal flow on desktop, vertical stack on mobile. Numbered, minimal, editorial.
 
 **Layout:** Four numbered steps with a thin burgundy rule or connecting line. Each step: number, short title, two to three lines of description.
 
@@ -380,7 +380,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 
 **Strategic purpose:** The close. Adam Ferrier's mandate — this should feel like the logical conclusion Danish arrives at, not a push. The framing is mutual evaluation. Second Chair is selective; the prospect is evaluating a partnership. No pressure, no urgency, no forms asking for budget.
 
-**Color:** Oxblood `#6B1A1A` inverse — mirrors the hero. Signals the page has completed its argument. White type.
+**Color:** Oxblood `#490A0A` inverse — mirrors the hero. Signals the page has completed its argument. White type.
 
 **Layout:** Center-aligned. Large headline. Two to three lines of supporting copy. One CTA button. Optional: brief Calendly embed or link to `/apply` form.
 
@@ -406,7 +406,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 
 **Strategic purpose:** Functional. Legal compliance. Light brand reinforcement.
 
-**Color:** Cream `#F5F0E8` with thin burgundy rule above.
+**Color:** Cream `#FFF7F0` with thin burgundy rule above.
 
 **Layout:** Three columns.
 - Left: Second Chair wordmark + one-line descriptor ("A creative, compliance, and technology firm for personal injury law firms.")
@@ -540,8 +540,8 @@ The homepage does most of the work for launch. If Danish books a call after the 
 
 | Element | Value / Direction |
 |---------|------------------|
-| Hero / CTA background | Oxblood `#6B1A1A` |
-| Content sections | Cream `#F5F0E8` |
+| Hero / CTA background | Oxblood `#490A0A` |
+| Content sections | Cream `#FFF7F0` |
 | Grid accent | Thin burgundy rule |
 | Headline type on oxblood | White |
 | Credential / accent on oxblood | Lighter gold |

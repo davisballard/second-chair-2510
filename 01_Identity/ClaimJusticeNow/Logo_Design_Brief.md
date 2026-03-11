@@ -1,4 +1,4 @@
-# ClaimJusticeNow Logo Design Brief
+﻿# ClaimJusticeNow Logo Design Brief
 
 **Brand:** ClaimJusticeNow (Consumer-facing PI Lead Generation)  
 **Designer:** Massimo Vignelli (Visual Systems Architect)  
@@ -98,7 +98,7 @@ Solid navy blue circular badge with thin gold accent ring, containing white reve
 ---
 
 ### Supporting Colors
-- **Charcoal (#2C2C2C)** — Typography, power elements
+- **Charcoal (#1C1917)** — Typography, power elements
 - **White (#FFFFFF)** — Backgrounds, reversed applications
 - **Light Gray (#F5F5F5)** — Secondary backgrounds
 

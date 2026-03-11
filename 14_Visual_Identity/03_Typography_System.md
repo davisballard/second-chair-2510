@@ -1,4 +1,4 @@
-# Second Chair — Typography System
+﻿# Second Chair — Typography System
 *Session: March 1, 2026 | Massimo Vignelli (lead) + Graham Fink*
 
 ---
@@ -288,7 +288,7 @@ Everything else is Charcoal on Cream. This is intentional. The typographic syste
 
 Regardless of which option is selected, data visualization uses a specific typographic convention:
 
-**Exhibit label:** "EXHIBIT N:" in display typeface small caps, 7–8pt, Warm Grey `#8C8680`, left-aligned, above the chart title
+**Exhibit label:** "EXHIBIT N:" in display typeface small caps, 7–8pt, Warm Grey `#6E6862`, left-aligned, above the chart title
 **Chart title:** Body typeface bold or display face at slightly larger size, states the conclusion in the title ("Signed cases cost 40% less at CPSC-aligned vendors")
 **Data labels:** Body typeface regular, 7–9pt, directly on the data point — no legend boxes
 **Axis labels:** Body typeface regular, 8pt, Warm Grey

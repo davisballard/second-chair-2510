@@ -1,4 +1,4 @@
-# Research Index: Second Chair
+﻿# Research Index: Second Chair
 
 > **The Conversion Codex: 2025-2026**
 > 
@@ -186,7 +186,7 @@ This is the master framework that organizes ALL content creation around behavior
 | `04_Visual_Research/00_Visual_Research_Brief.md` | Strategic research brief | The full strategic rationale, team roles, research framework |
 | `04_Visual_Research/01_Typography/Typography_System.md` | Deep typography research | Century Schoolbook, Caslon, Palatino, Garamond — full system specification |
 | `04_Visual_Research/01_Typography/Typography_Research.md` | Web-sourced primary research | Supreme Court brief standards, HLR typeface correction (Old Style 7) |
-| `04_Visual_Research/02_Color/Color_System_Research.md` | Color system — each color from a physical object | Cream `#F5F0E8`, Burgundy `#6B1A1A`, Gold `#B8962E` — Track 2 candidates |
+| `04_Visual_Research/02_Color/Color_System_Research.md` | Color system — each color from a physical object | Cream `#FFF7F0`, Burgundy `#490A0A`, Gold `#E8C165` — Track 2 candidates |
 | `04_Visual_Research/03_Data_Visualization/Data_Viz_Research.md` | Data viz standard — Tufte/WSJ/McKinsey | "Exhibit [n]:" naming convention, single-accent rule, conclusion-as-title |
 | `04_Visual_Research/04_Law_Publications/Law_Publications_And_Adjacent_Brands.md` | Primary source research | HLR, West Publishing, Goldman Sachs, Economist — confirmed values |
 | `04_Visual_Research/05_Adjacent_Brands/Adjacent_Brands_Research.md` | Finance, consulting, IBM references | Goldman Sachs annual reports, Merrill Lynch, Fortune, IBM under Paul Rand |

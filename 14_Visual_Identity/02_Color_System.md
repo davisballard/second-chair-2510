@@ -1,4 +1,4 @@
-# Second Chair — Color System
+﻿# Second Chair — Color System
 *Session: March 1, 2026 | Massimo Vignelli (lead)*
 
 ---
@@ -14,7 +14,7 @@
 
 **Rationale:** The website and all editorial materials live in the same visual register as a masthead publication — authority comes from restraint, typography, and tonal precision, not color. Color is reserved for where it earns its place: inside the product, visualizing data that requires categorical distinction across multiple concurrent series.
 
-**Gold (`#B8962E`) is excluded from all chart, document, and screen contexts.** Contrast ratio on cream is ~1.6:1 (near-invisible). Gold exists as a physical material color only — foil, embossing, engraving. See `02c_BW_Chart_System.md` for full rationale.
+**Gold (`#E8C165`) is excluded from all chart, document, and screen contexts.** Contrast ratio on cream is ~1.6:1 (near-invisible). Gold exists as a physical material color only — foil, embossing, engraving. See `02c_BW_Chart_System.md` for full rationale.
 
 ---
 
@@ -22,7 +22,7 @@
 
 *"Every color in this system has a physical origin. Not a digital origin, not a trend reference, not a competitive gap calculation. A physical object that exists in the prestige legal world. We have derived these colors from things. That is what makes them ownable and what makes them authentic.*
 
-*Colors derived from things are not arbitrary. When an attorney sees Cream `#F5F0E8`, their nervous system connects it to the cotton-rag letterhead on a partner's desk. When they see Burgundy `#6B1A1A`, it is the West Federal Reporter spine they pulled off a shelf in law school. These are not colors we chose because they look good together. They look good together because they are from the same physical world.*
+*Colors derived from things are not arbitrary. When an attorney sees Cream `#FFF7F0`, their nervous system connects it to the cotton-rag letterhead on a partner's desk. When they see Burgundy `#490A0A`, it is the West Federal Reporter spine they pulled off a shelf in law school. These are not colors we chose because they look good together. They look good together because they are from the same physical world.*
 
 *One absolute rule before I specify anything: once these are locked, they do not change. Byron Sharp's work is clear on this — distinctive assets build through repetition. The temptation to 'refresh' the palette within three years destroys the mental structures that the palette builds through consistency. These values are locked. The only acceptable reason to adjust them is a print production calibration between screen values and the Pantone-printed physical object.*"
 
@@ -36,22 +36,22 @@
 | Attribute | Value |
 |---|---|
 | **Name** | Cream |
-| **Hex** | `#F5F0E8` |
+| **Hex** | `#FFF7F0` |
 | **RGB** | R: 245, G: 240, B: 232 |
 | **HSL** | H: 40°, S: 38%, L: 93% |
 | **Pantone (starting point)** | Pantone 9183 C (calibrate vs. physical Crane Lettra 110lb — screen-to-print accuracy critical) |
 | **Paper stock** | Crane Lettra 110lb Cover (letterhead/cards); Mohawk Superfine Ultrawhite Eggshell 80lb Text (documents) |
-| **CSS variable** | `--sc-cream: #F5F0E8` |
+| **CSS variable** | `--sc-cream: #FFF7F0` |
 | **Physical origin** | Cotton-rag letterhead stationery; Harvard Law Review paper stock; West Reporter text block |
 
 **WCAG Contrast Ratios on Cream:**
 | Text color on Cream | Ratio | Rating |
 |---|---|---|
-| Warm Charcoal `#2C2C2C` | ~10.1:1 | AAA |
-| Oxford Navy `#1B2A4A` | ~9.8:1 | AAA |
-| Burgundy `#6B1A1A` | ~7.4:1 | AA (large text passes AA, all text passes AA) |
-| Old Gold `#B8962E` | ~2.7:1 | Fail — decorative use only, never text |
-| Forest Green `#1E4D2B` | ~8.5:1 | AAA |
+| Warm Charcoal `#1C1917` | ~10.1:1 | AAA |
+| Oxford Navy `#0F1E3A` | ~9.8:1 | AAA |
+| Burgundy `#490A0A` | ~7.4:1 | AA (large text passes AA, all text passes AA) |
+| Old Gold `#E8C165` | ~2.7:1 | Fail — decorative use only, never text |
+| Forest Green `#163A21` | ~8.5:1 | AAA |
 
 **Usage rules:**
 - Primary background for all documents, decks, website, letterhead, presentations
@@ -70,20 +70,20 @@
 | Attribute | Value |
 |---|---|
 | **Name** | Burgundy |
-| **Hex** | `#6B1A1A` |
+| **Hex** | `#490A0A` |
 | **RGB** | R: 107, G: 26, B: 26 |
 | **HSL** | H: 0°, S: 61%, L: 26% |
 | **Pantone (starting point)** | Pantone 202 C (calibrate vs. West Federal Reporter spine — the physical object is the reference) |
-| **CSS variable** | `--sc-burgundy: #6B1A1A` |
+| **CSS variable** | `--sc-burgundy: #490A0A` |
 | **Physical origin** | West Federal Reporter spine binding; Harvard Law Review binding (maroon/burgundy buckram); oxblood leather chair |
 
 **WCAG Contrast Ratios for Burgundy:**
 | Context | Ratio | Rating |
 |---|---|---|
-| Burgundy on Cream `#F5F0E8` | ~7.4:1 | AA (passes for all text sizes) |
+| Burgundy on Cream `#FFF7F0` | ~7.4:1 | AA (passes for all text sizes) |
 | Burgundy on White `#FFFFFF` | ~8.2:1 | AAA |
-| Cream `#F5F0E8` on Burgundy | ~7.4:1 | AA |
-| Old Gold `#B8962E` on Burgundy | ~2.8:1 | Fail — decorative only |
+| Cream `#FFF7F0` on Burgundy | ~7.4:1 | AA |
+| Old Gold `#E8C165` on Burgundy | ~2.8:1 | Fail — decorative only |
 
 **Usage rules — strict:**
 - **Applied as:** 0.5pt horizontal rule (primary), single chart accent color (data visualization only), foil on physical covers, 0.25pt rule under brand name on letterhead
@@ -101,11 +101,11 @@
 | Attribute | Value |
 |---|---|
 | **Name** | Old Gold |
-| **Hex** | `#B8962E` |
+| **Hex** | `#E8C165` |
 | **RGB** | R: 184, G: 150, B: 46 |
 | **HSL** | H: 42°, S: 60%, L: 45% |
 | **Pantone (starting point)** | Pantone 872 C (metallic gold — for offset printing; use 109 C for non-metallic spot) |
-| **CSS variable** | `--sc-gold: #B8962E` |
+| **CSS variable** | `--sc-gold: #E8C165` |
 | **Physical origin** | Brass door placards; West Reporter spine gold lettering; engraved nameplate lettering; Crane & Co. letterhead embossing |
 
 **Usage rules — very strict:**
@@ -122,18 +122,18 @@
 | Attribute | Value |
 |---|---|
 | **Name** | Warm Charcoal |
-| **Hex** | `#2C2C2C` |
+| **Hex** | `#1C1917` |
 | **RGB** | R: 44, G: 44, B: 44 |
 | **HSL** | H: 0°, S: 0%, L: 17% |
 | **Pantone** | Pantone Black 7 C (warm black) |
-| **CSS variable** | `--sc-charcoal: #2C2C2C` |
+| **CSS variable** | `--sc-charcoal: #1C1917` |
 | **Physical origin** | Quality offset printing on cream paper — the color of well-printed black type that is not pure black |
 
 **Usage rules:**
 - Primary text color for all Second Chair copy — body text, headlines, captions, footnotes
-- **Why not pure black (`#000000`):** Pure black on cream creates too much contrast — the result reads as harsh, digital, printer-paper. `#2C2C2C` on `#F5F0E8` reads as warm, printed, quality. The difference is perceived, not measured, and it is significant.
+- **Why not pure black (`#000000`):** Pure black on cream creates too much contrast — the result reads as harsh, digital, printer-paper. `#1C1917` on `#FFF7F0` reads as warm, printed, quality. The difference is perceived, not measured, and it is significant.
 - The standard printing equivalent: Request "rich black" or "warm black" from printers rather than 4-color process black
-- Works on: Cream `#F5F0E8` (primary), White `#FFFFFF` (acceptable), light grey surfaces
+- Works on: Cream `#FFF7F0` (primary), White `#FFFFFF` (acceptable), light grey surfaces
 
 ---
 
@@ -143,11 +143,11 @@
 | Attribute | Value |
 |---|---|
 | **Name** | Oxford Navy |
-| **Hex** | `#1B2A4A` |
+| **Hex** | `#0F1E3A` |
 | **RGB** | R: 27, G: 42, B: 74 |
 | **HSL** | H: 220°, S: 46%, L: 20% |
 | **Pantone (starting point)** | Pantone 282 C |
-| **CSS variable** | `--sc-navy: #1B2A4A` |
+| **CSS variable** | `--sc-navy: #0F1E3A` |
 | **Physical origin** | Brooks Brothers suit fabric; American Express Platinum card; Oxford University Press binding |
 
 **Usage rules:**
@@ -164,11 +164,11 @@
 | Attribute | Value |
 |---|---|
 | **Name** | Forest Green |
-| **Hex** | `#1E4D2B` |
+| **Hex** | `#163A21` |
 | **RGB** | R: 30, G: 77, B: 43 |
 | **HSL** | H: 134°, S: 44%, L: 21% |
 | **Pantone (starting point)** | Pantone 350 C |
-| **CSS variable** | `--sc-green: #1E4D2B` |
+| **CSS variable** | `--sc-green: #163A21` |
 | **Physical origin** | West state/regional reporter spines; Harvard Law Review alternative cover; law school library woodwork |
 
 **Usage rules:**
@@ -185,16 +185,16 @@
 | Attribute | Value |
 |---|---|
 | **Name** | Warm Grey |
-| **Hex** | `#8C8680` |
+| **Hex** | `#6E6862` |
 | **RGB** | R: 140, G: 134, B: 128 |
 | **HSL** | H: 30°, S: 5%, L: 53% |
-| **CSS variable** | `--sc-grey: #8C8680` |
+| **CSS variable** | `--sc-grey: #6E6862` |
 | **Physical origin** | Marble courthouse floors; Indiana limestone courthouse exterior; aged photocopier paper |
 
 **WCAG Contrast on Cream:**
 | Context | Ratio | Rating |
 |---|---|---|
-| Warm Grey on Cream `#F5F0E8` | ~2.8:1 | Fail for body text — use for captions/labels at 9pt+ only |
+| Warm Grey on Cream `#FFF7F0` | ~2.8:1 | Fail for body text — use for captions/labels at 9pt+ only |
 | Warm Grey on White `#FFFFFF` | ~3.2:1 | Fail for body text — decorative/caption only |
 
 **Usage rules:**
@@ -211,13 +211,13 @@
 
 ```
 — BRAND COLORS —
-SC / Cream         #F5F0E8    (Primary background)
-SC / Burgundy      #6B1A1A    (Primary accent)
-SC / Charcoal      #2C2C2C    (Primary text)
-SC / Gold          #B8962E    (Rules, lettering, foil)
-SC / Navy          #1B2A4A    (Foreground elements)
-SC / Green         #1E4D2B    (Secondary variant)
-SC / Grey          #8C8680    (Supporting text)
+SC / Cream         #FFF7F0    (Primary background)
+SC / Burgundy      #490A0A    (Primary accent)
+SC / Charcoal      #1C1917    (Primary text)
+SC / Gold          #E8C165    (Rules, lettering, foil)
+SC / Navy          #0F1E3A    (Foreground elements)
+SC / Green         #163A21    (Secondary variant)
+SC / Grey          #6E6862    (Supporting text)
 
 — FUNCTIONAL —
 SC / White         #FFFFFF    (Never use as background — print white only)
@@ -233,13 +233,13 @@ SC / White         #FFFFFF    (Never use as background — print white only)
 
 ```css
 /* Second Chair Color Primitives */
---sc-primitive-cream: #F5F0E8;
---sc-primitive-burgundy: #6B1A1A;
---sc-primitive-charcoal: #2C2C2C;
---sc-primitive-gold: #B8962E;
---sc-primitive-navy: #1B2A4A;
---sc-primitive-green: #1E4D2B;
---sc-primitive-grey: #8C8680;
+--sc-primitive-cream: #FFF7F0;
+--sc-primitive-burgundy: #490A0A;
+--sc-primitive-charcoal: #1C1917;
+--sc-primitive-gold: #E8C165;
+--sc-primitive-navy: #0F1E3A;
+--sc-primitive-green: #163A21;
+--sc-primitive-grey: #6E6862;
 --sc-primitive-white: #FFFFFF;
 ```
 
@@ -321,7 +321,7 @@ SC / White         #FFFFFF    (Never use as background — print white only)
 - Gold embossed variant: Foil stamp on navy card — the reverse card
 
 ### Presentation Decks (Digital → Print)
-- Screen: Cream `#F5F0E8` as slide background
+- Screen: Cream `#FFF7F0` as slide background
 - Print: Specify "print on [Mohawk Superfine Ultrawhite Eggshell]" — not standard laser paper
 - Burgundy rules: Screen 0.5pt, print 0.5pt hairline at 600dpi minimum
 
@@ -368,7 +368,7 @@ These are the primary colors for multi-series charts and categorical data. The b
 
 | Series | Name | Hex | RGB | Character |
 |---|---|---|---|---|
-| **1** | Burgundy | `#6B1A1A` | R:107 G:26 B:26 | Brand anchor. Primary/negative. Authority. |
+| **1** | Burgundy | `#490A0A` | R:107 G:26 B:26 | Brand anchor. Primary/negative. Authority. |
 | **2** | Forest Blue | `#2B5580` | R:43 G:85 B:128 | Warm steel blue. Deep, serious — not SaaS electric. |
 | **3** | Success Green | `#2A6B3C` | R:42 G:107 B:60 | Muted deep green. Universal success convention honored. |
 | **4** | Amber | `#C9943A` | R:201 G:148 B:58 | Warm amber. Caution, pending, in-progress. |
@@ -378,7 +378,7 @@ These are the primary colors for multi-series charts and categorical data. The b
 **Why each color was chosen:**
 - Burgundy: brand anchor, already in identity system, most authoritative
 - Forest Blue: every attorney has interacted with serious institutional blue (federal court, AmLaw publications) — this is that blue desaturated and warmed, not the SaaS category blue
-- Success Green: universal data convention. Users will read green as positive regardless of brand intent. Fighting this wastes cognitive load. The green chosen (`#2A6B3C`) is distinct from brand Forest Green (`#1E4D2B`) — darker, slightly cooler — to avoid confusion
+- Success Green: universal data convention. Users will read green as positive regardless of brand intent. Fighting this wastes cognitive load. The green chosen (`#2A6B3C`) is distinct from brand Forest Green (`#163A21`) — darker, slightly cooler — to avoid confusion
 - Amber: warmest of the series, reads naturally as caution/in-progress/pending, continuous with the Old Gold brand color at a lighter value
 - Warm Teal: rounds out the cool-warm spectrum, distinctive from both blue and green
 - Terracotta: a sixth earthy warm tone for complex dashboards requiring six categorical series
@@ -410,9 +410,9 @@ Universal data conventions are honored. These are the single-instance status col
 |---|---|---|---|
 | **Positive / Success** | Success Green | `#2A6B3C` | Universal: green = good |
 | **Caution / Pending** | Amber | `#C9943A` | Universal: yellow/amber = watch |
-| **Negative / Alert** | Burgundy | `#6B1A1A` | Brand anchor doubles as alert |
+| **Negative / Alert** | Burgundy | `#490A0A` | Brand anchor doubles as alert |
 | **Informational** | Forest Blue | `#2B5580` | Institutional blue = reference |
-| **Neutral / Inactive** | Warm Grey | `#8C8680` | Already in brand system |
+| **Neutral / Inactive** | Warm Grey | `#6E6862` | Already in brand system |
 
 **Status fill backgrounds (for badge/chip backgrounds):**
 | Status | Background Hex |
@@ -431,14 +431,14 @@ Screen surface: `#F0EBE3`
 
 | Color | Hex | Ratio on `#F0EBE3` | Rating |
 |---|---|---|---|
-| Burgundy | `#6B1A1A` | ~7.0:1 | AA — all text |
+| Burgundy | `#490A0A` | ~7.0:1 | AA — all text |
 | Forest Blue | `#2B5580` | ~5.8:1 | AA — all text |
 | Success Green | `#2A6B3C` | ~5.5:1 | AA — all text |
 | Amber | `#C9943A` | ~2.7:1 | Fill/large elements only — not for body text |
 | Warm Teal | `#1E5C55` | ~5.9:1 | AA — all text |
 | Terracotta | `#8B4522` | ~4.3:1 | AA — large text and UI |
 
-**The label rule:** All data labels, axis labels, exhibit titles, and annotations are always Warm Charcoal `#2C2C2C` or Warm Grey `#8C8680` — regardless of bar/line color. The data element communicates the category through color; the text label communicates the value through high-contrast type. These are separate jobs and should never be combined.
+**The label rule:** All data labels, axis labels, exhibit titles, and annotations are always Warm Charcoal `#1C1917` or Warm Grey `#6E6862` — regardless of bar/line color. The data element communicates the category through color; the text label communicates the value through high-contrast type. These are separate jobs and should never be combined.
 
 ---
 
@@ -451,10 +451,10 @@ Following the Nigel Holmes model: color communicates category, magnitude, compar
 For multi-series charts, assign Series 1 (Burgundy) to the primary or most important data series, then Series 2, 3, 4 in order. Never skip series or assign colors out of order — the palette is calibrated as a set, and skipping creates visual imbalance.
 
 **Rule 3 — Maximum 6 series per chart.**
-Six categorical colors is the maximum for a single chart. If more than six categories exist, group the lower categories into an "Other" series in Warm Grey `#8C8680`. More than six distinct colors on a single chart produces visual noise, not information.
+Six categorical colors is the maximum for a single chart. If more than six categories exist, group the lower categories into an "Other" series in Warm Grey `#6E6862`. More than six distinct colors on a single chart produces visual noise, not information.
 
 **Rule 4 — Labels are always high-contrast.**
-All text on charts (axis labels, data labels, titles, annotations) is Warm Charcoal `#2C2C2C`. The only exception: text on a dark colored bar (Burgundy or Forest Blue series) may be Cream `#F5F0E8` if the bar is wide enough to contain the label. Never amber, teal, or terracotta text anywhere.
+All text on charts (axis labels, data labels, titles, annotations) is Warm Charcoal `#1C1917`. The only exception: text on a dark colored bar (Burgundy or Forest Blue series) may be Cream `#FFF7F0` if the bar is wide enough to contain the label. Never amber, teal, or terracotta text anywhere.
 
 **Rule 5 — Area fills at 20–30% opacity, solid line at top.**
 Area charts use semi-transparent fills (20–30% of the series color) with a solid 1.5px line at the top of the fill. This is the standard editorial area chart treatment from the Holmes/Fortune era. The fill reads the area; the line reads the trend.
@@ -463,7 +463,7 @@ Area charts use semi-transparent fills (20–30% of the series color) with a sol
 Column separators: 0.25pt Warm Grey. Section dividers: 0.5pt Burgundy. Total rows: double 0.25pt rules. The grid is invisible. Structure is communicated by rule weight; status is communicated by color. Never use color to do what a rule weight should do.
 
 **Rule 7 — The Exhibit label governs everything.**
-Every chart, data panel, and table carries "EXHIBIT N:" in Adobe Caslon Pro small caps, 8pt, Warm Grey `#8C8680`, at the top left. Non-negotiable. This is what makes Second Chair's data output immediately recognizable as Second Chair.
+Every chart, data panel, and table carries "EXHIBIT N:" in Adobe Caslon Pro small caps, 8pt, Warm Grey `#6E6862`, at the top left. Non-negotiable. This is what makes Second Chair's data output immediately recognizable as Second Chair.
 
 ---
 
@@ -471,7 +471,7 @@ Every chart, data panel, and table carries "EXHIBIT N:" in Adobe Caslon Pro smal
 
 ```
 — CATEGORICAL SERIES —
-SC / Data / S1 Burgundy       #6B1A1A    (= SC/Burgundy — reused)
+SC / Data / S1 Burgundy       #490A0A    (= SC/Burgundy — reused)
 SC / Data / S2 ForestBlue     #2B5580
 SC / Data / S3 SuccessGreen   #2A6B3C
 SC / Data / S4 Amber          #C9943A
@@ -481,9 +481,9 @@ SC / Data / S6 Terracotta     #8B4522
 — STATUS INDICATORS —
 SC / Status / Positive        #2A6B3C
 SC / Status / Caution         #C9943A
-SC / Status / Negative        #6B1A1A    (= SC/Burgundy — reused)
+SC / Status / Negative        #490A0A    (= SC/Burgundy — reused)
 SC / Status / Info            #2B5580
-SC / Status / Neutral         #8C8680    (= SC/Grey — reused)
+SC / Status / Neutral         #6E6862    (= SC/Grey — reused)
 
 — STATUS BACKGROUNDS —
 SC / Status / Positive BG     #E5F2EA
@@ -566,7 +566,7 @@ The full-spectrum categorical palette is available in data visualization context
 - **Neon / RGB-maximum saturation:** Any color that reads as backlit digital rather than print quality. Run every proposed data color against the calibration question: "Would this color appear in a 1989 Fortune Magazine infographic?" If no, it doesn't belong.
 - **Gradients between data states:** Transitions from one performance state to another are communicated through discrete data elements (two bars, a delta arrow, a percentage change label) — never through a gradient fill
 - **More than 6 categorical series per chart:** More than six creates visual noise; group overflow into "Other" in Warm Grey
-- **Cool greys as neutral:** Warm Grey `#8C8680` is the neutral data color. Cool greys (blue-grey, silver) feel like generic SaaS defaults and conflict with the brand's warm palette
+- **Cool greys as neutral:** Warm Grey `#6E6862` is the neutral data color. Cool greys (blue-grey, silver) feel like generic SaaS defaults and conflict with the brand's warm palette
 
 **The one exception that proves the rule:** The screen-only pure white (`#FFFFFF`) in the `--sc-surface-secondary` semantic token is available for contexts where cream cannot be rendered accurately (some email clients). Use only as fallback.
 

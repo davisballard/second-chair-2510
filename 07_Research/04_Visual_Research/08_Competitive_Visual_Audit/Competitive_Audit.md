@@ -1,4 +1,4 @@
-# MVA / Personal Injury Lead Generation: Competitive Visual Audit
+﻿# MVA / Personal Injury Lead Generation: Competitive Visual Audit
 
 **Date:** February 28, 2026
 **Prepared for:** Second Chair — Strategic Positioning
@@ -23,7 +23,7 @@
 
 **Primary color palette:** Deep navy / near-black as primary. Based on the premium and "premier" positioning language and the controlled, dark-on-light visual hierarchy of the text content, this is almost certainly a dark background (deep navy `#1A2035` range or black `#0D0D0D`) with a restrained accent — likely old gold or warm cream — reserved for the brand name and key callouts. No bright colors. No red. This is the palette of exclusivity, not urgency.
 
-**Secondary palette:** The trademarked name "Quintessa®" and the premium positioning strongly suggest a gold or brass accent (`#B8962E` range). Cream or warm white for body text on dark backgrounds. Nothing saturated.
+**Secondary palette:** The trademarked name "Quintessa®" and the premium positioning strongly suggest a gold or brass accent (`#E8C165` range). Cream or warm white for body text on dark backgrounds. Nothing saturated.
 
 **Typography:** No font files crawlable, but the copy structure — declarative sentences, no bullet lists in the hero, firm paragraph blocks — reads as a serif-primary typographic system. The brand investment (registered trademark, proprietary product name, scarcity copy) suggests intentional display typography for headlines, likely a contemporary serif or a refined grotesque rather than a system font. The copy itself was written to be set well.
 
@@ -475,7 +475,7 @@ Zero vendors in this audit are operating in the visual language of legal prestig
 
 Concretely, this means:
 
-- **Color:** The prestige legal palette (Oxford navy `#1B2A4A`, Burgundy `#6B1A1A`, Old Gold `#B8962E`, Cream `#F5F0E8`) — not a single one of these appears anywhere in the competitive landscape
+- **Color:** The prestige legal palette (Oxford navy `#0F1E3A`, Burgundy `#490A0A`, Old Gold `#E8C165`, Cream `#FFF7F0`) — not a single one of these appears anywhere in the competitive landscape
 - **Photography:** The actual consumer — the person who got hit, who got hurt, who is looking for help — alongside the quality of the creative work that reached them. Not attorneys. Not dashboards.
 - **Typography:** Century Schoolbook or Caslon at display size for headlines. A prestige serif that communicates institutional authority. Not Inter. Not Montserrat. Not any web font that could have been chosen by any template user.
 - **Hero mechanic:** Show the creative work, not a stat block. "Here's the campaign that ran in the Dallas DMA last month. 847 leads. $412 average cost." The sample lead (Growth Legal) and the demo call (Smith.ai) are the nearest competitors to this mechanic. Neither shows the creative.

@@ -1,4 +1,4 @@
-# Second Chair: Primary Source Visual Research
+﻿# Second Chair: Primary Source Visual Research
 ### 1986–1995 Legal Prestige Aesthetic — Live Fetches & Documented Findings
 
 **Conducted:** February 28, 2026
@@ -150,8 +150,8 @@ The brief's color palette was derived from "West Reporter spines" as physical co
 This color coding is the single most visible systematic color application in American legal culture. Every law school library, every law firm library, every courthouse library has the same wall of burgundy and green. It is not incidental — it is the color system of legal authority in the United States, repeated at scale across every serious institution in the profession.
 
 **Design implication for Second Chair:**
-- Oxford Navy (`#1B2A4A`), Burgundy (`#6B1A1A`), and Forest Green (`#1E4D2B`) are not "traditional colors" — they are *the specific colors of the physical objects that defined legal authority for the PI attorneys Second Chair is targeting.* The palette is justified by primary object reference, not by sentiment.
-- Old gold/brass (`#B8962E`) spine lettering is the accent against both burgundy and green. Consistent across the entire system.
+- Oxford Navy (`#0F1E3A`), Burgundy (`#490A0A`), and Forest Green (`#163A21`) are not "traditional colors" — they are *the specific colors of the physical objects that defined legal authority for the PI attorneys Second Chair is targeting.* The palette is justified by primary object reference, not by sentiment.
+- Old gold/brass (`#E8C165`) spine lettering is the accent against both burgundy and green. Consistent across the entire system.
 
 ---
 
@@ -331,7 +331,7 @@ The pre-Spiekermann (pre-2001) Economist would have been set in an earlier typef
 **The Economist as a Second Chair reference:**
 The magazine cover's Economist Red masthead on a white field has been consistent for decades. The masthead is set in a sans-serif that reads as authoritative without being stiff. The red-on-white combination is one of the most recognizable brand marks in publishing — achieved through absolute consistency, not design complexity.
 
-For Second Chair data exhibits, the Economist conventions translate directly but should be adapted for the legal prestige palette: Burgundy (`#6B1A1A`) or Forest Green (`#1E4D2B`) in place of Economist Red; cream (`#F5F0E8`) backgrounds; Old Style 7 or Hoefler Text for axis labels and annotations; conclusions as chart titles.
+For Second Chair data exhibits, the Economist conventions translate directly but should be adapted for the legal prestige palette: Burgundy (`#490A0A`) or Forest Green (`#163A21`) in place of Economist Red; cream (`#FFF7F0`) backgrounds; Old Style 7 or Hoefler Text for axis labels and annotations; conclusions as chart titles.
 
 ---
 
@@ -353,7 +353,7 @@ The brief references the Am Law 100 issue as a design reference. The current law
 ### Addition 2: The Economist's specific color values
 **Economist Red:** `#E3120B` — confirmed as their system-specified primary data color
 **Off-white background:** `#F5F4F0` — warm paper quality
-**These values are useful as calibration points:** Second Chair should calibrate its cream value (`#F5F0E8`) against the Economist's off-white — they are in the same tonal range, with Second Chair's value slightly warmer (more yellow-red).
+**These values are useful as calibration points:** Second Chair should calibrate its cream value (`#FFF7F0`) against the Economist's off-white — they are in the same tonal range, with Second Chair's value slightly warmer (more yellow-red).
 
 ### Addition 3: Arnold Saks as a design precedent
 The brief does not name Saks, but his work for Goldman Sachs is the single most relevant design precedent for Second Chair: a rigorous, typography-first, restraint-first system applied to a prestige financial institution. The specific combination — Palatino + Burt Glinn B&W portraiture — should be found and documented as a primary moodboard reference. Graphis Annual Reports 1971 has Saks work. Later Goldman reports from the 1980s are the primary target.

@@ -1,4 +1,4 @@
-# Second Chair — UX Architecture
+﻿# Second Chair — UX Architecture
 *Screen Map, Navigation, Panel Hierarchy, Data States*
 *Luke Grabowski (lead) | Session: March 2, 2026*
 
@@ -83,9 +83,9 @@ The primary navigation is a left sidebar — present on all screens, consistent 
 
 **Navigation items:**
 - Typeface: Söhne Regular, 13px, Title Case
-- Color (default): Warm Charcoal `#2C2C2C`
+- Color (default): Warm Charcoal `#1C1917`
 - Color (hover): No color change — cursor change only
-- Active state: 0.5pt Burgundy `#6B1A1A` left-border rule + Söhne Medium weight
+- Active state: 0.5pt Burgundy `#490A0A` left-border rule + Söhne Medium weight
 - No background color change on active or hover — the rule and weight change is sufficient
 
 **Navigation item list:**
@@ -112,8 +112,8 @@ Account
 - Persistent control below the navigation items, above the bottom rule
 - Options: MTD (month-to-date) | QTD (quarter-to-date) | Last 30 Days | Last 90 Days | Custom
 - Typeface: Söhne Regular 11px, ALL CAPS, +8 tracking (matches table header convention)
-- Active option: Söhne Medium, Burgundy `#6B1A1A`
-- Inactive options: Warm Grey `#8C8680`
+- Active option: Söhne Medium, Burgundy `#490A0A`
+- Inactive options: Warm Grey `#6E6862`
 - This control persists across Dashboard, Leads, and Performance views — changing the period updates all three simultaneously
 
 ---
@@ -204,7 +204,7 @@ Contents:
 - Exhibit label: "EXHIBIT 4:" — Caslon Pro Small Caps, 8px, Warm Grey
 - Exhibit title: "Lead volume has [trended direction] over the past 13 weeks" — Caslon Pro Regular Italic, 14px
 - Chart: Isometric bar chart, weekly intervals, 13 bars
-  - Bars in Burgundy `#6B1A1A` (single series, no legend needed)
+  - Bars in Burgundy `#490A0A` (single series, no legend needed)
   - Current period bar in Success Green `#2A6B3C` if on pace, Amber `#C9943A` if below pace
   - Baseline: Single 0.5px Warm Grey rule
   - Labels: Week labels in Söhne Regular 10px, ALL CAPS below bars
@@ -249,7 +249,7 @@ Contents:
 - Exhibit label: "EXHIBIT 6:" — Caslon Pro Small Caps, 8px, Warm Grey
 - Exhibit title: "Cost per signed case has [direction] [%] over 13 weeks" — Caslon Pro Regular Italic, 14px
 - Chart: Area chart, 13-week rolling
-  - Single series, Burgundy `#6B1A1A` at 25% opacity fill, 1.5px solid line
+  - Single series, Burgundy `#490A0A` at 25% opacity fill, 1.5px solid line
   - Baseline rule: 0.5px Warm Grey
   - No gridlines
   - Direct value labels at week intervals (every 4th week labeled, current week always labeled)
@@ -378,7 +378,7 @@ All exhibit panels show placeholder content. Above Exhibit 1, a full-width infor
 
 **Per panel behavior:**
 - Exhibit label and title remain visible (they are static, from configuration)
-- Chart area shows: A 1px Burgundy `#6B1A1A` horizontal progress line animating from left to right across the panel width — per `06_Digital_Applications.md` specification
+- Chart area shows: A 1px Burgundy `#490A0A` horizontal progress line animating from left to right across the panel width — per `06_Digital_Applications.md` specification
 - Animation: 200ms ease-out
 - No skeleton placeholders with colored elements — only the Burgundy progress line
 
@@ -404,7 +404,7 @@ This is the primary designed state — all exhibit specifications in this docume
 
 **Per panel behavior:**
 - Exhibit label and title remain
-- Chart area: "Data unavailable" — Caslon Pro Regular Italic 13px, Burgundy `#6B1A1A`, centered in the panel
+- Chart area: "Data unavailable" — Caslon Pro Regular Italic 13px, Burgundy `#490A0A`, centered in the panel
 - Below: "Please refresh the page or contact your account representative." — Söhne Regular 12px, Warm Grey
 - The thick rule border remains — the structure is maintained even when the content fails
 - No error icons, no warning symbols — text only

@@ -1,4 +1,4 @@
-# Second Chair Visual Identity — Session Brief
+﻿# Second Chair Visual Identity — Session Brief
 *Session Date: March 1, 2026*
 
 ---
@@ -47,13 +47,13 @@ The strategic logic (Jon Steel's psychographic synthesis): PI attorneys carry an
 
 | Color | Hex | Physical Origin | Status |
 |---|---|---|---|
-| Cream/Ivory | `#F5F0E8` | Cotton-rag letterhead, law review paper | **Highest Priority — Lock It** |
-| Burgundy/Oxblood | `#6B1A1A` | West Federal Reporter spines, HLR binding | **Highest Priority — Lock It** |
-| Old Gold/Brass | `#B8962E` | Brass door placards, spine lettering | **High Priority — rules/lettering only** |
-| Warm Charcoal | `#2C2C2C` | Quality offset printing on cream | **High Priority — primary text** |
-| Oxford Navy | `#1B2A4A` | Brooks Brothers suits, Amex card | **Medium — foreground elements only** |
-| Forest Green | `#1E4D2B` | West state reporter spines | **Medium — secondary/variant** |
-| Warm Grey | `#8C8680` | Marble floors, limestone courthouse | **Medium — secondary text** |
+| Cream/Ivory | `#FFF7F0` | Cotton-rag letterhead, law review paper | **Highest Priority — Lock It** |
+| Burgundy/Oxblood | `#490A0A` | West Federal Reporter spines, HLR binding | **Highest Priority — Lock It** |
+| Old Gold/Brass | `#E8C165` | Brass door placards, spine lettering | **High Priority — rules/lettering only** |
+| Warm Charcoal | `#1C1917` | Quality offset printing on cream | **High Priority — primary text** |
+| Oxford Navy | `#0F1E3A` | Brooks Brothers suits, Amex card | **Medium — foreground elements only** |
+| Forest Green | `#163A21` | West state reporter spines | **Medium — secondary/variant** |
+| Warm Grey | `#6E6862` | Marble floors, limestone courthouse | **Medium — secondary text** |
 
 **The color exclusion list (non-negotiable):** No blue of any kind. No red. No orange. No purple. No gradients. No color not derivable from a physical object in the prestige law world.
 
@@ -76,9 +76,9 @@ The prestige legal aesthetic is completely unoccupied. Not one competitor is mov
 
 Ranked by distinctiveness and current ownership status:
 
-1. **Century Schoolbook Small Caps Wordmark** — #1 candidate. True optical small caps. "SECOND CHAIR" in all-small-caps at +30 tracking, `#2C2C2C` on `#F5F0E8`. No competitor uses it. Supreme Court-mandated typeface.
-2. **Cream Background `#F5F0E8`** — Separates Second Chair from every competitor instantly. Zero PI lead gen vendors use cream. Pure white reads as photocopier paper; cream reads as cotton-rag letterhead.
-3. **Burgundy Accent Convention `#6B1A1A`** — The primary chromatic mark. Applied as 0.5pt rule (divider), single chart accent, foil on physical covers. Zero competitors use it.
+1. **Century Schoolbook Small Caps Wordmark** — #1 candidate. True optical small caps. "SECOND CHAIR" in all-small-caps at +30 tracking, `#1C1917` on `#FFF7F0`. No competitor uses it. Supreme Court-mandated typeface.
+2. **Cream Background `#FFF7F0`** — Separates Second Chair from every competitor instantly. Zero PI lead gen vendors use cream. Pure white reads as photocopier paper; cream reads as cotton-rag letterhead.
+3. **Burgundy Accent Convention `#490A0A`** — The primary chromatic mark. Applied as 0.5pt rule (divider), single chart accent, foil on physical covers. Zero competitors use it.
 4. **Exhibit Naming Convention** — "Exhibit n:" in Century Schoolbook small caps, 8pt warm grey, above chart titles. Legal meaning (formally introduced trial document) + McKinsey signal (analytical rigor). Zero competitors use it.
 
 ---
@@ -192,7 +192,7 @@ Confirmed by Davis after reviewing AI-generated visual references across all thr
 
 **What carries forward from B:** The brass SC monogram plaque aesthetic remains a physical application reference. The building lobby directory, the mahogany and brass materiality — these inform the physical collateral world (business cards, letterhead, engraved items) even within Direction C's typographic system.
 
-**Paper/color confirmed:** Warm aged cream (`#F5F0E8`) — the cotton-rag journal quality. Not stark white. This distinction is critical in both print and digital.
+**Paper/color confirmed:** Warm aged cream (`#FFF7F0`) — the cotton-rag journal quality. Not stark white. This distinction is critical in both print and digital.
 
 **Typography system:** Option C — Tiempos Headline (display) + Adobe Caslon Pro (body) + Söhne (UI). See `03_Typography_System.md`.
 

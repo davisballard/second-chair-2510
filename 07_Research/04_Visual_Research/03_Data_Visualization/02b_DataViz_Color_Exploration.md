@@ -1,4 +1,4 @@
-# Second Chair — DataViz Color Palette Exploration
+﻿# Second Chair — DataViz Color Palette Exploration
 
 **Session goal:** Find a data visualization palette that harmonizes with the locked core brand without reading as generic or ugly. Five directions below — each with 6 categorical series colors and status mapping. Use Color Highlight extension to see swatches inline.
 
@@ -8,10 +8,10 @@
 
 | Role | Name | Hex |
 |---|---|---|
-| Primary | Oxblood Burgundy | `#6B1A1A` |
-| Secondary | Old Gold | `#B8962E` |
-| Ground | Cream / Ivory | `#F5F0E8` |
-| Neutral | Warm Charcoal | `#2C2C2C` |
+| Primary | Oxblood Burgundy | `#490A0A` |
+| Secondary | Old Gold | `#E8C165` |
+| Ground | Cream / Ivory | `#FFF7F0` |
+| Neutral | Warm Charcoal | `#1C1917` |
 
 ---
 ---
@@ -41,7 +41,7 @@
 | Caution | Topaz | `#B5740A` | Amber register, not neon yellow |
 | Negative | Claret | `#7A1E3A` | Red-family, distinct from oxblood |
 | Informational | Sapphire | `#1B4F8A` | Institutional blue |
-| Neutral | Warm Charcoal | `#2C2C2C` | Brand neutral, already in system |
+| Neutral | Warm Charcoal | `#1C1917` | Brand neutral, already in system |
 
 ---
 ---
@@ -213,7 +213,7 @@ three-quarter view, warm ambient light, 35mm documentary register
 ```
 
 **Series colors used:** Sapphire `#1B4F8A` · Emerald `#1A6B45` · Amethyst `#5C3272` · Topaz `#B5740A`
-**Brand colors held:** Burgundy rules `#6B1A1A` · Cream paper `#F5F0E8` · Charcoal type `#2C2C2C`
+**Brand colors held:** Burgundy rules `#490A0A` · Cream paper `#FFF7F0` · Charcoal type `#1C1917`
 
 ---
 
@@ -234,7 +234,7 @@ three-quarter view, warm ambient light, 35mm documentary register
 ```
 
 **Series colors used:** Oxford Navy `#1C2E4A` · Hunter Green `#2A5C38` · Caramel `#A67C3A` · Steel Slate `#4A5C6A`
-**Brand colors held:** Burgundy rules `#6B1A1A` · Cream paper `#F5F0E8` · Charcoal type `#2C2C2C`
+**Brand colors held:** Burgundy rules `#490A0A` · Cream paper `#FFF7F0` · Charcoal type `#1C1917`
 
 ---
 
@@ -255,7 +255,7 @@ three-quarter view, warm ambient light, 35mm documentary register
 ```
 
 **Series colors used:** Harvard Crimson `#A51C30` · Yale Navy `#1A3A6B` · Dartmouth Forest `#216B4A` · Princeton Gold `#D4820A`
-**Brand colors held:** Burgundy rules `#6B1A1A` · Cream paper `#F5F0E8` · Charcoal type `#2C2C2C`
+**Brand colors held:** Burgundy rules `#490A0A` · Cream paper `#FFF7F0` · Charcoal type `#1C1917`
 
 ---
 
@@ -276,7 +276,7 @@ three-quarter view, warm ambient light, 35mm documentary register
 ```
 
 **Series colors used:** Ink Blue `#2B4A6B` · Press Green `#2E6645` · Ochre `#C4922A` · Muted Violet `#5A4472`
-**Brand colors held:** Burgundy rules `#6B1A1A` · Cream paper `#F5F0E8` · Charcoal type `#2C2C2C`
+**Brand colors held:** Burgundy rules `#490A0A` · Cream paper `#FFF7F0` · Charcoal type `#1C1917`
 
 ---
 
@@ -297,4 +297,4 @@ three-quarter view, warm ambient light, 35mm documentary register
 ```
 
 **Series colors used:** Dark Slate `#3C5265` · Sienna `#8B4020` · Verdigris `#4A7C6B` · Warm Stone `#9B8B6B`
-**Brand colors held:** Burgundy rules `#6B1A1A` · Cream paper `#F5F0E8` · Charcoal type `#2C2C2C`
+**Brand colors held:** Burgundy rules `#490A0A` · Cream paper `#FFF7F0` · Charcoal type `#1C1917`

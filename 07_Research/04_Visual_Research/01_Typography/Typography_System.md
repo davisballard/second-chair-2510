@@ -1,4 +1,4 @@
-# Typography System Research
+﻿# Typography System Research
 ## Second Chair — 1986–1995 Legal Prestige Aesthetic
 
 **Research Lead:** Massimo Vignelli, Brand Identity Designer
@@ -214,7 +214,7 @@ Small capitals deserve their own documentation because they are the most distinc
 1. Download trial or purchase Century Schoolbook (Pro version with true small caps)
 2. Download Adobe Caslon Pro
 3. Download Palatino (or test with Book Antiqua as screen proxy)
-4. Set "SECOND CHAIR" in Century Schoolbook small caps at 48pt on cream (`#F5F0E8`) in warm charcoal (`#2C2C2C`)
+4. Set "SECOND CHAIR" in Century Schoolbook small caps at 48pt on cream (`#FFF7F0`) in warm charcoal (`#1C1917`)
 5. Compare this to the current wordmark
 6. This single exercise will validate or challenge the aesthetic direction more efficiently than any moodboard
 

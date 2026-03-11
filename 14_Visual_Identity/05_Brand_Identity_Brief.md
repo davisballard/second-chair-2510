@@ -1,4 +1,4 @@
-# Second Chair — Brand Identity Brief
+﻿# Second Chair — Brand Identity Brief
 *Final. March 1, 2026.*
 *Strategy: Julian Cole + Jon Steel | Visual Identity: Massimo Vignelli + Graham Fink | Creative Direction: John Hegarty*
 
@@ -121,21 +121,21 @@ Every environment above is lit at **2700–3000K warm incandescent**. There is n
 
 ### Primary Palette
 
-**Oxblood Burgundy — `#6B1A1A`**
+**Oxblood Burgundy — `#490A0A`**
 - Pantone starting point: 202 C (calibrate against physical West Federal Reporter spine)
 - Physical origin: West Federal Reporter binding cloth; Harvard Law Review buckram binding; oxblood leather chair
 - Strategic meaning: The Federal series. The Supreme Court. The circuit courts. The aspiration of every PI attorney who went to law school wanting to argue the important cases.
 - Usage: The rule (0.5pt horizontal line throughout all applications), single chart accent in data visualization, physical foil on covers, structural elements in digital interfaces
 - Category status: **Zero competitors use this color.** The entire PI lead gen category is navy, grey, white, and red. Oxblood is permanently unclaimed territory.
 
-**Old Gold / Brass — `#B8962E`**
+**Old Gold / Brass — `#E8C165`**
 - Pantone starting point: 872 C metallic (for offset); 109 C (non-metallic spot color)
 - Physical origin: Brass door placards; West Reporter spine lettering; engraved nameplate lettering; Crane & Co. letterhead embossing
 - Strategic meaning: The material of permanence. Brass doesn't rust. It ages into authority.
 - Usage: Physical applications only — foil stamping, letterpress, engraved collateral, the SC monogram nameplate. In digital: decorative rule lines on cream, never as a field color or text color.
 - The test: Aged brass, not polished. It should look like the nameplate on a 1987 firm's door, not a new trophy.
 
-**Cream / Ivory — `#F5F0E8`**
+**Cream / Ivory — `#FFF7F0`**
 - Pantone starting point: 9183 C (calibrate against Crane Lettra 110lb in physical production)
 - Paper stock: Crane Lettra 110lb Cover (cards/letterhead); Mohawk Superfine Ultrawhite Eggshell 80lb Text (documents)
 - Physical origin: Cotton-rag letterhead; Harvard Law Review paper stock; West Reporter text block
@@ -143,16 +143,16 @@ Every environment above is lit at **2700–3000K warm incandescent**. There is n
 - Usage: **Primary background for all Second Chair surfaces** — documents, website, decks, letterhead, business cards. Never use pure white (`#FFFFFF`) as a Second Chair background.
 - Category status: **Zero PI lead gen vendors use cream.** Immediate differentiation at the background level.
 
-**Warm Charcoal — `#2C2C2C`**
+**Warm Charcoal — `#1C1917`**
 - Physical origin: Quality offset printing on cream paper — ink that has absorbed into the surface
 - Strategic meaning: The color of serious printing. Not harsh pure black, not faded grey. The color of something that was made properly.
 - Usage: All body text, headlines, wordmark on cream backgrounds. Not pure black — the warmth matters against cream.
 
 ### Secondary Palette
 
-**Oxford Navy — `#1B2A4A`** — Foreground structural elements only. Never as a field/background color.
-**Forest Green — `#1E4D2B`** — Secondary variant. The state reporter palette. Available for geographic or market-specific applications. Not the primary identity.
-**Warm Grey — `#8C8680`** — Supporting text: captions, exhibit labels, footnotes, running heads.
+**Oxford Navy — `#0F1E3A`** — Foreground structural elements only. Never as a field/background color.
+**Forest Green — `#163A21`** — Secondary variant. The state reporter palette. Available for geographic or market-specific applications. Not the primary identity.
+**Warm Grey — `#6E6862`** — Supporting text: captions, exhibit labels, footnotes, running heads.
 
 ### The Color Exclusion List (Non-Negotiable)
 
@@ -165,7 +165,7 @@ The brand has two modes that use the same colors differently:
 | Context | Background | Text/Mark | Accent |
 |---|---|---|---|
 | **Physical** (book cover, foil, plaque) | Oxblood cloth / brass | Gold foil lettering | Gold rule |
-| **Digital / Print** (web, letterhead, deck) | Cream `#F5F0E8` | Charcoal `#2C2C2C` | Burgundy `#6B1A1A` rule |
+| **Digital / Print** (web, letterhead, deck) | Cream `#FFF7F0` | Charcoal `#1C1917` | Burgundy `#490A0A` rule |
 
 The physical world is dark with gold. The document world is cream with charcoal and burgundy. Both are the same brand. The West Reporter works the same way — oxblood spine with gold lettering on the outside, cream pages with charcoal type on the inside.
 
@@ -186,7 +186,7 @@ Chair
 ```
 
 - **Line 1:** "SECOND" in Tiempos Headline Bold — large, dominant, the editorial voice
-- **Divider:** 0.5pt Burgundy `#6B1A1A` horizontal rule, full width of "SECOND"
+- **Divider:** 0.5pt Burgundy `#490A0A` horizontal rule, full width of "SECOND"
 - **Line 2:** "Chair" in Adobe Caslon Pro Regular — approximately 45% the visual size of "SECOND", the institutional anchor
 
 ### Why This Structure Works
@@ -230,17 +230,17 @@ For applications where the full wordmark is too long (favicon, app icon, embosse
 **"SC" in a thin rectangular border**
 - Typeface: Adobe Caslon Pro, optical small caps
 - Border: 0.5pt hairline rectangle — the same pen weight as the wordmark rule
-- Color: Oxblood `#6B1A1A` on Cream `#F5F0E8` (primary); Gold `#B8962E` on Oxblood `#6B1A1A` (physical/engraved)
+- Color: Oxblood `#490A0A` on Cream `#FFF7F0` (primary); Gold `#E8C165` on Oxblood `#490A0A` (physical/engraved)
 - The form: Engraved brass plaque. The object validated in the March 2026 visual exploration — the brass "SC" nameplate on dark wood paneling.
 
 ### Figma Build Sequence
 
-1. Create color styles: `SC/Cream #F5F0E8`, `SC/Burgundy #6B1A1A`, `SC/Charcoal #2C2C2C`, `SC/Gold #B8962E`, `SC/Navy #1B2A4A`, `SC/Green #1E4D2B`, `SC/Grey #8C8680`
-2. Set canvas fill to Cream `#F5F0E8`
-3. Create text layer: "SECOND" in Tiempos Headline Bold, color `#2C2C2C`
+1. Create color styles: `SC/Cream #FFF7F0`, `SC/Burgundy #490A0A`, `SC/Charcoal #1C1917`, `SC/Gold #E8C165`, `SC/Navy #0F1E3A`, `SC/Green #163A21`, `SC/Grey #6E6862`
+2. Set canvas fill to Cream `#FFF7F0`
+3. Create text layer: "SECOND" in Tiempos Headline Bold, color `#1C1917`
 4. Size: Start at 96pt — adjust optically until it fills about 60% of the frame width
-5. Create rectangle: width = exact bounding box width of "SECOND" text, height = 0.5px, color `#6B1A1A`, position 8px below the baseline of "SECOND"
-6. Create text layer: "Chair" in Adobe Caslon Pro Regular, color `#2C2C2C`, size approximately 45pt (adjust until optically ~45% the visual weight of "SECOND")
+5. Create rectangle: width = exact bounding box width of "SECOND" text, height = 0.5px, color `#490A0A`, position 8px below the baseline of "SECOND"
+6. Create text layer: "Chair" in Adobe Caslon Pro Regular, color `#1C1917`, size approximately 45pt (adjust until optically ~45% the visual weight of "SECOND")
 7. Position "Chair" flush left, aligned with left edge of "S" in "SECOND"
 8. Group all three layers: name "SECOND CHAIR / Wordmark / Primary"
 9. Duplicate and test: burgundy background with cream text (reverse lockup)
@@ -289,7 +289,7 @@ True optical small caps only — the actual small cap glyphs designed by the typ
 
 Every data point, chart, table, or statistical reference in Second Chair communications is labeled:
 
-**EXHIBIT N:** in Adobe Caslon Pro small caps, 8pt, Warm Grey `#8C8680`, left-aligned, above the chart title.
+**EXHIBIT N:** in Adobe Caslon Pro small caps, 8pt, Warm Grey `#6E6862`, left-aligned, above the chart title.
 
 This convention comes from two sources simultaneously:
 1. **McKinsey** — the "Exhibit n:" naming system signals analytical rigor and consulting-grade work to any attorney who has seen a McKinsey deck
@@ -315,7 +315,7 @@ Zero competitors in the PI lead gen category use this convention. It is complete
 - Physical premium version: Thermographed or letterpress on cream; foil variant with gold SC monogram on oxblood back panel
 
 ### Website
-- Background: Cream `#F5F0E8` — entire site
+- Background: Cream `#FFF7F0` — entire site
 - Hero: "SECOND" in Tiempos Headline Bold at large display size, 0.5pt Burgundy rule, "Chair" in Caslon Pro below
 - Navigation: Söhne Regular, small caps, Warm Charcoal, 0.5pt Burgundy rule below nav bar
 - Body: Adobe Caslon Pro 10.5pt / 16pt leading
@@ -323,11 +323,11 @@ Zero competitors in the PI lead gen category use this convention. It is complete
 - Photography appears in content sections: 2700K warm amber, documentary register, environmental (no stock)
 
 ### Data Exhibits
-- Canvas: Cream `#F5F0E8`
+- Canvas: Cream `#FFF7F0`
 - Exhibit label: "EXHIBIT N:" Caslon Pro small caps, 8pt, Warm Grey, top-left
 - Chart title: States the conclusion ("Signed cases cost 40% less at CPSC-aligned vendors") in Tiempos Headline or Caslon Pro Bold
-- Highlight color: Burgundy `#6B1A1A` — single accent only
-- Supporting data: Warm Grey `#8C8680`
+- Highlight color: Burgundy `#490A0A` — single accent only
+- Supporting data: Warm Grey `#6E6862`
 - No chart borders, no legend boxes, no grid lines beyond baseline, no 3D, no gradients
 - Direct labels on data points — never a legend
 
