@@ -1,4 +1,4 @@
-﻿# Second Chair — Website Architecture Blueprint
+# Second Chair — Website Architecture Blueprint
 ## `01_Site_Architecture.md`
 
 > **Document Purpose:** Section-by-section, page-by-page blueprint for the Second Chair website. Covers strategic purpose, copy direction, placeholder headlines, design notes, content status, and what Alex needs to supply for each section. Use this to brief Figma design, copywriting, and build.
@@ -157,7 +157,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 
 ### SECTION 5 — THE MOAT (THREE ADVANTAGES)
 
-**Strategic purpose:** Now that the creative has been demonstrated, explain the system behind it. Three pillars — not three bullet lists. Brief by design. The AI-systems angle lives here — not as a gimmick but as the structural reason why three founders produce the output of a forty-person operation. This is "why Second Chair is a competitive advantage for any firm that works with them, not just a vendor."
+**Strategic purpose:** Now that the creative has been demonstrated, explain the system behind it. Three pillars — not three bullet lists. Brief by design. The AI-systems angle lives here — not as a gimmick but as the structural reason why three founders produce the output of a 37-person operation. This is "why Second Chair is a competitive advantage for any firm that works with them, not just a vendor."
 
 **Color:** Cream `#FFF7F0`. Three-column editorial grid. Thin burgundy rule above each column.
 
@@ -273,7 +273,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 **Design direction:** Photos should be editorial, not polished corporate. Think: real person at work or in a real space, not studio backdrop. Consistent treatment across all three. No suits required. The founders' backgrounds are impressive enough — the photos don't need to perform authority.
 
 **Closing line (below all three cards — full width, centered, larger type):**
-> "Three founders. The output of forty."
+> "Three founders. The output of 37."
 
 *Design note:* This is a quiet statement, not a headline. Sit it below the cards in a slightly larger type size, centered, with breathing room above and below. It should feel like a conclusion the reader arrives at after seeing what all three built — not a claim they're asked to accept at the start. No supporting copy needed. The cards did the work.
 
