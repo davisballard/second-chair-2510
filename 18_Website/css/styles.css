@@ -1,4 +1,4 @@
-﻿    /* ── Brand Fonts ─────────────────────────────────────────────
+    /* ── Brand Fonts ─────────────────────────────────────────────
        TestTiempos Headline  →  Tiempos Headline (production)
        Adobe Caslon Pro      →  same (licensed)
        Söhne                 →  same (licensed)
@@ -214,9 +214,7 @@
       font-style: normal;
       font-display: swap;
     }
-  </style>
 
-  <style>
     /* ============================================================
        DESIGN TOKENS — Second Chair Brand System
        Color System locked: March 1, 2026 (Massimo Vignelli)
@@ -429,7 +427,7 @@
       font-size: 78px;
       font-weight: 400;
       font-style: italic;
-      line-height: 1.07;
+      line-height: 1.15;
       letter-spacing: -0.025em;
       color: var(--sc-white);
       -webkit-text-stroke: 1px rgba(255,221,114,0.34);
@@ -725,6 +723,8 @@
       grid-template-columns: 1fr 1fr;
       gap: 18px;
       align-items: start;
+      min-height: 0;
+      overflow: visible;
     }
     .creative-panel--category {
       background: #e8e4dd;
