@@ -8,9 +8,9 @@
 
 | Need | File |
 |------|------|
-| **Team roles & compensation** | [`ROLES_AND_COMPENSATION.md`](ROLES_AND_COMPENSATION.md) |
-| **Brand overview & ad creation** | [`BRAND_MASTER.md`](BRAND_MASTER.md) |
-| **Create ads workflow** | [`AD_CREATION_WORKFLOW.md`](AD_CREATION_WORKFLOW.md) |
+| **Team roles & compensation** | [`../11_Financials/ROLES_AND_COMPENSATION.md`](../11_Financials/ROLES_AND_COMPENSATION.md) |
+| **Brand overview & ad creation** | [`../01_Identity/BRAND_MASTER.md`](../01_Identity/BRAND_MASTER.md) |
+| **Create ads workflow** | [`../09_Operations/AD_CREATION_WORKFLOW.md`](../09_Operations/AD_CREATION_WORKFLOW.md) |
 | **Brand positioning (complete)** | [`../01_Identity/BRAND_POSITIONING_CORE.md`](../01_Identity/BRAND_POSITIONING_CORE.md) |
 | **Research overview** | [`../07_Research/RESEARCH_INDEX.md`](../07_Research/RESEARCH_INDEX.md) |
 | **B2B strategy research** | [`../07_Research/B2B_Strategy_Research/RESEARCH_INDEX.md`](../07_Research/B2B_Strategy_Research/RESEARCH_INDEX.md) |
@@ -34,13 +34,11 @@
 
 ### 00_Project_Hub (You Are Here)
 
-**Purpose:** Master documents, workflows, and navigation
+**Purpose:** Master navigation index
 
 | File | Description |
 |------|-------------|
 | [`PROJECT_INDEX.md`](PROJECT_INDEX.md) | This file - complete project navigation |
-| [`BRAND_MASTER.md`](BRAND_MASTER.md) | Brand hub - quick reference and ad creation trigger |
-| [`AD_CREATION_WORKFLOW.md`](AD_CREATION_WORKFLOW.md) | Full ad creation workflow and agency team coordination |
 
 ---
 
@@ -52,6 +50,7 @@
 
 | File | Description |
 |------|-------------|
+| [`BRAND_MASTER.md`](../01_Identity/BRAND_MASTER.md) | **Brand hub** — quick reference, ad creation trigger, session starter |
 | [`BRAND_POSITIONING_CORE.md`](../01_Identity/BRAND_POSITIONING_CORE.md) | **Complete brand positioning** (rational + emotional layers) |
 | [`SERVICE_PERSONAL_INJURY.md`](../01_Identity/SERVICE_PERSONAL_INJURY.md) | PI service positioning and messaging hooks |
 | [`Consumer_Brand_Names.md`](../01_Identity/Consumer_Brand_Names.md) | Consumer-facing brand naming exploration |
@@ -62,7 +61,7 @@
 
 **Subfolders:**
 - [`ClaimJusticeNow/`](../01_Identity/ClaimJusticeNow/) - Consumer brand logo development and design briefs
-- [`employees/`](../01_Identity/employees/) - Team member profiles (DavisBallard.md, AlexDuBelko.md, SashaZinshtein.md)
+- [`employees/`](../01_Identity/employees/) - Team member profiles (DavisBallard.md, AlexDuBelko.md, SashaZinshtein.md, AlexDuBelko_Intro_Pitch.md)
 
 ---
 
@@ -158,17 +157,19 @@ Platform-specific format guides: Meta, Google, TikTok, Snapchat, LinkedIn, Bing,
 
 ### 09_Operations
 
-**Purpose:** Project operations, tasks, team roles, compensation
+**Purpose:** Project operations, tasks, workflows, schedules, and tooling
 
 **Path:** [`../09_Operations/`](../09_Operations/)
 
-| Files | Description |
-|-------|-------------|
-| `Active_Tasks.md` | Current active tasks and priorities |
+| File | Description |
+|------|-------------|
+| [`Active_Tasks.md`](../09_Operations/Active_Tasks.md) | Current active tasks and priorities |
+| [`LAUNCH_SCHEDULE.md`](../09_Operations/LAUNCH_SCHEDULE.md) | Pre-launch master schedule (anchor dates, task breakdown by founder) |
+| [`ORACLE_LAUNCH_CALENDAR.md`](../09_Operations/ORACLE_LAUNCH_CALENDAR.md) | Day-by-day Oracle launch calendar (Mar 11–23) |
+| [`AD_CREATION_WORKFLOW.md`](../09_Operations/AD_CREATION_WORKFLOW.md) | Full ad creation workflow and agency team coordination |
+| [`PUSH_INSTRUCTIONS.md`](../09_Operations/PUSH_INSTRUCTIONS.md) | How to push Second Chair files to GitHub |
 
-**Subfolder:** `Tools_Scripts/` - Development scripts and virtual environment
-
-**Also see:** [`ROLES_AND_COMPENSATION.md`](ROLES_AND_COMPENSATION.md) in Project Hub for quick reference
+**Subfolder:** [`Tools_Scripts/`](../09_Operations/Tools_Scripts/) - Development scripts, push script, and virtual environment
 
 ---
 
@@ -192,11 +193,44 @@ Multiple pending ad files organized by state and concept
 
 ### 11_Financials
 
-**Purpose:** Financial projections, pricing, ROI models
+**Purpose:** Financial projections, pricing, ROI models, team compensation
 
 **Path:** [`../11_Financials/`](../11_Financials/)
 
-Key file: `FINANCIAL_PROJECTIONS.md`
+| File | Description |
+|------|-------------|
+| [`FINANCIAL_PROJECTIONS.md`](../11_Financials/FINANCIAL_PROJECTIONS.md) | Comprehensive revenue modeling and growth scenarios |
+| [`ROLES_AND_COMPENSATION.md`](../11_Financials/ROLES_AND_COMPENSATION.md) | Co-founder roles, equity split, compensation structure |
+
+---
+
+### 17_Website_Design_Docs
+
+**Purpose:** Website architecture, design direction, and tech stack documentation
+
+**Path:** [`../17_Website_Design_Docs/`](../17_Website_Design_Docs/)
+
+| File | Description |
+|------|-------------|
+| `01_Site_Architecture.md` | Full homepage blueprint — copy direction, section strategy, design notes, content status |
+| `02_Tech_Stack_And_Deployment.md` | **Tech stack and deployment pipeline** — Next.js, Svelte, Vercel, GitHub workflow |
+
+---
+
+### 18_Website
+
+**Purpose:** Website source files — the actual code
+
+**Path:** [`../18_Website/`](../18_Website/)
+
+| Item | Detail |
+|------|--------|
+| **Framework** | Next.js (React 19) — main website |
+| **Domain** | `2ndchair.net` |
+| **Repo** | `github.com/davisballard/second-chair-website-5220` |
+| **Deployment** | Vercel (auto-deploys on push to `main`) |
+
+Edit files in Cursor → push to GitHub → live in ~30 seconds.
 
 ---
 
@@ -242,14 +276,14 @@ This project uses a hierarchical naming system:
 
 ### Creating Ads
 
-1. Start at [`BRAND_MASTER.md`](BRAND_MASTER.md)
-2. Say: "Make ads for [STATE]" (triggers [`AD_CREATION_WORKFLOW.md`](AD_CREATION_WORKFLOW.md))
+1. Start at [`../01_Identity/BRAND_MASTER.md`](../01_Identity/BRAND_MASTER.md)
+2. Say: "Make ads for [STATE]" (triggers [`../09_Operations/AD_CREATION_WORKFLOW.md`](../09_Operations/AD_CREATION_WORKFLOW.md))
 3. Agency team assembles automatically
 4. Review concepts → Select format → Generate executions
 
 ### Understanding the Brand
 
-1. Read [`BRAND_MASTER.md`](BRAND_MASTER.md) for quick overview
+1. Read [`../01_Identity/BRAND_MASTER.md`](../01_Identity/BRAND_MASTER.md) for quick overview
 2. Deep dive: [`../01_Identity/BRAND_POSITIONING_CORE.md`](../01_Identity/BRAND_POSITIONING_CORE.md)
 3. Application: [`../03_Voice/AD_MESSAGING_FRAMEWORK.md`](../03_Voice/AD_MESSAGING_FRAMEWORK.md)
 4. Context: [`../07_Research/B2B_Strategy_Research/RESEARCH_INDEX.md`](../07_Research/B2B_Strategy_Research/RESEARCH_INDEX.md)
@@ -282,7 +316,7 @@ When working on Second Chair, you may need to invoke agency experts:
 | **Graham Fink** | `../../02_Creative/Graham_Fink_(Senior_Art_Director)/` | Art direction, visual/verbal marriage |
 | **Massimo Vignelli** | `../../02_Creative/Massimo_Vignelli_(Brand_Identity_Designer)/` | Visual systems architecture, brand identity, logo design, design tokens |
 
-Full team details in [`AD_CREATION_WORKFLOW.md`](AD_CREATION_WORKFLOW.md)
+Full team details in [`../09_Operations/AD_CREATION_WORKFLOW.md`](../09_Operations/AD_CREATION_WORKFLOW.md)
 
 ---
 

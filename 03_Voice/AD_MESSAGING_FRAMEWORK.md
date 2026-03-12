@@ -463,7 +463,7 @@ Good: "Every case is David vs. Goliath. We provide the ammunition: geo-exclusive
 ## Related Documents
 
 - [`BRAND_POSITIONING_CORE.md`](../01_Identity/BRAND_POSITIONING_CORE.md) — Full fused positioning
-- [`BRAND_MASTER.md`](../00_Project_Hub/BRAND_MASTER.md) — Brand hub
+- [`BRAND_MASTER.md`](../01_Identity/BRAND_MASTER.md) — Brand hub
 - [`SERVICE_PERSONAL_INJURY.md`](../01_Identity/SERVICE_PERSONAL_INJURY.md) — Service-specific messaging
 - [`B2B_Attorney_Acquisition/`](../12_Campaigns/B2B_Attorney_Acquisition/) — Actual ad campaign examples
 

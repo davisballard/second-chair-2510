@@ -324,5 +324,5 @@ Based on website analysis:
 ## Related Files
 
 - [`BRAND_POSITIONING_CORE.md`](../01_Identity/BRAND_POSITIONING_CORE.md) — Core brand positioning
-- [`BRAND_MASTER.md`](../00_Project_Hub/BRAND_MASTER.md) — Brand hub document
+- [`BRAND_MASTER.md`](../01_Identity/BRAND_MASTER.md) — Brand hub document
 - [`Website_Scrape_Raw_2026-02-12.md`](../07_Research/Strategic_Analysis/Website_Scrape_Raw_2026-02-12.md) — Raw scrape data

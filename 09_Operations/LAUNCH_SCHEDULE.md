@@ -20,7 +20,7 @@ Mercury Retrograde in Pisces runs Feb 26 – Mar 20. No cold pitches, no new out
 
 **Alex starts sending domain warmup by March 11–12.** 7–10 days minimum. Everything else has flex. This doesn't.
 
-- Set up outreach sending domain (separate from `secondchair.com`)
+- Set up outreach sending domain (separate from `2ndchair.net`)
 - Publish SPF, DKIM, DMARC records
 - Start warmup sequence
 
@@ -152,7 +152,7 @@ GitBook or Notion. Simple and scannable. Comes directly from the agreed strategy
 
 **Website (Mar 12–19, building with Davis)**
 - Co-build in Cursor — structure, architecture, anything Davis needs help executing
-- Handle `secondchair.com` hosting, server setup, deployment
+- Handle `2ndchair.net` hosting, server setup, deployment
 - Install GA4 — confirm it's firing on all pages
 - Add Privacy Policy page
 - Mobile scaling — after content and copy are finalized (not before)
@@ -177,7 +177,7 @@ GitBook or Notion. Simple and scannable. Comes directly from the agreed strategy
 
 *Do not send anything. Confirm everything is live.*
 
-- [ ] Website live at `secondchair.com` — all pages, mobile-scaled, QA'd
+- [ ] Website live at `2ndchair.net` — all pages, mobile-scaled, QA'd
 - [ ] LinkedIn company page live; all three personal profiles updated
 - [ ] Sending domain warmed, sequences loaded and ready
 - [ ] Your Fair Call ad accounts set up, creative loaded, ready to run

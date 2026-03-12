@@ -155,10 +155,10 @@ The display path reinforces relevance in the visible URL.
 
 | Path 1 | Path 2 | Full Display |
 |--------|--------|--------------|
-| Car-Accident | Free-Review | secondchair.com/Car-Accident/Free-Review |
-| Injury-Help | Free-Consult | secondchair.com/Injury-Help/Free-Consult |
-| Legal-Help | No-Fee | secondchair.com/Legal-Help/No-Fee |
-| Attorneys | Experienced | secondchair.com/Attorneys/Experienced |
+| Car-Accident | Free-Review | 2ndchair.net/Car-Accident/Free-Review |
+| Injury-Help | Free-Consult | 2ndchair.net/Injury-Help/Free-Consult |
+| Legal-Help | No-Fee | 2ndchair.net/Legal-Help/No-Fee |
+| Attorneys | Experienced | 2ndchair.net/Attorneys/Experienced |
 
 ---
 
