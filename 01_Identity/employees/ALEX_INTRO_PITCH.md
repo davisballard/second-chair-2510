@@ -10,7 +10,7 @@ Second Chair is a **geo-exclusive lead generation company** for personal injury 
 
 One firm per metro. No shared leads. No bidding wars.
 
-**Consumer brand:** Claim Justice Now (claimjusticenow.com)
+**Consumer brand:** Fair Case (getafaircase.com)
 
 The model: we generate high-intent PI leads through advertising that pre-qualifies before the first phone call, and we sell those leads to partner attorneys at **$400 each** (standard) or **$1,500+** (premium case-ready). Our cost to generate a lead is **$75–$150**. Every DMA partner we sign is recurring revenue — they buy leads from us month after month because the leads convert into signed cases.
 
@@ -32,7 +32,7 @@ Second Chair is different because of **The Creative Advantage**:
 - **Behavioral science** — Every ad, headline, and quiz question is built on behavioral psychology. We solve the psychological barriers to contacting a lawyer before the lead ever calls.
 - **DMA exclusivity, actually enforced** — One firm per metro. Your market is yours. Period.
 - **Quiz funnels that pre-qualify** — By the time someone completes the flow, they've self-selected as a real case with real intent. The leads arrive fired up, ready to sign.
-- **Justice positioning** — "Claim Justice Now" isn't a tagline. It's the entire consumer brand. Every touchpoint reinforces advocacy and urgency in a way generic lead gen can't replicate.
+- **Fair Case positioning** — "Fair Case" isn't just a brand name. It's the claimant's own language. Every touchpoint reinforces the emotional truth that they deserve fairness, in a way generic lead gen can't replicate.
 
 The rest of the industry buys traffic and hopes. We build advertising systems.
 
