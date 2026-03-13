@@ -1,4 +1,9 @@
-﻿# ClaimJusticeNow Brand Identity System
+> **ARCHIVED — March 12, 2026**
+> This identity system was developed for the working brand name "Claim Justice Now." The B2C consumer brand has been confirmed as **Fair Case (getafaircase.com)**. This document is retained as a reference for the visual identity process only. Do not use for active brand work.
+
+---
+
+# ClaimJusticeNow Brand Identity System
 **Designed by Massimo Vignelli (Visual Systems Architect)**  
 **Date:** February 10, 2026  
 **Brand:** ClaimJusticeNow — Consumer-facing PI Lead Generation

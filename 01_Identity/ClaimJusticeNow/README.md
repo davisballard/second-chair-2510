@@ -1,3 +1,8 @@
+> **ARCHIVED — March 12, 2026**
+> This folder contains identity work developed under the working name "Claim Justice Now." The B2C consumer brand has been confirmed as **Fair Case (getafaircase.com)**. This material is retained for reference. Do not use for active brand work.
+
+---
+
 # ClaimJusticeNow Brand Identity
 
 Consumer-facing brand for Second Chair's personal injury lead generation service.

@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 360" fill="none">
+  <!--
+    TORCH ICON — Vector-ready SVG
+    Based on gold foil emboss reference.
+
+    Usage:
+    • Import directly into Illustrator or Figma
+    • Delete the <rect id="background"> layer if you want transparent bg
+    • All stroke paths are grouped by element for easy editing
+    • Stroke: #C9A84C (gold) · BG: #3D0C1A (velvet maroon)
+    • viewBox: 200 × 360 — scales cleanly to any size
+  -->
+
+  <!-- ═══════════════════════════════════
+       BACKGROUND — delete if not needed
+  ════════════════════════════════════ -->
+  <rect id="background" width="200" height="360" fill="#3D0C1A"/>
+
+  <!-- ═══════════════════════════════════
+       HANDLE — parallel tube, rounded-U bottom
+  ════════════════════════════════════ -->
+  <g id="handle">
+    <path
+      d="M 87 228 L 87 318 Q 87 333 100 333 Q 113 333 113 318 L 113 228"
+      stroke="#C9A84C" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"
+    />
+  </g>
+
+  <!-- ═══════════════════════════════════
+       CUP / COLLAR — two-rail band with splay to handle
+  ════════════════════════════════════ -->
+  <g id="collar">
+    <!-- Top rail -->
+    <line x1="73" y1="208" x2="127" y2="208" stroke="#C9A84C" stroke-width="5.5" stroke-linecap="round"/>
+    <!-- Bottom rail -->
+    <line x1="78" y1="220" x2="122" y2="220" stroke="#C9A84C" stroke-width="5.5" stroke-linecap="round"/>
+    <!-- Left wall -->
+    <line x1="73" y1="208" x2="78"  y2="220" stroke="#C9A84C" stroke-width="5.5" stroke-linecap="round"/>
+    <!-- Right wall -->
+    <line x1="127" y1="208" x2="122" y2="220" stroke="#C9A84C" stroke-width="5.5" stroke-linecap="round"/>
+    <!-- Left splay to handle -->
+    <line x1="78"  y1="220" x2="87"  y2="228" stroke="#C9A84C" stroke-width="5.5" stroke-linecap="round"/>
+    <!-- Right splay to handle -->
+    <line x1="122" y1="220" x2="113" y2="228" stroke="#C9A84C" stroke-width="5.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- ═══════════════════════════════════
+       FLAME — OUTER SILHOUETTE
+       Wide two-lobe form. Left lobe slightly heavier.
+       Peak at top-center leans left.
+  ════════════════════════════════════ -->
+  <g id="flame-outer">
+    <path
+      d="
+        M 84 206
+        C 76 196 42 174 39 140
+        C 36 116 52 104 65 122
+        C 58  98 54  64 77 42
+        C 77  64 84  88 98 86
+        C 101 62 113 38 130 50
+        C 148 66 144 114 122 130
+        C 138 118 148 118 142 150
+        C 136 178 118 206 116 206
+        Z
+      "
+      stroke="#C9A84C" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"
+    />
+  </g>
+
+  <!-- ═══════════════════════════════════
+       FLAME — INNER TONGUE (center-left)
+       Main interior detail — teardrop/lozenge
+  ════════════════════════════════════ -->
+  <g id="flame-inner-center">
+    <path
+      d="
+        M 99 200
+        C 88 182 81 156 88 140
+        C 91 132 96 137 97 146
+        C 99 131 103 113 109 107
+        C 110 126 104 152 113 168
+        C 107 182 99 200 99 200
+        Z
+      "
+      stroke="#C9A84C" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"
+    />
+  </g>
+
+  <!-- ═══════════════════════════════════
+       FLAME — INNER RIGHT HOOK
+       Small secondary tongue in right lobe
+  ════════════════════════════════════ -->
+  <g id="flame-inner-right">
+    <path
+      d="M 124 136 C 132 122 135 104 128 94 C 122 84 114 92 120 108"
+      stroke="#C9A84C" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"
+    />
+  </g>
+
+</svg>
