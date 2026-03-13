@@ -205,10 +205,10 @@ The display path is often overlooked but provides additional keyword/message rea
 
 | Path 1 | Path 2 | Full Display | Use Case |
 |--------|--------|--------------|----------|
-| Car-Accident | Free-Review | secondchair.com/Car-Accident/Free-Review | MVA campaigns |
-| Injury-Help | Free-Consult | secondchair.com/Injury-Help/Free-Consult | General PI |
-| Legal-Help | No-Fee | secondchair.com/Legal-Help/No-Fee | Risk reversal focus |
-| Attorneys | 24-7 | secondchair.com/Attorneys/24-7 | Availability focus |
+| Car-Accident | Free-Review | 2ndchair.net/Car-Accident/Free-Review | MVA campaigns |
+| Injury-Help | Free-Consult | 2ndchair.net/Injury-Help/Free-Consult | General PI |
+| Legal-Help | No-Fee | 2ndchair.net/Legal-Help/No-Fee | Risk reversal focus |
+| Attorneys | 24-7 | 2ndchair.net/Attorneys/24-7 | Availability focus |
 
 ---
 

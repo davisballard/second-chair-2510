@@ -83,7 +83,7 @@ The Monkey clears with humor, not grimly. Remove 除 is the clearing officer —
 - End with 2–3 compressed territories, each with a big idea, headline direction, and creative angle
 
 **Alex**
-- Continue server and hosting setup for `secondchair.com`
+- Continue server and hosting setup for `2ndchair.net`
 - Website structural build continues
 - Domain warmup check
 
@@ -226,7 +226,7 @@ Danger 危 = internal work only. But Mercury goes direct today — the communica
 - Confirm all three founders' inboxes verified and ready
 
 **Green Light Checklist — all three confirm**
-- [ ] Website live at `secondchair.com` — all pages, mobile-scaled, QA'd
+- [ ] Website live at `2ndchair.net` — all pages, mobile-scaled, QA'd
 - [ ] LinkedIn company page live; all three personal profiles updated
 - [ ] Sending domain warmed, sequences loaded and ready
 - [ ] Your Fair Call ad accounts set up, creative loaded, ready to run

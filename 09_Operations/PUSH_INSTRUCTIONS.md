@@ -28,7 +28,7 @@ push secondchair
 1. ✅ Syncs your Second_Chair folder to `~/secondchair-repo/`
 2. ✅ Excludes: `.venv`, `.env`, `__pycache__`, `.pyc` files
 3. ✅ Commits with timestamp
-4. ✅ Force pushes to: https://github.com/davisballard/secondchairjustice.git
+4. ✅ Force pushes to: https://github.com/davisballard/second-chair-2510.git
 5. ✅ Takes 5-20 minutes depending on file changes
 
 ## Troubleshooting

@@ -8,14 +8,14 @@
 
 **To create ads, just say:** "Make ads for [STATE]" (e.g., "Make ads for CA")
 
-This triggers the **Ad Creation Workflow** (`AD_CREATION_WORKFLOW.md`) which:
+This triggers the **Ad Creation Workflow** (`../09_Operations/AD_CREATION_WORKFLOW.md`) which:
 1. Auto-loads all relevant context for that state
 2. Assembles the full creative team (Julian, Richard, Ed, Depesh, Indigo, Giuseppe, Hegarty)
 3. Runs a roundtable discussion where experts build on each other's ideas
 4. Presents concepts for your approval before developing executions
 5. Creates production-ready ads with image prompts
 
-**See:** `AD_CREATION_WORKFLOW.md` for the full workflow specification.
+**See:** `../09_Operations/AD_CREATION_WORKFLOW.md` for the full workflow specification.
 
 ---
 
@@ -39,7 +39,7 @@ Richard Roma provides:
 | **Alex DuBelko** | Head of Product & Innovation |
 | **Sasha Zinshtein** | Head of Growth |
 
-**Team profiles:** [`../01_Identity/employees/`](../01_Identity/employees/)
+**Team profiles:** [`employees/`](employees/)
 
 ---
 
@@ -56,6 +56,24 @@ Richard Roma provides:
 | **Lead Price** | $400/lead |
 | **Special Considerations** | Heavy compliance (FCC 2025, TCPA, State Bar rules, **CA SB37**), Special Ad Categories, third-person language ONLY |
 
+---
+
+## Website & Tech Stack
+
+| Item | Detail |
+|------|--------|
+| **Domain** | `2ndchair.net` |
+| **Website framework** | Next.js (React 19) |
+| **Funnel framework** | Svelte |
+| **Hosting / deployment** | Vercel |
+| **GitHub repo (website)** | `github.com/davisballard/second-chair-website-5220` |
+| **DNS** | Nameservers pointed at Vercel — SSL handled automatically |
+| **Editor** | Cursor |
+
+Website source lives in `../18_Website/`. Edit locally in Cursor, push to `second-chair-website-5220`, Vercel auto-deploys to `https://2ndchair.net`.
+
+**Full deployment reference:** `../17_Website_Design_Docs/02_Tech_Stack_And_Deployment.md`
+
 ### Key Numbers
 | Metric | Value |
 |--------|-------|
@@ -70,7 +88,7 @@ Richard Roma provides:
 
 ## Financial Projections
 
-> **Full financial models:** See `11_Financials/FINANCIAL_PROJECTIONS.md` for comprehensive projections
+> **Full financial models:** See `../11_Financials/FINANCIAL_PROJECTIONS.md` for comprehensive projections
 
 ### Quick Summary
 
@@ -222,7 +240,10 @@ Second Chair positioning uses a **fused approach**: rational core (from website)
 ### 09_Operations
 | File | Purpose | Load When... |
 |------|---------|--------------|
-| `Active_Tasks.md` | Current tasks and goals | Planning work sessions |
+| `../09_Operations/Active_Tasks.md` | Current tasks and goals | Planning work sessions |
+| `../09_Operations/LAUNCH_SCHEDULE.md` | Pre-launch master schedule | Launch planning |
+| `../09_Operations/ORACLE_LAUNCH_CALENDAR.md` | Day-by-day launch calendar | Daily launch execution |
+| `../09_Operations/AD_CREATION_WORKFLOW.md` | Full ad creation workflow | Making ads |
 
 ### 10_Ad_Factory
 | File | Purpose | Load When... |
@@ -235,7 +256,8 @@ Second Chair positioning uses a **fused approach**: rational core (from website)
 ### 11_Financials
 | File | Purpose | Load When... |
 |------|---------|--------------|
-| `FINANCIAL_PROJECTIONS.md` | **Comprehensive revenue modeling:** Growth scenarios, own lead generation projections | **Business planning, forecasting, strategy sessions** |
+| `../11_Financials/FINANCIAL_PROJECTIONS.md` | **Comprehensive revenue modeling:** Growth scenarios, own lead generation projections | **Business planning, forecasting, strategy sessions** |
+| `../11_Financials/ROLES_AND_COMPENSATION.md` | Co-founder roles, equity split, compensation structure | Team governance, onboarding |
 
 ---
 
@@ -268,25 +290,25 @@ Load: Banned_Phrases.md + Banned_Imagery.md + Platform_Rules.md
 
 **For Video Production (Call @Giuseppe_Karma):**
 ```
-Load: 10_Ad_Factory/Production_Guidelines/Video_Production_Tools.md  ? START HERE (FAL, Higgsfield, Argil, Yapper, all formats)
-      + Production/Giuseppe_Karma_(AI_Creative_Director)/AGENT.md (for deep dives)
+Load: ../10_Ad_Factory/Production_Guidelines/Video_Production_Tools.md  ← START HERE (FAL, Higgsfield, Argil, Yapper, all formats)
+      + ../04_Production/Giuseppe_Karma_(AI_Creative_Director)/AGENT.md (for deep dives)
 ```
 
 **For Hardcoded Subtitles:**
 ```
-Load: Production/Giuseppe_Karma_(AI_Creative_Director)/Text_Overlay_System.md
-      (includes Python pipeline: Whisper ? ASS ? FFmpeg)
+Load: ../04_Production/Giuseppe_Karma_(AI_Creative_Director)/Text_Overlay_System.md
+      (includes Python pipeline: Whisper → ASS → FFmpeg)
 ```
 
 **For Web Design / Landing Pages (Call @Chester_Prides):**
 ```
-Load: Production/Chester_Prides_(Web_Designer)/AGENT.md
+Load: ../04_Production/Chester_Prides_(Web_Designer)/AGENT.md
       + Visual_Aesthetics.md + Layout_Patterns.md
 ```
 
 **For B2B Website Projects:**
 ```
-Load: Production/Chester_Prides_(Web_Designer)/B2B_Website_Playbook.md
+Load: ../04_Production/Chester_Prides_(Web_Designer)/B2B_Website_Playbook.md
       + Implementation_Guide.md
 ```
 
@@ -351,7 +373,7 @@ For all AI-generated video and visual content, Giuseppe Karma (`@Giuseppe_Karma`
 | `Text_Overlay_System.md` | Automated subtitle pipeline, ASS styling | Adding captions to video |
 | `Music_Audio_Direction.md` | Music presets, VO direction | Audio production |
 
-**Path:** `04_Production/Giuseppe_Karma_(AI_Creative_Director)/`
+**Path:** `../04_Production/Giuseppe_Karma_(AI_Creative_Director)/`
 
 ### The Production Stack
 
@@ -396,7 +418,7 @@ For all website design, landing pages, and B2B web properties, Chester Prides (`
 | `B2B_Website_Playbook.md` | B2B-specific patterns, SaaS sites | B2B web projects |
 | `Implementation_Guide.md` | CSS, Webflow, Framer | Implementation decisions |
 
-**Path:** `04_Production/Chester_Prides_(Web_Designer)/`
+**Path:** `../04_Production/Chester_Prides_(Web_Designer)/`
 
 ### Chester Prides + Luke Wroblewski (UI/UX Specialist) Collaboration
 

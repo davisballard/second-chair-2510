@@ -14,7 +14,7 @@ NC='\033[0m' # No Color
 # Configuration
 REPO_DIR="$HOME/secondchair-repo"
 SOURCE_DIR="$(cd "$(dirname "$0")" && pwd)"
-REMOTE_URL="https://github.com/davisballard/secondchairjustice.git"
+REMOTE_URL="https://github.com/davisballard/second-chair-2510.git"
 BRANCH="main"
 
 echo -e "${BLUE}🚀 Push Second Chair to GitHub${NC}"

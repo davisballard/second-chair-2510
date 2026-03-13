@@ -693,7 +693,7 @@ with supportive motion, film grain, the drama of love in action.
 
 | File | Purpose |
 |------|---------|
-| `../../00_Project_Hub/AD_CREATION_WORKFLOW.md` | Master workflow |
+| `../../09_Operations/AD_CREATION_WORKFLOW.md` | Master workflow |
 | `../../04_Audience/Colorado_Targeting.md` | Maria archetype, zip codes |
 | `../../02_Visual/Video_Format_Strategy.md` | Story Slide specs, audio mixing |
 | `../../03_Voice/Third_Person_Rules.md` | Compliance language |

@@ -411,7 +411,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 **Layout:** Three columns.
 - Left: Second Chair wordmark + one-line descriptor ("A creative, compliance, and technology firm for personal injury law firms.")
 - Center: Navigation links (Work / How It Works / Apply / [Privacy Policy])
-- Right: Contact email (hello@secondchair.com or equivalent) + social links (LinkedIn at minimum)
+- Right: Contact email (hello@2ndchair.net or equivalent) + social links (LinkedIn at minimum)
 
 **Legal requirements:**
 - "Attorney Advertising" disclaimer (required in most states for PI adjacent marketing)
@@ -559,7 +559,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 1. **CPL target range** — what CPL range is Second Chair comfortable modeling the CPSC from? Davis and Alex to agree. Affects Proof Panel 1.
 2. **"Attorney Advertising" disclaimer** — does it apply to the firm's own B2B website, or only to client-facing advertising? Quick legal check.
 3. **Booking flow** — Calendly embed or custom form on `/apply`? Alex to decide.
-4. **Domain** — is `secondchair.com` acquired? If not, what's the intended URL?
+4. **Domain** — confirmed as `2ndchair.net`. Nameservers pointed at Vercel.
 5. **Campaign creative timeline** — Davis has the assets. When are they ready for design? This is the single critical path blocker for design start.
 
 *Resolved: Logo/wordmark — exists, ready to use. Founder credentials — sourced from founding docs, available in 02_Alex_Input.md, 04_Sasha_Input.md, 01_Davis_Input.md.*

@@ -665,7 +665,7 @@ The rational + emotional approach is sound. We're just making it easier to use, 
 
 ### Core Positioning Files
 - [`BRAND_POSITIONING_CORE.md`](../../01_Identity/BRAND_POSITIONING_CORE.md) — Full 415-line positioning framework
-- [`BRAND_MASTER.md`](../../00_Project_Hub/BRAND_MASTER.md) — Brand hub and file index
+- [`BRAND_MASTER.md`](../../01_Identity/BRAND_MASTER.md) — Brand hub and file index
 - **[TO BE CREATED]** `BRAND_POSITIONING_ONE_PAGE.md` — Simplified practitioner reference
 
 ### Supporting Materials

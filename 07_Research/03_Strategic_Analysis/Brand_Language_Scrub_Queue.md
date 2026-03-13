@@ -101,7 +101,7 @@ This entire document is built around a model Davis wants to move away from as a 
 - [ ] Check for four-phase naming
 - [ ] Check for "demand infrastructure" language
 
-**`00_Project_Hub/BRAND_MASTER.md`**
+**`01_Identity/BRAND_MASTER.md`**
 
 - [ ] Check for any verbatim Lead Faucet phrases from the audit
 - [ ] Update once core positioning is finalized
