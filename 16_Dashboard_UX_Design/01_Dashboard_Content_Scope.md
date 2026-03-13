@@ -104,7 +104,13 @@ Individual lead records belong in a drill-down, not the primary dashboard. Each 
 - Source channel
 - Date/time received
 - Intake disposition (contacted / not reached / consultation / signed / declined)
+- **Conversion Score** — predicted likelihood this lead will sign with an attorney (0–10 scale). Weighted: accident recency (60%), treatment status (25%), representation status (15%). Drives intake routing priority. Displayed as a numeric score with a color-coded tier indicator (Very High / High / Moderate / Low).
+- **Case Value Score** — predicted revenue potential of this case (0–10 scale). Weighted: injury severity (70%), liability clarity (20%), insurance adequacy (10%). Independent of Conversion Score — a six-month-old spinal case may score low on Conversion but very high on Case Value. Displayed alongside Conversion Score so attorneys can see both dimensions at a glance.
 - Attorney notes (free text)
+
+**Design note:** The two scores must be displayed as independent values — not combined into a single quality score. A lead that scores 3 on Conversion and 9 on Case Value (serious injury, late-stage claimant) requires different handling than a lead that scores 9 on Conversion and 3 on Case Value (fresh soft-tissue). Combining them would erase the distinction that makes the scoring operationally useful.
+
+Full scoring methodology, weighting tables, and tier interpretation guide: `07_Research/01_Brand_Strategy_Research/01_Consumer_Deep_Dive/06_B2C_Claimant_Consumer/Claimant_Timing_Tiers_And_Lead_Scoring.md`.
 
 The primary dashboard shows aggregate quality metrics. The lead-level table is accessible via a navigation action ("View Leads" or "Lead Detail") from the quality panel.
 

@@ -166,17 +166,19 @@ A CEP for accident victims is a specific situation or moment in which an acciden
 
 ### The 5 Claimant CEPs
 
-**CEP 1: The 72-Hour Window — Pre-Adjuster**
+**CEP 1: The Early Active Window (First 30 Days)**
 
-*Situation:* The period between the accident and the insurance adjuster's first contact. This is the highest-value window because the claimant has not yet been framed by the insurance company's narrative.
+*Situation:* The period from the accident through the first month — encompassing the adjuster's first contact and the period before any settlement agreement is signed. This is the highest-conversion window because the claim is still open and the claimant is most likely to be in research mode.
 
-*Timing:* 0-72 hours post-accident. The adjuster calls within 24-72 hours; the window is the period before that call.
+*Timing:* 0–30 days post-accident. The insurance adjuster calls within 24–72 hours; the window extends through the first month while the claim is unsigned.
 
-*Behavioral signature:* Pain and confusion. Googling symptoms, googling "what to do after a car accident." Social consultation (calling family and friends). Low legal literacy — they know they "should do something" but don't know what.
+*Behavioral signature:* Pain and confusion in the first days; active research mode by Days 7–30. Googling "what to do after a car accident," "is my settlement offer fair," "do I need a lawyer for a car accident." Social consultation (calling family and friends). Low legal literacy — they know they "should do something" but don't know what.
 
-*CEP window:* Very short — hours to days. The most valuable advertising moment and the hardest to reach at scale.
+*CEP window:* 0–30 days. Highest conversion likelihood. Volume of reachable people is meaningful at the market level but not individually targetable via paid social.
 
-*Second Chair's CEP relevance:* Proximity advertising (geo-targeted near accident sites) and search trigger advertising ("what to do after car accident" queries) are the primary mechanisms. The message must be minimal and clear: "Before you talk to their insurance company, get a free consultation. 10 minutes. No cost."
+*Second Chair's CEP relevance:* **Google Search (primary mechanism)** — high-intent post-accident queries are the most reliable way to reach this window. Meta broad-demographic awareness reaches this window indirectly — the person who has just had an accident will self-select from a broad demographic ad if the creative speaks to their specific situation.
+
+**Targeting reality note:** The first 72 hours specifically are NOT targetable via Meta or paid social for two reasons: (1) Personal injury advertising falls under Special Ad Categories, which disables all demographic, interest, and behavioral targeting — only geographic targeting remains; and (2) even with geographic targeting, the number of newly-injured claimants in any metro area on any given day (~40–50 in LA metro) is far too small to reach via CPM-based advertising. The 72-hour window is addressed through Google Search intent advertising — not Meta. See `Claimant_Timing_Tiers_And_Lead_Scoring.md` and `Insurance_Claims_Process.md` for full context.
 
 ---
 
@@ -240,11 +242,13 @@ A CEP for accident victims is a specific situation or moment in which an acciden
 
 | CEP | Timing Post-Accident | Window | Conversion Potential | Emotional State |
 |-----|---------------------|--------|---------------------|-----------------|
-| 72-Hour Window | 0-72 hours | Hours | Highest | Confused/In pain |
-| Adjuster First-Contact | 1-14 days | 1-3 weeks | Very High | Research mode |
-| Settlement Offer Arrival | 2-6 weeks | 1-2 weeks | Highest | Deciding |
-| Medical Bill Arrival | 2-6 months | Ongoing | Moderate | Stressed |
+| Early Active Window (Tier 1) | 0–30 days | First month | Very High | Confused → Research mode |
+| Settlement Offer Arrival (Tier 1/2 overlap) | 2–6 weeks | 1–2 weeks around offer | Highest | Deciding |
+| Accumulation Window (Tier 2) | 1–6 months | Ongoing | Moderate–High (serious injuries) | Financially stressed |
+| Long-Tail / High-Severity (Tier 3) | 6+ months to SOL | Until 2–3 year deadline | Lower conversion / highest case value | Frustrated, in ongoing pain |
 | Social Referral | Any point | Immediate | Variable/High | Trust-dependent |
+
+*The operational targeting and messaging framework — consumer profiles, barrier analysis, messaging by tier, composite lead scoring, and form field design — is in `Claimant_Timing_Tiers_And_Lead_Scoring.md`. Foundational context on the claims process is in `Insurance_Claims_Process.md`.*
 
 ---
 
@@ -287,7 +291,7 @@ The compounding effect: honest B2C advertising doesn't just serve the claimant. 
 
 1. **B2B CEP timing investment:** January-March is the highest-ROI window for B2B outreach. Attorneys are most open, conference season is approaching, and lead volume is low (which means the attorney is most anxious about their pipeline).
 
-2. **B2C CEP timing investment:** The 72-hour post-accident window and the settlement-offer-receipt moment are the highest-ROI windows for B2C advertising. Both require timing-triggered digital advertising, not traditional brand advertising.
+2. **B2C CEP timing investment:** The Early Active Window (first 30 days) and the settlement-offer-receipt moment are the highest-conversion windows for B2C advertising. Google Search intent advertising is the primary mechanism for the first-30-day window (not Meta — see `Insurance_Claims_Process.md` for why). Meta serves the broader brand-building mission and retargeting of claimants who have already engaged online. The three-tier framework (`Claimant_Timing_Tiers_And_Lead_Scoring.md`) defines the targeting, messaging, and lead scoring model for all windows.
 
 3. **The referral CEP for B2B is the conference floor.** PILMMA and state trial lawyer association events are where the most high-intent B2B CEPs cluster. Physical presence and peer endorsement outperform any digital channel.
 

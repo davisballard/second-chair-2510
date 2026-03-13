@@ -105,7 +105,7 @@ This is the rational proof layer that makes the Level 2 claim believable.
 
 **Lead headline (John Hegarty's round table):** *"You've never settled a case you weren't proud of. But are you settling for leads?"*
 
-**B2B visual direction (Graham Fink):** Institutional credibility grammar (formal typography, authority signals, restraint) as the container — revealing genuinely radical content inside it (the actual ads, the actual data, the named clients). The surprise of what is revealed inside the formal container is the creative act.
+**B2B visual direction (Graham Fink):** Institutional credibility grammar (formal typography, authority signals, restraint) as the container — revealing genuinely radical content inside it (the actual ads, the actual data, the portfolio brands). The surprise of what is revealed inside the formal container is the creative act. Note: at launch, the social proof is Davis's creative portfolio — Disney, Google, Samsung, Vacation® — not named PI attorney clients (Phase 2, after first clients sign).
 
 **B2C visual direction (Graham Fink):** "Ordinary is the point." Ordinary rooms, ordinary light, real faces at the consequential moment — the decision, the phone call, the moment before the choice. The crash is not the creative territory. The call is.
 

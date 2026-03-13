@@ -1,4 +1,4 @@
-﻿# Three Cs Master Synthesis
+# Three Cs Master Synthesis
 ## Second Chair — What It All Means for the Business
 
 **Prepared for:** Second Chair Founding Team
@@ -38,7 +38,7 @@ Each tension maps what attorneys want (Consumer) against what the category deliv
 |---|---|---|
 | **Certainty** — the pipeline that doesn't dry up | Variable delivery; vendors optimize for lead volume, not attorney outcomes | Align success metrics with attorney success metrics: CPSC, not CPL |
 | **Professional identity** — to feel good about how they got the client | Advertising documented as "a cesspool"; attorneys inherit the expectations it created | Show the advertising before the commitment. Be the only vendor whose creative doesn't require an apology |
-| **Trust** — built on verifiable proof, not claims | Category-wide credibility crisis; satisfaction scores in the 1–2/5 range | Proof before claim: published CPSC, named clients, visible advertising, month-to-month terms |
+| **Trust** — built on verifiable proof, not claims | Category-wide credibility crisis; satisfaction scores in the 1–2/5 range | Proof before claim: published portfolio credentials (Disney, Google, Samsung, Vacation®), visible advertising, industry data, month-to-month terms. Note: CPSC data and named PI attorney references are Phase 2 — requires active clients. At launch, the credential is Davis's creative track record and publicly sourced industry data, not case results. |
 | **Specificity** — named qualification criteria, verifiable lead quality | "Quality leads," "exclusive territory," "high conversion" — every vendor, every time, meaningless | Name the qualification criteria. Show the TrustedForm certificate. Define "exclusive" with a legal standard |
 | **Their metric** — cost-per-signed-case | CPL: the category's native metric, which doesn't measure what attorneys actually care about | Publish CPSC with methodology. Help attorneys calculate their current CPSC from existing channels. Change the evaluation standard |
 
@@ -54,7 +54,7 @@ Each tension maps what attorneys want (Consumer) against what the category deliv
 
 **Second Chair is:** The only PI lead gen company that runs honest consumer advertising and measures success exclusively by cost-per-signed-case.
 
-**Because:** We have the creative pedigree (18 years building advertising for Disney, Google, Samsung) and the business model — aligned with attorney outcomes, not lead volume — to make honest advertising the most effective advertising.
+**Because:** We have the creative pedigree (18 years building advertising for Vacation, Disney, Google, Samsung, The Macallan, and Fortune 500 compliance-heavy brands — Davis), the compliance-grade product engineering and behavioral science (0-to-1 FINRA/SEC-compliant product builds, CXL-certified conversion optimization and digital psychology, Reforge-trained growth architecture — Alex), and the programmatic media execution at Fortune 500 scale with proven restricted-category advertising expertise and capital-fluency in sales (14+ years across 18+ global brands including ASOS, Bose, Diageo, Pepsico, Tinder, Zalando — Sasha), all integrated from founding and aligned to a business model that makes honesty structurally necessary rather than aspirational.
 
 **So that:** PI attorneys can grow their practices in a way that is consistent with why they became PI attorneys.
 
@@ -76,7 +76,7 @@ Each tension maps what attorneys want (Consumer) against what the category deliv
 
 Three properties make this position exclusively ownable by Second Chair — and structurally resistant to competitive copying:
 
-**1. Credentialed.** The Creative Advantage claim requires a creative background no competitor has. 18 years building advertising for Disney, Google, Samsung is a fact, not a marketing claim. A competitor cannot decide to have this.
+**1. Credentialed.** The team advantage claim requires capabilities no competitor has and cannot acquire by hiring. Davis's 18 years building advertising for Vacation, Disney, Google, Samsung is a fact. Alex's FINRA/SEC-grade compliance discipline applied to PI product engineering is a fact. Sasha's 14 years of programmatic buying at Fortune 500 scale and his specific experience building reach and ROI in restricted ad environments without standard targeting tools is a fact. No competitor can hire into this combination — it requires the same people having built it before they arrived.
 
 **2. Structural.** Claiming the position requires showing the advertising, naming clients, publishing CPSC data, and offering month-to-month terms. These are not messaging moves — they are operational commitments. A competitor who tries to copy them must make the same structural commitments, which requires having the same infrastructure to make visible. You can't fake honest advertising.
 
@@ -95,11 +95,26 @@ In a category where "quality leads" is meaningless, proof is the product. Every 
 | "Exclusive leads" | TrustedForm consent certificate with every lead delivery |
 | "TCPA compliant" | Named one-to-one consent documentation per FCC 2025 requirements |
 | "Qualified leads" | Published 7-point qualification criteria (incident + injury + intent + recency + liability + exclusivity + jurisdiction) |
-| "Better CPSC" | Published CPSC data with methodology; anonymized case studies with numbers |
-| "Named clients" | At least one attorney per target market who will take a call from a prospect |
+| "Better CPSC" | Published CPSC data with methodology; anonymized case studies with numbers — **Phase 2: requires active clients. Do not claim at launch.** |
+| "Named clients" | At least one attorney per target market who will take a call from a prospect — **Phase 2: requires active clients. Do not claim at launch.** |
 | "Month-to-month terms" | Published terms available before the first sales call |
 
 **The sequencing principle:** Publish each proof mechanism before making the corresponding claim. The vendor that shows proof before claiming quality changes what attorneys expect from everyone else.
+
+**Launch State — What Is Provable Right Now (Before the First Client):**
+
+Second Chair is a brand launch. There are no PI attorney clients yet. The following claims and proof mechanisms are available at launch; everything else waits until the first clients are active.
+
+| What We Can Prove at Launch | The Proof |
+|---|---|
+| "Agency-grade team across advertising, product, and media" | Published portfolio (Davis): Vacation®, Disney, Google, Samsung, The Macallan, Gurus NYC, NFL, NBA — verifiable by anyone. Product record (Alex): TradeStation 0-to-1 at FINRA/SEC compliance, Summit Analytics 6-year practice, CXL + Reforge certified — verifiable. Media and growth record (Sasha): 33across Fortune 500 programmatic (18+ brands including ASOS, Bose, Pepsico, Tinder, Zalando), Director of Growth in restricted-category advertising, Riverpoint Capital financial underwriting — verifiable. Three records, all public, none of it claimed. |
+| "Honest advertising" | The actual consumer creative, visible on the website before any commitment. No fine print, no hidden tactics. |
+| "The category has a problem" | Publicly sourced industry data: 1.3/5 star ratings, the $33,700 settlement gap (68% of claimants accept first offers), CPL-not-CPSC math. None of this requires our own clients to cite. |
+| "Qualified leads" | Published 7-point qualification criteria before any lead is delivered. |
+| "Exclusive leads" | TrustedForm consent certificate and one-to-one TCPA documentation — infrastructure provable before any volume exists. |
+| "Month-to-month terms" | Published terms. Available on the website. No lock-in before a single lead is sold. |
+
+What is **not** available at launch and must not be claimed: CPSC performance data, named attorney references, real claimant testimonials, case studies with outcome numbers. These are Phase 2 — activated when the first clients sign and results accumulate.
 
 ---
 
@@ -133,11 +148,11 @@ Byron Sharp's insight: marketing must be mapped to specific trigger moments when
 - CPSC reporting should be native to every client relationship — not optional, not available on request. The vendor who reports CPSC proactively changes the basis of evaluation for every attorney who reviews it.
 - Intake education (briefing the attorney's intake coordinator on what Second Chair's advertising says and doesn't say) is a product feature, not a nice-to-have. The expectations the claimant arrives with are a direct function of the advertising. We should document them and deliver them with every lead.
 - Month-to-month terms are not a concession — they are a positioning move. The vendor confident enough in their product to offer no lock-in is communicating something about the product.
+- Lead scoring is a core product requirement — not a reporting add-on. Every lead delivered to an attorney should carry two independent scores: a **Conversion Score** (predicts likelihood to sign, weighted toward recency + active treatment + no current representation) and a **Case Value Score** (predicts revenue potential, weighted toward injury severity + liability clarity + insurance adequacy). These scores must be surfaced in the attorney dashboard at the lead level. A serious-injury lead from five months ago may be more valuable than a fresh soft-tissue lead from yesterday — the product must make that visible, not obscure it. Full scoring methodology: `07_Research/01_Brand_Strategy_Research/01_Consumer_Deep_Dive/06_B2C_Claimant_Consumer/Claimant_Timing_Tiers_And_Lead_Scoring.md`.
 
 ### Advertising and Marketing
-- B2B: The 60/40 brand-to-activation ratio (Binet & Field) starts at 50/50 for launch. Brand advertising builds the platform; activation converts the moment.
-- B2C: 60% pre-accident brand (general awareness), 40% timing-targeted performance (72-hour post-accident window, settlement offer moment). The most important thing about the timing targeting is the timing: the 72-hour window is not metaphorical — it is when the adjuster calls and when the client relationship is won or lost.
-- Own the January CEP before the first PILMMA conference. The attorneys who attend PILMMA in May should have already heard of Second Chair.
+- B2B: Cold outreach only in this phase. No paid advertising. Sasha leads acquisition through cold email, LinkedIn, and phone outreach. Attorneys visit the website and schedule a call or don't. Paid B2B advertising is a future consideration — and may not be needed if cold outreach and referral build sufficient pipeline. The January–March seasonal window remains the highest-ROI period for outreach, regardless of channel.
+- B2C: 100% direct response performance advertising — no pre-accident brand awareness spend. Accident victims are episodic, one-time customers. Brand awareness built before an accident will not be remembered at the moment of need; they will click the first relevant ad they encounter. The strategy is to reach people when they have an active need, in the tier that matches their timing and injury profile. **Primary channels: Facebook and Instagram (Meta) — 95–100% of B2C ad spend.** Google Search is not in the current plan (cost-prohibitive at this stage; harder to manage campaign-to-campaign). Long-tail keyword content is a long-term consideration. The three tiers: **Tier 1** (Days 0–30) — Meta (FB/IG) creative self-selection reaches claimants in the pre-decision window; the ad's specificity and honesty causes the right person to stop scrolling; **Tier 2** (1–6 months) — Meta retargeting reaches claimants who have already engaged with content and visited sites; **Tier 3** (6+ months to statute of limitations) — Meta + content reaches late-presenting claimants with serious injuries who believe their window has closed. Note: personal injury advertising falls under Special Ad Categories — no demographic, interest, or behavioral targeting is available. Geographic targeting and creative self-selection are the only precision tools. Full framework: `07_Research/01_Brand_Strategy_Research/01_Consumer_Deep_Dive/06_B2C_Claimant_Consumer/Claimant_Timing_Tiers_And_Lead_Scoring.md`.
 - The B2C advertising itself is B2B marketing — showing it to attorneys is the pitch. Every piece of consumer advertising should be built with this dual purpose in mind.
 
 ### Visual Identity and Brand Expression
@@ -159,7 +174,7 @@ The three sessions have told us what Second Chair would need to be true. Session
 
 ## The Summary in One Paragraph
 
-Second Chair operates in a $1.5–3.0B PI lead gen market that has organized itself entirely around vendor revenue rather than attorney outcomes. The attorneys it serves are experiencing five simultaneous cultural disruptions that make them more open to rethinking their marketing stack than at any point in the last decade. The accident victims it advertises to are leaving an average of $33,700 on the table because no one in the post-accident system is working honestly for them. Second Chair resolves both failures with the same act: advertising that is honest enough to show, measured by the metric that actually matters to attorneys, from a creative team whose credentials are verifiable by anyone who wants to check. The position is structurally defensible because occupying it requires actually doing it — and no competitor has the creative infrastructure or the aligned business model to do it. The single-minded proposition: *The leads PI attorneys buy should be as honest as the cases they take.*
+Second Chair operates in a $1.5–3.0B PI lead gen market that has organized itself entirely around vendor revenue rather than attorney outcomes. The attorneys it serves are experiencing five simultaneous cultural disruptions that make them more open to rethinking their marketing stack than at any point in the last decade. The accident victims it advertises to are leaving an average of $33,700 on the table because no one in the post-accident system is working honestly for them. Second Chair resolves both failures with the same act: advertising that is honest enough to show, measured by the metric that actually matters to attorneys, built by a team whose three-part capability is verifiable by anyone who wants to check — Davis's 18-year creative pedigree across global brands, Alex's compliance-grade product engineering and behavioral product science, and Sasha's Fortune 500 programmatic execution with proven restricted-category expertise and financial fluency in sales. The position is structurally defensible because occupying it requires actually doing it — and no competitor has the creative infrastructure, the product engineering depth, the aligned media execution, or the business model alignment to do it. The single-minded proposition: *The leads PI attorneys buy should be as honest as the cases they take.*
 
 ---
 

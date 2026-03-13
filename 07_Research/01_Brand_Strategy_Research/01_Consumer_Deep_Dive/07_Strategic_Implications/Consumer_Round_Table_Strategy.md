@@ -87,6 +87,8 @@
 **DECISION — Julian Cole:**
 > **B2C advertising investment split: 60% to pre-accident brand awareness building ("one call before you decide" instruction in the general population); 40% to timing-targeted performance advertising at the 72-hour window and settlement offer CEPs. Social referral moment is enabled through advertising but not purchased — create the vocabulary, trust the organic spread. The 60/40 split follows Binet/Field effectiveness evidence and builds the compounding brand layer that performance advertising alone cannot create.**
 
+> **[FOUNDER DECISION OVERRIDE — March 2026]** The 60/40 split above has been superseded by a founder decision specific to Second Chair's phase and customer type. B2C is 100% direct response performance advertising — no pre-accident brand awareness spend. Rationale: accident victims are episodic, one-time customers. Brand awareness built before an accident will not be recalled at the moment of need; claimants will engage with the first relevant ad they encounter post-accident. The Binet/Field compounding brand argument applies to repeat-purchase categories; it does not apply here. B2B acquisition is cold outreach only (no paid ads) in this phase. Updated operational strategy: `13_Brand_Strategy/02_Research_Summaries/04_Three_Cs_Master_Synthesis.md`.
+
 ---
 
 ## Question 4: The Identity Barrier — How Do We Solve "I'm Not the Kind of Person Who Sues"?
@@ -189,7 +191,7 @@
 |----------|----------|
 | Primary audience priority | B2B operational; B2C strategic differentiator |
 | Primary B2B consumer | Jennifer Walsh (established builder, 3-10 attorneys) |
-| B2C investment allocation | 60% pre-accident brand / 40% timing-targeted performance |
+| B2C investment allocation | 100% direct response performance — no pre-accident brand spend [Founder Override, March 2026] |
 | Identity barrier solution | Reframe (informed decision-maker) + Normalize + Aspirational |
 | Most defensible B2B claim | "We'll show you our advertising before you commit" |
 | Sales window | January-March (counter-cyclical investment) |

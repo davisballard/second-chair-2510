@@ -70,11 +70,17 @@ In California, accident victims who consulted an attorney before accepting a set
 2. **Optimism bias about insurers:** "They'll be fair. I was in the right." First-offer acceptance happens at peak financial stress, before the adjuster's strategy becomes visible.
 3. **Present bias:** The adjuster calls first — often within hours. Their frame is established before the claimant has any competing information.
 
-### The 72-Hour Window
+### The Three Targeting Windows
 
-This is when everything is decided. The adjuster's deliberate early contact is designed to get a recorded statement and establish expectations before legal counsel is involved. Second Chair's B2C advertising must reach the accident victim **before or concurrent with the adjuster's first call**.
+Accident victims don't become reachable in a single 72-hour window. They remain reachable — at different conversion likelihoods and with different messaging needs — across three distinct windows. See `Claimant_Timing_Tiers_And_Lead_Scoring.md` for the full framework.
 
-The minimum viable action that overcomes all three barriers: **"One call. 10 minutes. Free. No commitment. Before you say yes to anything."**
+**Tier 1 — The Early Active Window (Days 0–30):** The claim is open and unsigned. The adjuster has called but no settlement has been accepted. The claimant is in research mode by Days 7–30. Highest conversion likelihood. Injuries are predominantly soft tissue. Google Search is the primary channel for this window — not Meta, which cannot surgically reach accident victims in any specific post-accident timeframe under Special Ad Category restrictions.
+
+**Tier 2 — The Accumulation Window (1–6 months):** Bills are arriving. Settlement offer may have been received but not accepted. More serious injuries are still in treatment (MMI not yet reached — the case legitimately cannot close yet). Financial stress is rising. Meta retargeting becomes more viable here because by now these claimants have searched and visited sites. Moderate conversion likelihood, HIGH case value for serious injuries.
+
+**Tier 3 — The Long-Tail / High-Severity Window (6+ months to SOL):** Predominantly serious injury cases (spinal, TBI, surgical) where people didn't know they had 2–3 years to act. Lower conversion likelihood but very high case value for those who do convert. Statute of limitations education is the primary messaging mechanism.
+
+The minimum viable action that overcomes all barriers across all tiers: **"One call. 10 minutes. Free. No commitment. Before you say yes to anything."**
 
 ---
 
@@ -92,11 +98,13 @@ Second Chair's honest B2C advertising serves both consumers with the same act:
 
 ## Key Decisions from the Research
 
-**B2C budget split:** 60% pre-accident brand advertising (general awareness, all demographics) / 40% timing-targeted performance (72-hour window, specific behavioral moments)
+**B2C channel strategy:** 100% direct response performance advertising. No pre-accident brand awareness spend — accident victims are episodic, one-time customers who will not remember a brand until they have an active need. Reach people when they need it: Tier 1 Google Search intent (Days 0–30); Tier 2 Meta retargeting and settlement-offer-moment ads (1–6 months); Tier 3 SOL-education content (6+ months). See `Claimant_Timing_Tiers_And_Lead_Scoring.md` for the full framework.
+
+**B2B acquisition strategy:** Cold outreach only in this phase — no paid advertising. Sasha leads acquisition through cold email, LinkedIn, and phone. Attorneys visit the website and schedule a call or don't. The January–March seasonal window is the highest-ROI outreach period.
 
 **B2B campaign direction:** "Cases that don't start with a lie" / "See the advertising we run before you commit to anything"
 
-**B2C campaign direction:** "I almost didn't call. I'm glad I did." — testimonial series, real people, documentary aesthetic, no scales of justice, no settlement fantasies
+**B2C campaign direction:** "I almost didn't call. I'm glad I did." — testimonial series, real people, documentary aesthetic, no scales of justice, no settlement fantasies. **Launch constraint: this campaign requires real claimant testimonials, which do not exist at launch (Phase 2 — after first cases resolve). At launch, B2C creative is built around publicly sourced data (the $33,700 gap, the 68% who accept first offers) and the honest positioning — not real testimonials. No actors presenting as real clients, ever.**
 
 **Forbidden in B2C creative:** "sue," "claim," "fight," "deserve," "millions," actor testimonials, dramatic music, AI calculators with fabricated data
 

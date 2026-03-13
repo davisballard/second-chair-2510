@@ -111,15 +111,21 @@ Maximalist promises. "$2.5 million settlement for someone just like you." AI cal
 
 ### Tension 4: Timing vs. Default
 
-**What attorneys need:** Leads that reach claimants before the adjuster does, or at minimum before they've signed the settlement.
+**What attorneys need:** Leads that reach claimants before they've signed the settlement — before the claim is permanently closed.
 
-**What accident victims need:** Information in the 72-hour window — before the adjuster's frame is established and before the optimism bias has fully set in.
+**What accident victims need:** An honest competing frame before they accept the insurance company's framing as definitive.
 
-**What the current system creates:** Adjuster calls first. Adjuster frames the negotiation. Victim has no competing frame available. Signs the first offer. Attorney never gets the client. Or gets them after they've already signed and the relationship starts from a managed disappointment.
+**What the current system creates:** Adjuster calls within 72 hours. Adjuster frames the negotiation before any competing frame exists. Victim, in cognitive overload and financial stress, signs the first offer. 68% close without ever hearing another perspective. Attorney never gets the client.
 
-**The tension:** Everyone in the system benefits from reaching the claimant first — but the insurance company has built the infrastructure to always be first.
+**The tension:** Everyone in the system benefits from reaching the claimant before they sign — but the insurance company is structurally positioned to establish the frame first.
 
-**The Second Chair opening:** Timing-targeted digital advertising (72-hour post-accident window) creates a competing first contact. The ad that reaches the claimant before or concurrent with the adjuster's call gives them a second frame — "before you talk to theirs, talk to yours" — that changes the entire subsequent process.
+**The Second Chair opening:** The first 72 hours specifically are not targetable via paid social advertising. Personal injury advertising falls under Special Ad Categories (no demographic, interest, or behavioral targeting available), and the daily volume of newly-injured accident victims in any metro area is too small to reach via CPM-based advertising. The real opportunity is a **three-tier system** that reaches the 32% of claimants who don't immediately sign, across the full window their claim remains open:
+
+- **Tier 1 (Days 0–30):** Google Search intent advertising captures claimants in active research mode. Meta broad-awareness builds the mental scaffold so the brand is recognizable when they search.
+- **Tier 2 (1–6 months):** Meta retargeting reaches claimants who have already searched and visited sites. Settlement-offer-moment messaging targets the highest-intent decision point. Serious injury cases in this window are HIGH value.
+- **Tier 3 (6+ months to SOL):** Statute of limitations education messaging reaches late-presenting claimants who believe their window has closed. Lower conversion likelihood but very high case value.
+
+The brand that is present and honest across all three windows — not just the first 72 hours — creates the most durable competitive position. See `Claimant_Timing_Tiers_And_Lead_Scoring.md` for the full operational framework.
 
 ---
 
@@ -172,7 +178,7 @@ One call to a named Second Chair client (before signing anything with Second Cha
 ### B2C Consumer Brief
 
 **Who are we talking to?**
-Maria Delgado — the working parent in crisis (and the three other persona archetypes). Working-class to middle-class, 30-55, employed, financially stressed, just experienced an accident. Reached through: pre-accident brand advertising (general population, digital and OOH), timing-targeted digital at 72-hour window, search advertising at settlement-offer-related queries.
+Maria Delgado — the working parent in crisis (and the three other persona archetypes). Working-class to middle-class, 30-55, employed, financially stressed, just experienced an accident. Reached through 100% direct response performance advertising — no pre-accident brand awareness spend (accident victims are episodic customers who won't remember a brand until they have an active need): Tier 1 Google Search intent advertising (high-intent post-accident queries, Days 0–30); Tier 2 Meta retargeting and settlement-offer-moment advertising (1–6 months); Tier 3 SOL-education content for late-presenting claimants with serious injuries (6+ months). Note: the 72-hour window is NOT operationally targetable via paid social — Special Ad Category restrictions eliminate all demographic and behavioral targeting. See `Claimant_Timing_Tiers_And_Lead_Scoring.md`.
 
 **What do they want?**
 To be made whole. To be treated fairly. To know what they have before they say yes to anything.
@@ -211,7 +217,7 @@ Both, through the same act: that's the brand.
 ### From the Strategy Round Table:
 - Primary B2B consumer: Jennifer Walsh (established builder)
 - Primary B2C consumer: Maria Delgado (working parent in crisis, and parallel archetypes)
-- B2C budget split: 60% pre-accident brand / 40% timing-targeted performance
+- B2C channel strategy: 100% direct response performance — no pre-accident brand awareness spend
 - Identity barrier solution: Reframe (informed decision-maker) + Normalize + Aspirational
 - Defensible B2B claim: "We'll show you our advertising before you commit"
 - Sales window: January-March (counter-cyclical)

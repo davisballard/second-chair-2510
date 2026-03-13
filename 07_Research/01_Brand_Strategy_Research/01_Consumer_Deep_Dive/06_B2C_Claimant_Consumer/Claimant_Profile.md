@@ -372,7 +372,7 @@ The insightful summary:
 
 **Strategy Round Table Decisions (February 2026):**
 
-**B2C investment split: 60% pre-accident brand / 40% timing-targeted performance.** The claimant profile research establishes who the pre-accident victim is (before they're a victim). The 60% pre-accident brand investment reaches this person — ordinary, working-class, living their life — with the "one call before you decide" instruction before the accident creates urgency. The profile personas (Maria, DeShawn, Jennifer, Robert) inform which channels reach each demographic group.
+**B2C channel strategy: 100% direct response performance advertising.** No pre-accident brand awareness spend — accident victims are episodic, one-time customers who will not remember a brand until they have an active need. The strategy is to reach people when they have an active need, in the tier that matches their timing and injury profile. The profile personas (Maria, DeShawn, Jennifer, Robert) inform messaging and creative within each tier — not pre-accident demographic targeting. See `Claimant_Timing_Tiers_And_Lead_Scoring.md` for the full targeting and messaging framework by tier.
 
 **The identity barrier solution applied to each persona:**
 - Maria Delgado: Reframe as "smart decision-maker" — she's a medical professional who values information before action

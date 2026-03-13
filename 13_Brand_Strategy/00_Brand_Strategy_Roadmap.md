@@ -161,11 +161,19 @@ Alex is not in this company to execute someone else's vision. He is here because
 
 The relationship between Davis and Alex is not strategist + builder. It is two people who think creatively from completely different vantage points, whose ideas combine into something neither would produce alone.
 
+**The specific record that makes Alex's contribution verifiable:**
+
+At **TradeStation**, Alex led the 0-to-1 build of a next-generation mobile trading app (iOS and Android): 99.96% crash-free sessions, 60% increase in app store rating, 32% reduction in platform complaints, 100% FINRA/SEC regulatory compliance. He owned the multi-year roadmap for TradeStation's flagship web trading platform serving high-value options and futures traders, and designed growth and activation journeys that slashed time-to-first-trade and boosted funded-to-first-trade conversion. Building at FINRA/SEC-grade compliance standards is now applied directly to PI: the TrustedForm stack, the fail-closed DNC/litigator screening, and the full lead audit trail are all expressions of the same discipline.
+
+At **Summit Analytics Consulting** (6-year product practice), Alex led full lifecycle product development across fintech, real estate, media monetization, and AI-enhanced internal tools — customer discovery through v1 through scaled growth. At **Compass**, he built a custom real estate analytics dashboard using MLS, Zillow, and Redfin APIs with statistical modeling for pricing forecasts and appreciation heatmaps. At **Alfred Realty**, he built the full MarTech stack from scratch — CRM, analytics, lead scoring/routing tied to intent signals — producing a 67% MQL-to-SQL lift and 13% faster speed-to-lead. At **Breakwater Management LP** ($550M+ PE fund), he built financial models for 12+ potential acquisitions and led due diligence evaluations.
+
+He is **CXL-certified** in Conversion Optimization, Growth Marketing, Data Analytics, and Digital Psychology. He is a **Reforge 4x alum** in Product Strategy, Scaling Product Delivery, Growth Series, and Mastering Product Management. He is a **General Assembly full-stack developer** (Ruby on Rails, JavaScript, PostgreSQL, MongoDB). He recently built a proprietary trading platform using a team of AI agents via Claude Code — demonstrating the rapid AI-assisted product development capability Second Chair deploys.
+
 **What Alex brings that Davis cannot:**
 - He sees the product possibilities that fall from a strategic or creative idea — possibilities Davis won't think of because they require understanding what's technically buildable at that level of sophistication
 - He will look at the strategy's vision and come back with specific product approaches that are not refinements of existing category tools — they are new things, built at a technical level competitors cannot match
-- Specific example already known: Alex builds with coding languages and infrastructure choices that make his funnels 5x faster than industry standard. That is a competitive advantage in conversion rate, lead quality, and attorney trust — and it is invisible to the category because no one in PI lead gen thinks at the level of engineering excellence that produces it
 - He brings the lens of financial product compliance (FINRA/SEC-grade regulatory discipline at TradeStation) to what honest PI advertising actually requires at a product level — not as a constraint but as an architecture that the brand's entire honest advertising claim rests on
+- His CXL certification in digital psychology and conversion optimization means the product is designed with behavioral science, not just engineering logic — the same behavioral science underpinning Davis's advertising strategy
 
 **What this means for the strategy sessions:**
 The Founding Truth Brief asks about the fusion of Davis and Alex's capabilities. The honest answer is that the fusion is partially unknown until they're in the same room — because Alex's product ideas will change what the strategy can claim. That is a feature, not a problem. The strategy sessions produce the best thinking available from Davis + the agency team. When Alex reviews the brief, his product response will add a second dimension that makes the positioning stronger, more specific, and more defensible than it can be from advertising and research alone.
@@ -181,12 +189,22 @@ Every product implication that falls from a strategy decision should be document
 **Sasha Zinshtein — Growth Execution, Media Distribution, Client Operations**
 *The operator who opens markets and keeps them running. Source files: `01_Identity/employees/SashaZinshtein.md`*
 
-Sasha is not in the vision — he is in the execution of it. That distinction is important and precise: Davis and Alex define the strategy, product, and creative system. Sasha runs the machine that distributes and monetizes it. Without Sasha, the best creative and the best product has no distribution and no client relationships.
+Sasha is not just the sales and distribution function — he is a 14-year programmatic media professional with direct experience at Fortune 500 scale and a financial underwriting background that fundamentally changes how Second Chair talks to attorneys. His presence is what makes the team's capability claim complete.
 
-What he actually owns:
-- **Media buying** — 14+ years programmatic (DSP/SSP platforms), 18+ brands at 33across (ASOS, Bose, Coach, Diageo, Pepsico, Tinder, Zalando), Director of Growth at The Flower Agency where he pioneered cannabis programmatic on Forbes, TripAdvisor, Rolling Stone when Google and Facebook were off-limits. He buys the media that distributes Davis's creative.
-- **Sales execution** — Cold outreach and closing of PI law firms across target DMAs. At Riverpoint Capital he originated, underwrote, and placed non-dilutive growth capital for SMBs — which means he reads law firm economics and speaks capital-allocator language (ROI, payback, allocation) rather than media-buyer language. He closes deals Davis cannot close at scale because he can do it in volume.
-- **Account operations** — Day-to-day partner relationships, renewal strategy, dashboard alignment, lead qualification, CRM operations. He is the trust layer that keeps attorney partners long-term after Davis and Alex have built what they signed up for.
+**The programmatic record that matters:**
+At **33across**, Sasha managed programmatic buying for 18+ global brands across the full DSP/SSP stack: ASOS, Bose, Coach, Diageo, Duracell, Fanatics, H&R Block, Indeed, Manolo Blahnik, Mondelez International, NatWest, Ocean Spray, Pepsico, Tinder, Wing Stop, Yaamava' Resort & Casino, Zalando, and others. He built optimization strategies, scaled buyer portfolios, managed video operations across both supply and demand side, and tracked ROI end-to-end. This is what rigorous programmatic management looks like at scale — and it is the operational standard Second Chair applies to PI advertising.
+
+**Restricted-category advertising — the PI analog:**
+As **Director of Growth at The Flower Agency**, Sasha pioneered digital advertising for brands operating where Google and Facebook were entirely unavailable. He built an alternative path: programmatic placements on Forbes, TripAdvisor, Rolling Stone, and Food & Wine using proprietary data segments, omni-channel strategy, and attribution that produced measurable ROI in a category that had never had it. This experience is a direct operational analog to PI Special Ad Categories — no demographic, interest, or behavioral targeting available; creative self-selection and contextual placement are the only tools. Sasha has built reach and performance under exactly this constraint before.
+
+**Financial underwriting and capital-allocator fluency:**
+At **Riverpoint Capital**, Sasha underwrote company financials — bank statements, merchant processing, tax returns, P&Ls — to assess cash-flow health and place non-dilutive growth capital for SMBs. Millions deployed. He modeled payback velocity, structured capital stacks, and negotiated terms. This is what makes his law firm sales conversations categorically different: he reads attorney economics and speaks ROI, payback, and case acquisition cost — the language of a managing partner evaluating a business investment, not a vendor pitch.
+
+**What he actually owns at Second Chair:**
+- **Media execution** — Runs all campaigns across Meta (FB/IG, primary), and other channels as needed. Optimizes CPL, manages lead flow and pacing, scales what works. The creative strategy (Davis) and the media execution (Sasha) are designed by the same team and calibrated together — not handed off across a vendor boundary.
+- **Sales execution** — Cold outreach and closing of PI law firms across target DMAs. Opens with attorney economics, not a pitch. Closes when the fit is real; declines when it isn't.
+- **Account relationships** — Day-to-day partner relationships, renewal and expansion strategy, CRM operations. The trust layer that keeps attorney partners long-term.
+- **CRM and pipeline operations** — Owns CRM setup, lead routing rules, sales automation, outbound sequences, and pipeline reporting.
 
 Sasha's role in the strategy sessions: he surfaces the sales reality constraint — what actually gets said in the first 30 seconds of a cold call, what objections kill deals, what language closes. The strategy must work in Sasha's hands in a real conversation. Richard Roma's role in the sessions covers this lens.
 
@@ -336,8 +354,8 @@ Roma's Test: [Can a salesperson say this on a cold call without losing the room?
 
 Before generating territories, apply this filter. Any territory that fails any of these tests is eliminated before it goes to Session 2:
 
-1. **The fusion test:** Does this territory require BOTH Davis's advertising/creative capability AND Alex's product/engineering capability to be credible? A territory that only requires great advertising — and could be delivered by hiring a good agency — fails this test. A territory that only requires a good product team — and doesn't need advertising excellence — fails this test. Second Chair's differentiator is the combination. The territory must be impossible to claim without both.
-2. **The credential test:** Does this territory require the specific capabilities these founders bring — or could a well-funded generic lead gen operator claim it with enough money and a good agency hire? If any competitor with $10M in capital and the right hires could claim it within 18 months, it is not the right territory for Second Chair.
+1. **The fusion test:** Does this territory require ALL THREE founders' specific capabilities to be credible? A territory that only requires great advertising — and could be delivered by hiring a good agency — fails. A territory that only requires great product — without advertising excellence — fails. A territory that could succeed with any competent programmatic buyer — without Sasha's restricted-category expertise and capital-fluency sales motion — fails. The territory must be impossible to claim without Davis's creative depth and brand-strategy pedigree, Alex's compliance-grade engineering and product science, and Sasha's Fortune 500 programmatic execution and financial underwriting fluency, all integrated from founding into the same company.
+2. **The credential test:** Does this territory require the specific capabilities these founders bring — or could a well-funded generic lead gen operator claim it with enough money and the right hires? A competitor with $10M can hire a creative agency (but not 18 years of the right experience). They can hire a product team (but not FINRA/SEC-grade compliance discipline applied to PI from day one). They can hire a media buyer (but not one who has built reach and ROI in restricted-category environments without standard targeting tools). They can hire a sales rep (but not one who underwrote SMB financials and speaks capital-allocator language). If any competitor could credibly claim this territory within 18 months by hiring, it is not the right territory.
 3. **The justice test:** Does this territory reflect a genuine point of view about what the advertising supply chain owes the people inside it — attorneys and accident victims — or is it a commercial claim dressed in ethical language? If it is the latter, it does not survive.
 4. **The expansion test:** Does this territory work for PI MVA and also have room to grow into other high-CPL legal verticals (mass tort, SSD, worker's comp) without requiring a repositioning? A territory that only makes sense for MVA is too narrow. Second Chair's model is a proof of concept for a broader category transformation.
 5. **The "only us" test (Hegarty's standard):** Could any other company in any other market say this? If yes, keep refining. The winning territory is the one that is impossible to say without the specific team, background, and belief system Second Chair has.
@@ -388,13 +406,15 @@ This territory makes alignment visible through product. Alex's real-time attorne
 **Territory C — The 72-Hour Infrastructure**
 *Research tension: Timing vs. Default (Consumer Synthesis, Part 3, Tension 4)*
 
-The research found the single most important structural fact in PI lead gen: the insurance adjuster calls the accident victim first. In most cases, the adjuster's frame is established before the victim has spoken to a lawyer. Every study documents the outcome: victims who spoke to an attorney before accepting averaged $47,300 vs. $13,600 for those who didn't. The gap exists because the information gap exists. And the information gap exists because no lead gen vendor has built the infrastructure to consistently reach accident victims in the 72-hour post-accident window with advertising honest enough to work.
+The research found the single most important structural fact in PI lead gen: the insurance adjuster calls the accident victim first. In most cases, the adjuster's frame is established before the victim has spoken to a lawyer. Every study documents the outcome: victims who spoke to an attorney before accepting averaged $47,300 vs. $13,600 for those who didn't. The gap exists because the information gap exists. And the information gap exists because no lead gen vendor has built the infrastructure to consistently reach accident victims in the post-accident window with advertising honest enough to work.
 
 This territory claims that window. Davis's honest advertising — specific, verifiable, non-exploitative, built to perform where the category's maximalist fantasy-promises fail — is the creative tool that works in this moment. Alex's precision digital infrastructure (geo-targeting, behavioral intake, sub-60-second speed-to-lead, compliant contact protocols at FINRA-grade reliability) is the delivery system that captures the moment before the adjuster's frame is established.
 
-*What makes this "only us":* This territory is both an advertising claim (honest, specific advertising is more effective in the 72-hour window because it's not trying to manage inflated expectations) and a product claim (the intake and routing infrastructure built to operate at this specificity of timing). It requires Davis to have actually built advertising that is honest enough to work without manipulation — and Alex to have actually built the product infrastructure that makes 60-second speed-to-lead reliable at production scale. Neither condition is met by any competitor.
+*What makes this "only us":* This territory is both an advertising claim (honest, specific advertising is more effective because it's not trying to manage inflated expectations) and a product claim (the intake and routing infrastructure built to operate at this specificity of timing). It requires Davis to have actually built advertising that is honest enough to work without manipulation — and Alex to have actually built the product infrastructure that makes 60-second speed-to-lead reliable at production scale. Neither condition is met by any competitor.
 
 *The creative expression possibility:* "Before you talk to theirs, talk to yours." The specific data point (the $33,700 gap) as the creative device. The attorney's phone ringing before the adjuster's call lands.
+
+*Operational note — advertising mechanism:* The 72-hour window is the structural problem this territory is named for, not a paid social targeting parameter. Personal injury advertising falls under Special Ad Categories, which disables all demographic, interest, and behavioral targeting — only geographic targeting remains. The daily volume of newly-injured claimants in any metro is also too small to reach via CPM. The actual advertising mechanism is Meta (Facebook and Instagram — 95–100% of B2C ad spend) operating across a three-tier system via creative self-selection: **Tier 1** (Days 0–30) Meta (FB/IG) — the ad's specificity and honesty cause the person in the pre-decision window to stop scrolling and self-identify; **Tier 2** (1–6 months) Meta retargeting reaches claimants who have already engaged with content and visited sites; **Tier 3** (6+ months to SOL) Meta + content reaches late-presenting high-value cases via SOL education. Google Search is not in the current plan — cost-prohibitive at launch stage; a long-term consideration as the business scales. The territory's product claim — sub-60-second speed-to-lead, intake routing, compliant contact protocols — is what makes Second Chair fast enough to win when the lead arrives, regardless of tier. Full framework: `07_Research/01_Brand_Strategy_Research/01_Consumer_Deep_Dive/06_B2C_Claimant_Consumer/Claimant_Timing_Tiers_And_Lead_Scoring.md`.
 
 ---
 
@@ -531,12 +551,14 @@ Reference: `07_Research/01_Brand_Strategy_Research/01_Consumer_Deep_Dive/05_Atto
 The hierarchy of messages for accident victims:
 
 ```
-Recognition Message (the moment we enter — the 72-hour window)
+Recognition Message (the moment we enter — Tier 1: early active window / Tier 2: accumulation / Tier 3: SOL education)
   ↓
 Evidence Message (the specific data that creates belief)
   ↓
 Action Message (the minimum viable ask)
 ```
+
+Messaging must be differentiated by tier — a claimant in Days 0–30 needs a different recognition message than one who is six months post-accident and receiving medical bills. See `07_Research/01_Brand_Strategy_Research/01_Consumer_Deep_Dive/06_B2C_Claimant_Consumer/Claimant_Timing_Tiers_And_Lead_Scoring.md` for messaging frameworks by tier.
 
 Reference: `07_Research/01_Brand_Strategy_Research/01_Consumer_Deep_Dive/06_B2C_Claimant_Consumer/Claimant_Decision_Architecture.md` for what triggers action.
 
@@ -664,24 +686,141 @@ The brief is the input for visual identity work. This process is separate from t
 
 ---
 
-## Session 5 — Final Strategy Document
+## Session 5 — Execution Briefs (Post-Creative Brief)
 
-**Folder:** `05_Final_Strategy/`
-**Deliverable:** `05_Final_Strategy/Second_Chair_Brand_Strategy.md`
+**Prerequisite:** Session 4 Creative Brief must be locked before any Session 5 work begins. These documents are derived from the locked brief — building them before the brief is locked produces documents that have to be rebuilt anyway.
 
-### Purpose
+**Why these four and not a comms plan or brand guidelines:** Second Chair's B2B acquisition is cold outreach (Sasha) + website. B2C is Meta direct response. A comms plan would plan channels that don't exist. Brand guidelines document decisions that haven't been made yet. These four documents serve the three things that are actually the business: the website, the B2C ads, and Sasha's outreach.
 
-After all four sessions are complete and all deliverables are locked, the Final Strategy document consolidates everything into one authoritative reference. This is the document you hand to anyone — a new team member, an agency partner, a potential investor — who needs to understand what Second Chair is and why.
+---
 
-### What It Contains
+### Session 5A — Website Brief
 
-The Final Strategy is not a new document. It is an editorial consolidation of:
-- Founding Truth Brief
-- Territory Decision (what was explored and why the winning territory won)
-- Brand Architecture
-- Creative Brief
+**Folder:** `05_Execution_Briefs/`
+**Deliverable:** `05_Execution_Briefs/Website_Brief.md`
+**Who leads:** Julian Cole, with Hegarty (bravery test) and Fink (visual direction)
 
-**One document. Complete. No contradictions. No ambiguity.** The Final Strategy is the brand's north star. Every decision that follows — creative, product, sales, content, partnerships — is tested against it.
+The website is Second Chair's most important single piece of marketing. It is the pitch deck, the proof mechanism, the credibility check, and the "show me the advertising" moment — all in one URL. When Sasha's cold email lands and an attorney clicks through, this is what they see. When an attorney wants to justify the decision to a partner, this is what they forward.
+
+The website brief is distinct from the creative brief. It answers:
+- What does this page need to do, in what order, for someone who arrived skeptical and has 90 seconds?
+- What is the persuasion logic — what does the attorney see first, what does it make them believe, what does it make them do?
+- What proof mechanisms appear and in what sequence?
+- What is the one thing that must happen before they leave the page?
+
+**Structure of the deliverable:**
+```
+Purpose: What this page must accomplish (one sentence)
+Audience state on arrival: What they believe when they land (skeptical, burned before, curious)
+The persuasion sequence: Section by section — what each section of the page does
+The proof moments: Where the advertising is shown, where the credentials appear, where the offer is made
+The exit action: The single thing they should do before leaving
+Tone: How it sounds — derived directly from Brand Architecture tone of voice
+What it is not: The constraints that prevent it becoming generic
+```
+
+---
+
+### Session 5B — B2C Campaign Brief
+
+**Folder:** `05_Execution_Briefs/`
+**Deliverable:** `05_Execution_Briefs/B2C_Campaign_Brief.md`
+**Who leads:** Julian Cole, with Ed McCabe (copy direction) and Graham Fink (visual direction per tier)
+
+The master creative brief (Session 4) is the strategic document. The B2C Campaign Brief is the execution brief — scoped specifically for Meta (FB/IG) direct response across the three timing tiers. It is the brief that actually produces the ads.
+
+**Structure of the deliverable:**
+```
+Channel: Meta (FB/IG) — 95–100% of B2C spend. Creative self-selection is the targeting mechanism.
+Platform constraint: Special Ad Categories — no demographic, interest, or behavioral targeting. Geographic + creative are the only tools.
+
+Tier 1 (Days 0–30):
+  - Who we're reaching (claimant profile)
+  - What they believe when we reach them
+  - What the ad must accomplish
+  - The one thing it says
+  - The visual direction
+  - What it does not do
+
+Tier 2 (1–6 months):
+  [Same structure]
+
+Tier 3 (6+ months to SOL):
+  [Same structure]
+
+The 99%/1% mandate: The ad must not irritate the 99% who didn't have an accident while being unmissable to the 1% who did. How each tier solves this.
+Production direction: The craft standard (cinematic vs. phone-shot aesthetic, motion direction, AI-assisted production quality threshold)
+What all three tiers share: The consistent visual and tonal language across the campaign
+```
+
+---
+
+### Session 5C — B2B Sales Language Guide
+
+**Folder:** `05_Execution_Briefs/`
+**Deliverable:** `05_Execution_Briefs/B2B_Sales_Language_Guide.md`
+**Who leads:** Jon Steel (language), Richard Roma (sales reality), Julian Cole (brand alignment)
+
+Not a comms plan. Not a campaign. A practical guide for what Sasha actually says — the specific language for cold email, LinkedIn outreach, the opening of a first call, objection responses, and the close. Derived from the brand architecture's tone of voice and B2B message hierarchy, but written in Sasha's register.
+
+**Structure of the deliverable:**
+```
+The opening line: The one sentence that makes an attorney stop deleting and start reading
+Cold email: Subject line logic; opening paragraph; proof move; offer; CTA
+LinkedIn: Connection request message; first DM
+First call opener: The question that hands control to the attorney (Sasha's "how are you currently bringing in new cases?")
+Objection responses: Pre-mapped to the 5 most common attorney objections
+The close: How to get from interest to a trial agreement
+What Sasha never says: Language that is off-brand or that closes doors
+The CPSC frame: How to introduce cost-per-signed-case as the evaluation metric in a conversation
+```
+
+---
+
+### Session 5D — Attorney Pitch Document
+
+**Folder:** `05_Execution_Briefs/`
+**Deliverable:** `05_Execution_Briefs/Attorney_Pitch.md`
+**Who leads:** Julian Cole + Jon Steel
+
+The structured version of the pitch — what an attorney sees when they want to go deeper, or when they want to share it internally to justify the decision to a partner. May live on the website (a locked one-pager or case study) or be a document Sasha sends after the first call.
+
+**Structure of the deliverable:**
+```
+The outcome first: Consistent cases, better quality, ready to sign (the attorney-facing promise)
+The proof structure: The advertising → the product → the team → the model
+The advertising: Shown, not described. The ad that demonstrates the claim.
+The product: The two scores, the compliance infrastructure, the portal — in plain English
+The team: All three founders, credentials specific and verifiable
+The model: CPSC — we measure ourselves by the same metric you use to measure your practice
+The offer: 50-lead trial, month-to-month, see the advertising first
+What happens next: The minimum viable next step
+```
+
+---
+
+### Session 6 — Final Strategy Document (Brand Bible)
+
+**Folder:** `06_Final_Strategy/`
+**Deliverable:** `06_Final_Strategy/Second_Chair_Brand_Strategy.md`
+**Who leads:** Julian Cole — editorial consolidation
+
+After Sessions 0–5 are complete, the Final Strategy consolidates everything into one authoritative reference. This is the document handed to anyone who needs to understand what Second Chair is and why — a new team member, a developer building the website, an attorney who asks for the full picture, a potential investor.
+
+**What it contains:** Founding Truth Brief → Territory Decision → Brand Architecture → Creative Brief → all four Execution Briefs, consolidated without contradiction or ambiguity.
+
+---
+
+### Sessions NOT in this Roadmap (and Why)
+
+| Session Type | Why Not Now |
+|---|---|
+| Integrated comms plan | Second Chair has no paid B2B advertising and no B2B brand awareness budget. Sasha's outreach and the website are the B2B channel. A comms plan plans channels that don't exist. |
+| Brand guidelines | Documents decisions that will be made in Sessions 3–4. Build the strategy first; guidelines document it afterward (during website and ad production). |
+| Content strategy / calendar | Premature before the creative brief is locked. Content strategy is a Phase 2 consideration after the first attorney accounts are live. |
+| Campaign blueprint | The B2C Campaign Brief (5B) is the campaign blueprint for Second Chair's actual media model. A full campaign blueprint would plan channels and spend levels that are yet to be determined. |
+| B2B paid media plan | Not applicable. Cold outreach is the B2B channel at this stage. |
+| PR strategy | Phase 2 — after first clients produce case studies and CPSC data worth publicizing. |
 
 ---
 
@@ -707,13 +846,17 @@ The Final Strategy is not a new document. It is an editorial consolidation of:
 
 | Session | Deliverable | Status |
 |---------|-------------|--------|
-| 0 — Founding Truth | `01_Founding_Truth/Founding_Truth_Brief.md` | Not started |
-| 1 — Territory Exploration | `02_Territory_Exploration/Territory_01_[Name].md` through `Territory_05_[Name].md` | Not started |
-| 2 — Territory Debate | `02_Territory_Exploration/Territory_Decision.md` | Not started |
-| 3 — Brand Architecture | `03_Brand_Architecture/Brand_Architecture.md` | Not started |
-| 4 — Creative Brief | `04_Creative_Brief/Creative_Brief.md` | Not started |
-| 5 — Final Strategy | `05_Final_Strategy/Second_Chair_Brand_Strategy.md` | Not started |
-| Visual Identity | `02_Visual/` | After Creative Brief |
+| 0 — Founding Truth | `01_Founding_Truth/Founding_Truth_Brief.md` | **Complete — validated** |
+| 1 — Territory Exploration | `02_Territory_Exploration/Territory_[Name].md` (5 docs) | **Complete — D and E pass all five filters** |
+| 2 — Territory Debate | `02_Territory_Exploration/Territory_Decision.md` | **Complete — Honestly Won locked** |
+| 3 — Brand Architecture | `03_Brand_Architecture/Brand_Architecture.md` | **Complete — locked** |
+| 4 — Creative Brief | `04_Creative_Brief/Creative_Brief.md` | **Complete — locked** |
+| 5A — Website Brief | `05_Execution_Briefs/Website_Brief.md` | **Complete — locked** |
+| 5B — B2C Campaign Brief | `05_Execution_Briefs/B2C_Campaign_Brief.md` | **Complete — locked** |
+| 5C — B2B Sales Language Guide | `05_Execution_Briefs/B2B_Sales_Language_Guide.md` | **Complete — locked** |
+| 5D — Attorney Pitch Document | `05_Execution_Briefs/Attorney_Pitch.md` | **Complete — locked** |
+| 6 — Brand Bible | `06_Final_Strategy/Second_Chair_Brand_Strategy.md` | Pending (final consolidation) |
+| Visual Identity | `02_Visual/` | After Creative Brief — separate execution process |
 
 ---
 
