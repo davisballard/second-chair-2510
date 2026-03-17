@@ -126,15 +126,15 @@ body {
   align-items: center;
 }
 
-/* Full wordmark: 997×437 viewBox — at 36px height renders ~82px wide */
+/* Full wordmark: 997×437 viewBox — at 45px height renders ~103px wide */
 .nav-logo-wrap .logo-full {
-  height: 36px;
+  height: 45px;
   width: auto;
 }
 
 /* Mark only: 431×437 viewBox — square, shown on mobile */
 .nav-logo-wrap .logo-mark {
-  height: 36px;
+  height: 45px;
   width: auto;
   display: none;
 }
