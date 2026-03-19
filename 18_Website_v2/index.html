@@ -3,7 +3,29 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Second Chair</title>
+  <title>Second Chair | The leads other vendors can&rsquo;t produce.</title>
+  <meta name="description" content="PI lead gen built by the team behind Disney, Google, Samsung, and the NFL. One firm per market. No shared leads. No compliance shortcuts.">
+  <link rel="canonical" href="https://2ndchair.net/">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://2ndchair.net/">
+  <meta property="og:title" content="Second Chair | The leads other vendors can't produce.">
+  <meta property="og:description" content="PI lead gen built by the team behind Disney, Google, Samsung, and the NFL. One firm per market. No shared leads. No compliance shortcuts.">
+  <meta property="og:image" content="https://2ndchair.net/images/og-image.png">
+  <meta property="og:image:width" content="1024">
+  <meta property="og:image:height" content="764">
+  <meta property="og:image:alt" content="Second Chair — a burgundy leather-bound book with gold lettering, on a wooden surface in a law library">
+  <meta property="og:site_name" content="Second Chair">
+  <meta property="og:locale" content="en_US">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="https://2ndchair.net/">
+  <meta name="twitter:title" content="Second Chair | The leads other vendors can't produce.">
+  <meta name="twitter:description" content="PI lead gen built by the team behind Disney, Google, Samsung, and the NFL. One firm per market. No shared leads. No compliance shortcuts.">
+  <meta name="twitter:image" content="https://2ndchair.net/images/og-image.png">
+  <meta name="twitter:image:alt" content="Second Chair — a burgundy leather-bound book with gold lettering, on a wooden surface in a law library">
 
   <!--
   ╔══════════════════════════════════════════════════════════════╗
@@ -13,6 +35,11 @@
   ║  Intelligence standalone sections.                           ║
   ╚══════════════════════════════════════════════════════════════╝
   -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="favicon-192.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
 
   <link rel="stylesheet" href="css/styles.css">
 </head>
@@ -41,9 +68,9 @@
       </svg>
     </a>
     <ul class="nav-links">
-      <li><a href="#creative">Work</a></li>
+      <li><a href="/process">Process</a></li>
     </ul>
-    <a href="#cta" class="hero-cta nav-apply-btn">Apply</a>
+    <a href="#" class="hero-cta nav-apply-btn" data-open-modal="apply-modal">Apply</a>
     <button class="nav-toggle" aria-label="Open menu" aria-expanded="false">
       <span class="nav-toggle-bar"></span>
       <span class="nav-toggle-bar"></span>
@@ -56,7 +83,7 @@
 <div class="mobile-menu" id="mobile-menu" aria-hidden="true">
   <div class="mobile-menu-inner">
     <a href="#creative" class="mobile-menu-link">Work</a>
-    <a href="#cta" class="mobile-menu-link mobile-menu-cta">Apply</a>
+    <a href="#" class="mobile-menu-link mobile-menu-cta" data-open-modal="apply-modal">Apply</a>
   </div>
 </div>
 
@@ -120,10 +147,11 @@
           <span class="hep-brand">Disney</span>
           <span class="hep-brand">NFL</span>
           <span class="hep-brand">Samsung</span>
-          <span class="hep-brand">PepsiCo</span>
-          <span class="hep-brand">Bose</span>
+          <span class="hep-brand">Uber</span>
           <span class="hep-brand">NBA</span>
-          <span class="hep-brand">Coach</span>
+          <span class="hep-brand">PepsiCo</span>
+          <span class="hep-brand">Taco Bell</span>
+          <span class="hep-brand">Bose</span>
         </div>
 
         <div class="hep-fcc">
@@ -143,39 +171,53 @@
   <!-- TICKER — credential brands scrolling full-width at base of hero -->
   <div class="hero-ticker-wrap" aria-hidden="true">
     <div class="hero-ticker-track">
-      <span class="ticker-item">Disney</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">Google</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">Samsung</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">NFL</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">NBA</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">PepsiCo</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">Bose</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">Coach</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">The Macallan</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">Oculus</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">Tinder</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">Diageo</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">Duracell</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">H&amp;R Block</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">Indeed</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">Ocean Spray</span><span class="ticker-sep">&middot;</span>
+      <img class="ticker-logo" src="images/disney.svg" alt="Disney">
+      <img class="ticker-logo" src="images/google.svg" alt="Google">
+      <img class="ticker-logo" src="images/samsung.svg" alt="Samsung">
+      <img class="ticker-logo" src="images/nfl.svg" alt="NFL">
+      <img class="ticker-logo" src="images/nba.svg" alt="NBA">
+      <img class="ticker-logo" src="images/uber.svg" alt="Uber">
+      <img class="ticker-logo" src="images/taco-bell.svg" alt="Taco Bell">
+      <img class="ticker-logo" src="images/pepsico.svg" alt="PepsiCo">
+      <img class="ticker-logo" src="images/bose.svg" alt="Bose">
+      <img class="ticker-logo" src="images/coach.svg" alt="Coach">
+      <img class="ticker-logo" src="images/67a67ed2d98f49712ccdb59e_macallan.svg" alt="The Macallan">
+      <img class="ticker-logo" src="images/oculos.svg" alt="Oculus">
+      <img class="ticker-logo" src="images/optum.svg" alt="Optum">
+      <img class="ticker-logo" src="images/harvard.svg" alt="Harvard">
+      <img class="ticker-logo" src="images/stanford.svg" alt="Stanford">
+      <img class="ticker-logo" src="images/tinder.svg" alt="Tinder">
+      <img class="ticker-logo" src="images/diageo.svg" alt="Diageo">
+      <img class="ticker-logo" src="images/e&amp;j-gallo.svg" alt="E&amp;J Gallo">
+      <img class="ticker-logo" src="images/miller.svg" alt="Miller">
+      <img class="ticker-logo" src="images/blink-182.svg" alt="Blink-182">
+      <img class="ticker-logo" src="images/duracell.svg" alt="Duracell">
+      <img class="ticker-logo" src="images/H_and_R_Block.svg" alt="H&amp;R Block">
+      <img class="ticker-logo" src="images/Indeed.svg" alt="Indeed">
       <!-- duplicate set for seamless loop -->
-      <span class="ticker-item">Disney</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">Google</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">Samsung</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">NFL</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">NBA</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">PepsiCo</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">Bose</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">Coach</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">The Macallan</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">Oculus</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">Tinder</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">Diageo</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">Duracell</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">H&amp;R Block</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">Indeed</span><span class="ticker-sep">&middot;</span>
-      <span class="ticker-item">Ocean Spray</span><span class="ticker-sep">&middot;</span>
+      <img class="ticker-logo" src="images/disney.svg" alt="Disney">
+      <img class="ticker-logo" src="images/google.svg" alt="Google">
+      <img class="ticker-logo" src="images/samsung.svg" alt="Samsung">
+      <img class="ticker-logo" src="images/nfl.svg" alt="NFL">
+      <img class="ticker-logo" src="images/nba.svg" alt="NBA">
+      <img class="ticker-logo" src="images/uber.svg" alt="Uber">
+      <img class="ticker-logo" src="images/taco-bell.svg" alt="Taco Bell">
+      <img class="ticker-logo" src="images/pepsico.svg" alt="PepsiCo">
+      <img class="ticker-logo" src="images/bose.svg" alt="Bose">
+      <img class="ticker-logo" src="images/coach.svg" alt="Coach">
+      <img class="ticker-logo" src="images/67a67ed2d98f49712ccdb59e_macallan.svg" alt="The Macallan">
+      <img class="ticker-logo" src="images/oculos.svg" alt="Oculus">
+      <img class="ticker-logo" src="images/optum.svg" alt="Optum">
+      <img class="ticker-logo" src="images/harvard.svg" alt="Harvard">
+      <img class="ticker-logo" src="images/stanford.svg" alt="Stanford">
+      <img class="ticker-logo" src="images/tinder.svg" alt="Tinder">
+      <img class="ticker-logo" src="images/diageo.svg" alt="Diageo">
+      <img class="ticker-logo" src="images/e&amp;j-gallo.svg" alt="E&amp;J Gallo">
+      <img class="ticker-logo" src="images/miller.svg" alt="Miller">
+      <img class="ticker-logo" src="images/blink-182.svg" alt="Blink-182">
+      <img class="ticker-logo" src="images/duracell.svg" alt="Duracell">
+      <img class="ticker-logo" src="images/H_and_R_Block.svg" alt="H&amp;R Block">
+      <img class="ticker-logo" src="images/Indeed.svg" alt="Indeed">
     </div>
   </div>
 
@@ -668,7 +710,7 @@
           <p class="founder-role">Co-Founder &mdash; Creative Strategy</p>
           <p class="founder-headline-credential">18 years building advertising for the world's most recognized brands.</p>
           <ul class="founder-credentials">
-            <li>Strategy and creative across Disney, Google, Samsung, NFL, NBA, The Macallan, Oculus, and Vice</li>
+            <li>Strategy and creative across Disney, Google, Samsung, NFL, NBA, Uber, Taco Bell, The Macallan, and Optum</li>
             <li>Built a brand from zero &mdash; creative direction, strategy, voice, visual identity</li>
             <li>Compliance-grade creative in SEC-regulated fintech and Fortune 500 healthcare</li>
           </ul>
@@ -728,7 +770,7 @@
               <span class="logo-chip logo-chip--wide">Claude</span>
               <span class="logo-chip logo-chip--wide">Cursor</span>
               <span class="logo-chip logo-chip--wide">ElevenLabs</span>
-              <span class="logo-chip logo-chip--wide">FLUX</span>
+              <span class="logo-chip logo-chip--wide">Nano Banana</span>
               <span class="logo-chip logo-chip--wide">Kling</span>
               <span class="logo-chip logo-chip--wide">FAL.ai</span>
             </div>
@@ -740,16 +782,16 @@
             <span class="diagram-label">Founder Judgment</span>
             <div class="founder-node-grid">
               <div class="founder-node">
-                <span class="founder-node-initial">D</span>
+                <span class="founder-node-initial">D<span class="founder-node-name">AVIS</span></span>
                 <span class="founder-node-role">Creative<br>Strategy</span>
               </div>
               <div class="founder-node">
-                <span class="founder-node-initial">A</span>
+                <span class="founder-node-initial">A<span class="founder-node-name" style="margin-left:1px">LEX</span></span>
                 <span class="founder-node-role">Product<br>Technology</span>
               </div>
               <div class="founder-node">
-                <span class="founder-node-initial">S</span>
-                <span class="founder-node-role">Media<br>Performance</span>
+                <span class="founder-node-initial">S<span class="founder-node-name">ASHA</span></span>
+                <span class="founder-node-role">Media<br>Buying</span>
               </div>
             </div>
           </div>
@@ -810,6 +852,7 @@
     <div class="steps-grid">
 
       <div class="step reveal reveal-delay-1">
+        <figure class="step-photo"><img src="images/step-research.jpg" alt="Research — city map with neighborhood pins on a walnut desk" loading="lazy"></figure>
         <div class="step-number">Phase 01</div>
         <span class="step-deliverable">Your market,<br>mapped first.</span>
         <h3 class="step-title">Discovery</h3>
@@ -817,13 +860,15 @@
       </div>
 
       <div class="step reveal reveal-delay-2">
+        <figure class="step-photo"><img src="images/step-creative.jpg" alt="Creative — lightbox with campaign transparencies, mood boards, and brass loupe" loading="lazy"></figure>
         <div class="step-number">Phase 02</div>
-        <span class="step-deliverable">See the creative<br>before you commit.</span>
+        <span class="step-deliverable">See the creative<br>before we run it.</span>
         <h3 class="step-title">Creative Development</h3>
-        <p class="step-description">We build the campaign creative before you commit to a lead volume. No templates &mdash; advertising built for your specific market, your firm's positioning, and the claimants in your territory.</p>
+        <p class="step-description">We build the campaign creative before we run the campaign. No templates &mdash; advertising built for your specific market, your firm's positioning, and the claimants in your territory.</p>
       </div>
 
       <div class="step reveal reveal-delay-3">
+        <figure class="step-photo"><img src="images/step-compliance.jpg" alt="Compliance — legal document with gold seal and gavel in law library" loading="lazy"></figure>
         <div class="step-number">Phase 03</div>
         <span class="step-deliverable">Live. Compliant.<br>Tracked from day one.</span>
         <h3 class="step-title">Campaign Launch</h3>
@@ -831,6 +876,7 @@
       </div>
 
       <div class="step reveal reveal-delay-4">
+        <figure class="step-photo"><img src="images/step-optimization.jpg" alt="Optimization — brass precision scale with gold weights, leather-bound volumes and performance graph on cork board" loading="lazy"></figure>
         <div class="step-number">Phase 04</div>
         <span class="step-deliverable">Better leads.<br>Lower cost per case.</span>
         <h3 class="step-title">Optimization &amp; Growth</h3>
@@ -857,14 +903,12 @@
       <div class="cta-left">
 
         <figure class="cta-image">
-          <img src="images/law-library.png" alt="A law office library — shelves of legal volumes, a brass lamp, and a leather chair." loading="lazy">
+          <img src="images/cta-office.jpg" alt="Corner office with two leather chairs facing each other, city skyline at golden hour through floor-to-ceiling windows." loading="lazy">
         </figure>
 
-        <span class="cta-kicker">Apply for a discovery call</span>
+        <span class="cta-kicker">Start a conversation</span>
         <h2 class="cta-headline">We work with a small number of firms.</h2>
-        <p class="cta-body">This is where we figure out if there's a fit &mdash; for both of us. We come prepared with research on your market. You come with questions. If it makes sense, we talk next steps.</p>
-        <span class="cta-contact-label">Questions</span>
-        <a href="mailto:hello@secondchair.com" class="cta-contact-email">hello@secondchair.com</a>
+        <p class="cta-body">A 30-minute call to see if there's a fit &mdash; for both of us.</p>
       </div>
 
       <!-- RIGHT: Intake form -->
@@ -873,13 +917,13 @@
         <form class="cta-form" action="#" method="post">
 
           <div class="form-field">
-            <label class="form-label" for="f-market">Market / DMA</label>
-            <input class="form-input" type="text" id="f-market" name="market" placeholder="e.g. Dallas&ndash;Fort Worth" autocomplete="off">
+            <label class="form-label" for="f-firm">Firm Name</label>
+            <input class="form-input" type="text" id="f-firm" name="firm" placeholder="e.g. Smith &amp; Associates" autocomplete="organization">
           </div>
 
           <div class="form-field">
-            <label class="form-label" for="f-firm">Firm Name</label>
-            <input class="form-input" type="text" id="f-firm" name="firm" placeholder="e.g. Smith &amp; Associates" autocomplete="organization">
+            <label class="form-label" for="f-market">Market(s)</label>
+            <input class="form-input" type="text" id="f-market" name="market" placeholder="e.g. Los Angeles, Miami, New York City" autocomplete="off">
           </div>
 
           <div class="form-row">
@@ -893,45 +937,19 @@
             </div>
           </div>
 
-          <div class="form-row">
-            <div class="form-field">
-              <label class="form-label" for="f-phone">Phone</label>
-              <input class="form-input" type="tel" id="f-phone" name="phone" placeholder="(555) 000-0000" autocomplete="tel">
-            </div>
-            <div class="form-field">
-              <label class="form-label" for="f-size">Firm Size</label>
-              <select class="form-select" id="f-size" name="size">
-                <option value="" disabled selected>Select</option>
-                <option value="solo">Solo practice</option>
-                <option value="2-5">2&ndash;5 attorneys</option>
-                <option value="6-15">6&ndash;15 attorneys</option>
-                <option value="15+">15+ attorneys</option>
-              </select>
-            </div>
+          <div class="form-field">
+            <label class="form-label" for="f-phone">Phone</label>
+            <input class="form-input" type="tel" id="f-phone" name="phone" placeholder="(555) 000-0000" autocomplete="tel">
           </div>
 
           <!-- Submit area -->
           <div class="cta-submit-wrap">
-            <button type="submit" class="cta-submit">Request a discovery call</button>
-            <div class="form-trust">
-              <span class="form-trust-item">
-                <svg class="form-trust-icon" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><circle cx="6" cy="6" r="4.5"/><path d="M6 4v2.5l1.5 1"/></svg>
-                Respond in 48 hrs
-              </span>
-              <span class="form-trust-item">
-                <svg class="form-trust-icon" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M6 1.5L10 3.5V6C10 8.5 8 10.5 6 11C4 10.5 2 8.5 2 6V3.5L6 1.5Z"/><path d="M4.5 6l1.2 1.2L7.5 5"/></svg>
-                Info never shared
-              </span>
-              <span class="form-trust-item">
-                <svg class="form-trust-icon" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><circle cx="6" cy="6" r="4.5"/><path d="M6 3.5v2.5"/><circle cx="6" cy="8.5" r="0.4" fill="currentColor"/></svg>
-                No pressure
-              </span>
-            </div>
+            <button type="submit" class="cta-submit">Book a discovery call</button>
+            <p class="form-followup">We'll be in touch within two business days.</p>
           </div>
 
         </form>
 
-        <p class="cta-form-note">Not every firm qualifies &mdash; we'll tell you on the call</p>
 
       </div>
 
@@ -966,7 +984,7 @@
       <div class="footer-col">
         <span class="footer-nav-label">Navigation</span>
         <ul class="footer-nav">
-          <li><a href="#creative">Work</a></li>
+          <li><a href="/process">Process</a></li>
           <li><a href="#cta">Apply</a></li>
         </ul>
       </div>
@@ -997,6 +1015,45 @@
         <source src="" type="video/mp4">
       </video>
     </div>
+  </div>
+</div>
+
+<!-- Apply Modal -->
+<div id="apply-modal" class="apply-modal" aria-hidden="true">
+  <div class="apply-modal-backdrop"></div>
+  <div class="apply-modal-panel">
+    <button class="apply-modal-close" aria-label="Close">&times;</button>
+    <span class="apply-modal-kicker">Start a conversation</span>
+    <h2 class="apply-modal-headline">We work with a small number of firms.</h2>
+    <p class="apply-modal-body">A 30-minute call to see if there's a fit &mdash; for both of us.</p>
+    <form class="cta-form apply-modal-form" action="#" method="post">
+      <div class="form-field">
+        <label class="form-label" for="m-firm">Firm Name</label>
+        <input class="form-input" type="text" id="m-firm" name="firm" placeholder="e.g. Smith &amp; Associates" autocomplete="organization">
+      </div>
+      <div class="form-field">
+        <label class="form-label" for="m-market">Market(s)</label>
+        <input class="form-input" type="text" id="m-market" name="market" placeholder="e.g. Los Angeles, Miami, New York City" autocomplete="off">
+      </div>
+      <div class="form-row">
+        <div class="form-field">
+          <label class="form-label" for="m-name">Your Name</label>
+          <input class="form-input" type="text" id="m-name" name="name" placeholder="Full name" autocomplete="name">
+        </div>
+        <div class="form-field">
+          <label class="form-label" for="m-email">Work Email</label>
+          <input class="form-input" type="email" id="m-email" name="email" placeholder="you@firmname.com" autocomplete="email">
+        </div>
+      </div>
+      <div class="form-field">
+        <label class="form-label" for="m-phone">Phone</label>
+        <input class="form-input" type="tel" id="m-phone" name="phone" placeholder="(555) 000-0000" autocomplete="tel">
+      </div>
+      <div class="cta-submit-wrap">
+        <button type="submit" class="cta-submit">Book a discovery call</button>
+        <p class="form-followup">We'll be in touch within two business days.</p>
+      </div>
+    </form>
   </div>
 </div>
 

@@ -30,7 +30,7 @@ Three equal co-founders. Every dollar of profit splits evenly. No hierarchy — 
 - Content strategy for partner firms
 - Premium lead nurture copy and sequences
 
-**Background:** 18 years across strategy and creative for Disney, Google, Samsung, The Macallan, Vacation (first employee — 14 beauty awards, 27M earned impressions), and 12 Fortune 500 brands. Partnered with 55-time Cannes Lion Winner Julian Cole on 4 Fortune 500 strategy projects. Built Second Chair's AI-powered marketing engine integrating marketing science, behavioral psychology, and creative execution.
+**Background:** 18 years across strategy and creative for Disney, Google, Samsung, NFL, NBA, Uber, Taco Bell, The Macallan, Oculus, Optum, and 12 Fortune 500 brands. Partnered with 55-time Cannes Lion Winner Julian Cole on 4 Fortune 500 strategy projects. Built Second Chair's AI-powered marketing engine integrating marketing science, behavioral psychology, and creative execution.
 
 **Location:** Los Angeles / San Diego, California
 
@@ -88,7 +88,7 @@ Three equal co-founders. Every dollar of profit splits evenly. No hierarchy — 
 - Upselling existing partners into premium leads + agency services
 - Revenue expansion strategy per DMA
 
-**Background:** 14+ years across programmatic media buying, sales, and financial underwriting. Programmatic account management for 18+ Fortune 500 brands at 33across (ASOS, Bose, Coach, Diageo, Pepsico, Tinder, Zalando). Director of Growth at The Flower Agency (pioneered cannabis programmatic on Forbes, Rolling Stone). Fund Specialist at Riverpoint Capital (millions deployed in non-dilutive growth capital). Speaks capital-allocator language — ROI, payback, allocation — which is how he sells to law firms.
+**Background:** 14+ years across programmatic media buying, sales, and financial underwriting. Programmatic account management for 18+ Fortune 500 brands at 33across (Bose, Coach, Diageo, Duracell, H&R Block, Indeed, Ocean Spray, PepsiCo, Tinder). Director of Growth at The Flower Agency (pioneered cannabis programmatic on Forbes, Rolling Stone). Fund Specialist at Riverpoint Capital (millions deployed in non-dilutive growth capital). Speaks capital-allocator language — ROI, payback, allocation — which is how he sells to law firms.
 
 **Location:** New York, NY
 

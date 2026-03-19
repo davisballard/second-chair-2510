@@ -390,6 +390,18 @@
     #hero {
       background: var(--sc-oxblood);
       padding: 72px 0 0;
+      position: relative;
+    }
+    #hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(255,221,114,0.06) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,221,114,0.04) 1px, transparent 1px);
+      background-size: 100% 36px, 36px 100%;
+      opacity: 0.35;
+      pointer-events: none;
     }
 
     .hero-inner {
@@ -604,7 +616,7 @@
     }
     .hero-layer-payoff {
       font-family: var(--font-body);
-      font-size: 13px;
+      font-size: 14px;
       line-height: 1.55;
       color: rgba(255,247,240,0.55);
     }
@@ -676,14 +688,45 @@
     }
     .hero-ticker-track {
       display: flex;
+      align-items: center;
       width: max-content;
-      animation: hero-scroll 50s linear infinite;
+      animation: hero-scroll 60s linear infinite;
     }
     .hero-ticker-track:hover { animation-play-state: paused; }
     @keyframes hero-scroll {
       0%   { transform: translateX(0); }
       100% { transform: translateX(-50%); }
     }
+    .ticker-logo {
+      height: 22px;
+      width: auto;
+      opacity: 0.50;
+      padding: 0 32px;
+      flex-shrink: 0;
+      filter: brightness(0) invert(1) sepia(1) hue-rotate(-10deg) saturate(2) brightness(1.05);
+    }
+
+    /* Tall icons — portrait-oriented, need more height to read */
+    .ticker-logo[alt="NFL"]       { height: 34px; }
+    .ticker-logo[alt="Taco Bell"] { height: 34px; }
+
+    /* Icon-heavy — ornate or nearly square, slightly taller */
+    .ticker-logo[alt="NBA"]       { height: 28px; }
+    .ticker-logo[alt="Miller"]    { height: 28px; }
+    .ticker-logo[alt*="Gallo"]    { height: 28px; }
+    .ticker-logo[alt="Disney"]    { height: 24px; }
+    .ticker-logo[alt="Blink-182"] { height: 24px; }
+
+    /* Very wide wordmarks — reduce height to control width */
+    .ticker-logo[alt="Samsung"]   { height: 15px; }
+    .ticker-logo[alt="Bose"]      { height: 13px; }
+    .ticker-logo[alt="PepsiCo"]   { height: 15px; }
+    .ticker-logo[alt="Duracell"]  { height: 15px; }
+
+    /* Moderately wide — slight reduction */
+    .ticker-logo[alt="Oculus"]    { height: 19px; }
+    .ticker-logo[alt="Diageo"]    { height: 16px; }
+    .ticker-logo[alt="Uber"]      { height: 19px; }
     .ticker-item {
       font-family: var(--font-ui);
       font-size: 12px;
@@ -1070,13 +1113,12 @@
     .editorial-header { margin-bottom: 48px; }
     .editorial-header h2 {
       font-family: var(--font-display);
-      font-size: clamp(28px, 3vw, 36px);
+      font-size: clamp(26px, 2.8vw, 34px);
       font-weight: 500;
       font-style: italic;
       color: var(--sc-charcoal);
       margin-top: 10px;
       letter-spacing: -0.02em;
-      max-width: 680px;
     }
 
     .editorial-content {
@@ -1536,6 +1578,14 @@
       line-height: 1;
       font-style: italic;
       color: var(--sc-gold);
+    }
+    .founder-node-name {
+      font-size: 10px;
+      font-style: italic;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      margin-left: -1px;
+      opacity: 0.65;
       margin-bottom: 6px;
     }
     .founder-node-role {
@@ -1675,7 +1725,7 @@
 
     .how-footnote {
       margin-top: 0;
-      padding: 16px 24px;
+      padding: 20px 24px;
       border: 1px solid rgba(73,10,10,0.14);
       border-top: none;
       display: flex;
@@ -1684,10 +1734,11 @@
       gap: 24px;
     }
     .how-footnote p {
-      font-family: var(--font-mono);
-      font-size: 11px;
-      letter-spacing: 0.10em;
-      text-transform: uppercase;
+      font-family: var(--font-body);
+      font-size: 15px;
+      font-style: italic;
+      letter-spacing: 0.01em;
+      text-transform: none;
       color: rgba(28,25,23,0.40);
     }
     .how-footnote-cta {
@@ -1727,7 +1778,7 @@
       aspect-ratio: 4 / 3;
       overflow: hidden;
       margin: 0 0 32px 0;
-      border-bottom: 2px solid var(--sc-rule);
+      border: 2px solid var(--sc-rule);
     }
     .cta-image img {
       display: block;
@@ -1831,6 +1882,7 @@
       appearance: none;
       min-height: 54px;
     }
+    .form-textarea { resize: vertical; min-height: 54px; line-height: 1.5; }
     .form-input::placeholder { color: rgba(28,25,23,0.46); font-style: italic; }
     .form-input:focus,
     .form-select:focus { border-color: var(--sc-rule); background: #fff; box-shadow: 0 0 0 3px rgba(73,10,10,0.06); }
@@ -1840,20 +1892,36 @@
     .cta-submit-wrap { border-top: 1px solid rgba(73,10,10,0.12); padding-top: 20px; margin-top: 4px; }
     .cta-submit {
       display: block;
+      position: relative;
       width: 100%;
       background: var(--sc-oxblood);
-      color: rgba(255,247,240,0.94);
-      border: none;
-      padding: 16px 24px;
-      font-family: var(--font-body);
-      font-size: 15px;
+      color: rgba(255,221,114,0.92);
+      border: 1px solid rgba(255,221,114,0.35);
+      border-radius: 10px;
+      padding: 18px 24px;
+      font-family: var(--font-display);
+      font-size: 16px;
+      font-weight: 500;
       letter-spacing: 0.02em;
       text-align: center;
       cursor: pointer;
-      min-height: 52px;
-      transition: background 0.18s ease, color 0.18s ease;
+      min-height: 54px;
+      transition: background 0.18s ease, color 0.18s ease, border-color 0.18s ease, transform 0.12s ease;
     }
-    .cta-submit:hover { background: rgba(73,10,10,1); color: #fff; }
+    .cta-submit::after {
+      content: "";
+      position: absolute;
+      inset: 3px;
+      border: 1px solid rgba(255,221,114,0.18);
+      border-radius: 7px;
+      pointer-events: none;
+    }
+    .cta-submit:hover {
+      background: rgba(73,10,10,1);
+      color: var(--sc-white);
+      border-color: rgba(255,221,114,0.55);
+      transform: translateY(-1px);
+    }
 
     .form-trust { display: flex; gap: 20px; margin-top: 14px; }
     .form-trust-item {
@@ -1882,12 +1950,377 @@
     }
 
     /* ============================================================
+       APPLY PAGE (standalone /apply)
+    ============================================================ */
+    .apply-page { background: var(--sc-cream); }
+    .apply-page-content { padding: 120px 0 80px; }
+    .apply-page-layout {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 80px;
+      align-items: start;
+      max-width: 960px;
+      margin: 0 auto;
+    }
+    .apply-page-copy { padding-top: 24px; }
+    @media (max-width: 768px) {
+      .apply-page-layout { grid-template-columns: 1fr; gap: 40px; }
+      .apply-page-content { padding: 100px 0 48px; }
+    }
+
+    /* ============================================================
+       PROCESS PAGE
+    ============================================================ */
+    .process-page { background: var(--sc-cream); }
+
+    /* ── Dark Hero ── */
+    .process-hero-dark {
+      position: relative;
+      background: linear-gradient(180deg, #551010 0%, #490A0A 100%);
+      padding: 120px 0 72px;
+      border-bottom: 1px solid rgba(255,221,114,0.30);
+      overflow: hidden;
+    }
+    .process-hero-dark::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(255,221,114,0.06) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,221,114,0.04) 1px, transparent 1px);
+      background-size: 100% 36px, 36px 100%;
+      opacity: 0.35;
+      pointer-events: none;
+    }
+    .process-dark-headline {
+      position: relative;
+      font-family: var(--font-display);
+      font-size: clamp(40px, 5vw, 68px);
+      font-weight: 500;
+      font-style: italic;
+      line-height: 1.05;
+      color: var(--sc-white);
+      letter-spacing: -0.02em;
+      margin-bottom: 16px;
+      max-width: 700px;
+    }
+    .process-dark-sub {
+      position: relative;
+      font-family: var(--font-body);
+      font-size: 17px;
+      line-height: 1.6;
+      color: rgba(255,247,240,0.60);
+    }
+
+    /* ── Strategy section ── */
+    .process-strategy {
+      padding: var(--section-v) 0 48px;
+      border-bottom: var(--rule);
+    }
+
+    /* Step photos */
+    .step-photo {
+      margin: 0 0 16px 0;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      overflow: hidden;
+      border-bottom: 1px solid rgba(73,10,10,0.10);
+    }
+    .step-photo img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      filter: saturate(0.80) brightness(0.92);
+    }
+    .step-photo-placeholder {
+      width: 100%;
+      height: 100%;
+      background: rgba(73,10,10,0.04);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: rgba(73,10,10,0.20);
+    }
+
+    /* Ad pair */
+    .process-ad-pair {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      max-width: 560px;
+      margin: 0 auto;
+    }
+    .process-ad-img {
+      width: 100%;
+      height: auto;
+      border: 1px solid rgba(73,10,10,0.10);
+    }
+
+    /* ── Process tickers ── */
+    .process-ticker-wrap {
+      position: relative;
+      background: rgba(73,10,10,0.03);
+      border-top: 1px solid rgba(73,10,10,0.08);
+      border-bottom: 1px solid rgba(73,10,10,0.08);
+      padding: 14px 0;
+      overflow: hidden;
+    }
+    .process-ticker-label {
+      position: absolute;
+      left: 24px;
+      top: 50%;
+      transform: translateY(-50%);
+      font-family: var(--font-mono);
+      font-size: 10px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: rgba(73,10,10,0.30);
+      z-index: 2;
+      background: rgba(255,247,240,0.85);
+      padding: 2px 8px;
+    }
+
+    /* ── Pipeline section (full-bleed oxblood) ── */
+    .pipeline-section {
+      position: relative;
+      width: 100vw;
+      left: 50%;
+      transform: translateX(-50%);
+      margin-top: -1px;
+      background: linear-gradient(180deg, #551010 0%, #490A0A 100%);
+      border-top: 2px solid rgba(255,221,114,0.42);
+      border-bottom: 1px solid rgba(255,221,114,0.30);
+      overflow: hidden;
+      padding: 68px 0 76px;
+    }
+    .pipeline-section::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(255,221,114,0.06) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,221,114,0.04) 1px, transparent 1px);
+      background-size: 100% 36px, 36px 100%;
+      opacity: 0.35;
+      pointer-events: none;
+    }
+    .pipeline-inner {
+      position: relative;
+      z-index: 1;
+      max-width: var(--container-max);
+      margin: 0 auto;
+      padding: 0 var(--outer-margin);
+    }
+    /* Pipeline uses 7-column grid for 4 panels + 3 flow arrows */
+    .pipeline-diagram {
+      display: grid;
+      grid-template-columns: minmax(140px, 1fr) 40px minmax(140px, 1fr) 40px minmax(140px, 1fr) 40px minmax(140px, 1fr);
+      gap: 0;
+      align-items: stretch;
+      border: 1px solid rgba(255,221,114,0.20);
+      backdrop-filter: blur(2px);
+      margin-top: 32px;
+    }
+
+    /* ── Tracking section ── */
+    .process-tracking {
+      padding: var(--section-v) 0;
+      border-bottom: var(--rule);
+    }
+    .process-section-layout {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 80px;
+      align-items: center;
+    }
+    .process-section-layout .intel-dashboard--large {
+      width: 100%;
+      max-width: 100%;
+      overflow: hidden;
+    }
+    .process-section-headline {
+      font-family: var(--font-display);
+      font-size: clamp(24px, 2.6vw, 32px);
+      font-weight: 500;
+      font-style: italic;
+      line-height: 1.15;
+      color: var(--sc-charcoal);
+      letter-spacing: -0.015em;
+      margin-bottom: 18px;
+    }
+    .process-section-body {
+      font-family: var(--font-body);
+      font-size: 15px;
+      line-height: 1.75;
+      color: rgba(28,25,23,0.62);
+      margin-bottom: 16px;
+    }
+
+    /* ── Process mobile ── */
+    @media (max-width: 768px) {
+      .process-hero-dark { padding: 100px 0 48px; }
+      .process-dark-headline { font-size: clamp(32px, 8vw, 44px); }
+      .process-ad-pair { grid-template-columns: 1fr; max-width: 280px; }
+      .pipeline-diagram { grid-template-columns: 1fr; }
+      .pipeline-diagram .diagram-flow { min-height: 28px; }
+      .pipeline-diagram .diagram-flow::before { width: 1px; height: 100%; border-top: none; border-left: 1px dashed rgba(255,221,114,0.45); }
+      .process-section-layout { grid-template-columns: 1fr; gap: 36px; }
+      .process-ticker-label { position: static; transform: none; display: block; padding: 0 24px 8px; background: none; }
+    }
+
+    /* ============================================================
+       APPLY MODAL
+    ============================================================ */
+    .apply-modal {
+      position: fixed;
+      inset: 0;
+      z-index: 9999;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.25s ease;
+    }
+    .apply-modal.is-open {
+      opacity: 1;
+      pointer-events: auto;
+    }
+    .apply-modal-backdrop {
+      position: absolute;
+      inset: 0;
+      background: rgba(20,4,4,0.82);
+      backdrop-filter: blur(4px);
+    }
+    .apply-modal-panel {
+      position: relative;
+      background: var(--sc-cream);
+      max-width: 520px;
+      width: calc(100% - 48px);
+      max-height: calc(100vh - 48px);
+      overflow-y: auto;
+      padding: 36px 32px 0;
+      box-shadow: 0 24px 80px rgba(0,0,0,0.40);
+      transform: translateY(12px);
+      transition: transform 0.25s ease;
+    }
+    .apply-modal.is-open .apply-modal-panel {
+      transform: translateY(0);
+    }
+    .apply-modal-close {
+      position: absolute;
+      top: 16px;
+      right: 16px;
+      background: none;
+      border: none;
+      font-size: 28px;
+      line-height: 1;
+      color: rgba(73,10,10,0.50);
+      cursor: pointer;
+      padding: 4px 8px;
+      transition: color 0.15s ease;
+    }
+    .apply-modal-close:hover { color: var(--sc-oxblood); }
+    .apply-modal-kicker {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--sc-rule);
+      margin-bottom: 10px;
+      display: block;
+    }
+    .apply-modal-headline {
+      font-family: var(--font-display);
+      font-size: clamp(26px, 3vw, 34px);
+      font-weight: 500;
+      font-style: italic;
+      line-height: 1.1;
+      color: var(--sc-charcoal);
+      margin-bottom: 10px;
+      letter-spacing: -0.02em;
+    }
+    .apply-modal-body {
+      font-family: var(--font-body);
+      font-size: 14px;
+      line-height: 1.72;
+      color: rgba(28,25,23,0.58);
+      margin-bottom: 16px;
+    }
+    .apply-modal-form .form-field { margin-bottom: 12px; }
+    .apply-modal-form .form-input { min-height: 46px; padding: 11px 14px; font-size: 16px; }
+    .apply-modal-form .cta-submit-wrap { padding-top: 12px; }
+    .form-followup {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: rgba(73,10,10,0.44);
+      text-align: center;
+      margin-top: 14px;
+      line-height: 1.5;
+    }
+
+    /* Calendly placeholder — swap for real embed when link is ready */
+    .calendly-placeholder {
+      border: 1px solid rgba(73,10,10,0.14);
+      background: rgba(73,10,10,0.02);
+      min-height: 420px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 16px;
+    }
+    .calendly-placeholder-inner {
+      text-align: center;
+      color: rgba(73,10,10,0.40);
+    }
+    .calendly-placeholder-inner svg {
+      width: 36px;
+      height: 36px;
+      stroke: rgba(73,10,10,0.25);
+      margin-bottom: 12px;
+    }
+    .calendly-placeholder-inner span {
+      display: block;
+      font-family: var(--font-mono);
+      font-size: 12px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      margin-bottom: 16px;
+    }
+    .calendly-placeholder-fallback {
+      display: block;
+      font-family: var(--font-body);
+      font-size: 13px;
+      color: rgba(73,10,10,0.50);
+      transition: color 0.15s ease;
+    }
+    .calendly-placeholder-fallback:hover { color: var(--sc-oxblood); }
+
+    /* ============================================================
        FOOTER
     ============================================================ */
     footer {
       background: var(--sc-oxblood);
       border-top: 1px solid rgba(255,221,114,0.22);
       padding: 0;
+      position: relative;
+    }
+    footer::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(255,221,114,0.06) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,221,114,0.04) 1px, transparent 1px);
+      background-size: 100% 36px, 36px 100%;
+      opacity: 0.35;
+      pointer-events: none;
     }
     .footer-grid {
       display: grid;
@@ -2153,6 +2586,13 @@
       .hero-inner { padding-bottom: 48px; }
 
       /* ── TICKER ── */
+      .ticker-logo { height: 16px; padding: 0 20px; }
+      .ticker-logo[alt="NFL"], .ticker-logo[alt="Taco Bell"] { height: 26px; }
+      .ticker-logo[alt="NBA"], .ticker-logo[alt="Miller"], .ticker-logo[alt*="Gallo"] { height: 20px; }
+      .ticker-logo[alt="Disney"], .ticker-logo[alt="Blink-182"] { height: 18px; }
+      .ticker-logo[alt="Samsung"], .ticker-logo[alt="PepsiCo"], .ticker-logo[alt="Duracell"] { height: 11px; }
+      .ticker-logo[alt="Bose"] { height: 10px; }
+      .ticker-logo[alt="Oculus"], .ticker-logo[alt="Diageo"] { height: 14px; }
       .ticker-item { padding: 0 16px; font-size: 11px; }
       .ticker-sep { font-size: 11px; }
 

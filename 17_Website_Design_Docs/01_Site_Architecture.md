@@ -89,7 +89,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 > **"The advertising other lead vendors aren't capable of."**
 
 **Credential subhead:**
-> "Built by the team behind creative for Disney, Samsung, and Google — focused entirely on personal injury law."
+> "Built by the team behind creative for Disney, Google, Samsung, NFL, and Uber — focused entirely on personal injury law."
 
 **Orientation line** (smaller, below CTA — answers "what is this?"):
 > "A creative, compliance, and technology firm that generates PI leads for personal injury law firms."
@@ -107,7 +107,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 - Orientation line: close to final, needs legal review for any claims
 - Logo/wordmark: Alex to supply
 
-**Credits for credential subhead:** Davis — 18 years, Disney, Google, Samsung. Alex — TradeStation (million-user trading app, FINRA/SEC compliant). Sasha — Bose, Coach, Diageo, Duracell, H&R Block, Indeed, Ocean Spray, PepsiCo, Tinder programmatic. All available in founder files. Final wording needs one pass for precision.
+**Credits for credential subhead:** Davis — 18 years, Disney, Google, Samsung, NFL, NBA, Uber, Taco Bell, The Macallan, Optum. Alex — TradeStation (million-user trading app, FINRA/SEC compliant), Compass, Breakwater Management ($550M+ PE). Sasha — Bose, Coach, Diageo, Duracell, H&R Block, Indeed, Ocean Spray, PepsiCo, Tinder programmatic. All available in founder files. Final wording needs one pass for precision.
 
 ---
 
@@ -229,7 +229,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 *Role:* Co-Founder, Creative Strategy
 
 *Credentials (sourced from founding docs):*
-- 18 years building advertising for Disney, Google, Samsung
+- 18 years building advertising for Disney, Google, Samsung, NFL, NBA, Uber, Taco Bell, The Macallan, and Optum
 - Built the Vacation brand from zero — creative direction, strategy, voice, visual identity
 - Compliance-heavy brand experience: Dinari (SEC-backed), healthcare at Fortune 500 level
 - CXL certified, behavioral science-informed creative approach

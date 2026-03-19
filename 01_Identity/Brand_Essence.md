@@ -90,7 +90,7 @@ Fight for justice at scale — connecting accident victims with qualified legal 
 
 ### How The Creative Advantage Works
 
-1. **Better Ads** — Created by a team with 18+ years across Fortune 500 brands (Disney, Google, Samsung, Vacation). Not stock templates — real creative that stops the scroll and triggers action.
+1. **Better Ads** — Created by a team with 18+ years across Fortune 500 brands (Disney, Google, Samsung, NFL, NBA, Uber, Taco Bell). Not stock templates — real creative that stops the scroll and triggers action.
 2. **Behavioral Targeting** — Every ad, every headline, every quiz question is built on behavioral science. We solve the psychological barriers to signing a case before the lead ever calls.
 3. **DMA-Exclusive Campaigns** — Geo-targeted creative that feels local and personal. One firm per metro — no shared leads, no bidding wars.
 4. **Quiz Funnels That Pre-Qualify** — Engagement-based qualification. By the time someone completes the flow, they've self-selected as a real case with real intent.
@@ -104,10 +104,10 @@ The rest of the industry runs the same templated ads, buys the same traffic, and
 
 ## Key Differentiators
 
-1. **The Creative Advantage** — Agency-grade advertising applied to legal lead gen. 18+ years of Fortune 500 creative experience. Ads that pre-qualify through quality.
+1. **The Creative Advantage** — Agency-grade advertising applied to legal lead gen. 18+ years across Disney, Google, Samsung, NFL, NBA, Uber, Taco Bell. Ads that pre-qualify through quality.
 2. **Full case spectrum** — Consistent "keep the lights on" volume (soft tissue, minor fractures) plus intentional high-value targeting (trucking, rideshare, spine, wrongful death).
 3. **Geo-exclusive model** — One firm per DMA, actually enforced. Your metro is yours.
-4. **Justice positioning** — Claim Justice Now consumer brand creates emotional connection and urgency that generic lead gen can't match.
+4. **Justice positioning** — Fair Case consumer brand creates emotional connection and urgency that generic lead gen can't match.
 5. **Product & funnel innovation** — Co-founder who's built 0-to-1 products at TradeStation, Compass, and with AI agents. Quiz funnels, estimator tools, and conversion optimization at a level this category has never seen.
 6. **Compliance-first approach** — Protected ad accounts, TCPA-compliant, third-person language, state bar adherence.
 7. **Social proof emphasis** — We lead with results, not promises. Numbers, outcomes, and demonstrated performance.

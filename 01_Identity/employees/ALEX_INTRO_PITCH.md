@@ -28,7 +28,7 @@ Legal lead gen is a category full of template-buyers. Media buyers running gener
 
 Second Chair is different because of **The Creative Advantage**:
 
-- **Agency-grade creative** — Built by a team with 18+ years across Fortune 500 brands (Disney, Google, Samsung, Vacation). Not templates — real creative that stops the scroll and triggers action.
+- **Agency-grade creative** — Built by a team with 18+ years across Fortune 500 brands (Disney, Google, Samsung, NFL, NBA, Uber, Taco Bell). Not templates — real creative that stops the scroll and triggers action.
 - **Behavioral science** — Every ad, headline, and quiz question is built on behavioral psychology. We solve the psychological barriers to contacting a lawyer before the lead ever calls.
 - **DMA exclusivity, actually enforced** — One firm per metro. Your market is yours. Period.
 - **Quiz funnels that pre-qualify** — By the time someone completes the flow, they've self-selected as a real case with real intent. The leads arrive fired up, ready to sign.
@@ -44,7 +44,7 @@ Three co-founders. Three domains. **Equal partners — 33/33/33 profit split.**
 
 ### Davis Ballard — Co-Founder & Head of Marketing & Creative
 
-18 years across strategy and creative for Disney, Google, Samsung, The Macallan, Vacation (first employee — 14 beauty awards, 27M earned impressions), and 12 Fortune 500 brands. Partnered with 55-time Cannes Lion Winner Julian Cole on 4 Fortune 500 strategy projects. Co-founded Gurus NYC (digital agency serving McLean Hospital, Stanford, Harvard, six enterprise healthcare companies). Built Second Chair's AI-powered marketing engine integrating marketing science, behavioral psychology, and creative execution into an autonomous system.
+18 years across strategy and creative for Disney, Google, Samsung, NFL, NBA, Uber, Taco Bell, The Macallan, Oculus, Optum, E&J Gallo Winery, Miller, Blink-182, and 12 Fortune 500 brands. Partnered with 55-time Cannes Lion Winner Julian Cole on 4 Fortune 500 strategy projects. Co-founded Gurus NYC (digital agency serving McLean Hospital, Stanford, Harvard, six enterprise healthcare companies). Built Second Chair's AI-powered marketing engine integrating marketing science, behavioral psychology, and creative execution into an autonomous system.
 
 *Los Angeles / San Diego, CA*
 

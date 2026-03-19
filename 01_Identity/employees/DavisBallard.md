@@ -32,7 +32,7 @@ Second Chair
 
 Davis Ballard is Co-Founder and Head of Marketing & Creative at Second Chair, where he architected the company's proprietary AI-powered marketing and creative engine—a sophisticated system that integrates marketing science, behavioral psychology, and autonomous creative execution into a complete in-house agency capability. This innovation represents the fusion of 18 years across strategy, creative direction, and AI systems development.
 
-Davis has worked across strategy and creative disciplines for **Disney, Google, Samsung, The Macallan, Vacation®, Oculus, NFL, NBA, Blink-182, A$AP Ferg, SET ACTIVE, Vice**, and **12 Fortune 500 brands** (including 4 through partnership with 55-time Cannes Lion Winner Julian Cole). His approach combines evidence-based marketing science with behavioral psychology and counterintuitive "alchemy" thinking—creating strategic frameworks that drive measurable business outcomes while enabling bold, culture-making creative.
+Davis has worked across strategy and creative disciplines for **Disney, Google, Samsung, NFL, NBA, Uber, Taco Bell, The Macallan, Oculus, Optum, E&J Gallo Winery, Miller, Blink-182, Harvard, Stanford, Vacation®, Vice, Virtue, A$AP Ferg, SET ACTIVE, Stray Kids**, and **12 Fortune 500 brands** (including 4 through partnership with 55-time Cannes Lion Winner Julian Cole). His approach combines evidence-based marketing science with behavioral psychology and counterintuitive "alchemy" thinking—creating strategic frameworks that drive measurable business outcomes while enabling bold, culture-making creative.
 
 As **first employee and Creative & Ecomm Lead at Vacation®**, Davis helped launch the brand to **14 beauty awards** in its first year (GQ, Esquire, Refinery29, Vogue, Byrdie), over **300 positive PR mentions**, and **27 million earned media impressions** through creative campaigns like the viral fake job titles initiative (Chief Jacuzzi Inspector, Head of Shrimp Cocktail Operations).
 
@@ -271,7 +271,7 @@ This philosophical foundation influences everything: creative work, strategic th
 • **Technology & Crypto** — Dinari, SolidViolet, Oculus, Samsung
 • **Entertainment & Music** — NFL, NBA, Blink-182, A$AP Ferg, Parang Recordings
 • **Healthcare** — McLean Hospital, Mass General, Stanford, Harvard, Optum, Scripps, Dana Farber
-• **Fortune 500 & Enterprise** — Disney, Google, Samsung, Vice
+• **Fortune 500 & Enterprise** — Disney, Google, Samsung, Uber, Taco Bell, PepsiCo, Vice
 • **Legal Technology** — Second Chair (B2C consumer + B2B attorney platforms)
 
 ---
@@ -288,7 +288,7 @@ This philosophical foundation influences everything: creative work, strategic th
 
 **Strategic Partnerships:**
 • Partnered with **55-time Cannes Lion Winner Julian Cole** on **4 Fortune 500 strategy projects**
-• Worked with **Disney, Samsung, Google, The Macallan, Vacation®, Oculus, NFL, NBA, Vice**
+• Worked with **Disney, Google, Samsung, NFL, NBA, Uber, Taco Bell, The Macallan, Oculus, Optum, E&J Gallo Winery, Miller, Blink-182, Harvard, Stanford, Vacation®, Vice**
 • Built Strategy Finishing School with Julian Cole: **3,500+ members** from Google, Amazon, Netflix, Droga5, Spotify, DDB
 
 **Business Building:**
@@ -345,7 +345,7 @@ Verticals: Legal Tech, DTC, Technology, Entertainment, Startups, Healthcare, Lux
 Creative Portfolio: http://davisballard.com/creative
 
 Creative:
-• Vacation®, The Macallan, Google, Blink 182, NFL, Poolsuite, NBA, A$AP Ferg, SET ACTIVE, ElectraMeccanica, Cann, Dinari, SolidViolet, Samba TV, Language Media, Universal Attractions, Parang Recordings, Factory Floor
+• Vacation®, The Macallan, Google, Blink-182, NFL, NBA, Uber, Taco Bell, E&J Gallo Winery, Miller, Stray Kids, Poolsuite, A$AP Ferg, SET ACTIVE, ElectraMeccanica, Cann, Dinari, SolidViolet, Samba TV, Language Media, Universal Attractions, Parang Recordings, Factory Floor
 
 Strategy:
 • Disney, Samsung, Oculus, Vice, Select Cannabis, Optum, Stanford, Harvard, Partnered with Julian Cole on 4 Fortune 500 Brands (Available on Request), McLean Hospital, Mass General Hospital, Scripps Hospital, Dana Farber, Partners Healthcare
@@ -368,7 +368,7 @@ davisballard@gmail.com
 
 ### Short Bio (Under 215 characters)
 
-18 years across strategy and creative for Disney, Samsung, Google + 12 Fortune 500s. Built Second Chair's AI engine unifying both—turning evidence-based strategy into bold, on-brand creative at scale.
+18 years across strategy and creative for Disney, Google, Samsung, NFL, NBA, Uber, Taco Bell + 12 Fortune 500s. Built Second Chair's AI engine—turning evidence-based strategy into bold, on-brand creative at scale.
 
 ---
 

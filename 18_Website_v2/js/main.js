@@ -126,3 +126,41 @@
       closeLightbox();
     }
   });
+
+  // ── Apply Modal ──────────────────────────────────────────────
+  const applyModal = document.getElementById('apply-modal');
+  const applyBackdrop = applyModal ? applyModal.querySelector('.apply-modal-backdrop') : null;
+  const applyClose = applyModal ? applyModal.querySelector('.apply-modal-close') : null;
+
+  function openApplyModal(e) {
+    if (e) e.preventDefault();
+    if (!applyModal) return;
+    applyModal.classList.add('is-open');
+    applyModal.setAttribute('aria-hidden', 'false');
+    document.body.style.overflow = 'hidden';
+    // Close mobile menu if open
+    if (mobileMenu && mobileMenu.classList.contains('active')) {
+      mobileMenu.classList.remove('active');
+      navToggle.classList.remove('active');
+      navToggle.setAttribute('aria-expanded', 'false');
+      mobileMenu.setAttribute('aria-hidden', 'true');
+    }
+  }
+
+  function closeApplyModal() {
+    if (!applyModal) return;
+    applyModal.classList.remove('is-open');
+    applyModal.setAttribute('aria-hidden', 'true');
+    document.body.style.overflow = '';
+  }
+
+  document.querySelectorAll('[data-open-modal="apply-modal"]').forEach(btn => {
+    btn.addEventListener('click', openApplyModal);
+  });
+  if (applyBackdrop) applyBackdrop.addEventListener('click', closeApplyModal);
+  if (applyClose) applyClose.addEventListener('click', closeApplyModal);
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && applyModal && applyModal.classList.contains('is-open')) {
+      closeApplyModal();
+    }
+  });

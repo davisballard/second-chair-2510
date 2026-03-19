@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Process | Second Chair</title>
+  <meta name="description" content="From your market to your signed case. The system behind every lead we deliver.">
+  <link rel="canonical" href="https://2ndchair.net/process">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://2ndchair.net/process">
+  <meta property="og:title" content="Process | Second Chair">
+  <meta property="og:description" content="From your market to your signed case. The system behind every lead we deliver.">
+  <meta property="og:image" content="https://2ndchair.net/images/og-image.png">
+  <meta property="og:image:width" content="1024">
+  <meta property="og:image:height" content="764">
+  <meta property="og:site_name" content="Second Chair">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Process | Second Chair">
+  <meta name="twitter:description" content="From your market to your signed case. The system behind every lead we deliver.">
+  <meta name="twitter:image" content="https://2ndchair.net/images/og-image.png">
+
+  <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="../favicon-192.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
+
+  <link rel="stylesheet" href="../css/styles.css">
+
+  <style>
+    /* ── Process Hero (Dark / Oxblood) ── */
+    .process-hero-dark {
+      background: var(--sc-oxblood);
+      padding: 120px 0 72px;
+    }
+    .process-dark-headline {
+      font-family: var(--font-display);
+      font-size: clamp(40px, 5vw, 72px);
+      font-weight: 400;
+      font-style: italic;
+      line-height: 1.1;
+      letter-spacing: -0.025em;
+      color: var(--sc-white);
+      -webkit-text-stroke: 1px rgba(255,221,114,0.20);
+      text-shadow: 0 0 1px rgba(255,221,114,0.14);
+      margin-bottom: 16px;
+      max-width: 800px;
+    }
+    .process-dark-sub {
+      font-family: var(--font-body);
+      font-size: 17px;
+      line-height: 1.6;
+      color: rgba(255,247,240,0.50);
+    }
+
+    /* ── Pipeline Section (Oxblood full-bleed) ── */
+    .pipeline-section {
+      position: relative;
+      width: 100vw;
+      left: 50%;
+      transform: translateX(-50%);
+      padding: 68px 0 76px;
+      background: linear-gradient(180deg, #551010 0%, #490A0A 100%);
+      border-top: 2px solid rgba(255,221,114,0.42);
+      border-bottom: 1px solid rgba(255,221,114,0.30);
+      overflow: hidden;
+    }
+    .pipeline-section::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(255,221,114,0.06) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,221,114,0.04) 1px, transparent 1px);
+      background-size: 100% 36px, 36px 100%;
+      opacity: 0.35;
+      pointer-events: none;
+    }
+    .pipeline-inner {
+      position: relative;
+      z-index: 1;
+      max-width: var(--container-max);
+      margin: 0 auto;
+      padding: 0 var(--outer-margin);
+    }
+
+    /* Pipeline diagram — 4 panels + 3 flow arrows = 7 columns */
+    .pipeline-section .ai-system-diagram {
+      grid-template-columns: minmax(160px, 1fr) 40px minmax(160px, 1fr) 40px minmax(160px, 1fr) 40px minmax(160px, 1fr);
+    }
+
+    /* ── Tracking section two-col ── */
+    .process-tracking {
+      padding: var(--section-v) 0;
+      border-bottom: var(--rule);
+    }
+
+    @media (max-width: 768px) {
+      .process-hero-dark { padding: 100px 0 48px; }
+      .pipeline-section .ai-system-diagram {
+        grid-template-columns: 1fr;
+      }
+      .pipeline-section .ai-system-diagram .diagram-flow {
+        min-height: 32px;
+        border-right: none;
+      }
+      .pipeline-section .ai-system-diagram .diagram-flow::before {
+        display: none;
+      }
+      .pipeline-section .ai-system-diagram .diagram-flow::after {
+        content: "\2193";
+      }
+      .pipeline-section .ai-system-diagram .diagram-panel {
+        border-right: none;
+        border-bottom: 1px solid rgba(255,221,114,0.18);
+      }
+      .pipeline-section .ai-system-diagram .diagram-panel:last-child {
+        border-bottom: none;
+      }
+      .pipeline-section .engine-stats {
+        grid-template-columns: 1fr;
+      }
+      .pipeline-section .engine-stat {
+        border-right: none;
+        border-bottom: 1px solid rgba(255,221,114,0.18);
+      }
+      .pipeline-section .engine-stat:last-child { border-bottom: none; }
+    }
+  </style>
+</head>
+<body class="process-page">
+
+<!-- Fixed vertical page rails — continuation of nav border language -->
+<div id="page-rails" aria-hidden="true"></div>
+
+<nav id="nav">
+  <div class="container">
+    <a href="/" class="nav-logo-wrap" aria-label="Second Chair">
+      <svg viewBox="0 0 1300.65 425.77" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <defs><style>.nc{fill:#ffdd72}.ns1{stroke:#ffdd72;stroke-width:11px;fill:none;stroke-miterlimit:10}.ns2{stroke:#ffdd72;stroke-width:8px;fill:none;stroke-miterlimit:10}</style></defs>
+        <circle class="ns2" cx="212.89" cy="212.89" r="165.64"/><circle class="ns1" cx="212.89" cy="212.89" r="207.39"/>
+        <path class="nc" d="M186.32,134.72l4.09,159.07h-47.93l3.72-159.07h40.12ZM151.26,141.07c-.25.07-1.22,1.05-1.3,1.32-.38,1.3.05,4.64-.03,6.29-.31,6.71-.63,13.69-.78,20.41-.8,36.81-.78,73.65-2.23,110.38-.06,1.57-.22,4.9.08,6.27.57,2.6,3.41,2.23,3.67-.67.42-4.6-.12-10.15-.03-14.9.57-30.79,1.66-61.72,2.26-92.51.11-5.68.29-11.49.37-17.1.09-6.08-.11-12.16,0-18.24,0-.78-1.38-1.44-2.01-1.26ZM160.54,141.07c-.67.2-1.4,1.63-1.35,2.36-.53,38.9.03,77.79-.34,116.73,0,.65-.4,1.18-.4,1.83-.08,7.94.1,15.88,0,23.81,1.4,2.91,3.46,1.83,3.74-1.11.06-21.32-.13-42.64-.03-63.96.1-22.77.19-45.96.78-68.72.06-2.26.34-7.32-.08-9.25-.22-1.02-1.2-2.03-2.32-1.7ZM171.32,141.07c-.5.14-1.54,1.37-1.36,2,.27,33.49.15,66.87.37,100.38,0,.65.4,1.18.4,1.83.1,13.62-.14,27.24.03,40.85.97,1.78,3.12,1.97,3.31-.31-.11-20.33.09-40.66,0-60.98-.1-23.64-.18-47.7-.78-71.33-.1-3.83.14-7.67-.02-11.5-.15-.52-1.45-1.09-1.96-.94ZM182.66,287.05c.81.81,2.81.49,2.93-.87-.09-5.7.09-11.42,0-17.12-.57-38.82-1.46-77.86-2.63-116.67-.09-2.87.38-6.61.02-9.31-.21-1.57-1.59-2.72-2.97-1.49-.89.79-.84,2.6-.76,3.74.92,12.13.51,24.57.74,36.79.6,31.05,1.43,62.22,2.26,93.25.09,3.28-.37,7.28-.01,10.42.03.23.33,1.15.42,1.25Z"/>
+        <path class="nc" d="M279.58,134.72l4.09,159.07h-48.3l4.09-159.07h40.12ZM243.59,141.46c-.22.22-.77,3.24-.81,3.83-.39,5.07.13,10.83.03,16.01-.69,37.97-1.79,76.08-2.63,114.07-.08,3.6.1,7.21,0,10.8.17,1.26,2.08,1.62,2.99.74.71-.68.27-3.63.35-4.86.77-12.47.5-25,.74-37.54.6-30.54,1.55-61.23,2.26-91.77.08-3.45-.05-6.92-.06-10.38-.54-1.04-1.89-1.88-2.87-.92ZM252.88,141.46c-.2.19-.41,1.23-.44,1.6-.71,8.68.12,19,.03,27.91-.21,20.94-.67,42.22-.78,63.15-.09,17.23.11,34.46,0,51.69-.17,2.19,3.14,2.05,3.37.37.07-8.18-.12-16.37-.03-24.56.25-21.93.67-44.2.78-66.12.09-17.6-.11-35.2,0-52.8.24-1.45-2.06-2.09-2.93-1.23ZM264.59,141.08c-1.98.38-1.95,3.39-1.34,4.96.27,43.37-.46,86.82.74,130.08.09,3.35-.1,6.71-.02,10.06.27,1.92,3.16,1.48,3.36,0-.1-12.4.09-24.8,0-37.19-.18-26.64-.48-53.6-.78-80.25-.1-8.68.1-17.36.03-26.04-.21-.78-1.08-1.8-1.99-1.62ZM275.43,141.46c-.81-.79-2.79-.36-2.85.94-.05,3.94-.16,7.9-.09,11.84.75,37.85,1.9,75.84,2.63,113.7.11,5.47-.34,10.99.35,16.38.13.98-.36,2.41.74,2.98,1.22.63,2.46-.18,2.61-1.5.38-3.32.09-8.41.02-11.91-.71-36.99-1.94-74.11-2.63-111.09-.12-6.16.47-12.54-.35-18.61-.09-.7.1-2.21-.43-2.73Z"/>
+        <path class="nc" d="M288.86,113.53c.06,2.31-1.47,4.47-3.15,5.95-2.36,2.09-3.91,2.01-5.47,5.31-.35.75-.63,2.65-1.26,2.83l-39.52.02c-.31-.95-.54-2.05-.94-2.96-1.92-4.38-8.44-5.49-8.36-11.14h58.7Z"/><path class="nc" d="M195.61,113.53c.2,2.54-1.7,4.75-3.52,6.33-2.1,1.81-3.81,2.15-4.94,5.09-.29.76-.41,2.5-1.04,2.67h-39.32c-.65-.19-.84-1.87-1.14-2.58-1.92-4.45-6.55-5.07-8.19-9.27-.25-.63-.35-1.55-.54-2.24h58.7Z"/><path class="nc" d="M226.63,312c-.28-.07-.42-.37-.38-.74.46-4.11,4.84-4.56,6.89-7.25.6-.79,1.22-2.99,1.7-3.13h49.55c.46,5.84,8.38,5.12,8.19,11.12h-65.95Z"/><path class="nc" d="M203.04,322.04h-73.19v-7.62c0-.11,1.26-1.38,1.66-1.31l70.42.18c.24.12,1.1,1.38,1.1,1.5v7.25Z"/><path class="nc" d="M133.75,312c-.22-.06-.58-.52-.52-.88.08-.51.93-2.39,1.27-2.83,1.81-2.31,7.03-3.15,6.88-7.43h50.14c-.12,1.13.43,2.26,1.11,3.16,1.64,2.16,5.08,2.78,6.25,5.27.24.52.46,1.38.64,1.97.12.41-.25.74-.37.74h-65.39Z"/><path class="nc" d="M294.62,313.12c.43.07,1.3.89,1.3,1.3v7.62h-71.52s-.15.34-.56.21c-.28-.09-1.11-.57-1.11-.77v-5.95c0-.09.59-1.25.55-1.68.21-.15.65-.74.75-.74h70.59Z"/><path class="nc" d="M292.21,103.5c.44,1.93.58,4.52.39,6.52-.08.8-.34,1.87-.94,2.4h-64.27c-.13,0-.93-1.22-.93-1.3v-7.06s.52-.56.56-.56h65.2Z"/><path class="nc" d="M198.95,103.5c.4,2.06.66,5.15.37,7.25-.06.4-.63,1.67-.93,1.67h-63.9s-.86-.37-.89-.41c-.06-.06-.38-1.41-.4-1.64-.23-2.09-.08-4.84.36-6.87h65.39Z"/><path class="nc" d="M233.75,294.97l51.21-.06c2.56.37,2.89,4.09.38,4.84h-51.66c-2.3-.67-2.4-4.24.07-4.78Z"/><path class="nc" d="M140.49,294.95l51.22-.05c2.86.72,3.06,3.77.38,4.84h-51.28c-2.79-.71-2.49-3.41-.33-4.79Z"/><path class="nc" d="M282.11,129.21c.05.05.74,1.21.76,1.28.51,1.69-1.15,2.99-2.72,3.12l-42-.02c-2.4-.34-2.98-3.88-.58-4.66l42.95-.18c.4.03,1.35.22,1.59.46Z"/><path class="nc" d="M143.65,129.2c.21-.21,1.22-.41,1.6-.45h42.75c2.49.74,2.19,4.48-.38,4.85l-42,.02c-1.32.06-2.98-1.45-2.73-2.74.02-.12.69-1.62.76-1.68Z"/>
+        <path class="nc" d="M522.99,169.95l-1.72-33.13h9c4.6,22.21,17.04,37.34,36.58,37.34,14.55,0,23.94-7.47,23.94-20.11s-8.23-18.96-30.45-26.43c-23.94-7.66-38.11-18.96-38.11-41.94,0-24.9,18.96-41.36,46.34-41.36,16.85,0,31.21,4.4,40.79,11.3v28.92h-8.04c-4.02-19.92-14.55-31.79-32.75-31.79-12.64,0-20.87,7.47-20.87,18.96,0,13.02,7.66,18.19,27.77,25.09,25.66,8.62,41.75,18.58,41.75,44.04,0,28.15-22.79,41.75-50.36,41.75-18.77,0-35.04-5.55-43.85-12.64Z"/><path class="nc" d="M628.51,173.4c13.02-1.53,14.55-2.87,14.55-13.21v-93.45c0-10.34-1.53-11.68-14.55-13.21v-7.28h107.43l.96,35.81h-6.51c-9.58-21.26-14.94-27.58-31.21-27.58h-23.55v52.09h21.64c8.81,0,11.3-4.98,13.02-17.62h7.47v44.62h-7.47c-1.72-12.64-4.21-17.43-13.02-17.43h-21.64v43.28c0,10.34,5.17,13.02,16.47,13.02h9.38c16.28,0,21.07-7.85,34.47-31.79h7.47l-5.94,40.02h-108.96v-7.28Z"/><path class="nc" d="M864.43,55.63l.38,31.98h-8.23c-4.6-22.41-15.51-34.47-33.7-34.47-25.28,0-36.38,25.85-36.38,58.41,0,35.24,13.41,61.85,38.11,61.85,17.04,0,29.3-11.3,36.38-39.83h8.81l-3.06,36.96c-11.3,7.66-27.19,12.06-45.58,12.06-42.71,0-69.13-25.66-69.13-65.68,0-44.62,31.02-72.58,69.9-72.58,17.23,0,31.6,4.02,42.51,11.3Z"/><path class="nc" d="M880.13,116.14c0-44.04,28.15-71.81,66.26-71.81,41.55,0,63.58,31.02,63.58,66.45,0,44.04-28.34,71.81-66.45,71.81-41.36,0-63.39-31.02-63.39-66.45ZM975.3,115.18c0-33.13-9-62.24-31.21-62.24-21.06,0-29.3,29.11-29.3,58.79,0,33.13,9,62.24,31.21,62.24,20.87,0,29.3-29.11,29.3-58.79Z"/><path class="nc" d="M1129.46,66.73c0-10.15-3.45-11.87-19.15-13.21v-7.28h45.38v7.28c-13.21,1.53-14.75,3.06-14.75,13.21v114.32h-11.49l-82.73-103.79v82.92c0,10.15,3.45,11.87,19.15,13.21v7.28h-45.19v-7.28c13.02-1.53,14.55-3.06,14.55-13.21v-94.6c-5.36-8.23-8.04-11.49-14.75-12.06v-7.28h43.47l65.49,82.54v-62.05Z"/><path class="nc" d="M1164.12,180.68v-7.28c13.02-1.53,14.55-2.87,14.55-13.21v-93.45c0-10.34-1.53-11.68-14.55-13.21v-7.28h60.71c51.9,0,75.83,28.72,75.83,65.11,0,43.85-29.11,69.32-71.81,69.32h-64.73ZM1211.23,54.48v104.37c0,11.3,4.6,13.6,14.17,13.6h2.68c22.79,0,38.3-21.64,38.3-57.26s-15.51-60.71-47.3-60.71h-7.85Z"/>
+        <path class="nc" d="M633.3,251.05l.38,31.98h-8.23c-4.6-22.41-15.51-34.47-33.7-34.47-25.28,0-36.38,25.85-36.38,58.41,0,35.24,13.41,61.85,38.11,61.85,17.04,0,29.3-11.3,36.38-39.83h8.81l-3.06,36.96c-11.3,7.66-27.19,12.06-45.58,12.06-42.71,0-69.13-25.66-69.13-65.68,0-44.62,31.02-72.58,69.9-72.58,17.23,0,31.6,4.02,42.51,11.3Z"/><path class="nc" d="M695.91,302.37h53.43v-40.21c0-10.34-1.53-11.68-14.75-13.21v-7.28h61.85v7.28c-13.02,1.53-14.55,2.87-14.55,13.21v93.45c0,10.34,1.53,11.68,14.55,13.21v7.28h-61.85v-7.28c13.21-1.53,14.75-2.87,14.75-13.21v-42.7h-53.43v42.7c0,10.34,1.53,11.68,14.75,13.21v7.28h-61.85v-7.28c13.02-1.53,14.55-2.87,14.55-13.21v-93.45c0-10.34-1.53-11.68-14.55-13.21v-7.28h61.85v7.28c-13.21,1.53-14.75,2.87-14.75,13.21v40.21Z"/><path class="nc" d="M886.07,333.01h-50.17l-7.47,19.72c-.96,2.68-1.72,5.17-1.72,7.28,0,6.13,5.17,8.23,16.09,8.81v7.28h-40.21v-7.28c5.17-.96,9.19-1.91,11.11-7.08l40.98-105.71-6.13-15.13h34.66l48.45,120.83c1.92,4.98,5.94,6.13,11.3,7.08v7.28h-63v-7.28c10.53-.38,15.7-2.49,15.7-8.62,0-2.11-.77-4.6-1.72-7.47l-7.85-19.72ZM839.34,323.82h43.09l-22.02-55.34-21.06,55.34Z"/><path class="nc" d="M996.18,355.61c0,10.34,1.53,11.68,14.75,13.21v7.28h-61.85v-7.28c13.02-1.53,14.55-2.87,14.55-13.21v-93.45c0-10.34-1.53-11.68-14.55-13.21v-7.28h61.85v7.28c-13.21,1.53-14.75,2.87-14.75,13.21v93.45Z"/><path class="nc" d="M1068.37,355.61c0,10.34,1.53,11.68,14.75,13.21v7.28h-61.85v-7.28c13.02-1.53,14.55-2.87,14.55-13.21v-93.45c0-10.34-1.53-11.68-14.55-13.21v-7.28h65.49c31.41,0,50.75,14.75,50.75,37.73,0,20.3-15.7,31.02-29.87,35.04l27.77,38.68c8.23,11.68,12.45,15.32,21.83,15.7v7.28h-39.83c-5.55-4.02-10.34-10.34-16.09-19.53l-24.13-37.34h-8.81v36.38ZM1068.37,250.29v60.32h7.66c18.77,0,28.72-11.49,28.72-31.02,0-17.62-9.96-29.3-29.11-29.3h-7.28Z"/>
+      </svg>
+    </a>
+    <ul class="nav-links">
+      <li><a href="/process">Process</a></li>
+    </ul>
+    <a href="#" class="hero-cta nav-apply-btn" data-open-modal="apply-modal">Apply</a>
+    <button class="nav-toggle" aria-label="Open menu" aria-expanded="false">
+      <span class="nav-toggle-bar"></span>
+      <span class="nav-toggle-bar"></span>
+      <span class="nav-toggle-bar"></span>
+    </button>
+  </div>
+</nav>
+
+<!-- Mobile slide-out menu -->
+<div class="mobile-menu" id="mobile-menu" aria-hidden="true">
+  <div class="mobile-menu-inner">
+    <a href="/process" class="mobile-menu-link">Process</a>
+    <a href="#" class="mobile-menu-link mobile-menu-cta" data-open-modal="apply-modal">Apply</a>
+  </div>
+</div>
+
+<!-- ============================================================
+     1. HERO (Oxblood full-bleed)
+============================================================ -->
+<section class="process-hero-dark">
+  <div class="container">
+    <div class="hero-pill"><span>40+ years across global brands and performance media</span><span class="hero-pill-arrow">&rarr;</span></div>
+    <h1 class="process-dark-headline">From your market to your signed case.</h1>
+    <p class="process-dark-sub">The system behind every lead we deliver.</p>
+  </div>
+</section>
+
+<!-- TICKER — same as homepage -->
+<div class="hero-ticker-wrap" aria-hidden="true" style="background: var(--sc-oxblood);">
+  <div class="hero-ticker-track">
+    <img class="ticker-logo" src="../images/disney.svg" alt="Disney">
+    <img class="ticker-logo" src="../images/google.svg" alt="Google">
+    <img class="ticker-logo" src="../images/samsung.svg" alt="Samsung">
+    <img class="ticker-logo" src="../images/nfl.svg" alt="NFL">
+    <img class="ticker-logo" src="../images/nba.svg" alt="NBA">
+    <img class="ticker-logo" src="../images/uber.svg" alt="Uber">
+    <img class="ticker-logo" src="../images/taco-bell.svg" alt="Taco Bell">
+    <img class="ticker-logo" src="../images/pepsico.svg" alt="PepsiCo">
+    <img class="ticker-logo" src="../images/bose.svg" alt="Bose">
+    <img class="ticker-logo" src="../images/coach.svg" alt="Coach">
+    <img class="ticker-logo" src="../images/67a67ed2d98f49712ccdb59e_macallan.svg" alt="The Macallan">
+    <img class="ticker-logo" src="../images/oculos.svg" alt="Oculus">
+    <img class="ticker-logo" src="../images/optum.svg" alt="Optum">
+    <img class="ticker-logo" src="../images/harvard.svg" alt="Harvard">
+    <img class="ticker-logo" src="../images/stanford.svg" alt="Stanford">
+    <img class="ticker-logo" src="../images/tinder.svg" alt="Tinder">
+    <img class="ticker-logo" src="../images/diageo.svg" alt="Diageo">
+    <img class="ticker-logo" src="../images/e&amp;j-gallo.svg" alt="E&amp;J Gallo">
+    <img class="ticker-logo" src="../images/miller.svg" alt="Miller">
+    <img class="ticker-logo" src="../images/blink-182.svg" alt="Blink-182">
+    <img class="ticker-logo" src="../images/duracell.svg" alt="Duracell">
+    <img class="ticker-logo" src="../images/H_and_R_Block.svg" alt="H&amp;R Block">
+    <img class="ticker-logo" src="../images/Indeed.svg" alt="Indeed">
+    <!-- duplicate for seamless loop -->
+    <img class="ticker-logo" src="../images/disney.svg" alt="Disney">
+    <img class="ticker-logo" src="../images/google.svg" alt="Google">
+    <img class="ticker-logo" src="../images/samsung.svg" alt="Samsung">
+    <img class="ticker-logo" src="../images/nfl.svg" alt="NFL">
+    <img class="ticker-logo" src="../images/nba.svg" alt="NBA">
+    <img class="ticker-logo" src="../images/uber.svg" alt="Uber">
+    <img class="ticker-logo" src="../images/taco-bell.svg" alt="Taco Bell">
+    <img class="ticker-logo" src="../images/pepsico.svg" alt="PepsiCo">
+    <img class="ticker-logo" src="../images/bose.svg" alt="Bose">
+    <img class="ticker-logo" src="../images/coach.svg" alt="Coach">
+    <img class="ticker-logo" src="../images/67a67ed2d98f49712ccdb59e_macallan.svg" alt="The Macallan">
+    <img class="ticker-logo" src="../images/oculos.svg" alt="Oculus">
+    <img class="ticker-logo" src="../images/optum.svg" alt="Optum">
+    <img class="ticker-logo" src="../images/harvard.svg" alt="Harvard">
+    <img class="ticker-logo" src="../images/stanford.svg" alt="Stanford">
+    <img class="ticker-logo" src="../images/tinder.svg" alt="Tinder">
+    <img class="ticker-logo" src="../images/diageo.svg" alt="Diageo">
+    <img class="ticker-logo" src="../images/e&amp;j-gallo.svg" alt="E&amp;J Gallo">
+    <img class="ticker-logo" src="../images/miller.svg" alt="Miller">
+    <img class="ticker-logo" src="../images/blink-182.svg" alt="Blink-182">
+    <img class="ticker-logo" src="../images/duracell.svg" alt="Duracell">
+    <img class="ticker-logo" src="../images/H_and_R_Block.svg" alt="H&amp;R Block">
+    <img class="ticker-logo" src="../images/Indeed.svg" alt="Indeed">
+  </div>
+</div>
+
+<!-- ============================================================
+     2. STRATEGY (Cream section — steps-grid)
+============================================================ -->
+<section class="process-strategy reveal" style="padding: var(--section-v) 0; border-bottom: var(--rule);">
+  <div class="container">
+    <div class="how-header">
+      <span class="section-label">The Strategy</span>
+      <h2>From research to advertising.</h2>
+    </div>
+    <div class="steps-grid">
+      <div class="step reveal reveal-delay-1">
+        <figure class="step-photo"><img src="../images/step-research.jpg" alt="Research — city map with neighborhood pins on a walnut desk"></figure>
+        <div class="step-number">Phase 01</div>
+        <span class="step-deliverable">Your market,<br>mapped.</span>
+        <h3 class="step-title">Research</h3>
+        <p class="step-description">Zip code demographics, competitor activity, claimant profiling. We study who your claimants are before we make anything.</p>
+      </div>
+      <div class="step reveal reveal-delay-2">
+        <figure class="step-photo"><img src="../images/step-strategy.jpg" alt="Strategy — behavioral psychology frameworks and open textbook with Manhattan skyline"></figure>
+        <div class="step-number">Phase 02</div>
+        <span class="step-deliverable">Behavioral brief,<br>built.</span>
+        <h3 class="step-title">Strategy</h3>
+        <p class="step-description">Emotional timing tiers, behavioral triggers, positioning. What makes someone in your market stop scrolling.</p>
+      </div>
+      <div class="step reveal reveal-delay-3">
+        <figure class="step-photo"><img src="../images/step-creative.jpg" alt="Creative — lightbox with campaign transparencies, mood boards, and brass loupe"></figure>
+        <div class="step-number">Phase 03</div>
+        <span class="step-deliverable">Advertising,<br>not templates.</span>
+        <h3 class="step-title">Creative</h3>
+        <p class="step-description">Built from the research &mdash; specific to your DMA. A Miami campaign looks different from a Denver campaign.</p>
+      </div>
+      <div class="step reveal reveal-delay-4">
+        <figure class="step-photo"><img src="../images/step-compliance.jpg" alt="Compliance — legal document with gold seal and gavel in law library"></figure>
+        <div class="step-number">Phase 04</div>
+        <span class="step-deliverable">Compliant<br>before it runs.</span>
+        <h3 class="step-title">Compliance</h3>
+        <p class="step-description">State bar advertising rules, no implied settlements, third-person language, no actors as real clients. Built in, not bolted on.</p>
+      </div>
+    </div>
+    <div class="how-footnote">
+      <p>You see the creative before we run the campaign. No surprises, no templates.</p>
+    </div>
+  </div>
+
+  </div>
+</section>
+
+<!-- ============================================================
+     THE PIPELINE (Oxblood full-bleed diagram)
+============================================================ -->
+<div class="pipeline-section">
+    <div class="pipeline-inner">
+      <p class="founders-closing-kicker">The Pipeline</p>
+      <p class="founders-closing-line">Every lead runs through the same system.</p>
+      <p class="founders-closing-sub">From submission to scored delivery &mdash; nothing skipped.</p>
+
+      <div class="ai-system-diagram">
+        <!-- Column 1: INTAKE -->
+        <div class="diagram-panel">
+          <span class="diagram-label">Intake</span>
+          <div class="logo-chip-grid">
+            <span class="logo-chip logo-chip--wide">6 Case Questions</span>
+            <span class="logo-chip logo-chip--wide">TCPA Consent</span>
+            <span class="logo-chip logo-chip--wide">Bot Detection</span>
+            <span class="logo-chip logo-chip--wide">Behavioral Signals</span>
+          </div>
+        </div>
+        <!-- Flow arrow -->
+        <div class="diagram-flow" aria-hidden="true"></div>
+        <!-- Column 2: VERIFY -->
+        <div class="diagram-panel">
+          <span class="diagram-label">Verify</span>
+          <div class="logo-chip-grid">
+            <span class="logo-chip logo-chip--wide">DNC Screening</span>
+            <span class="logo-chip logo-chip--wide">TrustedForm</span>
+            <span class="logo-chip logo-chip--wide">Litigator Check</span>
+            <span class="logo-chip logo-chip--wide">Audit Trail</span>
+          </div>
+        </div>
+        <!-- Flow arrow -->
+        <div class="diagram-flow" aria-hidden="true"></div>
+        <!-- Column 3: SCORE -->
+        <div class="diagram-panel">
+          <span class="diagram-label">Score</span>
+          <div class="logo-chip-grid">
+            <span class="logo-chip logo-chip--wide">Fit Score (0&ndash;100)</span>
+            <span class="logo-chip logo-chip--wide">Quality Score</span>
+            <span class="logo-chip logo-chip--wide">Letter Grade</span>
+            <span class="logo-chip logo-chip--wide">A / B / C / D</span>
+          </div>
+        </div>
+        <!-- Flow arrow -->
+        <div class="diagram-flow" aria-hidden="true"></div>
+        <!-- Column 4: DELIVER -->
+        <div class="diagram-panel">
+          <span class="diagram-label">Deliver</span>
+          <div class="logo-chip-grid">
+            <span class="logo-chip logo-chip--wide">One Firm Per DMA</span>
+            <span class="logo-chip logo-chip--wide">Real-Time Portal</span>
+            <span class="logo-chip logo-chip--wide">Push Notifications</span>
+            <span class="logo-chip logo-chip--wide">Webhook / CRM</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Comparison strip -->
+
+      <!-- Compliance stat strip -->
+      <div class="engine-stats" style="margin-top: 12px;">
+        <div class="engine-stat">
+          <span class="engine-stat-number">FCC</span>
+          <span class="engine-stat-label"><strong>2025 Compliant</strong>By design &mdash; not by accident</span>
+        </div>
+        <div class="engine-stat">
+          <span class="engine-stat-number" style="font-size: 22px;">TF</span>
+          <span class="engine-stat-label"><strong>TrustedForm</strong>Every lead certified</span>
+        </div>
+        <div class="engine-stat">
+          <span class="engine-stat-number" style="font-size: 20px;">TCPA</span>
+          <span class="engine-stat-label"><strong>Court-Admissible</strong>Timestamped consent records</span>
+        </div>
+      </div>
+    </div>
+</div>
+
+<!-- ============================================================
+     7. TRACKING & MEASUREMENT (Cream section)
+============================================================ -->
+<section class="process-tracking reveal">
+  <div class="container">
+    <div class="process-section-layout">
+      <div class="process-section-text">
+        <span class="section-label">Measurement</span>
+        <h2 class="process-section-headline">Your leads. Your data. Your cost per signed case.</h2>
+        <p class="process-section-body">Every partner gets a real-time portal: lead flow, scores, creative performance, and the metric that actually matters &mdash; cost per signed case. Not CPL. CPSC.</p>
+        <p class="process-section-body">As your case data comes in, the number gets real. We optimize creative, channel mix, and lead quality based on what's actually signing &mdash; not what's clicking.</p>
+        <div class="editorial-callout">
+          <div class="editorial-callout-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M8 12l2.5 2.5L16 9"/></svg>
+          </div>
+          <div><strong>Month-to-month terms.</strong> <span>No long-term contracts. The data speaks for itself.</span></div>
+        </div>
+      </div>
+      <div class="process-section-visual">
+        <!-- Intel dashboard mock -->
+        <div class="intel-dashboard--large">
+          <div class="intel-header-row">
+            <span class="intel-col-label">Metric</span>
+            <span class="intel-col-label">Live</span>
+            <span class="intel-col-label">Trend</span>
+          </div>
+          <div class="intel-row">
+            <span class="intel-metric">CPSC</span>
+            <div class="intel-bar-track"><div class="intel-bar intel-bar--highlight" style="width: 40%;"></div></div>
+            <span class="intel-value">$3,218</span>
+            <span class="intel-delta" style="color: #4a7c3f;">&darr;8%</span>
+          </div>
+          <div class="intel-row">
+            <span class="intel-metric">Leads</span>
+            <div class="intel-bar-track"><div class="intel-bar" style="width: 91%;"></div></div>
+            <span class="intel-value">194/200</span>
+            <span class="intel-delta">&rarr;</span>
+          </div>
+          <div class="intel-row">
+            <span class="intel-metric">Lead Score</span>
+            <div class="intel-bar-track"><div class="intel-bar" style="width: 92%;"></div></div>
+            <span class="intel-value">91/100</span>
+            <span class="intel-delta" style="color: #4a7c3f;">&uarr;4%</span>
+          </div>
+          <div class="intel-row">
+            <span class="intel-metric">Sign %</span>
+            <div class="intel-bar-track"><div class="intel-bar" style="width: 38%;"></div></div>
+            <span class="intel-value">12.4%</span>
+            <span class="intel-delta" style="color: #4a7c3f;">&uarr;2%</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================
+     8. CTA SECTION
+============================================================ -->
+<section id="cta" class="reveal">
+  <div class="container">
+    <div class="cta-layout">
+
+      <!-- LEFT: Editorial copy -->
+      <div class="cta-left">
+
+        <figure class="cta-image">
+          <img src="../images/cta-office.jpg" alt="Corner office with two leather chairs facing each other, city skyline at golden hour through floor-to-ceiling windows." loading="lazy">
+        </figure>
+
+        <span class="cta-kicker">Start a conversation</span>
+        <h2 class="cta-headline">We work with a small number of firms.</h2>
+        <p class="cta-body">A 30-minute call to see if there's a fit &mdash; for both of us.</p>
+      </div>
+
+      <!-- RIGHT: Intake form -->
+      <div class="cta-form-panel reveal reveal-delay-2">
+
+        <form class="cta-form" action="#" method="post">
+
+          <div class="form-field">
+            <label class="form-label" for="f-firm">Firm Name</label>
+            <input class="form-input" type="text" id="f-firm" name="firm" placeholder="e.g. Smith &amp; Associates" autocomplete="organization">
+          </div>
+
+          <div class="form-field">
+            <label class="form-label" for="f-market">Market(s)</label>
+            <input class="form-input" type="text" id="f-market" name="market" placeholder="e.g. Los Angeles, Miami, New York City" autocomplete="off">
+          </div>
+
+          <div class="form-row">
+            <div class="form-field">
+              <label class="form-label" for="f-name">Your Name</label>
+              <input class="form-input" type="text" id="f-name" name="name" placeholder="Full name" autocomplete="name">
+            </div>
+            <div class="form-field">
+              <label class="form-label" for="f-email">Work Email</label>
+              <input class="form-input" type="email" id="f-email" name="email" placeholder="you@firmname.com" autocomplete="email">
+            </div>
+          </div>
+
+          <div class="form-field">
+            <label class="form-label" for="f-phone">Phone</label>
+            <input class="form-input" type="tel" id="f-phone" name="phone" placeholder="(555) 000-0000" autocomplete="tel">
+          </div>
+
+          <!-- Submit area -->
+          <div class="cta-submit-wrap">
+            <button type="submit" class="cta-submit">Book a discovery call</button>
+            <p class="form-followup">We'll be in touch within two business days.</p>
+          </div>
+
+        </form>
+
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================
+     9. APPLY MODAL
+============================================================ -->
+<div id="apply-modal" class="apply-modal" aria-hidden="true">
+  <div class="apply-modal-backdrop"></div>
+  <div class="apply-modal-panel">
+    <button class="apply-modal-close" aria-label="Close">&times;</button>
+    <span class="apply-modal-kicker">Start a conversation</span>
+    <h2 class="apply-modal-headline">We work with a small number of firms.</h2>
+    <p class="apply-modal-body">A 30-minute call to see if there's a fit &mdash; for both of us.</p>
+    <form class="cta-form apply-modal-form" action="#" method="post">
+      <div class="form-field">
+        <label class="form-label" for="m-firm">Firm Name</label>
+        <input class="form-input" type="text" id="m-firm" name="firm" placeholder="e.g. Smith &amp; Associates" autocomplete="organization">
+      </div>
+      <div class="form-field">
+        <label class="form-label" for="m-market">Market(s)</label>
+        <input class="form-input" type="text" id="m-market" name="market" placeholder="e.g. Los Angeles, Miami, New York City" autocomplete="off">
+      </div>
+      <div class="form-row">
+        <div class="form-field">
+          <label class="form-label" for="m-name">Your Name</label>
+          <input class="form-input" type="text" id="m-name" name="name" placeholder="Full name" autocomplete="name">
+        </div>
+        <div class="form-field">
+          <label class="form-label" for="m-email">Work Email</label>
+          <input class="form-input" type="email" id="m-email" name="email" placeholder="you@firmname.com" autocomplete="email">
+        </div>
+      </div>
+      <div class="form-field">
+        <label class="form-label" for="m-phone">Phone</label>
+        <input class="form-input" type="tel" id="m-phone" name="phone" placeholder="(555) 000-0000" autocomplete="tel">
+      </div>
+      <div class="cta-submit-wrap">
+        <button type="submit" class="cta-submit">Book a discovery call</button>
+        <p class="form-followup">We'll be in touch within two business days.</p>
+      </div>
+    </form>
+  </div>
+</div>
+
+<!-- ============================================================
+     10. FOOTER
+============================================================ -->
+<footer>
+  <div class="container">
+    <div class="footer-grid">
+
+      <div class="footer-col">
+        <div class="footer-logo-wrap">
+          <!-- Icon-only mark -->
+          <svg class="footer-logo-icon" viewBox="0 0 425.77 425.77" xmlns="http://www.w3.org/2000/svg" aria-label="Second Chair">
+            <defs><style>.fci{fill:#ffdd72}.fsi1{stroke:#ffdd72;stroke-width:11px;fill:none;stroke-miterlimit:10}.fsi2{stroke:#ffdd72;stroke-width:8px;fill:none;stroke-miterlimit:10}</style></defs>
+            <circle class="fsi2" cx="212.89" cy="212.89" r="165.64"/>
+            <circle class="fsi1" cx="212.89" cy="212.89" r="207.39"/>
+            <path class="fci" d="M186.32,134.72l4.09,159.07h-47.93l3.72-159.07h40.12Z"/>
+            <path class="fci" d="M279.58,134.72l4.09,159.07h-48.3l4.09-159.07h40.12Z"/>
+            <path class="fci" d="M288.86,113.53c.06,2.31-1.47,4.47-3.15,5.95-2.36,2.09-3.91,2.01-5.47,5.31-.35.75-.63,2.65-1.26,2.83l-39.52.02c-.31-.95-.54-2.05-.94-2.96-1.92-4.38-8.44-5.49-8.36-11.14h58.7Z"/>
+            <path class="fci" d="M195.61,113.53c.2,2.54-1.7,4.75-3.52,6.33-2.1,1.81-3.81,2.15-4.94,5.09-.29.76-.41,2.5-1.04,2.67h-39.32c-.65-.19-.84-1.87-1.14-2.58-1.92-4.45-6.55-5.07-8.19-9.27-.25-.63-.35-1.55-.54-2.24h58.7Z"/>
+          </svg>
+        </div>
+        <span class="footer-logo-wordmark">Second Chair</span>
+        <p class="footer-descriptor">PI lead generation for personal injury law firms. FCC-compliant by design.</p>
+      </div>
+
+      <div class="footer-col">
+        <span class="footer-nav-label">Navigation</span>
+        <ul class="footer-nav">
+          <li><a href="/process">Process</a></li>
+          <li><a href="#cta">Apply</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <span class="footer-nav-label">Contact</span>
+        <a href="mailto:hello@secondchair.com" class="footer-contact-link">hello@secondchair.com</a>
+        <a href="https://linkedin.com/company/secondchair" target="_blank" rel="noopener" class="footer-contact-link">LinkedIn</a>
+        <a href="/privacy" class="footer-contact-link">Privacy Policy</a>
+        <a href="/terms" class="footer-contact-link">Terms of Service</a>
+      </div>
+
+    </div>
+    <div class="footer-legal">
+      <p>&copy; 2026 Second Chair &nbsp;&middot;&nbsp; Attorney Advertising</p>
+      <p>Results may vary. Prior results do not guarantee a similar outcome.</p>
+    </div>
+  </div>
+</footer>
+
+<script src="../js/main.js"></script>
+
+</body>
+</html>
