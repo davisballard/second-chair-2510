@@ -68,7 +68,7 @@ Fight for justice at scale — connecting accident victims with qualified legal 
 ### Personality Traits
 | Trait | Description | Example |
 |-------|-------------|---------|
-| **Experienced** | Backs every claim with real advertising credentials | "18 years across Disney, Google, Samsung" not "we're the best" |
+| **Experienced** | Backs every claim with real advertising credentials | "18 years across Disney, Google, Samsung" — not "we're the best" |
 | **Precision** | Targets the right people in the right metro at the right time | DMA-exclusive, behaviorally-targeted creative |
 | **Justice-Driven** | Every touchpoint reinforces advocacy and action | "Claim Justice Now" as CTA on every video, every ad |
 

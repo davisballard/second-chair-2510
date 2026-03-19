@@ -107,7 +107,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 - Orientation line: close to final, needs legal review for any claims
 - Logo/wordmark: Alex to supply
 
-**Credits for credential subhead:** Davis — 18 years, Disney, Google, Samsung. Alex — TradeStation (million-user trading app, FINRA/SEC compliant). Sasha — ASOS, Bose, Coach, Diageo programmatic. All available in founder files. Final wording needs one pass for precision.
+**Credits for credential subhead:** Davis — 18 years, Disney, Google, Samsung. Alex — TradeStation (million-user trading app, FINRA/SEC compliant). Sasha — Bose, Coach, Diageo, Duracell, H&R Block, Indeed, Ocean Spray, PepsiCo, Tinder programmatic. All available in founder files. Final wording needs one pass for precision.
 
 ---
 
@@ -261,7 +261,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 *Role:* Co-Founder, Sales & Media
 
 *Credentials (sourced from founding docs):*
-- Programmatic media buying across ASOS, Bose, Coach, Diageo, Tinder
+- Programmatic media buying across Bose, Coach, Diageo, Duracell, H&R Block, Indeed, Ocean Spray, PepsiCo, Tinder
 - Pioneered programmatic strategy for cannabis brands when major platforms were closed
 - Sales and account management across ad-tech, financial services, and architecture
 - Ukrainian-American, first-generation entrepreneur

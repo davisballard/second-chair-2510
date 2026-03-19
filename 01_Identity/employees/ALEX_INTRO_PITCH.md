@@ -50,7 +50,7 @@ Three co-founders. Three domains. **Equal partners — 33/33/33 profit split.**
 
 ### Sasha Zinshtein — Co-Founder & Head of Growth
 
-14+ years across programmatic media buying, sales, and financial underwriting. Ran programmatic for 18+ brands at 33across (ASOS, Bose, Coach, Diageo, Pepsico, Tinder, Zalando). Director of Growth at The Flower Agency — pioneered cannabis programmatic on Forbes, TripAdvisor, Rolling Stone when Google and Facebook were off-limits. Fund Specialist at Riverpoint Capital — originated and deployed millions in non-dilutive growth capital for SMBs. Speaks capital-allocator language (ROI, payback, allocation), which is exactly how he sells to law firms.
+14+ years across programmatic media buying, sales, and financial underwriting. Ran programmatic for 18+ brands at 33across (Bose, Coach, Diageo, Duracell, H&R Block, Indeed, Ocean Spray, PepsiCo, Tinder). Director of Growth at The Flower Agency — pioneered cannabis programmatic on Forbes, TripAdvisor, Rolling Stone when Google and Facebook were off-limits. Fund Specialist at Riverpoint Capital — originated and deployed millions in non-dilutive growth capital for SMBs. Speaks capital-allocator language (ROI, payback, allocation), which is exactly how he sells to law firms.
 
 *New York, NY*
 

@@ -13,7 +13,7 @@ Second Chair
 
 Sasha Zinshtein is Co-Founder and Head of Growth at Second Chair, where he owns both sides of growth: media buying that generates qualified leads, and sales that acquire law firms as partners. He runs the full funnel—from ad spend to signed contracts—and the trust layer that keeps partners long-term.
 
-His media buying runs deep: at **33across**, programmatic account management for 18+ brands (ASOS, Bose, Coach, Diageo, Duracell, Fanatics, Indeed, Mondelez, Pepsico, Tinder, Zalando, and others); at **The Flower Agency**, Director of Growth pioneering cannabis programmatic on Forbes, TripAdvisor, Rolling Stone, Food & Wine when Google and Facebook were off-limits. He scales buyer portfolios, optimizes across DSP/SSP platforms, and tracks ROI end-to-end.
+His media buying runs deep: at **33across**, programmatic account management for 18+ brands (Bose, Coach, Diageo, Duracell, Fanatics, H&R Block, Indeed, Mondelez, Ocean Spray, PepsiCo, Tinder, and others); at **The Flower Agency**, Director of Growth pioneering cannabis programmatic on Forbes, TripAdvisor, Rolling Stone, Food & Wine when Google and Facebook were off-limits. He scales buyer portfolios, optimizes across DSP/SSP platforms, and tracks ROI end-to-end.
 
 His sales and financial fluency comes from **Riverpoint Capital**: origination, underwriting, and placement of non-dilutive growth capital for SMBs. Millions deployed. He read cash flow, sized risk, and spoke capital-allocator language—which is how he now talks to law firms about case acquisition spend. ROI, payback, allocation. They hear someone who understands their economics, not just their ad budget.
 
