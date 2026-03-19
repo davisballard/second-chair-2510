@@ -152,7 +152,9 @@
     <ul class="nav-links">
       <li><a href="/process">Process</a></li>
     </ul>
-    <a href="#" class="hero-cta nav-apply-btn" data-open-modal="apply-modal">Apply</a>
+    <div class="nav-apply-zone">
+      <a href="#" class="hero-cta nav-apply-btn" data-open-modal="apply-modal">Apply</a>
+    </div>
     <button class="nav-toggle" aria-label="Open menu" aria-expanded="false">
       <span class="nav-toggle-bar"></span>
       <span class="nav-toggle-bar"></span>
@@ -415,6 +417,88 @@
 </section>
 
 <!-- ============================================================
+     THE ENGINE — copied from homepage
+============================================================ -->
+<section class="founders-section reveal">
+  <div class="container">
+    <div class="founders-closing">
+      <div class="founders-closing-inner">
+        <p class="founders-closing-kicker">The Engine</p>
+        <p class="founders-closing-line">Three founders. 29 AI agents. The output of 32.</p>
+        <p class="founders-closing-sub">40+ years of combined experience &mdash; in strategy, creative, product, and media &mdash; amplified by AI systems built on that knowledge. Founders direct the thinking. The tools scale the output.</p>
+
+        <div class="ai-system-diagram" aria-label="Second Chair AI operating system diagram">
+
+          <div class="diagram-panel">
+            <span class="diagram-label">AI Intelligence Stack</span>
+            <div class="logo-chip-grid">
+              <span class="logo-chip logo-chip--wide">Claude</span>
+              <span class="logo-chip logo-chip--wide">Cursor</span>
+              <span class="logo-chip logo-chip--wide">ElevenLabs</span>
+              <span class="logo-chip logo-chip--wide">Nano Banana</span>
+              <span class="logo-chip logo-chip--wide">Kling</span>
+              <span class="logo-chip logo-chip--wide">FAL.ai</span>
+            </div>
+          </div>
+
+          <div class="diagram-flow" aria-hidden="true"></div>
+
+          <div class="diagram-panel">
+            <span class="diagram-label">Founder Judgment</span>
+            <div class="founder-node-grid">
+              <div class="founder-node">
+                <span class="founder-node-initial">D<span class="founder-node-name">AVIS</span></span>
+                <span class="founder-node-role">Creative<br>Strategy</span>
+              </div>
+              <div class="founder-node">
+                <span class="founder-node-initial">A<span class="founder-node-name" style="margin-left:1px">LEX</span></span>
+                <span class="founder-node-role">Product<br>Technology</span>
+              </div>
+              <div class="founder-node">
+                <span class="founder-node-initial">S<span class="founder-node-name">ASHA</span></span>
+                <span class="founder-node-role">Media<br>Buying</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="diagram-flow" aria-hidden="true"></div>
+
+          <div class="diagram-panel">
+            <span class="diagram-label">Product &amp; Compliance Stack</span>
+            <div class="logo-chip-grid">
+              <span class="logo-chip logo-chip--wide">Supabase</span>
+              <span class="logo-chip logo-chip--wide">Vercel</span>
+              <span class="logo-chip logo-chip--wide">Next.js</span>
+              <span class="logo-chip logo-chip--wide">SvelteKit</span>
+              <span class="logo-chip logo-chip--wide">TrustedForm</span>
+              <span class="logo-chip logo-chip--wide">Tailwind</span>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="engine-stats">
+          <div class="engine-stat">
+            <span class="engine-stat-number">29</span>
+            <span class="engine-stat-label"><strong>AI Agents</strong>Across creative, product &amp; compliance</span>
+          </div>
+          <div class="engine-stat">
+            <span class="engine-stat-number">FCC</span>
+            <span class="engine-stat-label"><strong>2025 Compliant</strong>By design &mdash; not by accident</span>
+          </div>
+          <div class="engine-stat">
+            <span class="engine-stat-number">Live</span>
+            <span class="engine-stat-label"><strong>Cost per signed case</strong>Tracked from the first dollar</span>
+          </div>
+        </div>
+
+        <p class="founders-closing-note">The tools accelerate synthesis. Founders direct the thinking. For your firm: sharper creative-market fit, faster iteration, better signed-case economics.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================
      8. CTA SECTION
 ============================================================ -->
 <section id="cta" class="reveal">
@@ -528,19 +612,15 @@
 
       <div class="footer-col">
         <div class="footer-logo-wrap">
-          <!-- Icon-only mark -->
-          <svg class="footer-logo-icon" viewBox="0 0 425.77 425.77" xmlns="http://www.w3.org/2000/svg" aria-label="Second Chair">
-            <defs><style>.fci{fill:#ffdd72}.fsi1{stroke:#ffdd72;stroke-width:11px;fill:none;stroke-miterlimit:10}.fsi2{stroke:#ffdd72;stroke-width:8px;fill:none;stroke-miterlimit:10}</style></defs>
-            <circle class="fsi2" cx="212.89" cy="212.89" r="165.64"/>
-            <circle class="fsi1" cx="212.89" cy="212.89" r="207.39"/>
-            <path class="fci" d="M186.32,134.72l4.09,159.07h-47.93l3.72-159.07h40.12Z"/>
-            <path class="fci" d="M279.58,134.72l4.09,159.07h-48.3l4.09-159.07h40.12Z"/>
-            <path class="fci" d="M288.86,113.53c.06,2.31-1.47,4.47-3.15,5.95-2.36,2.09-3.91,2.01-5.47,5.31-.35.75-.63,2.65-1.26,2.83l-39.52.02c-.31-.95-.54-2.05-.94-2.96-1.92-4.38-8.44-5.49-8.36-11.14h58.7Z"/>
-            <path class="fci" d="M195.61,113.53c.2,2.54-1.7,4.75-3.52,6.33-2.1,1.81-3.81,2.15-4.94,5.09-.29.76-.41,2.5-1.04,2.67h-39.32c-.65-.19-.84-1.87-1.14-2.58-1.92-4.45-6.55-5.07-8.19-9.27-.25-.63-.35-1.55-.54-2.24h58.7Z"/>
+          <svg class="footer-logo-combo" viewBox="0 0 1311.33 454.82" xmlns="http://www.w3.org/2000/svg" aria-label="Second Chair">
+            <defs><style>.flc-s0{stroke-width:8px}.flc-s0,.flc-s1{fill:none;stroke:currentColor;stroke-miterlimit:10}.flc-s1{stroke-width:11px}.flc-f{fill:currentColor}</style></defs>
+            <circle class="flc-s0" cx="240.95" cy="227.42" r="157.09"/><circle class="flc-s1" cx="240.95" cy="227.42" r="196.69"/>
+            <g><path class="flc-f" d="M215.75,153.28l3.88,150.86h-45.46l3.53-150.86h38.05ZM182.5,159.3c-.24.07-1.16,1-1.23,1.25-.36,1.23.05,4.4-.03,5.97-.29,6.36-.6,12.98-.74,19.36-.76,34.91-.74,69.85-2.11,104.68-.06,1.49-.21,4.65.08,5.95.54,2.47,3.23,2.11,3.48-.64.4-4.36-.11-9.63-.03-14.13.54-29.2,1.57-58.54,2.14-87.74.1-5.39.28-10.9.35-16.22.09-5.77-.1-11.53,0-17.3,0-.74-1.31-1.37-1.91-1.19h0ZM191.3,159.3c-.64.19-1.33,1.55-1.28,2.24-.5,36.89.03,73.78-.32,110.71,0,.62-.38,1.12-.38,1.74-.08,7.53.09,15.06,0,22.58,1.33,2.76,3.28,1.74,3.55-1.05.06-20.22-.12-40.44-.03-60.66.09-21.6.18-43.59.74-65.17.06-2.14.32-6.94-.08-8.77-.21-.97-1.14-1.93-2.2-1.61h0ZM201.52,159.3c-.47.13-1.46,1.3-1.29,1.9.26,31.76.14,63.42.35,95.2,0,.62.38,1.12.38,1.74.09,12.92-.13,25.83.03,38.74.92,1.69,2.96,1.87,3.14-.29-.1-19.28.09-38.56,0-57.83-.09-22.42-.17-45.24-.74-67.65-.09-3.63.13-7.27-.02-10.91-.14-.49-1.38-1.03-1.86-.89h0ZM212.28,297.75c.77.77,2.66.46,2.78-.83-.09-5.41.09-10.83,0-16.24-.54-36.82-1.38-73.84-2.49-110.65-.09-2.72.36-6.27.02-8.83-.2-1.49-1.51-2.58-2.82-1.41-.84.75-.8,2.47-.72,3.55.87,11.5.48,23.3.7,34.89.57,29.45,1.36,59.01,2.14,88.44.09,3.11-.35,6.9,0,9.88.03.22.31,1.09.4,1.19h0Z"/><path class="flc-f" d="M304.19,153.28l3.88,150.86h-45.81l3.88-150.86h38.05ZM270.06,159.67c-.21.21-.73,3.07-.77,3.63-.37,4.81.12,10.27.03,15.18-.65,36.01-1.7,72.15-2.49,108.18-.08,3.41.09,6.84,0,10.24.16,1.19,1.97,1.54,2.84.7.67-.64.26-3.44.33-4.61.73-11.83.47-23.71.7-35.6.57-28.96,1.47-58.07,2.14-87.03.08-3.27-.05-6.56-.06-9.84-.51-.99-1.79-1.78-2.72-.87v.02h0ZM278.87,159.67c-.19.18-.39,1.17-.42,1.52-.67,8.23.11,18.02.03,26.47-.2,19.86-.64,40.04-.74,59.89-.09,16.34.1,32.68,0,49.02-.16,2.08,2.98,1.94,3.2.35.07-7.76-.11-15.53-.03-23.29.24-20.8.64-41.92.74-62.71.09-16.69-.1-33.38,0-50.08.23-1.38-1.95-1.98-2.78-1.17h0ZM289.98,159.31c-1.88.36-1.85,3.22-1.27,4.7.26,41.13-.44,82.34.7,123.37.09,3.18-.09,6.36-.02,9.54.26,1.82,3,1.4,3.19,0-.09-11.76.09-23.52,0-35.27-.17-25.27-.46-50.83-.74-76.11-.09-8.23.09-16.46.03-24.7-.2-.74-1.02-1.71-1.89-1.54h0ZM300.26,159.67c-.77-.75-2.65-.34-2.7.89-.05,3.74-.15,7.49-.09,11.23.71,35.9,1.8,71.93,2.49,107.83.1,5.19-.32,10.42.33,15.53.12.93-.34,2.29.7,2.83,1.16.6,2.33-.17,2.48-1.42.36-3.15.09-7.98.02-11.3-.67-35.08-1.84-70.29-2.49-105.36-.11-5.84.45-11.89-.33-17.65-.09-.66.09-2.1-.41-2.59h0Z"/><path class="flc-f" d="M312.99,133.18c.06,2.19-1.39,4.24-2.99,5.64-2.24,1.98-3.71,1.91-5.19,5.04-.33.71-.6,2.51-1.19,2.68l-37.48.02c-.29-.9-.51-1.94-.89-2.81-1.82-4.15-8-5.21-7.93-10.57h55.67Z"/><path class="flc-f" d="M224.56,133.18c.19,2.41-1.61,4.5-3.34,6-1.99,1.72-3.61,2.04-4.69,4.83-.28.72-.39,2.37-.99,2.53h-37.29c-.62-.18-.8-1.77-1.08-2.45-1.82-4.22-6.21-4.81-7.77-8.79-.24-.6-.33-1.47-.51-2.12h55.67,0Z"/><path class="flc-f" d="M253.98,321.41c-.27-.07-.4-.35-.36-.7.44-3.9,4.59-4.32,6.53-6.88.57-.75,1.16-2.84,1.61-2.97h46.99c.44,5.54,7.95,4.86,7.77,10.55h-62.55,0Z"/><path class="flc-f" d="M231.6,330.93h-69.41v-7.23c0-.1,1.19-1.31,1.57-1.24l66.79.17c.23.11,1.04,1.31,1.04,1.42v6.88h0Z"/><path class="flc-f" d="M165.89,321.41c-.21-.06-.55-.49-.49-.83.08-.48.88-2.27,1.2-2.68,1.72-2.19,6.67-2.99,6.52-7.05h47.55c-.11,1.07.41,2.14,1.05,3,1.56,2.05,4.82,2.64,5.93,5,.23.49.44,1.31.61,1.87.11.39-.24.7-.35.7h-62.03Z"/><path class="flc-f" d="M318.46,322.47c.41.07,1.23.84,1.23,1.23v7.23h-67.83s-.14.32-.53.2c-.27-.09-1.05-.54-1.05-.73v-5.64c0-.09.56-1.19.52-1.59.2-.14.62-.7.71-.7h66.95Z"/><path class="flc-f" d="M316.17,123.67c.42,1.83.55,4.29.37,6.18-.08.76-.32,1.77-.89,2.28h-60.95c-.12,0-.88-1.16-.88-1.23v-6.7s.49-.53.53-.53h61.84,0Z"/><path class="flc-f" d="M227.72,123.67c.38,1.95.63,4.88.35,6.88-.06.38-.6,1.58-.88,1.58h-60.6s-.82-.35-.84-.39c-.06-.06-.36-1.34-.38-1.56-.22-1.98-.08-4.59.34-6.52,0,0,62.02,0,62.02,0Z"/><path class="flc-f" d="M260.73,305.26l48.57-.06c2.43.35,2.74,3.88.36,4.59h-48.99c-2.18-.64-2.28-4.02.07-4.53Z"/><path class="flc-f" d="M172.28,305.24l48.58-.05c2.71.68,2.9,3.58.36,4.59h-48.63c-2.65-.67-2.36-3.23-.31-4.54h0Z"/><path class="flc-f" d="M306.59,148.05s.7,1.15.72,1.21c.48,1.6-1.09,2.84-2.58,2.96l-39.83-.02c-2.28-.32-2.83-3.68-.55-4.42l40.73-.17c.38.03,1.28.21,1.51.44Z"/><path class="flc-f" d="M175.28,148.04c.2-.2,1.16-.39,1.52-.43h40.54c2.36.7,2.08,4.25-.36,4.6l-39.83.02c-1.25.06-2.83-1.38-2.59-2.6.02-.11.65-1.54.72-1.59h0Z"/></g>
+            <g><path class="flc-f" d="M535.04,186.69l-1.63-31.42h8.54c4.36,21.06,16.16,35.41,34.69,35.41,13.8,0,22.7-7.08,22.7-19.07s-7.81-17.98-28.88-25.07c-22.7-7.26-36.14-17.98-36.14-39.78,0-23.62,17.98-39.23,43.95-39.23,15.98,0,29.6,4.17,38.69,10.72v27.43h-7.63c-3.81-18.89-13.8-30.15-31.06-30.15-11.99,0-19.79,7.08-19.79,17.98,0,12.35,7.26,17.25,26.34,23.8,24.34,8.18,39.6,17.62,39.6,41.77,0,26.7-21.61,39.6-47.76,39.6-17.8,0-33.23-5.26-41.59-11.99h-.02Z"/><path class="flc-f" d="M635.12,189.96c12.35-1.45,13.8-2.72,13.8-12.53v-88.63c0-9.81-1.45-11.08-13.8-12.53v-6.9h101.89l.91,33.96h-6.17c-9.09-20.16-14.17-26.16-29.6-26.16h-22.33v49.4h20.52c8.36,0,10.72-4.72,12.35-16.71h7.08v42.32h-7.08c-1.63-11.99-3.99-16.53-12.35-16.53h-20.52v41.05c0,9.81,4.9,12.35,15.62,12.35h8.9c15.44,0,19.98-7.44,32.69-30.15h7.08l-5.63,37.95h-103.34v-6.9h0Z"/><path class="flc-f" d="M858.86,78.27l.36,30.33h-7.81c-4.36-21.25-14.71-32.69-31.96-32.69-23.98,0-34.5,24.52-34.5,55.4,0,33.42,12.72,58.66,36.14,58.66,16.16,0,27.79-10.72,34.5-37.77h8.36l-2.9,35.05c-10.72,7.26-25.79,11.44-43.23,11.44-40.51,0-65.56-24.34-65.56-62.29,0-42.32,29.42-68.83,66.29-68.83,16.34,0,29.97,3.81,40.32,10.72,0,0,0,0,0,0Z"/><path class="flc-f" d="M873.75,135.66c0-41.77,26.7-68.1,62.84-68.1,39.41,0,60.3,29.42,60.3,63.02,0,41.77-26.88,68.1-63.02,68.1-39.23,0-60.12-29.42-60.12-63.02ZM964.01,134.75c0-31.42-8.54-59.03-29.6-59.03-19.97,0-27.79,27.61-27.79,55.76,0,31.42,8.54,59.03,29.6,59.03,19.79,0,27.79-27.61,27.79-55.76Z"/><path class="flc-f" d="M1110.22,88.8c0-9.63-3.27-11.26-18.16-12.53v-6.9h43.04v6.9c-12.53,1.45-13.99,2.9-13.99,12.53v108.42h-10.9l-78.46-98.43v78.64c0,9.63,3.27,11.26,18.16,12.53v6.9h-42.86v-6.9c12.35-1.45,13.8-2.9,13.8-12.53v-89.72c-5.08-7.81-7.63-10.9-13.99-11.44v-6.9h41.23l62.11,78.28v-58.85h.02,0Z"/><path class="flc-f" d="M1143.09,196.87v-6.9c12.35-1.45,13.8-2.72,13.8-12.53v-88.63c0-9.81-1.45-11.08-13.8-12.53v-6.9h57.58c49.22,0,71.92,27.24,71.92,61.75,0,41.59-27.61,65.74-68.1,65.74h-61.39ZM1187.77,77.18v98.98c0,10.72,4.36,12.9,13.44,12.9h2.54c21.61,0,36.32-20.52,36.32-54.31s-14.71-57.58-44.86-57.58h-7.45Z"/></g>
+            <g><path class="flc-f" d="M639.66,263.61l.36,30.33h-7.81c-4.36-21.25-14.71-32.69-31.96-32.69-23.98,0-34.5,24.52-34.5,55.4,0,33.42,12.72,58.66,36.14,58.66,16.16,0,27.79-10.72,34.5-37.77h8.36l-2.9,35.05c-10.72,7.26-25.79,11.44-43.23,11.44-40.51,0-65.56-24.34-65.56-62.29,0-42.32,29.42-68.83,66.29-68.83,16.34,0,29.97,3.81,40.32,10.72h0Z"/><path class="flc-f" d="M699.04,312.28h50.67v-38.14c0-9.81-1.45-11.08-13.99-12.53v-6.9h58.66v6.9c-12.35,1.45-13.8,2.72-13.8,12.53v88.63c0,9.81,1.45,11.08,13.8,12.53v6.9h-58.66v-6.9c12.53-1.45,13.99-2.72,13.99-12.53v-40.5h-50.67v40.5c0,9.81,1.45,11.08,13.99,12.53v6.9h-58.66v-6.9c12.35-1.45,13.8-2.72,13.8-12.53v-88.63c0-9.81-1.45-11.08-13.8-12.53v-6.9h58.66v6.9c-12.53,1.45-13.99,2.72-13.99,12.53v38.14h0Z"/><path class="flc-f" d="M879.39,341.34h-47.58l-7.08,18.7c-.91,2.54-1.63,4.9-1.63,6.9,0,5.81,4.9,7.81,15.26,8.36v6.9h-38.14v-6.9c4.9-.91,8.72-1.81,10.54-6.71l38.87-100.26-5.81-14.35h32.87l45.95,114.59c1.82,4.72,5.63,5.81,10.72,6.71v6.9h-59.75v-6.9c9.99-.36,14.89-2.36,14.89-8.18,0-2-.73-4.36-1.63-7.08l-7.44-18.7h-.02ZM835.07,332.62h40.87l-20.88-52.48-19.97,52.48h0Z"/><path class="flc-f" d="M983.82,362.77c0,9.81,1.45,11.08,13.99,12.53v6.9h-58.66v-6.9c12.35-1.45,13.8-2.72,13.8-12.53v-88.63c0-9.81-1.45-11.08-13.8-12.53v-6.9h58.66v6.9c-12.53,1.45-13.99,2.72-13.99,12.53v88.63Z"/><path class="flc-f" d="M1052.28,362.77c0,9.81,1.45,11.08,13.99,12.53v6.9h-58.66v-6.9c12.35-1.45,13.8-2.72,13.8-12.53v-88.63c0-9.81-1.45-11.08-13.8-12.53v-6.9h62.11c29.79,0,48.13,13.99,48.13,35.78,0,19.25-14.89,29.42-28.33,33.23l26.34,36.68c7.81,11.08,11.81,14.53,20.7,14.89v6.9h-37.77c-5.26-3.81-9.81-9.81-15.26-18.52l-22.88-35.41h-8.36v34.5h0ZM1052.28,262.89v57.21h7.26c17.8,0,27.24-10.9,27.24-29.42,0-16.71-9.45-27.79-27.61-27.79h-6.9,0Z"/></g>
           </svg>
         </div>
-        <span class="footer-logo-wordmark">Second Chair</span>
-        <p class="footer-descriptor">PI lead generation for personal injury law firms. FCC-compliant by design.</p>
+        <p class="footer-descriptor" style="margin-top: 14px;">PI lead generation for personal injury law firms. FCC-compliant by design.</p>
       </div>
 
       <div class="footer-col">

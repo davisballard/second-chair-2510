@@ -369,8 +369,15 @@
       background: rgba(255,221,114,0.04);
     }
 
+    .nav-apply-zone {
+      margin-left: auto;
+      display: flex;
+      align-items: center;
+      height: 100%;
+      padding: 0 24px;
+      border-left: 1px solid rgba(255,221,114,0.48);
+    }
     .hero-cta.nav-apply-btn {
-      margin: auto 24px;
       padding: 10px 31px;
       font-size: 14px;
       letter-spacing: 0.05em;
@@ -378,6 +385,7 @@
       animation: none;
       z-index: 1;
       backdrop-filter: blur(2px);
+      box-shadow: inset 0 0 0 3px var(--sc-oxblood), inset 0 0 0 4px rgba(255,221,114,0.56);
     }
     .hero-cta.nav-apply-btn:hover {
       opacity: 0.94;
@@ -1101,7 +1109,6 @@
     /* ============================================================
        EDITORIAL SECTIONS — Compliance + Intelligence
     ============================================================ */
-    #compliance,
     #intelligence {
       background: var(--sc-cream);
       padding: var(--section-v) 0;
@@ -1297,7 +1304,7 @@
     ============================================================ */
     #founders {
       background: var(--sc-cream);
-      padding: var(--section-v) 0;
+      padding: var(--section-v) 0 32px;
       border-top: var(--rule);
     }
     #founders .section-label { color: var(--sc-rule); }
@@ -1640,6 +1647,67 @@
       margin-bottom: 1px;
     }
 
+    /* ── Pipeline on cream — same template as Intelligence section ── */
+    .pipeline-cream-section {
+      background: var(--sc-cream);
+      padding: var(--section-v) 0;
+      border-top: var(--rule);
+    }
+    .pipeline-cream-sub {
+      max-width: 860px;
+      font-family: var(--font-body);
+      font-size: 16px;
+      line-height: 1.72;
+      color: rgba(28,25,23,0.55);
+      margin-top: -32px;
+      margin-bottom: 32px;
+    }
+    .pipeline-cream {
+      grid-template-columns: minmax(160px, 1fr) 40px minmax(160px, 1fr) 40px minmax(160px, 1fr) 40px minmax(160px, 1fr);
+      border-color: rgba(28,25,23,0.16);
+    }
+    .diagram-panel--cream {
+      border-right-color: rgba(28,25,23,0.16);
+      background: rgba(28,25,23,0.03);
+    }
+    .diagram-panel--cream .diagram-label {
+      color: rgba(28,25,23,0.68);
+    }
+    .logo-chip--cream {
+      border-color: rgba(28,25,23,0.20);
+      background: rgba(28,25,23,0.05);
+      color: rgba(28,25,23,0.88);
+    }
+    .logo-chip--cream:hover {
+      border-color: rgba(28,25,23,0.38);
+      background: rgba(28,25,23,0.08);
+    }
+    .diagram-flow--cream {
+      border-right-color: rgba(28,25,23,0.16);
+      background: transparent;
+    }
+    .diagram-flow--cream::before {
+      border-top-color: rgba(28,25,23,0.22);
+    }
+    .diagram-flow--cream::after {
+      color: rgba(28,25,23,0.40);
+    }
+    .engine-stats--cream {
+      border-color: rgba(28,25,23,0.16);
+    }
+    .engine-stat--cream {
+      border-right-color: rgba(28,25,23,0.16);
+    }
+    .engine-stat--cream .engine-stat-number {
+      color: rgba(28,25,23,0.85);
+    }
+    .engine-stat--cream .engine-stat-label {
+      color: rgba(28,25,23,0.50);
+    }
+    .engine-stat--cream .engine-stat-label strong {
+      color: rgba(28,25,23,0.75);
+    }
+
     .founders-closing-note {
       margin-top: 18px;
       max-width: 860px;
@@ -1649,14 +1717,48 @@
       line-height: 1.8;
       color: rgba(255,247,240,0.38);
     }
+    .founders-closing-beat2 {
+      margin-top: 48px;
+      padding-top: 40px;
+      border-top: 1px solid rgba(255,221,114,0.15);
+    }
+    .honestly-won-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      margin-top: 28px;
+      border: 1px solid rgba(255,221,114,0.20);
+      border-bottom: none;
+    }
+    .honestly-won-box {
+      padding: 24px 28px;
+    }
+    .honestly-won-box:first-child {
+      border-right: 1px solid rgba(255,221,114,0.20);
+    }
+    .honestly-won-box-label {
+      display: block;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      letter-spacing: 0.20em;
+      text-transform: uppercase;
+      color: rgba(255,221,114,0.68);
+      margin-bottom: 12px;
+    }
+    .honestly-won-box p {
+      font-family: var(--font-body);
+      font-size: 15px;
+      line-height: 1.72;
+      color: rgba(255,247,240,0.75);
+      margin: 0;
+    }
 
     /* ============================================================
        HOW WE WORK
     ============================================================ */
     #how-we-work {
       background: var(--sc-cream);
-      padding: var(--section-v) 0;
-      border-top: var(--rule);
+      padding: 32px 0 var(--section-v);
     }
 
     .how-header { margin-bottom: 48px; }
@@ -1778,7 +1880,7 @@
       aspect-ratio: 4 / 3;
       overflow: hidden;
       margin: 0 0 32px 0;
-      border: 2px solid var(--sc-rule);
+      border: 1px solid var(--sc-rule);
     }
     .cta-image img {
       display: block;
@@ -1786,7 +1888,6 @@
       height: 100%;
       object-fit: cover;
       object-position: center 30%;
-      filter: saturate(0.80) brightness(0.92);
     }
     .cta-image::after {
       content: '';
@@ -2335,6 +2436,7 @@
 
     .footer-logo-wrap { margin-bottom: 18px; }
     .footer-logo-icon { height: 38px; width: auto; display: block; }
+    .footer-logo-combo { height: 44px; width: auto; display: block; color: var(--sc-gold); }
     .footer-logo-wordmark {
       font-family: var(--font-display);
       font-size: 14px;
@@ -2363,7 +2465,12 @@
       margin-bottom: 18px;
       display: block;
     }
-    .footer-nav { display: flex; flex-direction: column; gap: 12px; }
+    .footer-nav { display: flex; flex-direction: column; gap: 12px; list-style: none; padding: 0; margin: 0; }
+    .footer-nav li {
+      font-family: var(--font-body);
+      font-size: 14px;
+      color: rgba(255,247,240,0.65);
+    }
     .footer-nav a {
       font-family: var(--font-body);
       font-size: 14px;
@@ -2683,6 +2790,9 @@
       .founders-closing { margin-top: 56px; padding: 44px 0 52px; }
       .founders-closing-sub { font-size: 15px; margin-bottom: 8px; }
       .founders-closing-line { font-size: clamp(28px, 7vw, 44px); }
+      .pipeline-cream-section { padding: 44px 0 52px; }
+      .pipeline-cream-headline { font-size: clamp(28px, 7vw, 44px); }
+      .pipeline-cream-sub { font-size: 15px; margin-bottom: 8px; }
 
       /* Diagram: hide flow arrows, compact single-column stack */
       .ai-system-diagram {
@@ -2696,6 +2806,7 @@
         border-right: none;
         border-bottom: 1px solid rgba(255,221,114,0.12);
       }
+      .diagram-panel--cream { border-bottom-color: rgba(73,10,10,0.14); }
       .diagram-panel:last-child { border-bottom: none; }
       .diagram-label { font-size: 11px; margin-bottom: 10px; }
       .logo-chip { font-size: 11px; padding: 4px 8px; min-height: 24px; }
@@ -2713,7 +2824,11 @@
       .engine-stat-number { font-size: 22px; }
       .engine-stat-label { font-size: 9px; letter-spacing: 0.10em; }
       .engine-stat-label strong { font-size: 9px; }
+      .engine-stat--cream { border-right-color: rgba(73,10,10,0.14); }
 
+      .founders-closing-beat2 { margin-top: 32px; padding-top: 28px; }
+      .honestly-won-grid { grid-template-columns: 1fr; }
+      .honestly-won-box:first-child { border-right: none; border-bottom: 1px solid rgba(255,221,114,0.20); }
       .founders-closing-note { font-size: 11px; margin-top: 14px; }
 
       /* ── FOOTER ── */
@@ -2755,6 +2870,7 @@
       /* Engine: stat strip stacks at very small screens */
       .engine-stats { grid-template-columns: 1fr; }
       .engine-stat { flex-direction: row; align-items: center; border-right: none; border-bottom: 1px solid rgba(255,221,114,0.12); }
+      .engine-stat--cream { border-bottom-color: rgba(73,10,10,0.14); }
       .engine-stat:last-child { border-bottom: none; }
       .engine-stat-number { font-size: 24px; }
     }
