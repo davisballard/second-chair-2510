@@ -22,9 +22,9 @@
 
 | Co-Founder | Role |
 |------------|------|
-| **Davis Ballard** | Head of Marketing & Creative |
-| **Alex DuBelko** | Head of Product & Innovation |
-| **Sasha Zinshtein** | Head of Growth |
+| **Davis Ballard** | Creative & Strategy Systems |
+| **Alex DuBelko** | Product & Compliance Systems |
+| **Sasha Zinshtein** | Performance Media |
 
 **Team profiles:** [`../01_Identity/employees/`](../01_Identity/employees/) — DavisBallard.md, AlexDuBelko.md, SashaZinshtein.md
 
@@ -55,12 +55,12 @@
 | [`SERVICE_PERSONAL_INJURY.md`](../01_Identity/SERVICE_PERSONAL_INJURY.md) | PI service positioning and messaging hooks |
 | [`Consumer_Brand_Names.md`](../01_Identity/Consumer_Brand_Names.md) | Consumer-facing brand naming exploration |
 | [`Naming_Options.md`](../01_Identity/Naming_Options.md) | Brand naming options and rationale |
-| [`ClaimJusticeNow_Identity_System.md`](../01_Identity/ClaimJusticeNow_Identity_System.md) | Consumer brand identity system |
+| [`FAIR_CASE_BRAND.md`](../20_Fair_Case/00_Brand_Overview/FAIR_CASE_BRAND.md) | Consumer brand (Fair Case) identity system |
 | [`Brand_Essence.md`](../01_Identity/Brand_Essence.md) | Brand essence and core values |
 | [`GEO_EXCLUSIVITY_POLICY.md`](../01_Identity/GEO_EXCLUSIVITY_POLICY.md) | DMA exclusivity policy and pricing tiers |
 
 **Subfolders:**
-- [`ClaimJusticeNow/`](../01_Identity/ClaimJusticeNow/) - Consumer brand logo development and design briefs
+- [`20_Fair_Case/`](../20_Fair_Case/) - Consumer brand (Fair Case) — strategy, social, ads, visual identity, website
 - [`employees/`](../01_Identity/employees/) - Team member profiles (DavisBallard.md, AlexDuBelko.md, SashaZinshtein.md, AlexDuBelko_Intro_Pitch.md)
 
 ---

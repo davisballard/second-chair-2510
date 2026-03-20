@@ -1,353 +1,187 @@
 # Typography: Second Chair
 
-> **Optimized for Social Media Advertising Based on Research Findings**
-> 
-> Source: `07_Research/Strategic_Insights/Visual_Insights.md`, `07_Research/Strategic_Insights/Copy_Insights.md`, `07_Research/Strategic_Insights/Channel_Playbooks.md`
+**Last Updated:** March 2026
+**Locked source:** `14_Visual_Identity/03_Typography_System.md`
+**Selected option:** Option C — "The Law Review"
+**Brand character:** Expert not Arrogant, Honest in the Specific, Respectful of Intelligence, Weighted not Heavy
 
 ---
 
 ## Core Philosophy
 
-**Research Finding:** "High-production ads often fail compared to real, raw, relatable content."
+Typography IS the identity. Before anyone reads a single word, the typeface has already communicated. The system must be legible in black-and-white — hierarchy through typography, not color.
 
-Typography must feel **native, trustworthy, and readable** — not "advertisement." We use three distinct typographic modes based on creative format.
-
----
-
-## Font System Overview
-
-| Mode | When to Use | Font Approach |
-|------|-------------|---------------|
-| **Native Mode** | TikTok, Reels, Stories | Platform text tools ONLY |
-| **Lo-Fi Mode** | Screenshot ads, "government form" aesthetic | System/typewriter fonts |
-| **Produced Mode** | Landing pages, Google Display, polished video | Brand fonts |
+**Visual direction:** Cinematic. Intentionally produced. The craft is visible. Not found footage, not "ugly ads win," not UGC-style. Cinematic work that looks like someone who cared made it.
 
 ---
 
-## Mode 1: Native Platform Typography (TikTok/Reels/Stories)
+## Primary Type System (Option C — "The Law Review")
 
-### The Rule
+### The Register
 
-**DO NOT burn in professional subtitles.** Use the platform's native text tools.
+The Harvard Law Review redesigned by Upstatement. The American Lawyer at its peak. The modern legal editorial publication that carries 150 years of institutional authority while looking like it belongs in 2026.
 
-> **Research:** "Use native platform fonts (white text on black/red background) — NOT burnt-in professional subtitles"
+### Font Stack
 
-### Why This Works
+| Role | Typeface | Source | CSS Variable |
+|------|----------|--------|-------------|
+| **Display / Headlines** | Tiempos Headline | Klim Type Foundry (klim.co.nz) | `--font-display` |
+| **Body / Classic** | Adobe Caslon Pro | Adobe Fonts (fallback for Hoefler Text) | `--font-classic`, `--font-body` |
+| **UI / Metadata** | Söhne | Klim Type Foundry (klim.co.nz) | `--font-ui` |
+| **Monospace** | IBM Plex Mono | Google Fonts / IBM | `--font-mono` |
 
-| Burnt-In Subtitles | Native Platform Text |
-|--------------------|----------------------|
-| Brain reads as "ad" | Brain reads as "content" |
-| Feels corporate | Feels like a creator |
-| Defense mechanisms UP | Defense mechanisms DOWN |
+### Why These Typefaces
 
-### Platform Text Styles to Use
+**Tiempos Headline:** Warm curves + sharp details. Simultaneously historical (18th-century serif tradition) and unmistakably contemporary. "Could have appeared on a 1989 AmLaw 100 masthead, executed with 2026 precision."
 
-**TikTok:**
-- Classic (default white text, black outline)
-- Typewriter (for reveals)
-- Neon (for emphasis hooks)
-- Use native text stickers and effects
+**Adobe Caslon Pro:** Declaration of Independence face. Seventh Circuit brief guidelines recommend Caslon. "When in doubt, use Caslon." The New Yorker body text. Pro version required for genuine small caps, old-style figures, and ligatures.
 
-**Instagram Reels:**
-- Default caption style
-- Strong (bold white with background)
-- Classic (clean sans-serif)
+**Söhne:** Refined Akzidenz Grotesk with warmth. Institutional without coldness. Why this instead of Inter: Inter is the category convention. Söhne is outside the category — warmer, less tech-adjacent.
 
-### Hook Typography (First 3 Seconds)
-
-| Element | Treatment |
-|---------|-----------|
-| **Hook Text** | LARGE, centered, high-contrast |
-| **Placement** | Upper-third of screen (thumb-scroll safe zone) |
-| **Animation** | Native platform text animations |
-| **Max Characters** | 8-12 words visible at once |
+**IBM Plex Mono:** For data labels, legal citations, code references, CPSC reporting.
 
 ---
 
-## Mode 2: Lo-Fi Typography (Screenshot/Government Form Ads)
+## Type Scale
 
-### The "Ugly Ad" Advantage
-
-> **Research:** "In direct response, 'ugly' often works because it feels institutional or urgent rather than commercial."
-
-### Font Recommendations
-
-**Primary: System Sans**
-- **Name:** System Default (system-ui, -apple-system, BlinkMacSystemFont)
-- **Source:** Native OS
-- **Use for:** Notes app screenshots, text message mockups
-
-**Secondary: Typewriter/Monospace**
-- **Name:** Courier New / Courier Prime
-- **Source:** System default / Google Fonts
-- **Use for:** "Government form" aesthetic, recall notices, official alerts
-
-### Government Form Aesthetic
-
-| Element | Style |
-|---------|-------|
-| **Font** | Courier New, 12-14px |
-| **Color** | Black on white or off-white |
-| **Weight** | Regular only |
-| **Spacing** | Standard or slightly expanded |
-| **Layout** | Left-aligned, structured, minimal |
-
-**Example Use Cases:**
-- Deadline warnings ("NOTICE: Filing deadline approaches...")
-- Official-looking eligibility checks
-- "Alert" style notifications
-
-### Screenshot Ad Typography
-
-| Element | Style |
-|---------|-------|
-| **Font** | SF Pro (iOS) or Roboto (Android) |
-| **Size** | Match native app appearance |
-| **Color** | Match platform defaults exactly |
-
-**Screenshot Formats:**
-- Notes app: Yellow background, system font
-- Text message: iMessage/Android bubbles
-- Email: Gmail/Mail app styling
+| Role | Typeface | Weight | Size | Leading | Tracking | Case |
+|------|----------|--------|------|---------|----------|------|
+| Display (cover, hero) | Tiempos Headline | Bold | 48–72pt | 110% | 0 | Title case |
+| H1 (section title) | Tiempos Headline | Bold | 24–32pt | 120% | 0 | Title case |
+| H2 (subsection) | Adobe Caslon Pro | Regular, small caps | 14–16pt | 130% | +25 | ALL SMALL CAPS |
+| H3 (sub-subsection) | Adobe Caslon Pro | Italic | 11–12pt | 140% | 0 | Title case |
+| Body | Adobe Caslon Pro | Regular | 10–11pt | 150% | 0 | Sentence case |
+| Caption | Söhne | Regular | 8–9pt | 130% | +5 | ALL CAPS |
+| Exhibit label | Adobe Caslon Pro | Regular, small caps | 7–8pt | 120% | +15 | "EXHIBIT N:" |
+| Running head/folio | Söhne | Regular | 7–8pt | 120% | +5 | ALL CAPS |
+| Footnote | Adobe Caslon Pro | Regular | 8–9pt | 130% | 0 | Sentence case |
+| UI label | Söhne | Regular | 11–13pt | 130% | +5 | Title case |
 
 ---
 
-## Mode 3: Produced Typography (Landing Pages/Display/Video)
+## Typography Rules
 
-### Primary Typeface
+### Non-Negotiable
 
-- **Name:** Plus Jakarta Sans
-- **Source:** Google Fonts (Free)
-- **Use for:** Headlines, hero text, CTAs
-- **Why:** Modern, trustworthy, excellent readability. Feels authoritative without aggression — aligns with "Protector/Guide" brand voice.
+1. **True optical small caps only.** CSS faux small caps (scaled-down capitals) are not acceptable. Use OpenType `smcp` feature. Every attorney who clerked in federal court submitted briefs in true small caps — they will notice.
 
-**Fallback:** DM Sans, Outfit, or Manrope
+2. **Hierarchy through typography, not color.** Remove all color from a document — the hierarchy must still be completely clear. Color (Burgundy) is for structural elements (rules) only.
 
-### Secondary Typeface
+3. **The Exhibit convention.** "EXHIBIT N:" in Adobe Caslon Pro small caps, 8pt, Warm Grey (#6E6862), left-aligned, above every chart/table/data point. Non-negotiable. This is what makes Second Chair's data output immediately recognizable.
 
-- **Name:** Inter
-- **Source:** Google Fonts (Free)
-- **Use for:** Body copy, descriptions, form labels, quiz funnel text
-- **Why:** Optimized for screens, highly legible at small sizes, professional but approachable.
+4. **Old-style figures** in body text (OpenType `onum`). They sit on the baseline like lowercase letters.
 
-**Fallback:** Source Sans 3, Open Sans
+5. **Column width:** 60–75 characters per line (Bringhurst optimum).
 
-### Type Hierarchy
+6. **Leading:** 140–150% of point size for body text. Tighter for display (110–120%).
 
-| Level | Font | Weight | Size (Desktop) | Size (Mobile) | Use Case |
-|-------|------|--------|----------------|---------------|----------|
-| **H1** | Plus Jakarta Sans | Bold (700) | 48px | 32px | Hero headlines, hook text |
-| **H2** | Plus Jakarta Sans | SemiBold (600) | 36px | 24px | Section headers |
-| **H3** | Plus Jakarta Sans | Medium (500) | 24px | 20px | Subsections, card titles |
-| **Body** | Inter | Regular (400) | 16px | 16px | Descriptions, copy blocks |
-| **Body Small** | Inter | Regular (400) | 14px | 14px | Supporting text |
-| **Caption** | Inter | Regular (400) | 12px | 12px | Labels, metadata |
-| **CTA** | Plus Jakarta Sans | Bold (700) | 16px | 16px | Buttons, links |
-| **Disclosure** | Inter | Regular (400) | **10px min** | **10px min** | Legal text |
+7. **Small caps tracking:** +25–35 units. Generous — small caps at tight tracking lose institutional quality.
+
+### OpenType Features Required
+
+| Feature | Code | Purpose |
+|---------|------|---------|
+| Small Caps | `smcp` | True optical small caps for H2, exhibit labels |
+| Old-Style Figures | `onum` | Numerals in body text |
+| Standard Ligatures | `liga` | fi, fl, etc. |
 
 ---
 
 ## Platform-Specific Typography
 
-### TikTok / Instagram Reels
+### Brand Materials (Documents, Decks, Website)
 
-| Element | Approach |
-|---------|----------|
-| **Text Tool** | Platform native ONLY |
-| **Subtitles** | Auto-captions or native text, NOT SRT/burn-in |
-| **Hook** | Large, high-contrast, upper screen |
-| **CTA** | "Link in bio" as native text sticker |
+Use the full Tiempos / Caslon / Söhne system as specified above.
 
-### Meta Feed (Facebook/Instagram)
+### Social Media Advertising (Platform-Native Modes)
 
-| Element | Approach |
-|---------|----------|
-| **Overlay Text** | Under 20% of image area |
-| **Font** | Plus Jakarta Sans Bold for headlines |
-| **Primary Text** | Max 125 characters |
-| **Text Contrast** | High (dark on light or light on dark) |
+For B2C advertising on Meta, platform-native typography may be more effective than brand typography. Two secondary modes are available:
 
-### Google Display
+**Native Mode (TikTok, Reels, Stories):**
+- Use platform's native text tools — DO NOT burn in professional subtitles
+- Native text reads as "content"; burnt-in text reads as "ad"
+- Hook text: Large, centered, high contrast, upper-third of screen
 
-| Element | Approach |
-|---------|----------|
-| **Font** | Plus Jakarta Sans (headlines), Inter (body) |
-| **Size** | Minimum 12px for any text |
-| **Style** | Simple, clean, readable at small sizes |
-| **CTA** | Clear button-style element, 14px+ |
+**Lo-Fi Mode (Screenshot ads, government form aesthetic):**
+- System fonts (SF Pro, Roboto) for screenshot mockups
+- Courier New / Courier Prime for government form aesthetic
+- Intentionally plain — the plainness IS the message
 
-### Native Advertising (Taboola/Outbrain)
+These modes are **secondary to the brand system** and used only where platform conventions require it.
 
-| Element | Approach |
-|---------|----------|
-| **Style** | Editorial/news typography |
-| **Headlines** | Sentence case, not ALL CAPS |
-| **Aesthetic** | Match publisher site typography |
-
----
-
-## Hook Typography (The First 3 Seconds)
-
-> **Research:** "The first 3 seconds are the only metric that matters. If the hook fails, the remaining 57 seconds are irrelevant."
-
-### Scroll-Stopping Text Treatment
-
-| Attribute | Specification |
-|-----------|---------------|
-| **Size** | 2-3x larger than body text |
-| **Weight** | Bold or ExtraBold |
-| **Contrast** | High (white on dark, or dark on light) |
-| **Placement** | Upper third of frame |
-| **Word Count** | 3-8 words maximum |
-| **Animation** | Pop-in, type-on, or bounce (native) |
-
-### High-Performing Hook Text Styles
-
-**1. The Warning Style**
-```
-Font: Plus Jakarta Sans ExtraBold
-Color: White on Red/Black background
-Case: CAPS for first word, then sentence case
-Example: "STOP! Don't sign anything yet."
-```
-
-**2. The Question Style**
-```
-Font: Plus Jakarta Sans Bold
-Color: White with black outline (TikTok native)
-Case: Sentence case with question mark
-Example: "Did insurance lowball your claim?"
-```
-
-**3. The Number Style**
-```
-Font: Plus Jakarta Sans ExtraBold
-Color: High contrast, number highlighted
-Case: Number + sentence case
-Example: "3 things adjusters won't tell you"
-```
-
----
-
-## CTA Typography
-
-### Button Text
-
-| Attribute | Specification |
-|-----------|---------------|
-| **Font** | Plus Jakarta Sans Bold |
-| **Size** | 16px minimum |
-| **Case** | Sentence case ("See if you qualify") |
-| **Color** | High contrast to background |
-
-### Proven CTA Copy (from Research)
-
-| CTA | Context |
-|-----|---------|
-| "See If You Qualify" | Quiz funnel entry |
-| "Get Your Free Case Review" | Landing page |
-| "Find Out What You're Owed" | Retargeting |
-| "Check Your Eligibility" | Mass tort |
-
----
-
-## Disclosure Typography (COMPLIANCE CRITICAL)
-
-### Requirements (Per Saul.md)
+### Disclosure Typography (COMPLIANCE)
 
 | Attribute | Minimum Requirement |
-|-----------|---------------------|
-| **Font Size** | 10px (8pt) minimum |
-| **Contrast** | 4.5:1 ratio minimum |
-| **Placement** | Visible, not hidden below fold |
-| **Style** | Regular weight, legible font |
-
-### Approved Disclosure Styling
-
-```
-Font: Inter Regular
-Size: 10px (desktop), 10px (mobile)
-Color: #4A4A4A on white (5.9:1 contrast)
-       OR #FFFFFF on #333333 (12.6:1 contrast)
-Line Height: 1.4
-```
-
-### What NOT to Do
-
-❌ **Banned Practices:**
-- Text smaller than 8pt
-- Gray text on light gray background
-- Disclosure hidden in image/video
-- Font weight lighter than 400
-- Condensed or decorative fonts for legal text
-
-> **Saul says:** "I've seen disclaimers in 6-point gray on light gray. That's not a disclaimer, that's a hide-and-seek champion. Minimum 8pt, decent contrast."
+|---|---|
+| Font | Söhne Regular or Adobe Caslon Pro Regular |
+| Size | 10px (8pt) minimum |
+| Contrast | 4.5:1 ratio minimum |
+| Placement | Visible, not hidden below fold |
+| Weight | Regular — never light |
 
 ---
 
-## Emotional Tone Through Typography
+## Document Header Structure
 
-### Research Insight: Protector, Not Aggressor
+```
+[RUNNING HEAD in Söhne ALL CAPS, 7.5pt, Warm Grey — above 0.5pt Burgundy rule]
 
-> "Move from attack language to protection language. The client is vulnerable — they want a guide, not a gladiator."
+[SECTION TITLE in Caslon small caps, 15pt, Charcoal]
 
-| OLD (Aggressive) | NEW (Protector) |
-|------------------|-----------------|
-| ALL CAPS EVERYWHERE | Strategic caps for emphasis only |
-| Heavy, harsh fonts | Confident but warm fonts |
-| Red/black dominance | Blue/trust-based palette |
-| Compressed, urgent | Breathable, confident |
+[HEADLINE in Tiempos Bold, 28–32pt, Charcoal]
+
+[Body paragraph in Caslon Regular, 10.5pt, Charcoal, 16pt leading]
+
+[Caption in Söhne ALL CAPS, 8pt, Warm Grey — below 0.5pt Burgundy rule]
+```
+
+This structure is legible in black-and-white. The only color: Burgundy rules (0.5pt) as structural dividers and Burgundy accent in data exhibits.
 
 ---
 
-## Implementation Checklist
-
-### Before Publishing Any Ad
-
-- [ ] **TikTok/Reels:** Using platform-native text tools (not burnt-in)
-- [ ] **Hook text:** Visible in first 3 seconds, high contrast
-- [ ] **CTA:** Clear, readable, action-oriented
-- [ ] **Disclosures:** 10px minimum, 4.5:1+ contrast ratio
-- [ ] **Mobile test:** All text readable on smallest target device
-- [ ] **Brand alignment:** Typography feels "Protector/Guide" not "Aggressive"
-
-### Font Loading (Web/Landing Pages)
-
-```html
-<!-- Google Fonts Implementation -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap" rel="stylesheet">
-```
+## CSS Implementation
 
 ```css
-/* CSS Variables */
 :root {
-  --font-headline: 'Plus Jakarta Sans', system-ui, sans-serif;
-  --font-body: 'Inter', system-ui, sans-serif;
-  --font-mono: 'Courier New', Courier, monospace;
+  /* Font Stacks */
+  --font-display: 'Tiempos Headline', 'Georgia', serif;
+  --font-classic: 'Adobe Caslon Pro', 'Hoefler Text', 'Georgia', serif;
+  --font-body: 'Adobe Caslon Pro', 'Hoefler Text', 'Georgia', serif;
+  --font-ui: 'Söhne', 'Helvetica Neue', 'Arial', sans-serif;
+  --font-mono: 'IBM Plex Mono', 'Courier New', monospace;
 }
 ```
 
+### Font Sourcing
+
+| Typeface | Source | Cost |
+|----------|--------|------|
+| Tiempos Headline | klim.co.nz | ~$200–400/weight (web+desktop) |
+| Adobe Caslon Pro | Adobe Fonts (Creative Cloud) | Included in CC subscription |
+| Söhne | klim.co.nz (same foundry as Tiempos) | Commercial license |
+| IBM Plex Mono | Google Fonts / IBM | Free |
+
 ---
 
-## Quick Reference Card
+## Quick Reference
 
 | Need | Use |
 |------|-----|
-| TikTok/Reels text | Platform native tools |
-| Screenshot ad | System fonts (SF Pro, Roboto) |
-| Government form style | Courier New |
-| Landing page headline | Plus Jakarta Sans Bold |
-| Landing page body | Inter Regular |
-| CTA button | Plus Jakarta Sans Bold 16px |
-| Legal disclosure | Inter Regular 10px, 4.5:1+ contrast |
+| Document/deck headline | Tiempos Headline Bold |
+| Section title (small caps) | Adobe Caslon Pro small caps |
+| Body text | Adobe Caslon Pro Regular |
+| Caption/label | Söhne Regular ALL CAPS |
+| Exhibit label | Caslon Pro small caps, 8pt, Warm Grey |
+| UI element | Söhne Regular |
+| Data/code | IBM Plex Mono |
+| Platform-native ad text | Platform tools (secondary mode) |
+| Disclosure | Söhne Regular or Caslon Pro Regular, 10px min, 4.5:1+ contrast |
 
 ---
 
 ## Related Files
 
-- `02_Visual/Color_Palette.md` — Color pairings for text
-- `03_Voice/Approved_Phrases.md` — Copy to pair with typography
-- `06_Ad_Specs/Meta_Formats.md` — Platform specifications
-- `07_Research/Strategic_Insights/Visual_Insights.md` — Source research
+- [`14_Visual_Identity/03_Typography_System.md`](../14_Visual_Identity/03_Typography_System.md) — Full locked specification with all three options
+- [`02_Visual/Color_Palette.md`](Color_Palette.md) — Color pairings for type
+- [`02_Visual/BRAND_DESIGN_SYSTEM.md`](BRAND_DESIGN_SYSTEM.md) — Complete visual system
+- [`03_Voice/Approved_Phrases.md`](../03_Voice/Approved_Phrases.md) — Copy to pair with typography

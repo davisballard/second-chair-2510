@@ -2397,7 +2397,6 @@
     .footer-grid {
       display: grid;
       grid-template-columns: 1.5fr 1fr 1fr;
-      border-bottom: 1px solid rgba(255,221,114,0.22);
     }
 
     .footer-col {
@@ -2466,11 +2465,12 @@
     .footer-contact-link:hover { color: rgba(255,221,114,0.90); }
 
     .footer-legal {
-      padding: 16px 32px;
+      padding: 16px var(--outer-margin);
       display: flex;
       justify-content: space-between;
       align-items: center;
       gap: 24px;
+      border-top: 1px solid rgba(255,221,114,0.22);
     }
     .footer-legal p {
       font-family: var(--font-mono);

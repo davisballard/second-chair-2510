@@ -20,7 +20,7 @@
 | Task | Status | Owner | Deliverable |
 |------|--------|-------|-------------|
 | Share complete brand docs with Alex | 📋 To Do | Davis | Full access to Second Chair project structure |
-| Walk through brand positioning & Creative Advantage | 📋 To Do | Davis | Alignment on positioning, unique mechanism |
+| Walk through brand positioning & locked strategy | 📋 To Do | Davis | Alignment on positioning (Brand Architecture, March 2026) |
 | Review product/tech stack decisions | 📋 To Do | Alex | Inventory of tools, platforms, infrastructure |
 | Define product roadmap priorities | 📋 To Do | Alex + Davis | Q1 product priorities aligned to launch |
 | Set up Alex's LinkedIn & professional presence | 📋 To Do | Davis | Bio, title, header aligned to Second Chair |
@@ -53,11 +53,11 @@
 | Task | Status | Owner | Deliverable |
 |------|--------|-------|-------------|
 | Finalize Second Chair brand identity | 📋 In Progress | Davis | Logo, colors, typography, design system |
-| Update secondchair.co website | 📋 To Do | Alex + Davis | Reflect new team, positioning, Creative Advantage |
+| Update secondchair.co website | 📋 To Do | Alex + Davis | Reflect locked strategy, honest advertising positioning |
 | Update LinkedIn profiles (all three) | 📋 To Do | Davis | Consistent Second Chair branding |
 | Create branded email signatures (all three) | 📋 To Do | Davis | Professional animated signatures |
-| Finalize Claim Justice Now consumer brand | 📋 To Do | Davis | Consumer-facing identity for claimjusticenow.com |
-| Build claimjusticenow.com landing page | 📋 To Do | Davis + Alex | Consumer lead capture page |
+| ~~Finalize Fair Case consumer brand~~ | ✅ Done | Davis | Consumer brand decided (Fair Case, March 2026) |
+| Build getafaircase.com landing page | 📋 To Do | Davis + Alex | Consumer lead capture page |
 | Create B2B sales deck / one-pager | 📋 To Do | Davis | For outreach and client meetings |
 
 ---
@@ -90,7 +90,7 @@
 | Build ad creative library for launch DMAs | 📋 To Do | Davis |
 | Set up Meta ad accounts for consumer campaigns | 📋 To Do | Alex |
 | Create template landing pages per DMA | 📋 To Do | Davis + Alex |
-| Develop quiz funnel for claimjusticenow.com | 📋 To Do | Davis |
+| Develop quiz funnel for getafaircase.com | 📋 To Do | Davis |
 
 ### Operations
 
@@ -111,11 +111,12 @@
 - **Fulfillment:** Generate own leads via ads (primary), buy from network (backup)
 - **Goal:** Full in-house lead generation for maximum margin
 
-### Unique Mechanism: Creative Advantage
-- Superior ad creative outperforms commodity lead vendors
-- Behavioral science-driven copy and visuals
-- Platform-native content (UGC, documentary, cinematic)
-- Over-qualification beats volume
+### SMP: "The leads PI attorneys buy should be as honestly won as the cases they take."
+- Honest advertising that earns the claimant's response, not manufactures it
+- Show the advertising before commitment — no other vendor does this
+- CPSC as primary metric, not CPL
+- Cinematic, intentionally produced creative (not UGC-style)
+- See `13_Brand_Strategy/03_Brand_Architecture/Brand_Architecture.md` for full locked strategy
 
 ### Verticals
 1. **Personal Injury** (primary focus — MVA)

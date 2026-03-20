@@ -10,7 +10,7 @@ Three equal co-founders. Every dollar of profit splits evenly. No hierarchy — 
 
 ---
 
-### Davis Ballard — Co-Founder & Head of Marketing & Creative
+### Davis Ballard — Co-Founder & Creative & Strategy Systems
 
 **What He Owns:**
 
@@ -19,7 +19,7 @@ Three equal co-founders. Every dollar of profit splits evenly. No hierarchy — 
 - Ad creative development and production (Meta, Google, TikTok, Snapchat, LinkedIn)
 - Email, website copy, and content strategy
 - Campaign concepting, scripts, visual direction, art direction
-- Creative direction for Claim Justice Now consumer brand
+- Creative direction for Fair Case consumer brand
 - Behavioral science integration into creative and messaging
 - Technical sales support for large accounts (closing, not cold calling)
 
@@ -38,7 +38,7 @@ Three equal co-founders. Every dollar of profit splits evenly. No hierarchy — 
 
 ---
 
-### Alex DuBelko — Co-Founder & Head of Product & Innovation
+### Alex DuBelko — Co-Founder & Product & Compliance Systems
 
 **What He Owns:**
 
@@ -68,7 +68,7 @@ Three equal co-founders. Every dollar of profit splits evenly. No hierarchy — 
 
 ---
 
-### Sasha Zinshtein — Co-Founder & Head of Growth
+### Sasha Zinshtein — Co-Founder & Performance Media
 
 **What He Owns:**
 
@@ -106,7 +106,7 @@ Three equal co-founders. Every dollar of profit splits evenly. No hierarchy — 
 Applied to all net profit after direct costs (ad spend, tool subscriptions, platform fees).
 
 ### How It Works
-1. Revenue comes in from attorney partners purchasing leads at $400/lead
+1. Revenue comes in from attorney partners purchasing leads at cost-per-signed-case (CPSC) pricing
 2. Subtract direct costs (ad spend, platform fees, tool subscriptions)
 3. Net profit splits 33/33/33
 
@@ -151,4 +151,4 @@ Revenue flows back → 33/33/33
 
 ---
 
-*Last updated: February 20, 2026*
+*Last updated: March 20, 2026*

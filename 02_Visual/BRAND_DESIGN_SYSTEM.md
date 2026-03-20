@@ -1,328 +1,216 @@
 # Second Chair Brand Design System
 
-**Last Updated:** February 12, 2026  
-**Source:** Extracted from secondchair.co  
+**Last Updated:** March 2026
+**Locked visual source:** `14_Visual_Identity/` (Color System, Typography System, Logo Directions)
+**Brand strategy source:** `13_Brand_Strategy/03_Brand_Architecture/Brand_Architecture.md`
 **Scope:** B2B brand (parent brand) visual standards
 
 ---
 
 ## Overview
 
-Second Chair's visual identity communicates **elite, selective, and professional** positioning. The design system emphasizes clarity, confidence, and scarcity through minimal aesthetics, bold typography, and restrained color usage.
+Second Chair's visual identity communicates institutional authority, honesty, and craft. The design system is derived from the prestige legal world — not from digital trends, competitive gap analysis, or tech startup conventions.
 
 **Design Philosophy:**
-- Confidence through simplicity
-- Premium positioning through restraint
-- Authority through bold typography
-- Exclusivity through negative space
+- **Cinematic. Not naturalistic.** Intentionally produced. The craft is visible. The care is visible.
+- Authority through typography, not color — hierarchy must be fully legible in black-and-white
+- Cream replaces white as the base surface — never use pure white (#FFFFFF)
+- Restraint as a distinctive asset — what we don't show matters as much as what we do
+
+**Visual Direction (from Creative Brief):**
+The claimant's world — a kitchen, a car, an evening — elevated to the emotional register of the decision being made. This is not found footage. It is not AI-generated content that tries to look like found footage. It is cinematic work that looks like someone who cared made it.
 
 ---
 
 ## Color Palette
 
-### Primary Colors
+> **Full specification:** `14_Visual_Identity/02_Color_System.md`
 
-| Color | Hex/RGB | Usage |
-|-------|---------|-------|
-| **Deep Black** | `rgb(10, 10, 10)` / `#0A0A0A` | Primary text, headlines, body copy |
-| **Off-White / Light Gray** | `rgb(237, 237, 237)` / `#EDEDED` | Backgrounds, light surfaces |
-| **Brand Green** | `rgb(16, 183, 127)` / `#10B77F` | Accent color, CTAs, highlights |
+### Core Brand Colors
 
-### Secondary Colors
+| Color | Hex | CSS Variable | Usage |
+|-------|-----|-------------|-------|
+| **Cream** | `#FFF7F0` | `--sc-cream` | Primary background — all documents, web, letterhead |
+| **Burgundy / Oxblood** | `#490A0A` | `--sc-burgundy` | Primary accent — 0.5pt rules, chart accent, foil |
+| **Warm Charcoal** | `#1C1917` | `--sc-charcoal` | Primary text — all body, headlines, captions |
+| **Warm Grey** | `#6E6862` | `--sc-grey` | Supporting text — captions, footnotes, exhibit labels |
+| **Oxford Navy** | `#0F1E3A` | `--sc-navy` | Foreground elements — not a field/background color |
+| **Forest Green** | `#163A21` | `--sc-green` | Secondary variant — state-market material, print variants |
+| **Old Gold** | `#E8C165` | `--sc-gold` | **Physical materials ONLY** — foil, embossing, engraving. Excluded from digital. |
 
-| Color | Hex/RGB | Usage |
-|-------|---------|-------|
-| **Medium Gray** | `rgb(102, 102, 102)` / `#666666` | Secondary text, metadata, subtitles |
-| **Transparent Gray** | `rgba(102, 102, 102, 0.3)` | Borders, dividers, subtle elements |
+### Color Usage Rules
 
-### Color Usage Guidelines
+- **Cream is the field.** All Second Chair content lives on cream. Never use pure white (#FFFFFF) as a background.
+- **Burgundy is an accent, not a field.** Applied as 0.5pt horizontal rules, chart accents, foil. Never as a large background fill.
+- **Warm Charcoal replaces pure black.** Never use #000000 — it reads as harsh and digital against cream.
+- **Gold is physical only.** Contrast ratio on cream is ~1.6:1 (near-invisible on screen). Use only for foil stamping, embossing, letterpress.
+- **No gradients of any kind.** Transitions are opacity and position, not color blending.
 
-**Do:**
-- Use deep black for all primary content and headlines
-- Reserve brand green for strategic emphasis and CTAs
-- Use generous white/light gray space to create premium feel
-- Keep color palette minimal and restrained
+### WCAG Contrast
 
-**Don't:**
-- Use multiple accent colors
-- Add bright or saturated colors
-- Use color for decoration—every color has purpose
-- Overwhelm with green—it's an accent, not a primary
+| Pair | Ratio | Rating |
+|------|-------|--------|
+| Charcoal on Cream | ~10.1:1 | AAA |
+| Navy on Cream | ~9.8:1 | AAA |
+| Burgundy on Cream | ~7.4:1 | AA (all text) |
+| Grey on Cream | ~2.8:1 | Captions/labels at 9pt+ only |
 
-### Contrast Requirements
+### The 99%/1% Mandate as Visual Constraint
 
-- All text must meet WCAG AA standards minimum
-- Black on off-white = excellent contrast
-- Green accent used sparingly for visibility
-- Gray text only for secondary information
+Under Meta Special Ad Categories, creative is the only targeting mechanism. Visual design must produce ads specific enough that the 1% self-select in while the 99% self-select out. Generic stock imagery fails this test.
 
 ---
 
 ## Typography
 
-### Font Family
+> **Full specification:** `14_Visual_Identity/03_Typography_System.md`
+> **Selected option:** Option C — "The Law Review"
 
-**Primary Typeface:** Inter
+### Font Stack
 
-```css
-font-family: Inter, system-ui, sans-serif;
+| Role | Typeface | Source | CSS Variable |
+|------|----------|--------|-------------|
+| **Display / Headlines** | Tiempos Headline | Klim Type Foundry (klim.co.nz) | `--font-display` |
+| **Body** | Adobe Caslon Pro (fallback for Hoefler Text) | Adobe Fonts | `--font-classic`, `--font-body` |
+| **UI / Metadata** | Söhne | Klim Type Foundry (klim.co.nz) | `--font-ui` |
+| **Monospace** | IBM Plex Mono | Google Fonts / IBM | `--font-mono` |
+
+### Type Scale (Option C)
+
+| Role | Typeface | Weight | Size | Leading | Tracking | Case |
+|------|----------|--------|------|---------|----------|------|
+| Display (cover, hero) | Tiempos Headline | Bold | 48–72pt | 110% | 0 | Title case |
+| H1 (section title) | Tiempos Headline | Bold | 24–32pt | 120% | 0 | Title case |
+| H2 (subsection) | Adobe Caslon Pro | Regular, small caps | 14–16pt | 130% | +25 | ALL SMALL CAPS |
+| H3 (sub-subsection) | Adobe Caslon Pro | Italic | 11–12pt | 140% | 0 | Title case |
+| Body | Adobe Caslon Pro | Regular | 10–11pt | 150% | 0 | Sentence case |
+| Caption | Söhne | Regular | 8–9pt | 130% | +5 | ALL CAPS |
+| Exhibit label | Adobe Caslon Pro | Regular, small caps | 7–8pt | 120% | +15 | "EXHIBIT N:" |
+| Running head/folio | Söhne | Regular | 7–8pt | 120% | +5 | ALL CAPS |
+| UI label | Söhne | Regular | 11–13pt | 130% | +5 | Title case |
+
+### Typography Rules
+
+- **True optical small caps only.** CSS faux small caps (scaled-down capitals) are not acceptable. Use OpenType `smcp` feature.
+- **Hierarchy through typography, not color.** System must be legible in B&W. Color (Burgundy) for structural elements only.
+- **The Exhibit convention:** "EXHIBIT N:" in Adobe Caslon Pro small caps, 8pt, Warm Grey — on every chart, table, data point. Non-negotiable.
+- **Old-style figures** in body text (OpenType `onum`).
+- **Column width:** 60–75 characters per line (Bringhurst optimum).
+
+---
+
+## Layout Patterns
+
+### Document Header Structure (All Contexts)
+
+```
+[RUNNING HEAD in Söhne ALL CAPS, 7.5pt, Warm Grey — above 0.5pt Burgundy rule]
+
+[SECTION TITLE in Caslon small caps, 15pt, Charcoal]
+
+[HEADLINE in Tiempos Bold, 28–32pt, Charcoal]
+
+[Body paragraph in Caslon Regular, 10.5pt, Charcoal, 16pt leading]
+
+[Caption in Söhne ALL CAPS, 8pt, Warm Grey — below 0.5pt Burgundy rule]
 ```
 
-**Why Inter:**
-- Clean, modern, professional
-- Excellent readability at all sizes
-- Strong weight range (100-900)
-- Open-source and widely available
+### Grid & Spacing
+- Generous margins — minimum 1.5" print, minimum 40px digital
+- Clear vertical rhythm with consistent leading
+- Content-first, decoration-last
+- Scale differential: Display 2–3x larger than body (substantial, not subtle)
 
-### Type Scale & Hierarchy
-
-#### Display / Hero (H1)
-- **Font:** Inter
-- **Size:** 102.4px (6.4rem)
-- **Weight:** 800 (Extra Bold)
-- **Line Height:** 94.208px (0.92 of font size)
-- **Usage:** Homepage hero, major page headlines
-- **Style Notes:** Tight line-height creates impact and density
-
-#### Section Headlines (H2)
-- **Font:** Inter
-- **Size:** 48px (3rem)
-- **Weight:** 800 (Extra Bold)
-- **Line Height:** 48px (1.0)
-- **Usage:** Section dividers, major statements
-- **Style Notes:** Bold, declarative, confident
-
-#### Subsection Titles (H3)
-- **Font:** Inter
-- **Size:** 20px (1.25rem)
-- **Weight:** 600 (Semi-Bold)
-- **Line Height:** 28px (1.4)
-- **Usage:** Cards, subsections, feature titles
-- **Style Notes:** More readable, less aggressive than H1/H2
-
-#### Body Copy
-- **Font:** Inter
-- **Size:** 16-18px (estimated from rendering)
-- **Weight:** 400-500 (Normal to Medium)
-- **Line Height:** 1.5-1.6
-- **Usage:** Paragraphs, descriptions, explanations
-
-#### Small Text / Metadata
-- **Font:** Inter
-- **Size:** 14px (0.875rem)
-- **Weight:** 400 (Normal)
-- **Color:** Medium gray (#666666)
-- **Usage:** Captions, labels, footer text
-
-### Typography Usage Guidelines
-
-**Do:**
-- Use heavy weights (800) for H1 and H2 to create confidence
-- Keep line-height tight on large display type for impact
-- Use generous line-height (1.5+) on body copy for readability
-- Trust Inter's built-in character and spacing
-
-**Don't:**
-- Mix multiple typefaces
-- Use decorative or script fonts
-- Set body copy in bold weights
-- Use all-caps for long passages (short labels OK)
+### Structural Elements
+- **Burgundy rules (0.5pt)** as primary structural dividers — same weight across all applications
+- **No decorative elements** that don't derive from a physical object in the prestige legal world
+- **Alignment:** Left-aligned text for readability. Centered for impact statements only.
 
 ---
 
-## Visual Style
+## UI Patterns
 
-### Photography & Imagery Direction
+### Buttons / CTAs
+- **Primary:** Warm Charcoal background, Cream text. Hover: Navy background.
+- No heavy shadows or gradients
+- Action-oriented text, ample padding
 
-Based on website analysis:
-
-**Style:** Minimal or absent
-- Website relies primarily on typography and negative space
-- No heavy use of photography or illustration
-- Clean, text-focused layouts
-
-**When imagery is used:**
-- Professional, not stock-photo generic
-- Documentary/authentic feel preferred over staged
-- Support the message, don't distract from it
-
-### Layout Patterns
-
-**Grid & Spacing:**
-- Generous white space between sections
-- Clear vertical rhythm
-- Content-first, decoration-last approach
-- Breathing room emphasizes premium positioning
-
-**Content Structure:**
-- Bold headlines lead each section
-- Short, declarative paragraphs
-- Bulleted or numbered lists for clarity
-- Clear visual hierarchy guides the eye
-
-**Alignment:**
-- Left-aligned text for readability
-- Centered layouts for impact statements
-- Consistent margins and padding
-
-### UI Patterns
-
-**Buttons / CTAs:**
-- Primary action: Brand green background
-- Clean, minimal style (no heavy shadows or gradients)
-- Clear, action-oriented text
-- Ample padding for touch targets
-
-**Cards / Containers:**
-- Subtle borders or backgrounds
-- Not heavy drop shadows
+### Cards / Containers
+- Subtle borders (Grey) or cream surface variations
+- No heavy drop shadows
 - Information hierarchy within cards
-- Consistent spacing
 
-**Navigation:**
+### Navigation
 - Clean, minimal header
-- Clear link hierarchy
 - Professional, restrained
-
----
-
-## Logo Usage
-
-**Current Status:** Logo not prominently featured on website scrape
-**Implication:** Brand relies on typography and voice, not mark-driven identity
-
-**For future logo applications:**
-- Should complement minimal, professional aesthetic
-- No busy or decorative marks
-- Clean, confident, modern
-- Works in black/white and with brand green
-
----
-
-## Brand Applications
-
-### Website
-- Clean, minimal layouts
-- Typography-first design
-- Strategic use of white space
-- Bold headlines with restrained body copy
-- Green used sparingly for CTAs
-
-### B2B Collateral
-- Professional, not flashy
-- Trust through clarity
-- Authority through simplicity
-- Premium feel through restraint
-
-### Documents & Proposals
-- Inter for all typography
-- Black and green color scheme
-- Clean formatting, generous margins
-- Hierarchy through size and weight, not color
 
 ---
 
 ## Competitive Context
 
 **vs. Generic Lead Gen Companies:**
-- They use: Busy designs, stock photos, aggressive colors, hype-driven layouts
-- We use: Minimal design, bold typography, restrained color, confidence-driven layouts
+- Category convention: Navy backgrounds, grey, white, red, aggressive SaaS colors
+- Second Chair: Cream backgrounds, Burgundy accents, editorial typography
+- Burgundy is permanently unclaimed territory in PI lead gen — zero competitive interference
 
 **Why This Works:**
-- Signals premium positioning
-- Stands out from crowded, noisy category
-- Builds trust through professionalism
-- Attracts "elite" firms we're targeting
+- Signals institutional authority, not startup energy
+- Stands out from crowded, noisy category through restraint
+- Builds trust through craft that is visible and specific
+- The attorney who sees this doesn't feel like they're being sold to
 
 ---
 
-## Design Principles
-
-1. **Confidence Through Simplicity**
-   - We don't need decoration to prove our value
-   - Clean design signals we're the real deal
-
-2. **Authority Through Typography**
-   - Bold, heavy weights establish presence
-   - Clear hierarchy guides understanding
-   - Text-first design emphasizes substance
-
-3. **Exclusivity Through Restraint**
-   - Limited color palette = selective brand
-   - Generous white space = premium positioning
-   - What we don't show is as important as what we do
-
-4. **Clarity Above All**
-   - No confusion about what we do
-   - No gimmicks or tricks
-   - Straightforward, professional, trustworthy
-
----
-
-## Technical Specifications
-
-### CSS Variables (Suggested)
+## CSS Design Tokens
 
 ```css
 :root {
-  /* Colors */
-  --color-black: #0A0A0A;
-  --color-gray-light: #EDEDED;
-  --color-gray-medium: #666666;
-  --color-gray-transparent: rgba(102, 102, 102, 0.3);
-  --color-green: #10B77F;
-  
+  /* Brand Colors */
+  --sc-cream: #FFF7F0;
+  --sc-burgundy: #490A0A;
+  --sc-charcoal: #1C1917;
+  --sc-grey: #6E6862;
+  --sc-navy: #0F1E3A;
+  --sc-green: #163A21;
+  --sc-gold: #E8C165;
+
   /* Typography */
-  --font-primary: Inter, system-ui, sans-serif;
-  --font-weight-normal: 400;
-  --font-weight-medium: 500;
-  --font-weight-semibold: 600;
-  --font-weight-extrabold: 800;
-  
-  /* Type Scale */
-  --text-display: 102.4px;
-  --text-h2: 48px;
-  --text-h3: 20px;
-  --text-body: 16px;
-  --text-small: 14px;
+  --font-display: 'Tiempos Headline', 'Georgia', serif;
+  --font-classic: 'Adobe Caslon Pro', 'Hoefler Text', 'Georgia', serif;
+  --font-body: 'Adobe Caslon Pro', 'Hoefler Text', 'Georgia', serif;
+  --font-ui: 'Söhne', 'Helvetica Neue', 'Arial', sans-serif;
+  --font-mono: 'IBM Plex Mono', 'Courier New', monospace;
+
+  /* Semantic Surfaces */
+  --sc-surface-primary: var(--sc-cream);
+  --sc-text-primary: var(--sc-charcoal);
+  --sc-text-secondary: var(--sc-grey);
+  --sc-border-brand: var(--sc-burgundy);
+  --sc-accent-primary: var(--sc-burgundy);
+
+  /* Button */
+  --sc-button-bg: var(--sc-charcoal);
+  --sc-button-text: var(--sc-cream);
+  --sc-button-bg-hover: var(--sc-navy);
 }
-```
-
-### Web Fonts
-
-```html
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800&display=swap" rel="stylesheet">
 ```
 
 ---
 
 ## Accessibility
 
-- All text meets WCAG AA contrast requirements
-- Font sizes are readable at standard viewing distances
-- Typography hierarchy supports screen readers
+- All text meets WCAG AA contrast requirements (AAA for primary text on cream)
+- Font sizes readable at standard viewing distances
+- Hierarchy supports screen readers
 - Color is never the only indicator of meaning
-- Interactive elements have sufficient size and spacing
-
----
-
-## Notes for Designers
-
-**When creating new assets:**
-1. Start with typography—let bold headlines do the work
-2. Use white space generously—it signals premium
-3. Limit color—black, gray, green only
-4. Trust the system—don't add decoration
-5. Ask: "Does this look like it's for elite firms?" If no, simplify further
-
-**The brand doesn't shout. It states.**
+- Warm Grey used only for captions/labels — never for body text (insufficient contrast)
 
 ---
 
 ## Related Files
 
-- [`BRAND_POSITIONING_CORE.md`](../01_Identity/BRAND_POSITIONING_CORE.md) — Core brand positioning
-- [`BRAND_MASTER.md`](../01_Identity/BRAND_MASTER.md) — Brand hub document
-- [`Website_Scrape_Raw_2026-02-12.md`](../07_Research/Strategic_Analysis/Website_Scrape_Raw_2026-02-12.md) — Raw scrape data
+- [`14_Visual_Identity/02_Color_System.md`](../14_Visual_Identity/02_Color_System.md) — Full color specification (locked)
+- [`14_Visual_Identity/03_Typography_System.md`](../14_Visual_Identity/03_Typography_System.md) — Full typography system (locked)
+- [`14_Visual_Identity/01_Logo_Directions.md`](../14_Visual_Identity/01_Logo_Directions.md) — Logo direction options
+- [`13_Brand_Strategy/03_Brand_Architecture/Brand_Architecture.md`](../13_Brand_Strategy/03_Brand_Architecture/Brand_Architecture.md) — Brand architecture (locked)
+- [`BRAND_POSITIONING_CORE.md`](../01_Identity/BRAND_POSITIONING_CORE.md) — Full positioning

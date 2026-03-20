@@ -4,8 +4,10 @@
 
 ## Role / Title
 
-**Co-Founder & Head of Product & Innovation**  
+**Co-Founder — Product & Compliance Systems**
 Second Chair
+
+**Headline credential:** Built TradeStation's mobile trading platform: 1M users, 99.96% crash-free, 100% FINRA/SEC compliant.
 
 ---
 
@@ -217,50 +219,29 @@ Photography business.
 - A/B testing and conversion optimization framework
 - API integrations with legal intake software and partner systems
 
-### Suggested Expanded Contributions
+### Locked Role at Second Chair (March 2026)
 
-Based on Alex's full background, here are high-impact areas he can own or co-own at Second Chair:
+Alex's role at Second Chair is framed as **Product & Compliance Systems** — the compliance-grade infrastructure that ensures every lead is generated honestly, tracked completely, and delivered with full transparency.
 
-**From TradeStation (0-1 Product Builds):**
-- Mobile-first funnel optimization — apply mobile app build discipline to consumer intake flows
-- Growth & activation design — onboarding journeys that slash time-to-contact and boost lead-to-signed-case conversion
-- Platform reliability engineering — 99.96% uptime standards applied to lead capture infrastructure
+**Why "Compliance Systems" is in the title:**
+The compliance architecture (TrustedForm full stack, fail-closed DNC screening, no shared leads) is not an afterthought — it is architectural. Alex's FINRA/SEC-grade product engineering at TradeStation is the direct credential that makes this possible. The attorney evaluating Second Chair needs to know that the person building the infrastructure has built regulated systems before.
 
-**From Compass (Analytics Dashboard + APIs):**
-- Case value estimator tool — custom calculator for potential claimants showing estimated case value ranges (builds trust, increases intent)
-- Lead quality analytics dashboard — real-time view for attorney partners showing lead quality metrics, conversion rates, case mix
-- DMA performance dashboards — market-by-market analytics for internal strategy
-
-**From Alfred Realty (MarTech + Lead Scoring):**
-- Custom lead scoring and routing system — intent signals, behavioral scoring, qualification tiers
-- Lifecycle marketing automation — drip sequences, re-engagement flows, nurture campaigns (partnering with Davis on creative)
-- Speed-to-lead optimization — automated routing to reduce contact time
-
-**From Breakwater (Financial Modeling):**
-- ROI calculators for attorney prospects — show exactly what they'll earn per dollar spent with Second Chair
-- Financial modeling for business planning — scenario analysis, unit economics, growth projections
-- Investor-ready financial packages (if needed for future fundraising)
-
-**From AI Agent Building (Claude Code):**
-- AI-powered internal tools — automated lead qualification, content generation assists, data enrichment
-- AI-assisted intake optimization — smart form logic that adapts questions based on responses
-- Rapid prototyping — build and ship MVPs fast using AI-assisted development
-
-**From CXL + Reforge (Growth & Conversion):**
-- Full conversion optimization program — systematic A/B testing across all touchpoints
-- Digital psychology application — persuasion architecture in funnel design
-- Product-led growth mechanics — viral loops, referral systems, partner activation
+**Key credential chain:**
+- TradeStation: 1M users, 99.96% crash-free, 100% FINRA/SEC compliant
+- Compass: Product analytics, real estate data infrastructure
+- Breakwater Management: $550M+ PE financial modeling, due diligence
+- 13+ years product across fintech, real estate, media, AI
 
 ---
 
 ## How Alex Complements the Team
 
-| Capability | Davis (Marketing & Creative) | Alex (Product & Innovation) | Sasha (Growth) |
+| Capability | Davis (Creative & Strategy Systems) | Alex (Product & Compliance Systems) | Sasha (Performance Media) |
 |---|---|---|---|
-| **Strategy** | Brand positioning, messaging, creative strategy | Product strategy, roadmap, technical architecture | Sales strategy, market expansion |
-| **Execution** | Ad creative, copy, content, email | Website, funnels, tools, dashboards, CRM build | Media buying, outreach, client management |
+| **Strategy** | Brand architecture, messaging, creative strategy | Product strategy, roadmap, compliance architecture | Media strategy, sales approach, market expansion |
+| **Execution** | Ad creative, copy, content | Website, funnels, tools, dashboards, CRM build | Media buying, outreach, client management |
 | **Optimization** | Creative testing, message optimization | Conversion optimization, A/B testing, analytics | Campaign optimization, budget allocation |
-| **Data** | Creative performance insights | Infrastructure, dashboards, lead scoring | Pipeline reporting, revenue tracking |
+| **Data** | Creative performance insights | Infrastructure, dashboards, lead scoring, CPSC reporting | Pipeline reporting, revenue tracking |
 
 **The Flywheel:** Davis creates the ads and content that drive demand → Alex builds the funnels and tools that capture and qualify that demand → Sasha buys the media that distributes the creative and closes the attorney partnerships that monetize the leads.
 
@@ -274,4 +255,5 @@ Based on Alex's full background, here are high-impact areas he can own or co-own
 
 ---
 
-*Last updated: February 20, 2026*
+*Last updated: March 2026*
+*Website framing source: `18_Website/index.html` (public presentation)*

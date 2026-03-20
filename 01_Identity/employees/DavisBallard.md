@@ -4,21 +4,29 @@
 
 ## Role / Title
 
-**Co-Founder & Head of Marketing & Creative**  
+**Co-Founder — Creative & Strategy Systems**
 Second Chair
 
 ---
 
 ## Co-Founder Role
 
+**Headline credential:** 18 years building advertising for the world's most recognized brands.
+**Badge:** Creative & Strategy Systems
+
 **Equal co-founder** with Alex DuBelko and Sasha Zinshtein. 33/33/33 profit split.
 
 **Core Responsibilities:**
-- Brand positioning, strategy, and messaging architecture
-- Creative direction and ad production (Meta, Google, TikTok, Snapchat, LinkedIn)
-- Email, website copy, and content strategy
+- Brand architecture, strategy, and messaging (locked March 2026 via Julian Cole-chaired brand strategy process)
+- Creative direction and ad production — cinematic, intentionally produced B2C creative (Meta primary)
+- B2B content: website, email, LinkedIn, thought leadership
 - Campaign concepting, scripts, and visual direction
 - Technical sales support for large accounts (closing, not cold calling)
+
+**Key credential context:**
+- Partnered with 55-time Cannes Lion Winner Julian Cole on 4 Fortune 500 strategy projects (Disney, Samsung, and others)
+- Built and co-launched Strategy Finishing School with Julian Cole
+- First employee at Vacation — launched brand to 14 beauty awards in first year, 300+ PR mentions, 27M earned media impressions
 
 **NOT Responsible For:**
 - Cold calling or sales outreach (Sasha's domain)
@@ -48,8 +56,8 @@ At Second Chair, Davis serves as the complete strategic and creative department�
 Second Chair is geo-exclusive lead generation for personal injury law firms (one firm per DMA). Equal co-founder with Alex DuBelko and Sasha Zinshtein.
 
 **What I Own:**
-• **Brand Positioning & Strategy** — Brand positioning (Claim Justice Now), consumer research (4 C's framework), messaging architecture, competitive positioning
-• **Ad Creative Development & Production** — Ad creative, scripts, concepts across Meta, Google, TikTok, Snapchat, LinkedIn
+• **Brand Positioning & Strategy** — Brand architecture, SMP, consumer research, messaging architecture (B2B + B2C via Fair Case), competitive positioning
+• **Ad Creative Development & Production** — Ad creative, scripts, concepts across Meta (95–100% B2C spend), LinkedIn (B2B)
 • **Content & Copy** — Email, website copy, content strategy, behavioral copy triggers
 • **Creative Direction** — Campaign concepting, visual direction, art direction for all marketing materials
 • **Positioning & Messaging** — Evidence-based positioning grounded in marketing science, behavioral psychology, and consumer insights
@@ -388,4 +396,5 @@ davisballard@gmail.com
 
 ---
 
-*Last updated: February 20, 2026*
+*Last updated: March 2026*
+*Website framing source: `18_Website/index.html` (public presentation)*

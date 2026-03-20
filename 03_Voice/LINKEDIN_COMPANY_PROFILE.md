@@ -1,61 +1,60 @@
 # LinkedIn Company Profile Copy: Second Chair
 
-**Author:** Ed McCabe (Senior Copywriter)  
-**Last Updated:** February 20, 2026  
-**Status:** Approved — reflects Creative Advantage positioning
+**Last Updated:** March 2026
+**Status:** Aligned to Brand Architecture (Session 3)
+**Industry Classification:** Advertising Services
 
 ---
 
 ## About Section
 
-*(2,600 character limit. Copy below is written to land in ~1,800–2,000 characters to allow breathing room.)*
+*(2,600 character limit. Copy below is ~1,800 characters.)*
 
 ---
 
-Most legal lead gen looks the same because it is the same. Same stock creative. Same generic funnels. Same race to the bottom on cost per lead. The attorneys we work with are done settling for that.
+Every PI lead gen vendor in the category generates leads from advertising that manipulates the claimant's vulnerability to produce volume. The attorney who receives those leads spends their first five minutes on every intake call managing expectations the advertising created. Second Chair exists because that's not the only way to do this.
 
-Second Chair is exclusive legal lead generation for PI law firms — built on a simple premise: your leads are only as good as the creative that attracted them. We call it the Creative Advantage. Better ads attract higher-intent claimants. Better funnels screen out the noise before intake ever gets involved. Better strategy means the leads that reach your phone are worth your time — across the full case spectrum, from soft tissue that keeps the lights on to catastrophic cases that change a firm's trajectory.
+We build advertising that honestly persuades claimants — producing leads who arrive with accurate expectations and the readiness to engage. The ethical choice and the commercial choice are the same: honestly won leads convert at a higher rate because the claimant came for the right reasons.
 
-What does that look like in practice?
+What that looks like in practice: you see the advertising we run before you commit to anything. We built it to be worth showing. TrustedForm certification on every lead. Fail-closed compliance — leads that fail screening don't get delivered. Cost-per-signed-case reported as the primary metric on every account by default, not cost-per-lead.
 
-Creative strategy built by people who understand both performance marketing and the PI buyer journey. Campaigns that don't just generate volume — they generate the right volume. Ad creative, funnel design, and qualification systems that work together so your intake team spends time on real conversations, not dead leads.
+The creative, the compliance infrastructure, and the media execution are run by the same founding team. There's no vendor handoff — no layer where quality collapses.
 
-What it means for a partner firm: soft tissue volume you can count on, intentional targeting for the high-value cases that build the practice, and a creative standard that compounds over time — because better creative doesn't just perform once, it keeps performing.
+Month-to-month. No contracts. One attorney per market. No shared leads.
 
-One firm per market. No exceptions.
+We report on cost-per-signed-case because that's the number that matters to a practice. If you don't know yours, we'll help you figure it out before we talk about anything else.
 
-**Who we work with:** Personal injury firms — MVA, rideshare, commercial trucking, TBI, wrongful death.
+**Practice areas:** Personal injury — MVA, rideshare, commercial trucking, catastrophic injury, wrongful death.
 
 ---
 
 ## Leadership
 
-- **Davis Ballard** — Co-Founder, Head of Marketing & Creative
-- **Alex DuBelko** — Co-Founder, Head of Product & Innovation
-- **Sasha Zinshtein** — Co-Founder, Head of Growth
+- **Davis Ballard** — Co-Founder, Creative & Strategy Systems
+- **Alex DuBelko** — Co-Founder, Product & Compliance Systems
+- **Sasha Zinshtein** — Co-Founder, Performance Media
 
 ---
 
 ## Specialties (LinkedIn Company Page)
 
-*Listed in order of priority for the LinkedIn algorithm and B2B buyer relevance.*
+*Listed in order of priority for LinkedIn algorithm and B2B buyer relevance.*
 
-1. Legal Lead Generation
-2. Personal Injury Leads
+1. Personal Injury Lead Generation
+2. Legal Advertising
 3. Motor Vehicle Accident Leads
-4. Exclusive Legal Marketing
+4. Cost-Per-Signed-Case Reporting
 5. PI Firm Growth
-6. Legal Creative Strategy
+6. Legal Compliance Infrastructure
 7. Rideshare Accident Leads
 8. Trucking Accident Leads
 9. Lead Qualification
-10. Geo-Exclusive Marketing
-11. Attorney Marketing
+10. Attorney Marketing
+11. Performance Media
 12. Legal Intake Optimization
 13. B2B Legal Services
-14. Performance Creative
-15. Demand Generation
-16. PI Ad Creative
+14. Demand Generation
+15. Honest Advertising
 
 ---
 
@@ -63,18 +62,20 @@ One firm per market. No exceptions.
 
 *(For use in bio, pinned posts, ad creative. Choose one.)*
 
-- "The Creative Advantage for Elite PI Firms."
-- "Better Creative. Better Cases."
-- "We don't send leads. We send cases."
-- "One firm per market. No exceptions."
+- "Advertising you can evaluate before you commit."
+- "Honestly won leads for PI attorneys."
+- "One attorney per market. No shared leads."
+- "The leads you buy should be as honestly won as the cases you take."
 
 ---
 
 ## Notes for Execution
 
-- "The Creative Advantage" is always capitalized — it's a proper positioning phrase, not a generic descriptor
-- "Better Creative. Better Cases." is the shorthand — use when space is limited
-- The About copy positions creative quality as the differentiator across the full case spectrum, not just high-value cases
-- "One firm per market" is a standalone line. The period and line break are intentional — Ed's rhythm.
-- Do not add buzzwords like "game-changing," "revolutionary," or "cutting-edge"
-- Three co-founders: Davis Ballard (Marketing & Creative), Alex DuBelko (Product & Innovation), Sasha Zinshtein (Growth)
+- The About copy leads with the category problem, then demonstrates the difference — earned peer tone, not vendor pitch
+- "Month-to-month" and "No contracts" are standalone statements — the brevity is intentional
+- Do not add "best-in-class," "industry-leading," "cutting-edge," "innovative," "solution," "ecosystem," or "game-changing"
+- Do not end any post or section with a question — state, don't ask
+- Three co-founders with locked badges: Davis (Creative & Strategy Systems), Alex (Product & Compliance Systems), Sasha (Performance Media)
+- CPSC is always spelled out on first use: "cost-per-signed-case (CPSC)"
+- Consumer brand is "Fair Case" — referenced in B2C contexts only, not in the B2B LinkedIn profile
+- Voice register: Expert not Arrogant, Honest in the Specific, Respectful of Intelligence, Weighted not Heavy

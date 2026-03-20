@@ -1,416 +1,205 @@
 # Color Palette: Second Chair
 
-> **Optimized for Ad Performance Based on Research Findings**
-> 
-> Source: `07_Research/Visual_Insights.md` — Color Psychology for PI
+**Last Updated:** March 2026
+**Locked source:** `14_Visual_Identity/02_Color_System.md`
+**Brand character:** Expert not Arrogant, Honest in the Specific, Respectful of Intelligence, Weighted not Heavy
 
 ---
 
 ## Color Strategy Overview
 
-### Research Foundation
-
-| Color | Psychological Signal | Performance Use |
-|-------|---------------------|-----------------|
-| **Blue** | Trust, stability, professionalism | Primary brand, trust elements |
-| **Green** | Safety, money, "go ahead" | CTAs, positive outcomes, compensation |
-| **White** | Clean, honest, simple | Backgrounds, breathing room |
-| **Yellow** | Caution, warning, attention | Alert-style creatives |
-| **Black** | Authority, urgency | Headlines, high-contrast text |
-| **Red** | Urgency, alarm | Sparingly for deadlines (not dominant) |
+> Every color in this system has a physical origin — not a digital origin, not a trend reference. Cotton-rag letterhead (Cream), West Federal Reporter spine (Burgundy), courthouse limestone (Grey), brass door placard (Gold). Colors derived from things are not arbitrary.
 
 ### Brand Voice Alignment
 
-> **Research:** "Move from attack language to protection language. The client is vulnerable — they want a guide, not a gladiator."
-
-**Color Tone:** Confident and trustworthy, NOT aggressive or alarming. Blues and greens dominate; red used minimally.
+Color communicates the brand's institutional authority and restraint. The category convention is navy, grey, white, red. Second Chair uses cream as the field and burgundy as the accent — permanently unclaimed territory in PI lead gen.
 
 ---
 
-## Primary Colors (Trust Foundation)
+## Core Brand Colors
 
-| Name | Hex | RGB | Use Case |
-|------|-----|-----|----------|
-| **Trust Blue** | #1E3A5F | rgb(30, 58, 95) | Primary brand, headers, trust elements |
-| **Trust Blue Dark** | #152A45 | rgb(21, 42, 69) | Hover states, depth |
-| **Trust Blue Light** | #2E5A8F | rgb(46, 90, 143) | Links, secondary buttons |
-| **Trust Blue Soft** | #E8EEF5 | rgb(232, 238, 245) | Backgrounds, card fills |
-
-**Why This Blue:**
-- Deep enough to signal authority and professionalism
-- Warm enough to feel approachable (not cold corporate blue)
-- Tested high for legal/financial trust signals
-- Works on both light and dark backgrounds
+| Name | Hex | RGB | CSS Variable | Physical Origin |
+|------|-----|-----|-------------|-----------------|
+| **Cream** | `#FFF7F0` | R:245 G:240 B:232 | `--sc-cream` | Cotton-rag letterhead, Harvard Law Review paper |
+| **Burgundy / Oxblood** | `#490A0A` | R:107 G:26 B:26 | `--sc-burgundy` | West Federal Reporter spine, oxblood leather chair |
+| **Warm Charcoal** | `#1C1917` | R:44 G:44 B:44 | `--sc-charcoal` | Quality offset printing on cream paper |
+| **Warm Grey** | `#6E6862` | R:140 G:134 B:128 | `--sc-grey` | Marble courthouse floors, Indiana limestone |
+| **Oxford Navy** | `#0F1E3A` | R:27 G:42 B:74 | `--sc-navy` | Brooks Brothers suit, Oxford University Press binding |
+| **Forest Green** | `#163A21` | R:30 G:77 B:43 | `--sc-green` | West state reporter spines, law school library |
+| **Old Gold** | `#E8C165` | R:184 G:150 B:46 | `--sc-gold` | Brass door placards, West Reporter gold lettering |
 
 ---
 
-## CTA Colors (Conversion Drivers)
+## Usage Rules
 
-| Name | Hex | RGB | Use Case |
-|------|-----|-----|----------|
-| **Action Green** | #22A659 | rgb(34, 166, 89) | Primary CTAs, "See If You Qualify" |
-| **Action Green Dark** | #1B8A49 | rgb(27, 138, 73) | Hover states |
-| **Action Green Light** | #28C76F | rgb(40, 199, 111) | Success states, confirmations |
+### Cream (#FFF7F0) — Primary Background
+- **THE field.** All Second Chair content lives on cream.
+- Never use pure white (#FFFFFF) as a background — cream replaces white as the base.
+- Digital: `background-color` on `body` and all primary surfaces.
+- Print: Specify Pantone AND paper stock (Crane Lettra 110lb).
+- **The cream test:** If you print on standard white laser paper, it should look wrong.
 
-**Why Green for CTAs:**
+### Burgundy (#490A0A) — Primary Accent
+- Applied as: 0.5pt horizontal rules, single chart accent, foil on physical covers.
+- **Never as a field/background color.** Burgundy is not a background.
+- Never paired with any shade of red or warm orange.
+- 0.5pt weight is consistent across ALL applications.
+- **Competitive status:** Zero PI lead gen vendors use burgundy. Permanently unclaimed.
 
-> **Research:** "Green signals safety, money, go-ahead. Use for CTAs, positive outcomes."
+### Warm Charcoal (#1C1917) — Primary Text
+- All body text, headlines, captions, footnotes.
+- **Why not pure black (#000000):** Pure black on cream reads as harsh, digital. Charcoal reads as warm, printed, quality.
 
-- **"Money" association** — Subconsciously links to compensation
-- **"Go" signal** — Universal permission to proceed
-- **High contrast** — Pops against blue brand elements
-- **Not aggressive** — Unlike red/orange CTAs used by aggressive competitors
+### Warm Grey (#6E6862) — Supporting Text
+- Captions, footnotes, exhibit labels, page folios, source attributions.
+- **Never for body text** — insufficient contrast for extended reading (~2.8:1 on cream).
 
-### CTA Button Specifications
+### Oxford Navy (#0F1E3A) — Foreground Element
+- Text on cream, borders, structural elements.
+- **Never as the primary field color.** Category convention is navy backgrounds — Second Chair does the opposite.
 
-```
-Primary CTA:
-  Background: #22A659 (Action Green)
-  Text: #FFFFFF (White)
-  Border-radius: 8px
-  Contrast ratio: 4.58:1 ✓
+### Forest Green (#163A21) — Secondary Variant
+- State-market material, physical variants of stationery.
+- Digital: Use very sparingly. Primarily a print/physical color.
 
-Hover State:
-  Background: #1B8A49 (Action Green Dark)
-```
-
----
-
-## Alert/Urgency Colors (Use Strategically)
-
-| Name | Hex | RGB | Use Case |
-|------|-----|-----|----------|
-| **Alert Yellow** | #F5A623 | rgb(245, 166, 35) | Warning headlines, deadlines |
-| **Alert Yellow Dark** | #D4900A | rgb(212, 144, 10) | Text on light backgrounds |
-| **Alert Yellow Light** | #FFF4D9 | rgb(255, 244, 217) | Alert backgrounds |
-| **Urgent Red** | #DC3545 | rgb(220, 53, 69) | Deadline urgency ONLY |
-
-### When to Use Alert Colors
-
-**✅ Use Yellow For:**
-- "Deadline approaching" messaging
-- "Warning" style mass tort ads
-- Government form aesthetic accents
-- Alert banners
-
-**⚠️ Use Red Sparingly For:**
-- Statute of limitations warnings
-- Final deadline emphasis
-- Error states in forms
-
-**❌ Never Use Red For:**
-- Primary brand color
-- General headlines
-- CTA buttons (too aggressive)
-
-> **Research:** "Red can feel aggressive/alarming. Use for urgency sparingly, not dominant."
+### Old Gold (#E8C165) — Physical Only
+- **Excluded from all digital contexts.** Contrast on cream is ~1.6:1 (near-invisible on screen).
+- Applied as: Foil stamping, embossing, engraving, letterpress on physical items.
+- Reverse text on Navy backgrounds (Gold letters on Navy) for engraved items.
 
 ---
 
-## Neutral Colors (Foundation)
+## WCAG Contrast Ratios
 
-| Name | Hex | RGB | Use Case |
-|------|-----|-----|----------|
-| **Black** | #1A1A1A | rgb(26, 26, 26) | Headlines, strong emphasis |
-| **Dark Gray** | #4A4A4A | rgb(74, 74, 74) | Body text, descriptions |
-| **Medium Gray** | #8A8A8A | rgb(138, 138, 138) | Borders, dividers, captions |
-| **Light Gray** | #E5E5E5 | rgb(229, 229, 229) | Backgrounds, separators |
-| **Off-White** | #F8F9FA | rgb(248, 249, 250) | Page backgrounds, cards |
-| **White** | #FFFFFF | rgb(255, 255, 255) | Clean backgrounds, text on dark |
+### On Cream (#FFF7F0)
 
-**Note:** Using #1A1A1A instead of pure black (#000000) reduces eye strain and feels less harsh — aligning with "Protector" brand voice.
+| Text Color | Ratio | Rating |
+|---|---|---|
+| Warm Charcoal (#1C1917) | ~10.1:1 | AAA |
+| Oxford Navy (#0F1E3A) | ~9.8:1 | AAA |
+| Burgundy (#490A0A) | ~7.4:1 | AA (all text) |
+| Warm Grey (#6E6862) | ~2.8:1 | Captions/labels at 9pt+ only |
+| Old Gold (#E8C165) | ~2.7:1 | Fail — decorative/physical only |
 
 ---
 
 ## Creative Mode Color Systems
 
-### Mode 1: Standard Brand (Landing Pages, Display)
+### Mode 1: Brand Standard (Documents, Website, B2B Materials)
 
 | Element | Color | Hex |
 |---------|-------|-----|
-| Background | Off-White | #F8F9FA |
-| Primary Text | Dark Gray | #4A4A4A |
-| Headlines | Black | #1A1A1A |
-| Links | Trust Blue | #1E3A5F |
-| Primary CTA | Action Green | #22A659 |
-| Secondary CTA | Trust Blue Light | #2E5A8F |
-| Trust badges | Trust Blue | #1E3A5F |
+| Background | Cream | #FFF7F0 |
+| Primary Text | Warm Charcoal | #1C1917 |
+| Headlines | Warm Charcoal | #1C1917 |
+| Supporting Text | Warm Grey | #6E6862 |
+| Structural Rules | Burgundy | #490A0A |
+| Accent | Burgundy | #490A0A |
+| Buttons | Charcoal bg / Cream text | #1C1917 / #FFF7F0 |
+| Button Hover | Navy bg | #0F1E3A |
 
-### Mode 2: Government Form Aesthetic (Lo-Fi Ads)
+### Mode 2: Platform-Native Advertising (Meta Feed, Video)
 
-> **Research:** "Plain black text on white background... resembles tax forms, recall notices, official alerts. Leverages authority of bureaucracy."
+For B2C advertising under Special Ad Categories, platform-native color conventions may be appropriate where brand colors would reduce performance:
 
-| Element | Color | Hex |
-|---------|-------|-----|
-| Background | White | #FFFFFF |
-| All Text | Black | #1A1A1A |
-| Accent (minimal) | Alert Yellow | #F5A623 |
-| Borders | Medium Gray | #8A8A8A |
-
-**This aesthetic is intentionally "ugly" — no brand colors, no polish.**
-
-### Mode 3: Alert/Warning Creative (Mass Tort)
-
-| Element | Color | Hex |
-|---------|-------|-----|
-| Background | Alert Yellow Light | #FFF4D9 |
-| Headlines | Black | #1A1A1A |
-| Body | Dark Gray | #4A4A4A |
-| Alert Banner | Alert Yellow | #F5A623 |
-| CTA | Action Green | #22A659 |
-
-### Mode 4: Dark Mode (Video, Social)
-
-| Element | Color | Hex |
-|---------|-------|-----|
-| Background | Black | #1A1A1A |
-| Primary Text | White | #FFFFFF |
-| Headlines | White | #FFFFFF |
-| Accent | Trust Blue Light | #2E5A8F |
-| CTA | Action Green | #22A659 |
-
----
-
-## Platform-Specific Color Usage
-
-### TikTok / Instagram Reels
-
-| Context | Recommendation |
-|---------|----------------|
-| Text overlays | White (#FFFFFF) with black outline OR platform native |
+| Element | Approach |
+|---------|----------|
+| Text overlays | White with dark outline (platform convention) |
 | Hook text | High contrast — white on dark video |
-| CTA text | "Link in bio" in white or Action Green |
-| Don't | Use brand blues in native text tools (stick to platform defaults) |
+| CTA | Platform-native styling |
+| Brand presence | Minimal — let the cinematic production carry the brand |
 
-### Meta (Facebook/Instagram Feed)
+### Disclosure Color Requirements (COMPLIANCE)
 
-| Context | Recommendation |
-|---------|----------------|
-| Image backgrounds | Trust Blue Soft (#E8EEF5) or White |
-| Headlines | Black (#1A1A1A) or Trust Blue (#1E3A5F) |
-| CTA buttons | Action Green (#22A659) |
-| Trust badges | Trust Blue (#1E3A5F) |
-
-### Google Display
-
-| Context | Recommendation |
-|---------|----------------|
-| Background | White or Off-White for clean look |
-| Headlines | Trust Blue (#1E3A5F) or Black |
-| CTA | Action Green (#22A659) — must pop |
-| Overall | Simple color palette, max 3 colors per ad |
-
-### Native Advertising
-
-| Context | Recommendation |
-|---------|----------------|
-| Headlines | Black on white (editorial style) |
-| Images | News photography aesthetic |
-| CTA | Subtle, match publisher style |
-
----
-
-## High-Contrast Combinations (Tested)
-
-### For Headlines/Body on Light Backgrounds
-
-| Text | Background | Contrast | Status |
-|------|------------|----------|--------|
-| #1A1A1A (Black) | #FFFFFF (White) | 16.1:1 | ✓ AAA |
-| #4A4A4A (Dark Gray) | #FFFFFF (White) | 9.4:1 | ✓ AAA |
-| #1E3A5F (Trust Blue) | #FFFFFF (White) | 10.3:1 | ✓ AAA |
-| #22A659 (Action Green) | #FFFFFF (White) | 3.5:1 | ✓ Large text only |
-
-### For Text on Dark Backgrounds
-
-| Text | Background | Contrast | Status |
-|------|------------|----------|--------|
-| #FFFFFF (White) | #1A1A1A (Black) | 16.1:1 | ✓ AAA |
-| #FFFFFF (White) | #1E3A5F (Trust Blue) | 8.9:1 | ✓ AAA |
-| #FFFFFF (White) | #22A659 (Action Green) | 3.5:1 | ✓ Large text only |
-
-### For CTA Buttons
-
-| Text | Background | Contrast | Status |
-|------|------------|----------|--------|
-| #FFFFFF (White) | #22A659 (Action Green) | 3.5:1 | ✓ AA (16px+ bold) |
-| #FFFFFF (White) | #1B8A49 (Action Green Dark) | 4.6:1 | ✓ AA |
-| #FFFFFF (White) | #1E3A5F (Trust Blue) | 8.9:1 | ✓ AAA |
-
----
-
-## Disclosure Color Requirements (COMPLIANCE)
-
-### Minimum Requirements
-
-| Attribute | Specification |
-|-----------|---------------|
-| **Contrast Ratio** | 4.5:1 minimum (body text) |
-| **Recommended** | 7:1+ for maximum readability |
-
-### Approved Disclosure Combinations
+| Attribute | Minimum |
+|---|---|
+| Contrast Ratio | 4.5:1 minimum for body text |
+| Recommended | 7:1+ for maximum readability |
 
 | Text Color | Background | Ratio | Use For |
-|------------|------------|-------|---------|
-| #4A4A4A (Dark Gray) | #FFFFFF (White) | 9.4:1 | Standard disclaimers |
-| #1A1A1A (Black) | #F8F9FA (Off-White) | 14.8:1 | Maximum readability |
-| #FFFFFF (White) | #4A4A4A (Dark Gray) | 9.4:1 | Dark mode disclaimers |
-
-### Banned Disclosure Colors
-
-| Combination | Ratio | Why Banned |
-|-------------|-------|------------|
-| #8A8A8A on #E5E5E5 | 2.7:1 | Hides legal text |
-| #AAAAAA on #FFFFFF | 2.3:1 | Insufficient contrast |
-| Any "gray on light gray" | <4.5:1 | Appears to hide disclaimers |
-
-> **Saul says:** "I've seen disclaimers in 6-point gray on light gray. That's not a disclaimer, that's a hide-and-seek champion."
+|---|---|---|---|
+| Charcoal (#1C1917) | Cream (#FFF7F0) | ~10.1:1 | Standard (preferred) |
+| Charcoal (#1C1917) | White (#FFFFFF) | ~16:1 | Fallback contexts |
 
 ---
 
-## Colors to Avoid
+## Colors Permanently Excluded
 
-| Color | Context | Reason |
-|-------|---------|--------|
-| **Bright Red (#FF0000)** | Headlines, dominant use | Aggressive, alarming, triggers defenses |
-| **Pure Black (#000000)** | Body text | Too harsh, causes eye strain |
-| **Neon colors** | Anywhere | Screams "scam" — destroys trust |
-| **Purple** | Primary brand | Not associated with legal trust |
-| **Orange** | CTAs | Too aggressive for "Protector" voice |
-| **Low-contrast grays** | Disclaimers | Appears to hide legal text |
-
----
-
-## Color Psychology Quick Reference
-
-| Emotion to Trigger | Primary Color | Secondary | Avoid |
-|--------------------|---------------|-----------|-------|
-| **Trust** | Trust Blue (#1E3A5F) | White | Red, Neon |
-| **Action/Hope** | Action Green (#22A659) | Trust Blue | Gray, Muted |
-| **Urgency** | Alert Yellow (#F5A623) | Black | Overuse of Red |
-| **Authority** | Black (#1A1A1A) | Trust Blue | Bright colors |
-| **Calm/Safety** | Trust Blue Soft (#E8EEF5) | White | Dark, Heavy |
+| Color | Reason |
+|-------|--------|
+| Pure white (#FFFFFF) as background | Reads as photocopier paper |
+| Pure black (#000000) as text | Too harsh against cream |
+| Any blue as primary/accent on identity materials | Category convention — differentiation requires avoiding it |
+| Saturated reds | Urgency/ambulance-chaser signal |
+| Orange as primary | Consumer brand warmth — wrong register |
+| Purple | No physical origin in prestige legal world |
+| Gradients of any kind | Not part of the visual system |
+| Neon / RGB-maximum saturation | Reads as backlit digital, not print quality |
 
 ---
 
-## Implementation
-
-### CSS Variables
+## CSS Design Tokens
 
 ```css
 :root {
-  /* Primary (Trust) */
-  --color-primary: #1E3A5F;
-  --color-primary-dark: #152A45;
-  --color-primary-light: #2E5A8F;
-  --color-primary-soft: #E8EEF5;
-  
-  /* CTA (Action) */
-  --color-cta: #22A659;
-  --color-cta-dark: #1B8A49;
-  --color-cta-light: #28C76F;
-  
-  /* Alert */
-  --color-alert: #F5A623;
-  --color-alert-dark: #D4900A;
-  --color-alert-light: #FFF4D9;
-  --color-urgent: #DC3545;
-  
-  /* Neutrals */
-  --color-black: #1A1A1A;
-  --color-gray-dark: #4A4A4A;
-  --color-gray: #8A8A8A;
-  --color-gray-light: #E5E5E5;
-  --color-off-white: #F8F9FA;
-  --color-white: #FFFFFF;
+  /* Brand Colors (Primitives) */
+  --sc-cream: #FFF7F0;
+  --sc-burgundy: #490A0A;
+  --sc-charcoal: #1C1917;
+  --sc-grey: #6E6862;
+  --sc-navy: #0F1E3A;
+  --sc-green: #163A21;
+  --sc-gold: #E8C165;
+
+  /* Semantic Tokens */
+  --sc-surface-primary: var(--sc-cream);
+  --sc-text-primary: var(--sc-charcoal);
+  --sc-text-secondary: var(--sc-grey);
+  --sc-text-inverse: var(--sc-cream);
+  --sc-text-brand: var(--sc-burgundy);
+  --sc-border-brand: var(--sc-burgundy);
+  --sc-border-subtle: var(--sc-grey);
+  --sc-accent-primary: var(--sc-burgundy);
+
+  /* Button */
+  --sc-button-bg: var(--sc-charcoal);
+  --sc-button-text: var(--sc-cream);
+  --sc-button-bg-hover: var(--sc-navy);
 }
 ```
 
-### Figma/Design Tool Setup
+### Figma Setup
 
 ```
-Brand Colors:
-├── Trust Blue        #1E3A5F
-├── Trust Blue Dark   #152A45
-├── Trust Blue Light  #2E5A8F
-├── Trust Blue Soft   #E8EEF5
-├── Action Green      #22A659
-├── Action Green Dark #1B8A49
-├── Alert Yellow      #F5A623
-├── Urgent Red        #DC3545
-│
-Neutrals:
-├── Black             #1A1A1A
-├── Dark Gray         #4A4A4A
-├── Medium Gray       #8A8A8A
-├── Light Gray        #E5E5E5
-├── Off-White         #F8F9FA
-└── White             #FFFFFF
+— BRAND COLORS —
+SC / Cream         #FFF7F0    (Primary background)
+SC / Burgundy      #490A0A    (Primary accent)
+SC / Charcoal      #1C1917    (Primary text)
+SC / Gold          #E8C165    (Physical only — foil, embossing)
+SC / Navy          #0F1E3A    (Foreground elements)
+SC / Green         #163A21    (Secondary variant)
+SC / Grey          #6E6862    (Supporting text)
 ```
 
 ---
 
 ## Pre-Flight Checklist
 
-Before publishing any ad:
+Before publishing any brand material:
 
-- [ ] **CTA button** uses Action Green (#22A659) — not blue, not red
-- [ ] **Headlines** use Black or Trust Blue — high contrast
-- [ ] **Disclosure text** has 4.5:1+ contrast ratio
-- [ ] **No red dominance** — red only for specific deadline urgency
-- [ ] **Alert creative** uses yellow appropriately (not default)
-- [ ] **Overall feel** is "Protector/Guide" not "Aggressive Dog"
-- [ ] **Max 3 colors** per individual ad creative
-
----
-
----
-
-## A/B Testing: Color Weapons
-
-> **Source:** `07_Research/Creative_Resources/Color_Weapons.md`
-> 
-> Research-backed hex codes for testing against brand defaults. These are **tools, not replacements**—use for split tests, not wholesale changes.
-
-### Why Test?
-
-The brand palette prioritizes **trust** (green CTAs, blue foundation). But research shows urgency colors (orange-red) can lift conversions 20-34% in some contexts. Testing reveals what YOUR audience responds to.
-
-### Testing Variants
-
-| Test | Default (Brand) | Variant A | Variant B |
-|------|-----------------|-----------|-----------|
-| **Primary CTA** | `#22A659` Green | `#FF4500` OrangeRed | `#007BFF` Blue |
-| **Urgency Accent** | `#F5A623` Yellow | `#FF8C00` Dark Orange | `#E63946` Deep Red |
-| **Money/Benefit** | `#22A659` Green | `#FFC107` Amber Gold | `#28A745` Bootstrap Green |
-
-### Testing Rules
-
-1. **Default wins ties** — If lift is <10%, stick with brand palette
-2. **One variable at a time** — Don't test CTA color AND copy simultaneously
-3. **Context matters** — Orange-red may win on Meta, green may win on Google
-4. **Brand voice check** — Does the winner still feel "Protector" not "Predator"?
-
-### High-Converting Hex Codes (From Research)
-
-Quick reference for building test variants:
-
-| Trigger | Hex | Name | Test Against |
-|---------|-----|------|--------------|
-| **Urgency** | `#FF4500` | OrangeRed | Green CTA |
-| **Trust** | `#007BFF` | Bootstrap Blue | Green CTA |
-| **Money** | `#FFC107` | Amber Gold | Headlines, benefit callouts |
-| **Action** | `#E63946` | Deep Red | Deadline messaging |
-| **Attention** | `#FFC700` | Golden Yellow | Alert banners |
-
-→ **Full research & psychology:** `07_Research/Creative_Resources/Color_Weapons.md`
+- [ ] Background is Cream (#FFF7F0), not white
+- [ ] Text is Charcoal (#1C1917), not pure black
+- [ ] Burgundy used as accent/rule only, not as field color
+- [ ] Gold not used in any digital context
+- [ ] No gradients
+- [ ] Disclosure text has 4.5:1+ contrast ratio
+- [ ] Overall feel: institutional authority through restraint, not aggressive or loud
 
 ---
 
 ## Related Files
 
-- `02_Visual/Typography.md` — Font pairings for these colors
-- `02_Visual/Approved_Imagery.md` — Image styles that match palette
-- `05_Restrictions/Platform_Rules.md` — Platform color restrictions
-- `07_Research/Strategic_Insights/Visual_Insights.md` — Source research
-- `07_Research/Creative_Resources/Color_Weapons.md` — A/B testing color arsenal
+- [`14_Visual_Identity/02_Color_System.md`](../14_Visual_Identity/02_Color_System.md) — Full locked specification with Pantone values, print specs, data viz palette
+- [`02_Visual/Typography.md`](Typography.md) — Typography system
+- [`02_Visual/BRAND_DESIGN_SYSTEM.md`](BRAND_DESIGN_SYSTEM.md) — Complete visual system
+- [`05_Restrictions/Platform_Rules.md`](../05_Restrictions/Platform_Rules.md) — Platform restrictions

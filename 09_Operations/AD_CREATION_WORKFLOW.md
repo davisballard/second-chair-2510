@@ -233,7 +233,7 @@ Final concepts formatted for the Ad Factory:
     "headline": "The headline",
     "description": "The description",
     "cta": "Learn More",
-    "display_link": "claimjusticenow.com",
+    "display_link": "getafaircase.com",
     "image_prompt": "Detailed image prompt here...",
     "strategy": "Brief behavioral rationale",
     "state": "CA",

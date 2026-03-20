@@ -1,79 +1,107 @@
 # Approved Phrases
 
-## CREATIVE ADVANTAGE PHRASES (Use These First — B2B Only)
-
-> These are Second Chair's ownable, competitor-proof positioning phrases. Lead with these in all B2B (attorney-facing) communications.
-
-**How to think about "The Creative Advantage":**
-The Creative Advantage is Second Chair's core differentiator. Most legal lead gen runs the same generic ads through the same playbook. Second Chair wins because the creative itself performs better — better ads attract higher-intent claimants, better funnels screen out the noise, and better strategy means the leads that reach your intake team are worth your time. The creative is the mechanism. Do NOT reduce this to "we make pretty ads" — the creative advantage is end-to-end: strategy, targeting, ad creative, funnel design, and qualification.
-
-**Two axes, never conflate them:**
-- *What* Second Chair delivers: the full case spectrum (soft tissue through catastrophic)
-- *How* Second Chair delivers it: superior creative strategy (better ads, better funnels, better targeting — the creative advantage)
-
-- **"The Creative Advantage"** — the primary positioning phrase
-- **"Better Creative. Better Cases."** — the shorthand
-- "We don't send you leads. We send you cases."
-- "Most lead gen companies deliver a phone number. We deliver a case — pre-screened, pre-qualified, and ready for intake."
-- "Pre-screened, pre-qualified, ready for intake."
-- "The industry sends names. We send cases."
-- "We hold every lead — soft tissue to wrongful death — to the same standard."
-- "We're not padding your volume with slop. Everything that reaches your intake team is worth your time."
-- "Better ads attract real intent. Better funnels screen out the noise. That's the creative advantage."
-- "Your leads are only as good as the creative that attracted them."
-- "Same playbook, same results. We run a different playbook."
-
-**Source:** `07_Research/Strategic_Analysis/Unique_Mechanism_Session_2026-02-18.md`
+**Last Updated:** March 2026
+**Aligned to:** Brand Architecture (Session 3), B2B Sales Language Guide, B2C Campaign Brief
 
 ---
 
-> **Sources:** 07_Research/Strategic_Insights/Copy_Insights.md + Senior_Copywriter/Patrick_Slaughter_PI_Marketing.md
-> 
-> Pre-cleared copy that has passed compliance review. Includes high-performing hooks from campaign research.
->
-> **Scope:** Personal Injury/MVA — car, motorcycle, truck, rideshare, TBI, wrongful death
->
-> 📘 **See Also:** [`Behavioral_Copy_Triggers.md`](Behavioral_Copy_Triggers.md) for psychological principles behind each phrase type.
-> 
-> ---
-> 
-> ⚠️ **NOTE:** This file is a **secondary reference**. For content creation, **start with `07_Research/Strategic_Analysis/BEHAVIORAL_CONTENT_SYSTEM.md`** — the master framework that organizes content around behavioral levers with execution templates. This file provides pre-cleared copy examples that fit within that system.
+## B2B Approved Phrases (Attorney-Facing)
+
+> These are Second Chair's approved positioning phrases for attorney-facing communications. Voice register: Expert not Arrogant, Honest in the Specific, Respectful of Intelligence, Weighted not Heavy.
+
+### Primary Positioning
+
+- "Advertising you can evaluate before you commit."
+- "We built it to be worth showing."
+- "The leads PI attorneys buy should be as honestly won as the cases they take."
+- "Honestly won leads convert at a higher rate. The ethical choice and the commercial choice are the same."
+- "The first vendor in the category the attorney doesn't feel they need to be defended against."
+
+### CPSC / Metric Language
+
+- "Cost-per-signed-case — not CPL."
+- "CPL tells you what you paid to talk to someone. CPSC tells you what you paid to sign them."
+- "We report on cost-per-signed-case by default."
+- "What's your current cost-per-signed-case from your existing vendors?"
+- "Let's do the math together before we talk price."
+
+### Infrastructure / Team Proof
+
+- "The creative, the compliance infrastructure, and the media execution are run by the same founding team."
+- "No vendor handoff — no layer where the claim breaks down."
+- "TrustedForm on every lead. Fail-closed DNC screening. No shared leads."
+- "Month-to-month. No contracts."
+- "One attorney per market."
+
+### Objection-Response Language
+
+- "Before you spend anything, I want to show you the advertising we run."
+- "Can I show you the advertising before I explain anything else?"
+- "We'd rather start at a volume that lets you verify quality, then scale."
+- "Here's a firm in a comparable market you can call."
+- "Here's the pilot structure — minimum commitment, easy exit if the data doesn't support continuing."
+- "Bad leads — invalid contact information or clear non-qualifiers — are replaced."
+
+### Approved Tone Markers
+
+- "Here's the advertising. Tell us what you think." (Expert, Not Arrogant)
+- "Your cost-per-signed-case from our leads last quarter was $X. Here's what drove that number." (Honest in the Specific)
+- "We'd like to understand the baseline before we make any proposals." (Respectful of Intelligence)
+- "The intake call is the first impression an attorney makes on a potential client. We try to make sure it starts right." (Weighted, Not Heavy)
 
 ---
 
-## High-Performing Video Hooks (First 3 Seconds)
+## B2C Approved Phrases (Claimant-Facing, via Fair Case)
 
-> **Critical:** For TikTok/Reels, the first 3 seconds are everything. If the hook fails, the remaining content is irrelevant.
+> Tier-specific. Each phrase is approved for a specific timing tier. Do not use Tier 1 language in Tier 3 contexts or vice versa.
 
-### The "Stop" Hook (Loss Aversion)
-- "Stop! If you were in a wreck in [City], do NOT sign the first check."
-- "Stop scrolling if you've been in an accident in the last 2 years."
+### Tier 1 — Days 0–30 (Decision Open)
 
-### The "Insider" Hook (Authority via Negation)
-- "I'm a lawyer and here are 3 things I would NEVER do after a crash."
-- "Insurance adjusters are trained to say this. Here's what they don't tell you..."
+**Recognition hooks:**
+- "If you were in an accident recently — you'll want to hear this before you respond to the insurance company."
+- "The insurance company called. Here's what they're not telling you."
 
-### The "Incredulous" Hook (Curiosity)
-- "I literally cannot believe insurance adjusters get away with this..."
-- "I can't believe they told my client THIS after his accident..."
+**Evidence:**
+- "People who consulted an attorney before accepting an offer received significantly more than those who didn't."
+- "One conversation. Ten minutes. No cost."
+- "You have the right to find out what you actually have before you make any decision."
 
-### The "Myth Buster" Hook (Knowledge Gap)
-- "Everyone thinks if you rear-end someone, it's automatically your fault. Wrong."
-- "Think you can't sue if you were partially at fault? Think again."
-- "Uber said it wasn't their problem? Here's what they're not telling you..."
+**Action:**
+- "Before you respond to anything — one free call."
+- "One call. Ten minutes. Free. No obligation."
 
-### The "Visual" Hook (Pattern Interrupt)
-- [Start with dashcam footage, then attorney reaction]
-- [Green Screen over news article about local accident]
+### Tier 2 — 1–6 Months (Accumulation Phase)
+
+**Recognition hooks:**
+- "Your bills are still coming in. The settlement you received might not cover them."
+- "You accepted a settlement. But medical bills don't stop."
+
+**Evidence:**
+- "Most accident victims who accept the first offer don't know they had other options."
+- "Some did. Some still do."
+
+**Action:**
+- "Find out where you stand. One call. No commitment required."
+
+### Tier 3 — 6+ Months to SOL (Deadline Approaching)
+
+**Recognition hooks:**
+- "There's a deadline on your right to pursue a claim. Most people don't know when it is."
+
+**Evidence (state-specific required):**
+- "In [state], you have [X] years from the date of your accident to file. After that, the option closes."
+- "The clock is running."
+
+**Action:**
+- "If you've never spoken to an attorney about your accident — find out if you still can."
 
 ---
 
-## Headlines (MVA Only)
+## Headlines (MVA — Compliance-Cleared)
 
 ### Car Accidents
 - "Car Accident Cases Being Accepted"
 - "Motor Vehicle Accident Claims Under Review"
-- "Accident Victims May Be Entitled to Compensation"
 - "Legal Options for Car Accident Victims"
 - "Experienced Attorneys Handling MVA Cases"
 
@@ -81,45 +109,39 @@ The Creative Advantage is Second Chair's core differentiator. Most legal lead ge
 - "Motorcycle Crash? Know Your Rights."
 - "Injured Rider? Cases Being Accepted."
 - "Motorcycle Accident Victims May Be Entitled to Compensation"
-- "Drivers Don't See You. Lawyers Do."
 
 ### Truck Accidents
 - "Hit by a Semi? Cases Under Review."
-- "Trucking Company Insurance Is Designed to Underpay You."
 - "Commercial Truck Accidents Are Different. Here's Why."
 - "18-Wheeler Accident Victims May Qualify."
 
 ### Rideshare Accidents (Uber/Lyft)
 - "Hurt in an Uber or Lyft? Know Your Options."
 - "Rideshare Accident Claims Being Reviewed."
-- "Who's Responsible After a Rideshare Crash? It's Complicated."
-- "Uber/Lyft Insurance Doesn't Work Like You Think."
+- "Who's Responsible After a Rideshare Crash?"
 
 ### General MVA
 - "Vehicle Accident Cases Being Accepted"
 - "Compensation May Be Available for Qualifying Cases"
-- "Experienced Injury Attorneys Standing By"
 - "Legal Options for Accident Victims"
 
 ---
 
-## Body Copy
+## Body Copy (Compliance-Cleared)
 
 ### Claims Language (Qualified)
 - "Settlements in similar cases have ranged from $X to $Y depending on case specifics"
 - "Compensation may be available for qualifying cases"
 - "Past results do not guarantee future outcomes"
 - "Each case is evaluated individually"
-- "Results depend on the specific circumstances of each case"
 
 ### Process Language
 - "Connect with an experienced attorney"
 - "Speak with a legal professional at no upfront cost"
 - "Find out if a case qualifies"
-- "Learn about legal options"
 - "Get a free case evaluation"
 
-### Urgency (Softened)
+### Urgency (Factual Only)
 - "Statutes of limitations apply to all cases"
 - "Time limits may affect legal options"
 - "Legal deadlines vary by case type and state"
@@ -129,17 +151,15 @@ The Creative Advantage is Second Chair's core differentiator. Most legal lead ge
 ## CTAs
 
 ### Primary CTAs
-- **"Claim Justice Now"** ← primary brand CTA
 - "See If You Qualify"
 - "Get a Free Case Evaluation"
 - "Connect With an Attorney"
-- "Learn More"
-- "Check Eligibility"
-- "Request Information"
+- "Find Out Where You Stand"
+- "One Free Call"
 
 ### Secondary CTAs
-- "Find Out More"
-- "Speak With a Legal Professional"
+- "Learn More"
+- "Check Eligibility"
 - "Review Your Options"
 
 ---
@@ -164,10 +184,10 @@ The Creative Advantage is Second Chair's core differentiator. Most legal lead ge
 ## TCPA Consent Language (2025 Compliant)
 
 ```
-By submitting this form, I provide my express written consent to receive 
-calls and/or text messages from [SPECIFIC NAMED FIRM] at the phone number 
-provided, including via automated telephone dialing system or prerecorded 
-voice. I understand that consent is not a condition of purchase. 
+By submitting this form, I provide my express written consent to receive
+calls and/or text messages from [SPECIFIC NAMED FIRM] at the phone number
+provided, including via automated telephone dialing system or prerecorded
+voice. I understand that consent is not a condition of purchase.
 Message and data rates may apply.
 ```
 
@@ -175,124 +195,34 @@ Message and data rates may apply.
 
 ---
 
-## Phrase Combinations
-
-### Full Headline + Subhead Examples
-
-**Example 1 (Car):**
-- Headline: "Car Accident Cases Being Accepted"
-- Subhead: "Compensation may be available for qualifying cases"
-
-**Example 2 (Truck):**
-- Headline: "Hit by a Semi? Cases Under Review."
-- Subhead: "Trucking company insurance is designed to underpay. Don't let them."
-
-**Example 3 (Rideshare):**
-- Headline: "Hurt in an Uber? Know Your Options."
-- Subhead: "Free case evaluation — find out if you qualify"
-
-**Example 4 (Motorcycle):**
-- Headline: "Motorcycle Crash? Know Your Rights."
-- Subhead: "Connect with experienced attorneys at no upfront cost"
-
----
-
-## PI Headline Formulas by Emotional State
-
-> **Source:** Patrick Slaughter — Match headline to victim's emotional stage for maximum resonance.
-
-### Empathy-First Headlines (Stage 1-2: Shock/Anger)
-- "Hurt in an Accident? You're Not Alone."
-- "Injured and Overwhelmed? We Can Help."
-- "After an Accident, You Deserve Answers."
-- "When Life Changes in an Instant, We're Here."
-
-### Accountability Headlines (Stage 2: Anger)
-- "Someone Else's Mistake Shouldn't Ruin Your Life."
-- "They Hurt You. Make Them Pay." *(use with caution — verify compliance)*
-- "Hold the Negligent Party Accountable."
-- "The Person Who Caused This Should Pay — Not You."
-
-### Results-Focused Headlines (Stage 4: Decision)
-- "$X Million Recovered for Accident Victims"
-- "Proven Results. Real Recoveries."
-- "We've Won Thousands of Cases Like Yours."
-- "500+ 5-Star Reviews From People Just Like You"
-
-### Risk-Reversal Headlines (Stage 3: Overwhelm)
-- "No Fee Unless We Win. Zero Risk to You."
-- "Free Consultation. No Obligation. No Pressure."
-- "You Pay Nothing Unless We Get You Money."
-- "We Handle Everything. You Focus on Healing."
-
-### Urgency Headlines (Compliant)
-- "Time Limits Apply. Don't Wait."
-- "Evidence Disappears. Call Today."
-- "The Statute of Limitations Won't Wait."
-- "Legal Deadlines Vary by State — Check Yours Now."
-
----
-
-## The Trust Stack (Headline + Proof Pairings)
-
-> **Source:** Slaughter — Build trust in this order: Social Proof → Transparency → Authority → Empathy → Risk Reversal
-
-**Example Trust Stack:**
-1. **Headline:** "Injured in an Accident? We've Helped Thousands."
-2. **Trust Signal:** "500+ 5-Star Reviews"
-3. **Results Signal:** "$100M+ Recovered"
-4. **Risk Reversal:** "No Fee Unless We Win"
-5. **CTA:** "Get Your Free Case Review"
-
----
-
-## Quiz Funnel Copy
-
-### Question Sequence
-- Q1: "Were you injured in an accident in the last 2 years?"
-- Q2: "Was the accident your fault?"
-- Q3: "Did you require medical attention?"
-- Q4: "Do you currently have an attorney?"
-
-### Loading Screen
-- "Analyzing your eligibility..."
-- "Reviewing your case details..."
-
-### Result Screen
-- "Great news — you may qualify for significant compensation."
-- "Based on your answers, you may have a valid claim."
-- "Where should we send your free case evaluation?"
-
----
-
 ## Video Script Structure (30-Second Template)
 
 ```
-0:00-0:03 (HOOK): 
-"[Insider/Stop/Incredulous hook]"
+0:00-0:03 (RECOGNITION):
+"[Tier-specific situational detail that triggers self-selection]"
 
-0:03-0:15 (EDUCATION): 
-"[Third-person explainer about the issue]"
+0:03-0:15 (EVIDENCE):
+"[One specific fact about their situation — third person]"
 
-0:15-0:25 (AUTHORITY): 
-"[Personal experience or case example]"
+0:15-0:25 (CONTEXT):
+"[What this means for them — informational, not fear-based]"
 
-0:25-0:30 (CTA): 
-"[Call to action]. Link in bio."
+0:25-0:30 (ACTION):
+"[Minimum-barrier next step]. Link in bio."
 ```
 
 ---
 
 ## Dual Creator Format
 
-**Person A (Naive Statement):**
+**Person A (Common Misconception):**
 - "The insurance company said I was 50% at fault so I can't sue."
 - "Uber said it wasn't their problem because the driver was an independent contractor."
 - "I was told I missed the deadline to file."
 - "The trucking company offered $5,000 and said that's the max."
 
-**Person B (Lawyer Correction):**
-- "That's not how comparative negligence works. You can still recover..."
-- "That's exactly what rideshare companies want you to believe. Here's the truth..."
-- "Statutes of limitations are complicated. Let me explain..."
-- "Commercial trucking policies are often $1M+. That $5K offer? It's a test."
+**Person B (Attorney Correction — Informational, Not Aggressive):**
+- "That's not how comparative negligence works in most states. You may still have options."
+- "Rideshare insurance structures are more complex than that. Here's what you should know."
+- "Statutes of limitations vary by state and situation. It's worth checking."
+- "Commercial trucking policies are often $1M+. That number they offered doesn't reflect that."

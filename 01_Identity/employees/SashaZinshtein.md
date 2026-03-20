@@ -4,8 +4,10 @@
 
 ## Role / Title
 
-**Co-Founder & Head of Growth**  
+**Co-Founder — Performance Media**
 Second Chair
+
+**Headline credential:** Programmatic media across Bose, Coach, Diageo, Duracell, H&R Block, Indeed, Ocean Spray, PepsiCo, and Tinder.
 
 ---
 
@@ -24,26 +26,18 @@ At Second Chair: cold outreach, media execution, lead qualification, account rel
 ## Experience & Background
 
 ### Current Role: Second Chair (2026–Present)
-Co-Founder & Head of Growth
+**Co-Founder — Performance Media**
 
-Geo-exclusive lead generation for personal injury law firms — one firm per DMA, no competing for the leads we send. Equal co-founder with Davis Ballard and Alex DuBelko. 33/33/33 profit split.
+PI lead generation built on honest advertising — one attorney per market, no shared leads. Equal co-founder with Davis Ballard and Alex DuBelko. 33/33/33 profit split.
 
-• **Media Buying** — Run campaigns across Meta, Google, TikTok, Snapchat, and LinkedIn. Optimize CPL, manage lead flow and pacing, and scale what works.
+• **Media Execution** — Meta (95–100% of B2C spend) under Special Ad Categories. Creative self-selection strategy (99%/1% mandate). Campaign optimization against CPSC, not CPL.
 • **Lead Qualification** — Vet, score, and route leads to maximize case quality for attorney partners.
-• **Sales Execution** — Cold outreach and acquisition of PI law firms across target DMAs. Breaking ice and closing.
-• **Account Relationships** — Own the trust layer that keeps partners long-term. Day-to-day rapport with attorney partners; renewal and expansion strategy.
-• **CRM & Pipeline Operations** — Own CRM setup, configuration, and daily operations. Lead pipeline tracking, sales automation, outbound sequences, and reporting dashboards.
+• **Sales Execution** — Cold outreach and acquisition of PI law firms. The sales call that demonstrates Second Chair knows what a contingency fee is, why Q1 is slow, what "soft tissue" means. Peer conversation, not vendor pitch.
+• **Account Relationships** — Own the trust layer that keeps partners long-term. CPSC reporting as primary account health metric.
+• **CRM & Pipeline Operations** — CRM setup, pipeline tracking, sales automation, outbound sequences, reporting dashboards.
 
-#### Suggested Additional Responsibilities for Second Chair
-
-Based on Sasha's background and the team's needs:
-
-• **CRM Architecture & Operations** — Select, configure, and manage the CRM (e.g., HubSpot, Close, GoHighLevel). Build lead routing rules, deal stages, and automated follow-up sequences. Own the single source of truth for all pipeline data.
-• **Sales Automation** — Build outbound email sequences, follow-up cadences, and automated touchpoints for B2B attorney acquisition. Leverage his programmatic background to systematize outreach.
-• **Revenue Reporting & Dashboards** — Create weekly/monthly reporting on pipeline health, conversion rates, CPL by DMA, and revenue per partner. Translate raw data into actionable insights for the team.
-• **Lead Scoring Collaboration** — Partner with Alex to define lead scoring criteria and routing logic that maps to attorney partner needs and case quality thresholds.
-• **Partner Onboarding Process** — Design and own the attorney partner onboarding flow: from signed contract to first lead delivery, setting expectations and building trust from day one.
-• **Expansion Strategy** — Identify when and how to expand into new DMAs based on pipeline data, market signals, and team capacity.
+**Why "Performance Media" is the badge:**
+Sasha's credential chain — 33across (18+ Fortune 500 brands programmatic), The Flower Agency (restricted-category advertising with no standard platform access), Riverpoint Capital (financial underwriting) — maps directly to what Second Chair requires: programmatic buying expertise + restricted-category experience (PI = Special Ad Categories, the direct analog to cannabis restrictions) + the financial fluency to speak to attorneys about case acquisition economics in capital-allocator language.
 
 ---
 
@@ -193,4 +187,5 @@ Co-Founder at Second Chair. Ex-33across programmatic (ASOS, Bose, Pepsico, Tinde
 
 ---
 
-*Last updated: February 20, 2026*
+*Last updated: March 2026*
+*Website framing source: `18_Website/index.html` (public presentation)*
