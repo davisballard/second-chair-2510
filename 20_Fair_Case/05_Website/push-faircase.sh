@@ -13,7 +13,7 @@ NC='\033[0m' # No Color
 
 # Configuration
 REPO_DIR="$HOME/getafaircase-repo"
-SOURCE_DIR="$(cd "$(dirname "$0")/faircase-splash" && pwd)"
+SOURCE_DIR="$(cd "$(dirname "$0")/final-website" && pwd)"
 REMOTE_URL="https://github.com/davisballard/getafaircase-6178.git"
 BRANCH="main"
 

@@ -411,7 +411,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 **Layout:** Three columns.
 - Left: Second Chair wordmark + one-line descriptor ("A creative, compliance, and technology firm for personal injury law firms.")
 - Center: Navigation links (Work / How It Works / Apply / [Privacy Policy])
-- Right: Contact email (hello@2ndchair.net or equivalent) + social links (LinkedIn at minimum)
+- Right: Contact email (sasha@2ndchair.net or equivalent) + social links (LinkedIn at minimum)
 
 **Legal requirements:**
 - "Attorney Advertising" disclaimer (required in most states for PI adjacent marketing)
