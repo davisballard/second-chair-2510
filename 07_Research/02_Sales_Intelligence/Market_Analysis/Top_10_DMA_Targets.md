@@ -1,10 +1,11 @@
 # Top 10 DMA Targets for B2B Attorney Acquisition
+
 ## Priority Market Analysis — Personal Injury / MVA Lead Generation
 
-**Second Chair — Strategic Market Targeting Brief**  
-**Date:** February 20, 2026  
-**Prepared by:** Agency Strategic Team  
-**Purpose:** Identify and rank the top 10 DMAs for B2B attorney acquisition, balancing market size, cost-per-lead efficiency, ease of acquisition, and strategic team proximity  
+**Second Chair — Strategic Market Targeting Brief**\
+**Date:** February 20, 2026\
+**Prepared by:** Agency Strategic Team\
+**Purpose:** Identify and rank the top 10 DMAs for B2B attorney acquisition, balancing market size, cost-per-lead efficiency, ease of acquisition, and strategic team proximity\
 **Pricing Basis:** $400/lead (geo-exclusive, one firm per DMA)
 
 ---
@@ -18,7 +19,7 @@ This document identifies Second Chair's 10 highest-priority Designated Market Ar
 **The 10 targets, in priority order:**
 
 | Rank | DMA | Priority Tier | Est. Monthly Revenue (1 Client) |
-|------|-----|--------------|--------------------------------|
+| --- | --- | --- | --- |
 | 1 | Atlanta, GA | Tier 1 | $16,000-$28,000 |
 | 2 | Los Angeles, CA | Tier 1 | $28,000-$48,000 |
 | 3 | New York, NY | Tier 1 | $24,000-$44,000 |
@@ -39,6 +40,7 @@ This document identifies Second Chair's 10 highest-priority Designated Market Ar
 ### Data Sources & Estimation Framework
 
 **Market sizing** is based on:
+
 - Nielsen DMA population rankings (2025)
 - ABA lawyer demographics (attorney counts by metro)
 - ATRA legal advertising reports (2024)
@@ -47,12 +49,14 @@ This document identifies Second Chair's 10 highest-priority Designated Market Ar
 - IBISWorld PI attorney industry report ($61.7B national revenue, 2024)
 
 **CPL estimates** are derived from:
+
 - Google Ads CPC for PI keywords ("car accident lawyer," "personal injury attorney," "truck accident lawyer") by metro
 - Industry-standard conversion rates: 5-8% click-to-lead on search, 1-3% on social/display
 - Second Chair's actual media costs across current active markets (CA, CO, WA)
 - Blended CPL assumes multi-channel mix (paid search 40%, paid social 35%, programmatic/display 25%)
 
 **Competition level** reflects:
+
 - Number of active PI lead gen vendors operating in the market
 - Google Ads auction density for PI keywords
 - Presence of mega-firms (Morgan & Morgan, etc.) consuming organic demand
@@ -62,7 +66,7 @@ This document identifies Second Chair's 10 highest-priority Designated Market Ar
 Each DMA is evaluated on a 10-point scale across:
 
 | Dimension | Weight | What It Measures |
-|-----------|--------|-----------------|
+| --- | --- | --- |
 | Market Size | 25% | PI firm count, annual filings, population |
 | CPL Efficiency | 20% | Second Chair margin at $400/lead vs. media cost |
 | Competition Level | 15% | Lead gen vendor saturation, auction density |
@@ -75,7 +79,7 @@ Each DMA is evaluated on a 10-point scale across:
 ## Quick Comparison Table
 
 | Rank | DMA | Population (M) | Est. PI Firms | Annual PI Filings | Google Ads CPC Range | Est. SC CPL | Competition | Avg Case Value | Composite Score |
-|------|-----|----------------|--------------|-------------------|---------------------|-------------|-------------|---------------|----------------|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Atlanta | 6.2 | 1,800-2,200 | 38,000-45,000 | $150-$350 | $120-$180 | Medium | $18,000-$22,000 | 8.7 |
 | 2 | Los Angeles | 13.2 | 4,500-6,000 | 85,000-100,000 | $250-$500+ | $140-$220 | High | $20,000-$28,000 | 8.5 |
 | 3 | New York | 20.0 | 5,000-7,000 | 90,000-110,000 | $200-$450 | $150-$240 | High | $22,000-$30,000 | 8.4 |
@@ -87,8 +91,8 @@ Each DMA is evaluated on a 10-point scale across:
 | 9 | San Diego | 3.3 | 900-1,200 | 18,000-22,000 | $180-$350 | $120-$180 | Medium | $19,000-$26,000 | 7.2 |
 | 10 | Philadelphia | 4.1 | 1,400-1,800 | 30,000-38,000 | $150-$320 | $120-$180 | Medium | $18,000-$23,000 | 7.0 |
 
-**CPC = cost per click (what attorneys pay on Google Ads for PI keywords)**  
-**SC CPL = Second Chair's estimated cost per lead (media cost to generate, not sale price)**  
+**CPC = cost per click (what attorneys pay on Google Ads for PI keywords)**\
+**SC CPL = Second Chair's estimated cost per lead (media cost to generate, not sale price)**\
 **Avg Case Value = median attorney fee on PI settlements in that market**
 
 ---
@@ -102,7 +106,7 @@ Each DMA is evaluated on a 10-point scale across:
 **Priority Tier: 1 — Launch Immediately**
 
 | Dimension | Detail |
-|-----------|--------|
+| --- | --- |
 | **DMA Population** | 6.2 million |
 | **Estimated PI Firms** | 1,800-2,200 |
 | **Annual PI Filings (Est.)** | 38,000-45,000 |
@@ -136,7 +140,7 @@ Beyond relationships, the market fundamentals are strong:
 **Priority Tier: 1 — Launch Immediately**
 
 | Dimension | Detail |
-|-----------|--------|
+| --- | --- |
 | **DMA Population** | 13.2 million |
 | **Estimated PI Firms** | 4,500-6,000 |
 | **Annual PI Filings (Est.)** | 85,000-100,000 |
@@ -173,7 +177,7 @@ The market case is overwhelming:
 **Priority Tier: 1 — Launch Immediately**
 
 | Dimension | Detail |
-|-----------|--------|
+| --- | --- |
 | **DMA Population** | 20.0 million |
 | **Estimated PI Firms** | 5,000-7,000 |
 | **Annual PI Filings (Est.)** | 90,000-110,000 |
@@ -209,7 +213,7 @@ The structural advantages are significant:
 **Priority Tier: 2 — Months 4-6**
 
 | Dimension | Detail |
-|-----------|--------|
+| --- | --- |
 | **DMA Population** | 6.2 million |
 | **Estimated PI Firms** | 2,500-3,200 |
 | **Annual PI Filings (Est.)** | 55,000-65,000 |
@@ -226,7 +230,7 @@ South Florida is the highest-volume PI market per capita in the United States. F
 - **Florida's tort-friendly environment** makes it a PI powerhouse — no-fault PIP (Personal Injury Protection) insurance creates a floor of coverage, but the tort threshold for pursuing claims is relatively low (permanent injury, significant scarring, or loss of bodily function). Florida's 2024 tort reform (HB 837) introduced comparative fault changes but the market remains extremely active
 - **PI filings per capita are among the highest nationally** — Florida consistently leads in insurance fraud investigations, staged accident rings, and legitimate MVA claims alike. The market is massive and constant
 - **Average Google Ads CPC for "car accident lawyer Miami" runs $200-$380** — Second Chair at $400/lead represents a dramatic efficiency gain vs. the $4,000-$7,600 effective CPL on Google (at 5% conversion)
-- **Florida's uninsured motorist rate (~20%, among the highest nationally)** creates a specific class of high-value cases — UM/UIM claims against the claimant's own policy, which are often more straightforward to litigate
+- **Florida's uninsured motorist rate (\~20%, among the highest nationally)** creates a specific class of high-value cases — UM/UIM claims against the claimant's own policy, which are often more straightforward to litigate
 - **The South Florida corridor (I-95, Turnpike, I-75 extension)** generates massive MVA volume across three major counties
 - **Demographic diversity** — Miami-Dade is 70%+ Hispanic, requiring Spanish-language creative capabilities. Second Chair's creative advantage extends to bilingual campaign development, which most lead gen vendors neglect
 - **No team member is based locally**, but Florida is a 5-hour direct flight from both coasts. The market's lead gen sophistication means remote selling is more accepted — FL attorneys are accustomed to buying from national vendors
@@ -244,7 +248,7 @@ South Florida is the highest-volume PI market per capita in the United States. F
 **Priority Tier: 2 — Months 4-6**
 
 | Dimension | Detail |
-|-----------|--------|
+| --- | --- |
 | **DMA Population** | 4.7 million |
 | **Estimated PI Firms** | 1,600-2,100 |
 | **Annual PI Filings (Est.)** | 28,000-35,000 |
@@ -276,7 +280,7 @@ The Bay Area is a premium PI market with case values rivaling New York, and it's
 **Priority Tier: 2 — Months 4-6**
 
 | Dimension | Detail |
-|-----------|--------|
+| --- | --- |
 | **DMA Population** | 8.1 million |
 | **Estimated PI Firms** | 2,200-2,800 |
 | **Annual PI Filings (Est.)** | 50,000-60,000 |
@@ -308,7 +312,7 @@ Dallas-Ft. Worth is the most underappreciated PI market in the country relative 
 **Priority Tier: 3 — Months 7-12**
 
 | Dimension | Detail |
-|-----------|--------|
+| --- | --- |
 | **DMA Population** | 7.2 million |
 | **Estimated PI Firms** | 2,000-2,600 |
 | **Annual PI Filings (Est.)** | 50,000-62,000 |
@@ -325,7 +329,7 @@ Houston is the trucking accident capital of Texas — and arguably the United St
 - **Houston's position as the energy capital of the U.S.** generates industrial accident and commercial vehicle case types that overlap with MVA — oilfield truck accidents, chemical transport incidents, and refinery-related vehicle collisions create a unique class of high-value PI cases with commercial/industrial insurance coverage
 - **The Port of Houston is the #1 port in the U.S. by foreign tonnage**, and the logistics infrastructure connecting it to the rest of Texas (I-10, I-45, I-69/US-59) creates enormous trucking volume. Commercial truck accidents on the Gulf Freeway (I-45 South) and the Katy Freeway (I-10 West) are a near-daily occurrence
 - **Harris County leads Texas in MVA fatalities** — the sheer scale of Houston's freeway system (the Katy Freeway is the widest highway in the world at 26 lanes) and the metro's car dependency generate massive accident volume
-- **Houston's uninsured motorist rate is elevated** (~15-20% in Harris County), creating a reliable stream of UM/UIM claims
+- **Houston's uninsured motorist rate is elevated** (\~15-20% in Harris County), creating a reliable stream of UM/UIM claims
 - **The overlap with DFW operations creates Texas-wide efficiency** — launching Houston after DFW (or simultaneously) allows Second Chair to build Texas-specific creative assets, compliance templates, and market intelligence that serve both DMAs. Texas state bar rules apply to both, reducing incremental compliance work
 - **CPL economics are excellent** — $100-$170 media cost vs. $400 sale price gives Second Chair $230-$300 margin per lead
 
@@ -340,7 +344,7 @@ Houston is the trucking accident capital of Texas — and arguably the United St
 **Priority Tier: 3 — Months 7-12**
 
 | Dimension | Detail |
-|-----------|--------|
+| --- | --- |
 | **DMA Population** | 9.5 million |
 | **Estimated PI Firms** | 2,800-3,500 |
 | **Annual PI Filings (Est.)** | 55,000-68,000 |
@@ -372,7 +376,7 @@ Chicago is the third-largest DMA in the country and a fundamentally strong PI ma
 **Priority Tier: 3 — Months 7-12**
 
 | Dimension | Detail |
-|-----------|--------|
+| --- | --- |
 | **DMA Population** | 3.3 million |
 | **Estimated PI Firms** | 900-1,200 |
 | **Annual PI Filings (Est.)** | 18,000-22,000 |
@@ -407,7 +411,7 @@ San Diego is a mid-size market with strong fundamentals and a critical strategic
 **Priority Tier: 3 — Months 7-12**
 
 | Dimension | Detail |
-|-----------|--------|
+| --- | --- |
 | **DMA Population** | 4.1 million |
 | **Estimated PI Firms** | 1,400-1,800 |
 | **Annual PI Filings (Est.)** | 30,000-38,000 |
@@ -444,12 +448,13 @@ Philadelphia rounds out the Top 10 as an East Coast expansion market accessible 
 **Markets:** Atlanta, Los Angeles, New York
 
 | Activity | Month 1 | Month 2 | Month 3 |
-|----------|---------|---------|---------|
+| --- | --- | --- | --- |
 | **Atlanta** | Alex activates warm relationships. First pitch meetings. | Close first client. Launch consumer campaigns (Claim Justice Now). | First leads delivered. Optimize CPL. Gather case studies. |
 | **Los Angeles** | Davis/Alex begin local outreach. Identify 10-15 target firms. | First pitch meetings. Leverage creative samples. | Close first client. Launch campaigns in 1-2 sub-territories. |
 | **New York** | Sasha activates NY network. Target outer borough/suburban firms. | First pitch meetings. Position against existing vendor fatigue. | Close first client. Launch campaigns targeting Brooklyn/Queens/LI. |
 
 **Phase 1 targets:**
+
 - 3-5 signed clients across 3 DMAs
 - $60,000-$120,000 MRR by end of Month 3
 - First case studies and proof points generated
@@ -460,12 +465,13 @@ Philadelphia rounds out the Top 10 as an East Coast expansion market accessible 
 **Markets:** Miami-Ft. Lauderdale, San Francisco-Oakland-San Jose, Dallas-Ft. Worth
 
 | Activity | Month 4 | Month 5 | Month 6 |
-|----------|---------|---------|---------|
+| --- | --- | --- | --- |
 | **Miami** | Begin outreach. Develop Spanish-language creative. | First pitch meetings. Lead with ATL/LA/NY proof points. | Close first client. Launch bilingual campaigns. |
 | **San Francisco** | Davis/Alex extend CA operations northward. Identify targets. | First pitch meetings. Leverage LA success metrics. | Close first client. Launch Bay Area campaigns. |
 | **Dallas-Ft. Worth** | Begin outreach. Develop TX-specific compliance and creative. | First pitch meetings. Emphasize trucking accident targeting. | Close first client. Launch DFW campaigns. |
 
 **Phase 2 targets:**
+
 - 3-6 additional signed clients across 3 new DMAs
 - $120,000-$240,000 cumulative MRR by end of Month 6
 - Texas and Florida operations established
@@ -476,13 +482,14 @@ Philadelphia rounds out the Top 10 as an East Coast expansion market accessible 
 **Markets:** Houston, Chicago, San Diego, Philadelphia
 
 | Activity | Months 7-8 | Months 9-10 | Months 11-12 |
-|----------|------------|-------------|--------------|
+| --- | --- | --- | --- |
 | **Houston** | Launch alongside DFW Texas infrastructure. Trucking-focused creative. | First client signed. Optimize for energy corridor cases. | Scale volume. Evaluate TX statewide bundle opportunity. |
 | **Chicago** | Begin outreach. Develop Midwest market positioning. | First pitch meetings. Position as Midwest beachhead. | Close first client. Launch campaigns. |
 | **San Diego** | Davis services locally. Target mid-size firms in suburban corridors. | First client signed. Launch campaigns. | Optimize. Evaluate as CA statewide bundle with LA/SF. |
 | **Philadelphia** | Sasha extends from NY. Target Delaware Valley firms. | First pitch meetings. Lead with NY proof points. | Close first client. Launch campaigns. |
 
 **Phase 3 targets:**
+
 - 4-8 additional signed clients across 4 new DMAs
 - $200,000-$400,000+ cumulative MRR by end of Month 12
 - 10 DMAs operational
@@ -495,7 +502,7 @@ Philadelphia rounds out the Top 10 as an East Coast expansion market accessible 
 ### Conservative Scenario (1 client per DMA, minimum volume)
 
 | DMA | Monthly Leads | Revenue/Month |
-|-----|--------------|---------------|
+| --- | --- | --- |
 | Atlanta | 40 | $16,000 |
 | Los Angeles | 70 | $28,000 |
 | New York | 60 | $24,000 |
@@ -511,7 +518,7 @@ Philadelphia rounds out the Top 10 as an East Coast expansion market accessible 
 ### Moderate Scenario (1-2 clients per DMA, moderate volume)
 
 | DMA | Monthly Leads | Revenue/Month |
-|-----|--------------|---------------|
+| --- | --- | --- |
 | Atlanta | 60 | $24,000 |
 | Los Angeles | 120 | $48,000 |
 | New York | 100 | $40,000 |
@@ -527,7 +534,7 @@ Philadelphia rounds out the Top 10 as an East Coast expansion market accessible 
 ### Aggressive Scenario (2-4 clients per DMA in large markets, max volume)
 
 | DMA | Monthly Leads | Revenue/Month |
-|-----|--------------|---------------|
+| --- | --- | --- |
 | Atlanta | 90 | $36,000 |
 | Los Angeles | 200 | $80,000 |
 | New York | 180 | $72,000 |
@@ -545,7 +552,7 @@ Philadelphia rounds out the Top 10 as an East Coast expansion market accessible 
 ## Market Attractiveness vs. Challenges Matrix
 
 | DMA | What Makes It Attractive | What Makes It Challenging |
-|-----|-------------------------|--------------------------|
+| --- | --- | --- |
 | **Atlanta** | Alex's relationships, medium competition, strong margins, trucking corridor, plaintiff-friendly | No damage caps could attract frivolous filings; comparative fault at 50% threshold |
 | **Los Angeles** | Largest PI market, team home base, extreme CPC = extreme value prop, rideshare volume | Most competitive lead gen market, high CPL, vendor-fatigued buyers |
 | **New York** | Sasha's base, highest case values, largest DMA population, density = efficient CPMs | No-fault complexity, sophisticated/skeptical buyers, high CPL |
@@ -562,12 +569,13 @@ Philadelphia rounds out the Top 10 as an East Coast expansion market accessible 
 ## Markets Considered and Excluded
 
 ### Nevada (Removed Per Strategic Decision)
+
 Previously listed as an active market. Deprioritized per team directive. Not included in Top 10 analysis.
 
 ### Markets on the Watchlist (Beyond Top 10)
 
 | DMA | Why It's Interesting | Why It's Not Top 10 (Yet) |
-|-----|---------------------|--------------------------|
+| --- | --- | --- |
 | **Phoenix, AZ** | Fast-growing metro, low CPCs, no-fault-free state | No team proximity, smaller case values, less sophisticated buyers |
 | **Washington, DC / Baltimore** | Sasha-accessible, federal worker demographics, high incomes | Split DMA complicates targeting, government-heavy economy ≠ PI volume |
 | **Tampa-St. Petersburg, FL** | FL market benefits, I-4 corridor, retiree population | Would launch as FL extension after Miami proves out |
@@ -591,7 +599,7 @@ Previously listed as an active market. Deprioritized per team directive. Not inc
 
 5. **Case values are median attorney fee estimates** based on industry data and market-specific adjustments. Actual case values vary widely — a single trucking accident wrongful death case can exceed $1M in attorney fees, while soft tissue cases may net $5,000-$7,000.
 
-6. **Google Ads CPC data** is based on Q4 2025 Keyword Planner estimates for high-intent PI keywords ("car accident lawyer [city]," "personal injury attorney [city]," "truck accident lawyer [city]"). Actual CPCs fluctuate seasonally and competitively.
+6. **Google Ads CPC data** is based on Q4 2025 Keyword Planner estimates for high-intent PI keywords ("car accident lawyer \[city\]," "personal injury attorney \[city\]," "truck accident lawyer \[city\]"). Actual CPCs fluctuate seasonally and competitively.
 
 7. **PI firm counts** are estimated from ABA lawyer demographics, state bar member directories, and legal marketing industry reports. Counts include solo practitioners through mid-size firms actively handling PI cases.
 
@@ -599,12 +607,12 @@ Previously listed as an active market. Deprioritized per team directive. Not inc
 
 ## Related Documents
 
-- [`STATE_MARKET_PRIORITIZATION_B2B_ACQUISITION.md`](STATE_MARKET_PRIORITIZATION_B2B_ACQUISITION.md) — Full 50-state analysis and tier rankings
-- [`TOTAL_ADDRESSABLE_MARKET_ANALYSIS.md`](TOTAL_ADDRESSABLE_MARKET_ANALYSIS.md) — TAM calculation for PI/immigration/tort by state
-- [`GEO_EXCLUSIVE_WHALE_CLIENT_MODEL.md`](GEO_EXCLUSIVE_WHALE_CLIENT_MODEL.md) — Revenue modeling for geo-exclusive whale clients
-- [`../../01_Identity/SERVICE_PERSONAL_INJURY.md`](../../01_Identity/SERVICE_PERSONAL_INJURY.md) — PI service overview and pricing structure
-- [`../../01_Identity/BRAND_POSITIONING_CORE.md`](../../01_Identity/BRAND_POSITIONING_CORE.md) — Core positioning and competitive differentiation
-- [`03_Geo_Exclusivity/`](03_Geo_Exclusivity/) — DMA exclusivity policies and territory definitions
+- `STATE_MARKET_PRIORITIZATION_B2B_ACQUISITION.md` — Full 50-state analysis and tier rankings
+- `TOTAL_ADDRESSABLE_MARKET_ANALYSIS.md` — TAM calculation for PI/immigration/tort by state
+- `GEO_EXCLUSIVE_WHALE_CLIENT_MODEL.md` — Revenue modeling for geo-exclusive whale clients
+- `../../01_Identity/SERVICE_PERSONAL_INJURY.md` — PI service overview and pricing structure
+- `../../01_Identity/BRAND_POSITIONING_CORE.md` — Core positioning and competitive differentiation
+- `03_Geo_Exclusivity/` — DMA exclusivity policies and territory definitions
 
 ---
 
