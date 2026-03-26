@@ -168,6 +168,11 @@ SC's target cost is $75–$150/lead. Even at $150 cost, margins clear 55% at eve
 | **Tampa–St. Petersburg** | 3.2M | 5.5 | 8.0 | 5.0 | 5.5 | 9.0 | 7.0 | **6.4** | **$370** |
 | **Jacksonville** | 1.7M | 4.0 | 8.0 | 3.5 | 4.5 | 9.0 | 4.0 | **5.5** | **$340** |
 | **Cape Coral–Fort Myers** | 1.0M | 3.5 | 8.0 | 3.0 | 4.0 | 9.0 | 7.5 | **5.5** | **$340** |
+| **West Palm Beach–Ft. Pierce** | 1.6M | 5.0 | 8.0 | 4.0 | 5.5 | 9.0 | 7.0 | **6.3** | **$365** |
+| **Pensacola–Ft. Walton Beach** | 0.9M | 3.0 | 8.0 | 2.5 | 4.0 | 9.0 | 6.0 | **5.2** | **$325** |
+| **Lakeland–Winter Haven** | 0.7M | 3.0 | 8.0 | 2.5 | 4.0 | 9.0 | 5.0 | **5.1** | **$325** |
+| **Tallahassee** | 0.5M | 2.0 | 8.0 | 1.5 | 3.5 | 9.0 | 4.5 | **4.6** | **$305** |
+| **Gainesville** | 0.4M | 1.5 | 8.0 | 1.0 | 3.0 | 9.0 | 4.5 | **4.3** | **$295** |
 
 **Florida X-Factors:**
 - Miami: Highest PI lead volume per capita in the US. 70%+ Hispanic population — bilingual campaigns mandatory. No-fault screening + 20.6% uninsured = highest waste rate. Extremely aggressive local PI advertising market.
@@ -175,6 +180,11 @@ SC's target cost is $75–$150/lead. Even at $150 cost, margins clear 55% at eve
 - Tampa: I-4 western terminus. Large retiree population with different injury profiles and case values. Moderate-to-high competition.
 - Jacksonville: Growing metro, I-95 corridor. Meaningfully lower competition than South FL. Military presence (Naval Station Mayport, NAS Jacksonville).
 - Cape Coral/Fort Myers: Classic snowbird market. Volume spikes Nov–Apr, drops May–Oct. Seasonal pricing adjustment may be warranted after 12 months of data.
+- West Palm Beach: Palm Beach County wealth drives higher case values than statewide average. Snowbird market with significant seasonal volume swing. Moderate competition — less saturated than Miami but shares the same no-fault screening requirements. CPC $150–$300.
+- Pensacola/Ft. Walton Beach: Florida Panhandle. Military presence (NAS Pensacola) adds transient factor. Beach tourism drives seasonal MVA volume. Lower competition than peninsular FL markets. I-10 corridor.
+- Lakeland/Winter Haven: I-4 corridor between Orlando and Tampa. Neither as touristic as Orlando nor as retiree-heavy as Tampa — more residential/commuter. Growing metro. Moderate competition.
+- Tallahassee: Florida Panhandle, state capital. Cross-state DMA with parts of southern GA. College town (FSU, FAMU) adds moderate transient factor. Lower competition than peninsular FL. No-fault screening still required.
+- Gainesville: Small FL DMA anchored by University of Florida. Pop is borderline (~0.4M) but FL no-fault system keeps MOI elevated. College population creates lead quality challenges (younger demographics, lower case values).
 
 ---
 
@@ -289,10 +299,14 @@ SC's target cost is $75–$150/lead. Even at $150 cost, margins clear 55% at eve
 |-----|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Philadelphia** | 4.1M | 7.0 | 7.0 | 6.0 | 7.5 | 5.0 | 4.0 | **6.5** | **$375** |
 | **Pittsburgh** | 2.4M | 4.5 | 7.0 | 4.0 | 5.0 | 5.0 | 3.0 | **5.0** | **$320** |
+| **Harrisburg–Lancaster–York** | 1.2M | 4.0 | 7.0 | 3.5 | 5.0 | 5.0 | 3.0 | **4.8** | **$310** |
+| **Wilkes-Barre–Scranton** | 0.7M | 3.0 | 7.0 | 2.0 | 4.5 | 5.0 | 3.0 | **4.3** | **$295** |
 
 **Pennsylvania X-Factors:**
 - Philadelphia: Plaintiff-friendly venue, nationally known for favorable jury verdicts. Must screen every lead for limited vs. full tort election — this is a meaningful operational cost. Sasha proximity. CPC $150–$320. Philadelphia DMA includes parts of NJ and DE (see Section 6).
 - Pittsburgh: Strong regional market with a loyal local firm ecosystem. Lower competition than Philly. Steel/industrial heritage means more commercial vehicle traffic.
+- Harrisburg/Lancaster/York: Central PA corridor. Moderate market, benefits from PA choice no-fault system. I-76/I-83 corridors. Mix of suburban and rural demographics.
+- Wilkes-Barre/Scranton: Northeastern PA. Small market but PA choice no-fault drives viability score to 7.0. I-81 corridor. Lower competition and media costs than Philly or Pittsburgh.
 
 ---
 
@@ -358,6 +372,426 @@ See Section 6 (Cross-State DMA Rules) for compliance implications.
 **Washington X-Factors:**
 - Seattle: Existing SC operations. Tech demographics drive higher average case values (higher income = higher economic damages). I-5 corridor. Rainy conditions contribute to higher MVA rates per capita. CPC moderate but rising.
 - Spokane: Small market, eastern WA. Low competition. Military (Fairchild AFB) adds minor transient factor.
+
+---
+
+## Section 3B: Additional States — Tier 1–2 DMA Scoring
+
+The following states contain DMAs that score into Tier 1–2 (MOI 5.0+) and require canonical sub-dimensional breakdowns. Added March 2026 to support the full DMA Ranked List (`04_Audience/DMA_Ranked_List.md`).
+
+---
+
+### 11. Michigan
+
+| | |
+|---|---|
+| **Fault System** | No-fault with serious impairment threshold (among the strictest nationally, second only to NY) |
+| **Statute of Limitations** | 3 years |
+| **Uninsured Motorist Rate** | ~20% (IRC 2023) |
+| **PIP Minimum** | $50,000 to unlimited (choice — MI reformed PIP in 2019 to allow tiered coverage) |
+| **Serious Impairment Threshold** | "Serious impairment of body function" — an objectively manifested impairment of an important body function that affects the person's general ability to lead a normal life |
+| **Viability Notes** | MI's no-fault system creates screening costs comparable to NY. The 2019 PIP reform introduced tiered coverage options, complicating the screening landscape further. High uninsured rate (~20%) compounds screening waste. However, 3-year SOL and viable leads clearing the threshold are high-value. Declining population in Detroit DMA but still a top-15 market nationally. |
+
+| DMA | Pop. | Comp/Media (25%) | Viability (25%) | Size (15%) | Case Value (15%) | Uninsured (10%) | X-Factors (10%) | **MOI** | **CPL** |
+|-----|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Detroit** | 4.4M | 6.0 | 9.0 | 6.5 | 6.0 | 8.0 | 3.5 | **6.8** | **$385** |
+| **Grand Rapids** | 0.8M | 3.0 | 9.0 | 2.5 | 4.5 | 8.0 | 3.0 | **5.2** | **$325** |
+| **Flint–Saginaw** | 0.6M | 2.5 | 9.0 | 2.0 | 4.0 | 8.0 | 3.0 | **4.9** | **$315** |
+| **Lansing** | 0.5M | 2.0 | 9.0 | 1.5 | 3.5 | 8.0 | 4.0 | **4.7** | **$310** |
+
+**Michigan X-Factors:**
+- Detroit: Top-15 US DMA by population despite decades of population decline. ~1,500–2,000 PI firms. MI's strict no-fault screening pushes operating costs up significantly — similar to NY upstate markets in pricing dynamics. CPC $150–$300 (lower than coastal but higher than Midwest average due to attorney density). Auto industry heritage means high vehicle density and MVA volume per capita.
+- Grand Rapids: Growing west MI metro. Lower competition than Detroit. Same MI no-fault screening requirement drives viability score to 9.0, pushing this small market into Tier 2 pricing despite modest population. Furniture/manufacturing sector = commercial vehicle traffic.
+- Flint/Saginaw: Post-industrial corridor in central MI. Declining population but still ~0.6M DMA. MI no-fault keeps MOI elevated. Lower case values than Detroit. Very low competition.
+- Lansing: State capital, Michigan State University. MI no-fault screening drives viability to 9.0. College population adds moderate transient factor. Low media costs.
+
+---
+
+### 12. Massachusetts
+
+| | |
+|---|---|
+| **Fault System** | No-fault with threshold ($2,000 in medical expenses or "serious injury") |
+| **Statute of Limitations** | 3 years |
+| **Uninsured Motorist Rate** | ~6.2% (IRC 2023) — among the lowest nationally |
+| **PIP Minimum** | $8,000/person |
+| **Threshold** | $2,000 in reasonable medical expenses OR serious injury (death, dismemberment, significant disfigurement, fracture, loss of sight/hearing). The $2K medical threshold is relatively low — most MVAs with any treatment will cross it. |
+| **Viability Notes** | MA's no-fault threshold is the easiest to clear among no-fault states (only $2K in medical bills). This means more leads survive screening than in NY, FL, or MI. Combined with the lowest uninsured rate in our portfolio (~6.2%) and high case values (Northeast market), MA offers strong unit economics despite high media costs. |
+
+| DMA | Pop. | Comp/Media (25%) | Viability (25%) | Size (15%) | Case Value (15%) | Uninsured (10%) | X-Factors (10%) | **MOI** | **CPL** |
+|-----|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Boston** | 4.8M | 7.5 | 7.5 | 6.5 | 7.0 | 2.5 | 4.0 | **6.4** | **$370** |
+| **Springfield–Holyoke** | 0.6M | 3.0 | 7.5 | 2.0 | 5.0 | 2.5 | 3.0 | **4.2** | **$290** |
+
+**Massachusetts X-Factors:**
+- Boston: Top-10 US DMA. ~2,000+ PI firms. Northeast CPC environment ($300–$450). High case values driven by high cost of living, high income demographics, and plaintiff-friendly venue reputation. Major university/hospital concentration means sophisticated medical documentation on injury claims. Lowest uninsured rate in our scored states (~6.2%) means almost every lead has an insured at-fault party — significantly less funnel waste than FL or CA. No existing SC team relationships in market.
+- Springfield/Holyoke: Western MA, I-91 corridor. Small market but benefits from MA no-fault system (viability 7.5) and very low uninsured rate. Lower case values and competition than Boston. Clean economics at $290/lead.
+
+---
+
+### 13. DC / Maryland / Virginia (Contributory Negligence)
+
+| | |
+|---|---|
+| **Fault System** | Contributory negligence in all three jurisdictions (DC, MD, VA) — plaintiff at ANY fault recovers nothing |
+| **Statute of Limitations** | DC: 3 years, MD: 3 years, VA: 2 years |
+| **Uninsured Motorist Rate** | DC: ~10%, MD: ~13%, VA: ~9% (IRC 2023) |
+| **Regulatory Notes** | DC, MD, and VA are three of only five US jurisdictions using pure contributory negligence (along with AL and NC). This is the harshest liability standard — if the plaintiff is even 1% at fault, they recover zero. |
+| **Viability Notes** | Contributory negligence is structurally hostile to PI lead gen. More leads become non-viable because any contributory fault bars recovery entirely. This doesn't create the same screening cost as no-fault (there's no threshold to screen against), but it does mean a higher percentage of leads will be rejected by attorneys during case evaluation. The cases that survive are strong — clear liability, documented injuries, clean facts. Washington DC DMA is large (6.4M) with high case values driven by federal workforce income levels. |
+
+| DMA | Pop. | Comp/Media (25%) | Viability (25%) | Size (15%) | Case Value (15%) | Uninsured (10%) | X-Factors (10%) | **MOI** | **CPL** |
+|-----|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Washington DC** | 6.4M | 7.0 | 5.5 | 7.0 | 7.0 | 5.0 | 5.0 | **6.2** | **$365** |
+| **Baltimore** | 2.8M | 5.0 | 5.5 | 4.5 | 5.5 | 5.5 | 3.5 | **5.0** | **$320** |
+| **Norfolk–Virginia Beach** | 1.8M | 4.0 | 5.5 | 4.0 | 5.0 | 4.0 | 6.0 | **4.7** | **$310** |
+| **Richmond** | 1.0M | 3.5 | 5.5 | 3.0 | 4.5 | 4.0 | 3.5 | **4.1** | **$285** |
+
+**DC/MD/VA X-Factors:**
+- Washington DC: 6.4M DMA spanning DC, suburban MD (Montgomery, Prince George's, Frederick), and Northern VA (Fairfax, Arlington, Loudoun). Federal workforce = high income = high economic damages in PI cases. Government contractors and lobbyists drive premium case values. I-95/I-495 (Capital Beltway) among the most congested corridors in the US — high MVA volume. Moderate transient factor from government rotations and diplomatic community. CPC $200–$400 (Northeast-level pricing). Cross-state compliance: contributory negligence in all three jurisdictions, but each has different procedural rules.
+- Baltimore: Separate DMA from DC. I-95 corridor, port city. Lower case values than DC metro. More blue-collar demographics. Moderate competition. Less attractive than DC but benefits from MD's 3-year SOL.
+- Norfolk/Virginia Beach/Hampton Roads: VA's largest military concentration — Norfolk Naval Station (world's largest naval base), Langley AFB, multiple shipyards. Military personnel and dependents create significant transient population (X-factor 6.0). VA contributory negligence applies. I-64 corridor. CPC $150–$250.
+- Richmond: VA state capital. Smaller market, lower competition. VA contributory negligence limits viability. I-95/I-64 junction. Stable residential demographics.
+
+---
+
+### 14. Minnesota
+
+| | |
+|---|---|
+| **Fault System** | No-fault with threshold ($4,000 in medical expenses or 60-day disability) |
+| **Statute of Limitations** | 6 years (longest in the US for PI) |
+| **Uninsured Motorist Rate** | ~10% (IRC 2023) |
+| **PIP Minimum** | $40,000/person (second-highest nationally after NY) |
+| **Threshold** | Medical expenses exceeding $4,000 OR disability for 60+ days OR permanent disfigurement, permanent injury, or death |
+| **Viability Notes** | MN's no-fault threshold is moderate — $4K in medical bills or 60 days of disability. More leads survive screening than in NY or MI, but fewer than in MA ($2K threshold). The 6-year SOL is the longest in the country — a major advantage for lead gen because leads remain viable far longer. Low uninsured rate (~10%) means clean funnel. Combined with $40K PIP (generous coverage), MN offers solid unit economics. |
+
+| DMA | Pop. | Comp/Media (25%) | Viability (25%) | Size (15%) | Case Value (15%) | Uninsured (10%) | X-Factors (10%) | **MOI** | **CPL** |
+|-----|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Minneapolis–St. Paul** | 3.7M | 5.0 | 7.5 | 6.0 | 5.5 | 4.0 | 3.0 | **5.6** | **$340** |
+
+**Minnesota X-Factors:**
+- Minneapolis–St. Paul: Twin Cities metro, ~3.7M DMA population (cross-state with western WI). ~1,200–1,800 PI firms. Midwest CPC environment ($200–$350). Harsh winter driving conditions contribute to higher MVA rates per capita during November–March. 6-year SOL is a major operational advantage — leads generated today remain viable for years. Low uninsured rate means less funnel waste. No existing SC relationships in market. Stable residential population, minimal transient factors.
+
+---
+
+### 15. Tennessee
+
+| | |
+|---|---|
+| **Fault System** | Modified comparative negligence (51% bar) |
+| **Statute of Limitations** | 1 year (shortest in the US, tied with LA) |
+| **Uninsured Motorist Rate** | ~20% (IRC 2023) |
+| **Regulatory Notes** | Standard at-fault state with no PIP/no-fault complexity. The critical factor is the 1-year SOL — the shortest in the country. |
+| **Viability Notes** | TN's 1-year SOL fundamentally changes the lead gen calculus. Leads older than 6–8 months are often too close to the deadline for attorneys to take on. This compresses the conversion window significantly vs. states with 2–3 year SOLs. Combined with the highest uninsured rate (~20%) among at-fault states, TN has more funnel waste than its tort system would otherwise suggest. Scored at 5.0 viability (0.5 above standard modified 51% states) to reflect the SOL pressure. |
+
+| DMA | Pop. | Comp/Media (25%) | Viability (25%) | Size (15%) | Case Value (15%) | Uninsured (10%) | X-Factors (10%) | **MOI** | **CPL** |
+|-----|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Nashville** | 1.9M | 5.0 | 5.0 | 4.5 | 5.0 | 8.0 | 6.0 | **5.3** | **$330** |
+| **Memphis** | 1.3M | 4.0 | 5.0 | 4.0 | 4.0 | 8.0 | 4.5 | **4.7** | **$310** |
+| **Knoxville** | 0.9M | 3.5 | 5.0 | 2.5 | 4.0 | 8.0 | 4.0 | **4.3** | **$295** |
+
+**Tennessee X-Factors:**
+- Nashville: Fast-growing metro (~1.9M DMA). Music tourism and bachelor/bachelorette party industry creates meaningful transient MVA population — visitors in accidents who may leave state before pursuing claims. I-24/I-40/I-65 interchange is a major accident corridor. Growing attorney market as population expands. CPC $150–$300 (Southeast average). The 1-year SOL means SC must prioritize lead freshness — any delay in delivery or attorney follow-up directly erodes the conversion window.
+- Memphis: Cross-state DMA (TN/MS/AR). TN dominates population. I-40 corridor, FedEx hub generates significant commercial vehicle traffic. Lower case values than Nashville. The 1-year SOL applies to TN-side leads; MS and AR portions have longer SOLs (3 years each) but different fault systems.
+- Knoxville: East TN, I-40/I-75 junction. University of Tennessee adds moderate college-town transient factor. Lower competition than Nashville or Memphis. Same 1-year SOL constraint.
+
+---
+
+### 16. Nevada
+
+| | |
+|---|---|
+| **Fault System** | Modified comparative negligence (51% bar) |
+| **Statute of Limitations** | 2 years |
+| **Uninsured Motorist Rate** | ~10% (IRC 2023) |
+| **Regulatory Notes** | Standard at-fault state. Nevada was previously removed from the Top 10 DMA Targets per strategic decision — included here for scoring completeness. |
+| **Viability Notes** | NV's tort system is straightforward — no no-fault, no unusual thresholds. Low uninsured rate for a Western state (~10%). The defining characteristic is the extreme tourism/transient X-factor in Las Vegas, which drives up waste: tourists in MVAs who leave the state, visitors with out-of-state insurance creating coverage complications, and seasonal volume patterns tied to convention/event calendar. |
+
+| DMA | Pop. | Comp/Media (25%) | Viability (25%) | Size (15%) | Case Value (15%) | Uninsured (10%) | X-Factors (10%) | **MOI** | **CPL** |
+|-----|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Las Vegas** | 2.3M | 5.0 | 4.5 | 4.5 | 5.0 | 4.5 | 9.5 | **5.2** | **$325** |
+
+**Nevada X-Factors:**
+- Las Vegas: 2.3M DMA population, but the effective MVA population is much larger due to ~40M annual visitors. The Strip and surrounding resort corridor generates high tourist-involved MVA volume where claimants leave the state post-accident — a lead quality challenge. Convention traffic creates predictable volume spikes (CES in January, etc.). Rideshare MVAs (Uber/Lyft to/from casinos) are a growing segment. CPC $200–$350. X-Factor score of 9.5 is the highest in our portfolio — only Orlando (8.5) comes close. **Note:** Strategic hold per team decision. Scoring included for market universe completeness.
+
+---
+
+## Section 3C: Additional States — Tier 3 DMA Scoring
+
+Remaining states with Tier 3 DMAs (MOI 4.0–4.9). Added March 2026.
+
+---
+
+### 17. Colorado
+
+| | |
+|---|---|
+| **Fault System** | Modified comparative negligence (50% bar) |
+| **Statute of Limitations** | 3 years |
+| **Uninsured Motorist Rate** | ~16% (IRC 2023) |
+| **Viability Notes** | At-fault state with 50% bar (same as GA). 3-year SOL is favorable. Existing SC operations in CO. |
+
+| DMA | Pop. | Comp/Media (25%) | Viability (25%) | Size (15%) | Case Value (15%) | Uninsured (10%) | X-Factors (10%) | **MOI** | **CPL** |
+|-----|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Denver** | 3.0M | 5.0 | 4.5 | 5.0 | 5.0 | 6.5 | 3.5 | **4.9** | **$315** |
+| **Colorado Springs** | 0.8M | 3.0 | 4.5 | 2.5 | 4.0 | 6.5 | 5.0 | **4.0** | **$285** |
+
+**Colorado X-Factors:**
+- Denver: Growing metro (~3.0M DMA). West region CPC ($200–$300). I-25/I-70 corridors. Existing SC market operations. Moderate competition.
+- Colorado Springs: Major military presence (Fort Carson, USAFA, Peterson SFB, Schriever SFB) drives X-factor to 5.0. Military transient population creates lead quality variation.
+
+---
+
+### 18. Hawaii
+
+| | |
+|---|---|
+| **Fault System** | No-fault (PIP required) |
+| **Statute of Limitations** | 2 years |
+| **Uninsured Motorist Rate** | ~8% (IRC 2023) |
+| **PIP Minimum** | $10,000/person |
+| **Viability Notes** | HI no-fault system with a serious injury threshold. Island geography means all MVAs are local — no interstate complexity. Tourism and military (Pearl Harbor, Schofield Barracks, Hickam) create extreme transient/X-factor. |
+
+| DMA | Pop. | Comp/Media (25%) | Viability (25%) | Size (15%) | Case Value (15%) | Uninsured (10%) | X-Factors (10%) | **MOI** | **CPL** |
+|-----|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Honolulu** | 1.0M | 3.0 | 7.0 | 3.0 | 5.0 | 3.5 | 8.0 | **4.9** | **$315** |
+
+**Hawaii X-Factors:**
+- Honolulu: Island DMA — all of Oahu plus outer islands. ~10M annual visitors create massive transient MVA population. Military concentration (Pearl Harbor, multiple bases) adds to transient factor. Isolated media market — limited national vendor competition. Higher cost of living = higher case values than mainland markets of similar size.
+
+---
+
+### 19. North Carolina (Contributory Negligence)
+
+| | |
+|---|---|
+| **Fault System** | Contributory negligence — plaintiff at ANY fault recovers nothing |
+| **Statute of Limitations** | 3 years |
+| **Uninsured Motorist Rate** | ~7% (IRC 2023) — low |
+| **Viability Notes** | NC is one of five contributory negligence jurisdictions. The all-or-nothing rule kills more leads than standard at-fault states. However, 3-year SOL is favorable and very low uninsured rate (~7%) means minimal insurance-related waste. Large, growing metros (Charlotte, Raleigh-Durham) with significant PI firm presence. |
+
+| DMA | Pop. | Comp/Media (25%) | Viability (25%) | Size (15%) | Case Value (15%) | Uninsured (10%) | X-Factors (10%) | **MOI** | **CPL** |
+|-----|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Charlotte** | 2.7M | 5.5 | 5.5 | 4.5 | 5.0 | 3.0 | 3.0 | **4.8** | **$310** |
+| **Raleigh–Durham** | 1.6M | 4.5 | 5.5 | 4.0 | 5.0 | 3.0 | 4.5 | **4.6** | **$305** |
+
+**North Carolina X-Factors:**
+- Charlotte: Banking capital of the Southeast. 2.7M DMA, growing rapidly. I-77/I-85 corridors. Despite large population, contributory negligence + low uninsured rate limit the MOI. Case values are moderate.
+- Raleigh-Durham: Research Triangle (Duke, UNC, NC State). College/tech demographics. Growing metro. Contributory negligence limits viability. College transient population = moderate X-factor (4.5).
+
+---
+
+### 20. Oregon
+
+| | |
+|---|---|
+| **Fault System** | Modified comparative negligence (51% bar) |
+| **Statute of Limitations** | 2 years |
+| **Uninsured Motorist Rate** | ~12% (IRC 2023) |
+| **Viability Notes** | Standard at-fault system. Portland is the only significant DMA. Higher-than-average case values for the West region. |
+
+| DMA | Pop. | Comp/Media (25%) | Viability (25%) | Size (15%) | Case Value (15%) | Uninsured (10%) | X-Factors (10%) | **MOI** | **CPL** |
+|-----|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Portland** | 2.0M | 5.0 | 4.5 | 4.5 | 5.5 | 5.0 | 3.0 | **4.7** | **$310** |
+
+**Oregon X-Factors:**
+- Portland: West Coast metro, I-5 corridor. Rainy climate contributes to higher MVA rates. Growing market with increasing competition. Case values above Midwest average due to West Coast cost of living. CPC $200–$350.
+
+---
+
+### 21. Indiana
+
+| | |
+|---|---|
+| **Fault System** | Modified comparative negligence (51% bar) |
+| **Statute of Limitations** | 2 years |
+| **Uninsured Motorist Rate** | ~14% (IRC 2023) |
+| **Viability Notes** | Standard at-fault state. Indianapolis is the primary DMA. Crossroads of America — I-65/I-70/I-69 intersection generates high through-traffic MVA volume. |
+
+| DMA | Pop. | Comp/Media (25%) | Viability (25%) | Size (15%) | Case Value (15%) | Uninsured (10%) | X-Factors (10%) | **MOI** | **CPL** |
+|-----|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Indianapolis** | 2.0M | 4.5 | 4.5 | 4.5 | 4.5 | 6.0 | 4.0 | **4.6** | **$305** |
+
+**Indiana X-Factors:**
+- Indianapolis: "Crossroads of America" — I-65/I-70/I-69 intersection creates high through-traffic MVA volume. Indianapolis Motor Speedway events generate periodic tourism spikes. Midwest CPC ($200–$300). Moderate PI firm density.
+
+---
+
+### 22. Ohio
+
+| | |
+|---|---|
+| **Fault System** | Modified comparative negligence (51% bar) |
+| **Statute of Limitations** | 2 years |
+| **Uninsured Motorist Rate** | 12.4% (IRC 2023) |
+| **Viability Notes** | Standard at-fault state. Three major DMAs (Columbus, Cincinnati, Cleveland) plus smaller markets. Midwest CPC environment. Moderate uninsured rate. |
+
+| DMA | Pop. | Comp/Media (25%) | Viability (25%) | Size (15%) | Case Value (15%) | Uninsured (10%) | X-Factors (10%) | **MOI** | **CPL** |
+|-----|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Columbus** | 2.0M | 4.5 | 4.5 | 4.5 | 4.5 | 5.0 | 4.0 | **4.5** | **$300** |
+| **Cincinnati** | 2.2M | 4.5 | 4.5 | 4.5 | 4.5 | 5.0 | 3.0 | **4.4** | **$300** |
+| **Cleveland** | 1.8M | 4.5 | 4.5 | 4.0 | 5.0 | 5.0 | 3.0 | **4.4** | **$300** |
+
+**Ohio X-Factors:**
+- Columbus: State capital, Ohio State University. Growing metro. OSU adds moderate college transient factor (X-factor 4.0). I-70/I-71 corridors.
+- Cincinnati: Cross-state DMA (OH/KY/IN). OH dominates population. KY portion is choice no-fault (different screening requirements). I-71/I-75 corridors. Stable residential market.
+- Cleveland: Lake Erie metro, I-90/I-77 corridors. Higher case values than Columbus/Cincinnati due to plaintiff-friendly Cuyahoga County venue reputation. Declining population but still significant.
+
+---
+
+### 23. Connecticut
+
+| | |
+|---|---|
+| **Fault System** | Modified comparative negligence (51% bar) |
+| **Statute of Limitations** | 2 years |
+| **Uninsured Motorist Rate** | ~7% (IRC 2023) — low |
+| **Viability Notes** | At-fault state with straightforward system. Fairfield County (southwestern CT) is part of the NYC DMA. The Hartford–New Haven DMA covers the rest of the state. High cost of living drives higher case values. |
+
+| DMA | Pop. | Comp/Media (25%) | Viability (25%) | Size (15%) | Case Value (15%) | Uninsured (10%) | X-Factors (10%) | **MOI** | **CPL** |
+|-----|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Hartford–New Haven** | 1.5M | 5.0 | 4.5 | 4.0 | 6.0 | 3.0 | 3.0 | **4.5** | **$300** |
+
+**Connecticut X-Factors:**
+- Hartford/New Haven: Northeast CPC environment ($250–$400). Two major metros in one DMA. Insurance industry HQ (Hartford) means sophisticated defense bar. Yale (New Haven) and UConn add academic medical center documentation advantages for plaintiff cases. Low uninsured rate = clean funnel.
+
+---
+
+### 24. Alabama (Contributory Negligence)
+
+| | |
+|---|---|
+| **Fault System** | Contributory negligence — plaintiff at ANY fault recovers nothing |
+| **Statute of Limitations** | 2 years |
+| **Uninsured Motorist Rate** | ~18% (IRC 2023) — high |
+| **Viability Notes** | AL is the harshest combination in our portfolio: contributory negligence (any fault = zero recovery) + high uninsured rate (~18%). Both factors increase lead funnel waste. Viability scored at 6.0 (highest among contributory negligence states) to reflect the compounding effect. Despite this, AL has multiple DMAs with military presence that provide unique lead sources. |
+
+| DMA | Pop. | Comp/Media (25%) | Viability (25%) | Size (15%) | Case Value (15%) | Uninsured (10%) | X-Factors (10%) | **MOI** | **CPL** |
+|-----|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Birmingham** | 1.1M | 3.5 | 6.0 | 3.0 | 4.0 | 7.5 | 3.0 | **4.5** | **$300** |
+| **Huntsville–Decatur** | 0.6M | 2.5 | 6.0 | 2.0 | 3.5 | 7.5 | 5.0 | **4.2** | **$290** |
+| **Mobile** | 0.7M | 2.5 | 6.0 | 2.0 | 3.5 | 7.5 | 3.0 | **4.0** | **$285** |
+
+**Alabama X-Factors:**
+- Birmingham: Largest AL metro. I-65/I-20 junction. Moderate PI firm density. Contributory negligence + 18% uninsured is a tough combination — but firms in AL are accustomed to this and value clean, pre-screened leads.
+- Huntsville/Decatur: Redstone Arsenal (US Army), NASA Marshall Space Flight Center. Significant military/defense contractor population = transient X-factor (5.0). Growing tech hub.
+- Mobile: Gulf Coast port city. I-10/I-65 corridors. Lower case values. Some overlap with Pensacola FL DMA in the Mobile Bay area.
+
+---
+
+### 25. Utah
+
+| | |
+|---|---|
+| **Fault System** | No-fault with threshold ($3,000 in medical expenses or serious injury) |
+| **Statute of Limitations** | 4 years |
+| **Uninsured Motorist Rate** | ~8% (IRC 2023) — low |
+| **PIP Minimum** | $3,000/person |
+| **Viability Notes** | UT's $3K no-fault threshold is among the lowest nationally — most MVAs with treatment will cross it. Combined with low uninsured rate and 4-year SOL, UT has clean lead economics. Viability scored at 5.5 (below MA's 7.5 and above standard at-fault 4.5) because the threshold exists but is easy to clear. |
+
+| DMA | Pop. | Comp/Media (25%) | Viability (25%) | Size (15%) | Case Value (15%) | Uninsured (10%) | X-Factors (10%) | **MOI** | **CPL** |
+|-----|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Salt Lake City** | 1.9M | 4.0 | 5.5 | 4.5 | 4.5 | 3.5 | 3.0 | **4.4** | **$300** |
+
+**Utah X-Factors:**
+- Salt Lake City: ~1.9M DMA. I-15 corridor, Wasatch Front. Moderate competition. Ski tourism creates seasonal MVA variation (winter ice/snow conditions). 4-year SOL is among the most favorable nationally. Low uninsured rate = clean funnel.
+
+---
+
+### 26. Kentucky
+
+| | |
+|---|---|
+| **Fault System** | Choice no-fault — drivers choose between full tort and basic reparations benefit (no-fault) |
+| **Statute of Limitations** | 2 years (1 year for PIP benefits) |
+| **Uninsured Motorist Rate** | ~11% (IRC 2023) |
+| **PIP Minimum** | $10,000/person |
+| **Viability Notes** | KY choice no-fault is similar to PA/NJ — leads must be screened for tort election status. Drivers choosing basic reparations face a threshold before pursuing pain/suffering claims. Viability scored at 6.5 (between PA at 7.0 and standard at-fault at 4.5). |
+
+| DMA | Pop. | Comp/Media (25%) | Viability (25%) | Size (15%) | Case Value (15%) | Uninsured (10%) | X-Factors (10%) | **MOI** | **CPL** |
+|-----|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Louisville** | 1.0M | 3.5 | 6.5 | 3.0 | 4.5 | 5.0 | 3.0 | **4.4** | **$300** |
+| **Lexington** | 0.5M | 2.5 | 6.5 | 1.5 | 4.0 | 5.0 | 4.0 | **4.0** | **$285** |
+
+**Kentucky X-Factors:**
+- Louisville: I-65/I-64/I-71 junction. Cross-state metro with southern IN. Kentucky Derby/bourbon tourism adds minor seasonal factor. Moderate PI firm density.
+- Lexington: University of Kentucky, horse racing industry. College population adds transient X-factor (4.0). Small market but KY choice no-fault premium keeps MOI at 4.0.
+
+---
+
+### 27. Missouri
+
+| | |
+|---|---|
+| **Fault System** | Pure comparative negligence |
+| **Statute of Limitations** | 5 years (among the longest nationally) |
+| **Uninsured Motorist Rate** | ~14% (IRC 2023) |
+| **Viability Notes** | MO pure comparative negligence is the most plaintiff-favorable fault system — any injury at any fault level can pursue recovery. 5-year SOL is the second-longest for PI (after MN's 6 years). Both factors are favorable for lead gen. Low viability score (3.0) reflects the ease of converting leads — fewer funnel barriers. |
+
+| DMA | Pop. | Comp/Media (25%) | Viability (25%) | Size (15%) | Case Value (15%) | Uninsured (10%) | X-Factors (10%) | **MOI** | **CPL** |
+|-----|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **St. Louis** | 2.8M | 5.0 | 3.0 | 4.5 | 5.0 | 6.0 | 3.0 | **4.3** | **$295** |
+| **Kansas City** | 2.3M | 4.5 | 3.0 | 4.5 | 4.5 | 6.0 | 3.0 | **4.1** | **$285** |
+
+**Missouri X-Factors:**
+- St. Louis: Cross-state DMA (MO/IL). MO pure comparative dominates. I-70/I-44/I-55 junction. Gateway to the West — significant through-traffic. IL portion uses modified 51% (different rules). CPC $200–$300.
+- Kansas City: Cross-state DMA (MO/KS). MO pure comparative dominates. I-70/I-35 junction. KS portion uses modified 50% + no-fault hybrid (different screening). CPC $180–$280.
+
+---
+
+### 28. Wisconsin
+
+| | |
+|---|---|
+| **Fault System** | Modified comparative negligence (51% bar) |
+| **Statute of Limitations** | 3 years |
+| **Uninsured Motorist Rate** | ~13% (IRC 2023) |
+| **Viability Notes** | Standard at-fault state with 3-year SOL (favorable). Moderate uninsured rate. Milwaukee is the primary DMA. |
+
+| DMA | Pop. | Comp/Media (25%) | Viability (25%) | Size (15%) | Case Value (15%) | Uninsured (10%) | X-Factors (10%) | **MOI** | **CPL** |
+|-----|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Milwaukee** | 1.6M | 4.0 | 4.5 | 4.0 | 4.5 | 5.5 | 3.0 | **4.3** | **$295** |
+
+**Wisconsin X-Factors:**
+- Milwaukee: I-94/I-43 corridors. Midwest CPC ($200–$300). Moderate PI firm density. Harsh winter driving conditions increase MVA rates November–March. Some overlap with Chicago DMA for southern WI counties.
+
+---
+
+### 29. Louisiana
+
+| | |
+|---|---|
+| **Fault System** | Pure comparative negligence |
+| **Statute of Limitations** | 1 year (shortest nationally, tied with TN) |
+| **Uninsured Motorist Rate** | ~14% (IRC 2023) |
+| **Viability Notes** | LA has the same 1-year SOL challenge as TN — leads older than 6–8 months are often too close to deadline for attorneys. Pure comparative negligence is favorable, but the compressed conversion window significantly increases waste. Viability scored at 3.5 (0.5 above standard pure comparative) to reflect SOL pressure. |
+
+| DMA | Pop. | Comp/Media (25%) | Viability (25%) | Size (15%) | Case Value (15%) | Uninsured (10%) | X-Factors (10%) | **MOI** | **CPL** |
+|-----|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **New Orleans** | 1.0M | 3.5 | 3.5 | 3.0 | 4.5 | 6.0 | 8.0 | **4.3** | **$295** |
+
+**Louisiana X-Factors:**
+- New Orleans: Extreme tourism market (Mardi Gras, Jazz Fest, Super Bowl events, conventions). X-factor 8.0 driven by tourist-involved MVAs where claimants leave the state. I-10 corridor. Port city with commercial vehicle traffic. 1-year SOL requires aggressive lead freshness management — possibly the tightest conversion window in the portfolio.
+
+---
+
+### 30. Oklahoma
+
+| | |
+|---|---|
+| **Fault System** | Modified comparative negligence (51% bar) |
+| **Statute of Limitations** | 2 years |
+| **Uninsured Motorist Rate** | ~20% (IRC 2023) — high |
+| **Viability Notes** | Standard at-fault state but with very high uninsured rate (~20%), similar to FL and CA. This creates significant lead funnel waste. Oil/energy industry presence means commercial vehicle traffic. |
+
+| DMA | Pop. | Comp/Media (25%) | Viability (25%) | Size (15%) | Case Value (15%) | Uninsured (10%) | X-Factors (10%) | **MOI** | **CPL** |
+|-----|------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Oklahoma City** | 1.5M | 3.5 | 4.5 | 4.0 | 4.0 | 8.0 | 3.5 | **4.4** | **$300** |
+| **Tulsa** | 1.0M | 3.0 | 4.5 | 3.0 | 3.5 | 8.0 | 3.0 | **4.0** | **$285** |
+
+**Oklahoma X-Factors:**
+- Oklahoma City: State capital, I-35/I-40/I-44 junction. Oil/energy industry commercial vehicles. CPC $150–$250. High uninsured rate (~20%) is the primary MOI driver.
+- Tulsa: I-44 corridor. Oil/energy sector. Lower competition than OKC. Same high uninsured rate challenge.
 
 ---
 

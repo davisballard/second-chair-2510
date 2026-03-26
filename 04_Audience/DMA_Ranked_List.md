@@ -43,73 +43,73 @@ All 121 viable DMAs, sorted by MOI score (descending), with population as tiebre
 | 2 | Los Angeles | CA | 13.2M | 8.0* | $425 | 1 |
 | 3 | Miami–Ft. Lauderdale | FL | 6.2M | 7.8* | $420 | 1 |
 | 4 | Chicago | IL | 9.5M | 6.9* | $390 | 2 |
-| 5 | Detroit | MI | 4.4M | 6.8 | $385 | 2 |
+| 5 | Detroit | MI | 4.4M | 6.8* | $385 | 2 |
 | 6 | Orlando–Daytona Beach | FL | 3.3M | 6.8* | $385 | 2 |
 | 7 | San Francisco–Oakland–San Jose | CA | 4.7M | 6.7* | $380 | 2 |
 | 8 | Philadelphia | PA/NJ/DE | 4.1M | 6.5* | $375 | 2 |
-| 9 | Boston | MA/NH | 4.8M | 6.4 | $370 | 2 |
+| 9 | Boston | MA/NH | 4.8M | 6.4* | $370 | 2 |
 | 10 | Tampa–St. Petersburg | FL | 3.2M | 6.4* | $370 | 2 |
 | 11 | Houston | TX | 7.5M | 6.3* | $365 | 2 |
-| 12 | West Palm Beach–Ft. Pierce | FL | 1.6M | 6.3 | $365 | 2 |
+| 12 | West Palm Beach–Ft. Pierce | FL | 1.6M | 6.3* | $365 | 2 |
 | 13 | Dallas–Ft. Worth | TX | 8.1M | 6.2* | $365 | 2 |
-| 14 | Washington DC | DC/MD/VA | 6.4M | 6.2 | $365 | 2 |
+| 14 | Washington DC | DC/MD/VA | 6.4M | 6.2* | $365 | 2 |
 | 15 | Atlanta | GA | 6.2M | 6.1* | $360 | 2 |
-| 16 | Minneapolis–St. Paul | MN/WI | 3.7M | 5.6 | $340 | 2 |
+| 16 | Minneapolis–St. Paul | MN/WI | 3.7M | 5.6* | $340 | 2 |
 | 17 | Riverside–San Bernardino | CA | 4.7M | 5.5* | $340 | 2 |
 | 18 | San Diego | CA | 3.3M | 5.5* | $340 | 2 |
 | 19 | Jacksonville | FL | 1.7M | 5.5* | $340 | 2 |
 | 20 | Buffalo | NY | 1.6M | 5.5* | $340 | 2 |
 | 21 | Cape Coral–Ft. Myers | FL | 1.0M | 5.5* | $340 | 2 |
 | 22 | Seattle–Tacoma | WA | 4.0M | 5.4* | $335 | 2 |
-| 23 | Nashville | TN | 1.9M | 5.3 | $330 | 2 |
-| 24 | Las Vegas | NV | 2.3M | 5.2 | $325 | 2 |
-| 25 | Pensacola–Ft. Walton Beach | FL | 0.9M | 5.2 | $325 | 2 |
-| 26 | Grand Rapids | MI | 0.8M | 5.2 | $325 | 2 |
+| 23 | Nashville | TN | 1.9M | 5.3* | $330 | 2 |
+| 24 | Las Vegas | NV | 2.3M | 5.2* | $325 | 2 |
+| 25 | Pensacola–Ft. Walton Beach | FL | 0.9M | 5.2* | $325 | 2 |
+| 26 | Grand Rapids | MI | 0.8M | 5.2* | $325 | 2 |
 | 27 | Rochester | NY | 1.1M | 5.1* | $325 | 2 |
-| 28 | Lakeland–Winter Haven | FL | 0.7M | 5.1 | $325 | 2 |
-| 29 | Baltimore | MD | 2.8M | 5.0 | $320 | 2 |
+| 28 | Lakeland–Winter Haven | FL | 0.7M | 5.1* | $325 | 2 |
+| 29 | Baltimore | MD | 2.8M | 5.0* | $320 | 2 |
 | 30 | Pittsburgh | PA | 2.4M | 5.0* | $320 | 2 |
 | 31 | Phoenix–Mesa | AZ | 5.1M | 4.9* | $315 | 3 |
-| 32 | Denver | CO | 3.0M | 4.9 | $315 | 3 |
-| 33 | Honolulu | HI | 1.0M | 4.9 | $315 | 3 |
-| 34 | Flint–Saginaw | MI | 0.6M | 4.9 | $315 | 3 |
-| 35 | Charlotte | NC | 2.7M | 4.8 | $310 | 3 |
-| 36 | Harrisburg–Lancaster–York | PA | 1.2M | 4.8 | $310 | 3 |
+| 32 | Denver | CO | 3.0M | 4.9* | $315 | 3 |
+| 33 | Honolulu | HI | 1.0M | 4.9* | $315 | 3 |
+| 34 | Flint–Saginaw | MI | 0.6M | 4.9* | $315 | 3 |
+| 35 | Charlotte | NC | 2.7M | 4.8* | $310 | 3 |
+| 36 | Harrisburg–Lancaster–York | PA | 1.2M | 4.8* | $310 | 3 |
 | 37 | Albany | NY | 0.9M | 4.8* | $310 | 3 |
 | 38 | Sacramento | CA | 2.7M | 4.7* | $310 | 3 |
-| 39 | Portland | OR | 2.0M | 4.7 | $310 | 3 |
-| 40 | Norfolk–Virginia Beach | VA | 1.8M | 4.7 | $310 | 3 |
-| 41 | Memphis | TN/MS/AR | 1.3M | 4.7 | $310 | 3 |
-| 42 | Lansing | MI | 0.5M | 4.7 | $310 | 3 |
-| 43 | Indianapolis | IN | 2.0M | 4.6 | $305 | 3 |
-| 44 | Raleigh–Durham | NC | 1.6M | 4.6 | $305 | 3 |
-| 45 | Tallahassee | FL/GA | 0.5M | 4.6 | $305 | 3 |
+| 39 | Portland | OR | 2.0M | 4.7* | $310 | 3 |
+| 40 | Norfolk–Virginia Beach | VA | 1.8M | 4.7* | $310 | 3 |
+| 41 | Memphis | TN/MS/AR | 1.3M | 4.7* | $310 | 3 |
+| 42 | Lansing | MI | 0.5M | 4.7* | $310 | 3 |
+| 43 | Indianapolis | IN | 2.0M | 4.6* | $305 | 3 |
+| 44 | Raleigh–Durham | NC | 1.6M | 4.6* | $305 | 3 |
+| 45 | Tallahassee | FL/GA | 0.5M | 4.6* | $305 | 3 |
 | 46 | San Antonio | TX | 2.6M | 4.5* | $300 | 3 |
-| 47 | Columbus | OH | 2.0M | 4.5 | $300 | 3 |
-| 48 | Hartford–New Haven | CT | 1.5M | 4.5 | $300 | 3 |
-| 49 | Birmingham | AL | 1.1M | 4.5 | $300 | 3 |
+| 47 | Columbus | OH | 2.0M | 4.5* | $300 | 3 |
+| 48 | Hartford–New Haven | CT | 1.5M | 4.5* | $300 | 3 |
+| 49 | Birmingham | AL | 1.1M | 4.5* | $300 | 3 |
 | 50 | Austin | TX | 2.3M | 4.4* | $300 | 3 |
-| 51 | Cincinnati | OH/KY/IN | 2.2M | 4.4 | $300 | 3 |
-| 52 | Salt Lake City | UT | 1.9M | 4.4 | $300 | 3 |
-| 53 | Cleveland | OH | 1.8M | 4.4 | $300 | 3 |
-| 54 | Oklahoma City | OK | 1.5M | 4.4 | $300 | 3 |
-| 55 | Louisville | KY | 1.0M | 4.4 | $300 | 3 |
+| 51 | Cincinnati | OH/KY/IN | 2.2M | 4.4* | $300 | 3 |
+| 52 | Salt Lake City | UT | 1.9M | 4.4* | $300 | 3 |
+| 53 | Cleveland | OH | 1.8M | 4.4* | $300 | 3 |
+| 54 | Oklahoma City | OK | 1.5M | 4.4* | $300 | 3 |
+| 55 | Louisville | KY | 1.0M | 4.4* | $300 | 3 |
 | 56 | Syracuse | NY | 0.7M | 4.4* | $300 | 3 |
-| 57 | St. Louis | MO/IL | 2.8M | 4.3 | $295 | 3 |
-| 58 | Milwaukee | WI | 1.6M | 4.3 | $295 | 3 |
-| 59 | New Orleans | LA | 1.0M | 4.3 | $295 | 3 |
-| 60 | Knoxville | TN | 0.9M | 4.3 | $295 | 3 |
-| 61 | Wilkes-Barre–Scranton | PA | 0.7M | 4.3 | $295 | 3 |
-| 62 | Gainesville | FL | 0.4M | 4.3 | $295 | 3 |
-| 63 | Springfield–Holyoke | MA | 0.6M | 4.2 | $290 | 3 |
-| 64 | Huntsville–Decatur | AL | 0.6M | 4.2 | $290 | 3 |
-| 65 | Kansas City | MO/KS | 2.3M | 4.1 | $290 | 3 |
-| 66 | Richmond | VA | 1.0M | 4.1 | $290 | 3 |
-| 67 | Tulsa | OK | 1.0M | 4.0 | $285 | 3 |
+| 57 | St. Louis | MO/IL | 2.8M | 4.3* | $295 | 3 |
+| 58 | Milwaukee | WI | 1.6M | 4.3* | $295 | 3 |
+| 59 | New Orleans | LA | 1.0M | 4.3* | $295 | 3 |
+| 60 | Knoxville | TN | 0.9M | 4.3* | $295 | 3 |
+| 61 | Wilkes-Barre–Scranton | PA | 0.7M | 4.3* | $295 | 3 |
+| 62 | Gainesville | FL | 0.4M | 4.3* | $295 | 3 |
+| 63 | Springfield–Holyoke | MA | 0.6M | 4.2* | $290 | 3 |
+| 64 | Huntsville–Decatur | AL | 0.6M | 4.2* | $290 | 3 |
+| 65 | Kansas City | MO/KS | 2.3M | 4.1* | $285 | 3 |
+| 66 | Richmond | VA | 1.0M | 4.1* | $285 | 3 |
+| 67 | Tulsa | OK | 1.0M | 4.0* | $285 | 3 |
 | 68 | Savannah | GA | 0.8M | 4.0* | $285 | 3 |
-| 69 | Colorado Springs | CO | 0.8M | 4.0 | $285 | 3 |
-| 70 | Mobile | AL | 0.7M | 4.0 | $285 | 3 |
-| 71 | Lexington | KY | 0.5M | 4.0 | $285 | 3 |
+| 69 | Colorado Springs | CO | 0.8M | 4.0* | $285 | 3 |
+| 70 | Mobile | AL | 0.7M | 4.0* | $285 | 3 |
+| 71 | Lexington | KY | 0.5M | 4.0* | $285 | 3 |
 | 72 | Greenville–Spartanburg | SC | 1.4M | 3.9 | $280 | 4 |
 | 73 | Providence–New Bedford | RI/MA | 0.8M | 3.9 | $280 | 4 |
 | 74 | Montgomery | AL | 0.4M | 3.9 | $280 | 4 |
@@ -365,8 +365,8 @@ All MOI scores use the 6-dimension weighted framework documented in `DMA_Baselin
 **Margin target:** 55%+ gross margin at all price points.
 
 **Scoring basis:**
-- **34 DMAs** (marked with \*) have established scores with full sub-dimension breakdowns in the Baseline Pricing Framework. These scores are canonical.
-- **87 DMAs** are estimated using the same rubrics, applying state-level legal data (fault system, uninsured rates, SOL) uniformly within each state, and scaling competition/media cost from regional CPC benchmarks (Northeast $468, West $402, Southeast $389, South $382, Midwest $314). These scores should be refined with market-specific data as Second Chair enters each DMA.
+- **79 DMAs** (marked with \*) have established scores with full sub-dimension breakdowns in the Baseline Pricing Framework. These scores are canonical.
+- **42 DMAs** (Tier 4 + Watchlist) are estimated using the same rubrics, applying state-level legal data (fault system, uninsured rates, SOL) uniformly within each state, and scaling competition/media cost from regional CPC benchmarks (Northeast $468, West $402, Southeast $389, South $382, Midwest $314). These scores should be refined with market-specific data as Second Chair enters each DMA.
 
 **Data sources:** Nielsen DMA rankings (2024–2025), IRC uninsured motorist data (2023), NHTSA CrashStats (2023), Google Ads CPC benchmarks (SpyFu/SEMrush 2024–2025), state statutes (current as of March 2026). Full source list in `DMA_Baseline_Pricing_Framework.md`.
 
