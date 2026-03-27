@@ -117,7 +117,7 @@ He respects credentials but evaluates them — he's an investor, not a fan.
 He mentors MBA students. He invested in 140+ startups. He's a man who commits and follows through.
 
 - Start with a small commitment: a pilot in one market. Once he says yes to a test, the consistency principle makes expansion natural.
-- Frame the pilot as a "prove it" opportunity, not a sales close: "We believe you'll see the difference in 45 days. If the data doesn't support it, walk away."
+- Frame the pilot as a "prove it" opportunity: "Start with 2-3 markets at 100 leads each. By lead 100, you've seen the full performance arc — not just the learning phase. If the numbers work, we expand. If they don't, you walk away."
 
 **5. Social Proof (Investor's Lens)**
 As a 15-year angel investor, he thinks in terms of validation.
@@ -202,7 +202,7 @@ Based on his email ("Can you please clarify?"), his KPI obsession, and his negot
 | "How is pricing determined?" | MOI framework — 6 factors, market-specific. "NYC costs more than Denver because it costs more to reach people there." |
 | "What markets are you in right now?" | Be honest about stage. If early, say so. He respects honesty over spin. |
 | "How are you different from other lead gen companies?" | Territory exclusivity. Not exclusive leads — exclusive territory. One firm per DMA. |
-| "What's your capacity? Can you deliver volume?" | Be honest about ramp. "We start at 50-100 leads/month per market and scale from there based on campaign performance." |
+| "What's your capacity? Can you deliver volume?" | Be honest about ramp. "We generate 1-3 leads per day per DMA campaign. That rate increases as campaigns optimize — the pixel gets smarter, creative gets refined. The way to scale total volume is to add more DMAs." |
 | "What compliance do you have?" | Alex's moment. FCC 2025, TrustedForm, one-to-one consent, dynamic consent flow. He'll appreciate the detail. |
 
 ---

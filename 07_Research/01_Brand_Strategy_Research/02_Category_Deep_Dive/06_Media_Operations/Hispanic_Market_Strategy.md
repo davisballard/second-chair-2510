@@ -41,11 +41,11 @@ Setting an ad set's language to "Spanish (All)" delivers to Spanish-dominant use
 
 **The efficiency math:** Spanish-language ad sets in PI markets produce significantly lower CPMs than English-language targeting in the same DMA — because fewer advertisers are competing for that audience. In markets like Miami, Los Angeles, and Houston, this means more impressions for the same budget, which produces more leads at lower cost. The practitioners at Abogados Now (the dominant Hispanic legal marketing firm) describe it explicitly: *"The Spanish-speaking PI market offers smaller ad spend with greater results than the saturated English-speaking market."*
 
-### PI Legal Is Not a Special Ad Category
+### Special Ad Category — What's Available for Hispanic Targeting
 
-This matters for targeting: personal injury legal advertising does not fall under Meta's Special Ad Categories (Housing, Employment, Financial Products/Services, Social Issues). Full standard targeting is available — language, zip code, detailed interests, demographics, lookalike audiences, behavioral signals. See `Ad_Set_Segmentation_Strategy.md` Part 3 for the full breakdown.
+**Correction (March 2026):** PI legal advertising runs under Meta's Special Ad Category. Demographic, interest, and lookalike targeting are NOT available. However, **language targeting IS available** under SAC — you can target users whose Facebook language is set to Spanish or who engage primarily with Spanish content. See `Ad_Set_Segmentation_Strategy.md` Part 3 for the corrected breakdown.
 
-The one rule that applies regardless: do not use exclusion targeting based on protected characteristics. Target Spanish speakers by inclusion (language = Spanish); do not exclude non-Spanish speakers by demographic characteristic. In practice, language targeting achieves the same audience without the civil rights issue.
+For Hispanic market campaigns: geographic targeting (full DMA) + language targeting (Spanish) + specific Spanish-language creative. Creative does the rest. Civil rights policy: target by inclusion (language = Spanish), do not exclude by demographic characteristic.
 
 ---
 

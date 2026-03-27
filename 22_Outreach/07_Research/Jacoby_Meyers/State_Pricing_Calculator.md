@@ -35,13 +35,13 @@ J&M has offices in 7 of 8 active CA DMAs. Full state lockdown earns 15% off.
 | **CA blended price (pop-weighted)** | **~$320/lead** |
 | **Total pop covered** | 30.6M |
 
-### CA MRR Estimates
+### CA Revenue Estimates (at delivery rate of 1-3 leads/day per DMA)
 
-| Monthly leads | MRR | Annual |
-|--------------|-----|--------|
-| 100 | $32,000 | $384,000 |
-| 200 | $64,000 | $768,000 |
-| 500 | $160,000 | $1,920,000 |
+| Delivery Rate | Daily Leads (7 DMAs) | ~Monthly Revenue |
+|--------------|---------------------|-----------------|
+| 1/day per DMA | 7 | $67,200 |
+| 2/day per DMA | 14 | $134,400 |
+| 3/day per DMA | 21 | $201,600 |
 
 **CA add-ons (no J&M offices — list price if they want full state):**
 - Santa Barbara–SLO: $275
@@ -103,47 +103,46 @@ J&M has offices in 7 of 8 active CA DMAs. Full state lockdown earns 15% off.
 | **Total pop covered** | 79.1M |
 | **Total DMAs** | 17 |
 
-| Monthly leads | MRR | Annual |
-|--------------|-----|--------|
-| 200 | $76,600 | $919,200 |
-| 500 | $191,500 | $2,298,000 |
-| 1,000 | $383,000 | $4,596,000 |
+| Delivery Rate | Daily Leads (17 DMAs) | ~Monthly Revenue |
+|--------------|----------------------|-----------------|
+| 1/day per DMA | 17 | $195,300 |
+| 2/day per DMA | 34 | $390,600 |
+| 3/day per DMA | 51 | $585,900 |
 
 ### Scenario B: Top 5 Markets Only
 
 The biggest, highest-value DMAs — the most likely starting point.
 
-| DMA | Price | Est. MRR (50 leads) |
-|-----|-------|---------------------|
-| New York City | $460 | $23,000 |
-| Los Angeles (CA lockdown) | $360 | $18,000 |
-| Miami | $420 | $21,000 |
-| SF–Oakland–SJ (CA lockdown) | $325 | $16,250 |
-| Washington DC | $365 | $18,250 |
-| **Total** | | **$96,500** |
+| DMA | Price | At 2 leads/day (~monthly) |
+|-----|-------|--------------------------|
+| New York City | $460 | $27,600 |
+| Los Angeles (CA lockdown) | $360 | $21,600 |
+| Miami | $420 | $25,200 |
+| SF–Oakland–SJ (CA lockdown) | $325 | $19,500 |
+| Washington DC | $365 | $21,900 |
+| **Total** | | **$115,800** |
 
 ### Scenario C: California Only
 
 | Metric | Value |
 |--------|-------|
 | **7 DMAs at 15% lockdown** | $320 blended |
-| **MRR at 100 leads** | $32,000 |
-| **MRR at 200 leads** | $64,000 |
+| **At 1 lead/day per DMA** | ~$67,200/month |
+| **At 2 leads/day per DMA** | ~$134,400/month |
 
-This is still a major deal even as a standalone.
+Still a major deal as a standalone.
 
 ---
 
 ## Revenue Comparison: Old vs. New Discount Framework
 
-At 500 leads/month across all 17 DMAs:
+At 2 leads/day per DMA across all 17 DMAs (~1,020 leads/month):
 
-| Framework | Blended Rate | Monthly Revenue | Annual | Margin Impact |
-|-----------|-------------|-----------------|--------|---------------|
-| Old (15% off everything) | ~$350 | $175,000 | $2,100,000 | — |
-| **New (15% CA only, list elsewhere)** | **~$383** | **$191,500** | **$2,298,000** | **+$198,000/yr** |
-
-The new framework adds ~$200K/year in revenue at the same volume.
+| Framework | Blended Rate | ~Monthly Revenue |
+|-----------|-------------|-----------------|
+| Old (15% off everything) | ~$350 | $357,000 |
+| **New (15% CA only, list elsewhere)** | **~$383** | **$390,600** |
+| **Difference** | | **+$33,600/month (+$403K/year)** |
 
 ---
 

@@ -10,11 +10,13 @@ Before we run a single ad in your market, we study it. Not the surface — the p
 
 Every market has different archetypes. A working mom in the Inland Empire commuting 45 minutes on the I-10 is not the same person as a tech worker in San Francisco who got hit on a bike. They're dealing with the same kind of problem, but they think about it differently, they feel it differently, and they respond to different messages. We build advertising for each of those people specifically.
 
-That means different creative for different segments — narrative storytelling for some, straightforward education for others, still images, video, different tones, different emotional registers. We test a wide variety of formats and messages for each DMA. And within each DMA, we split targeting by ZIP code combinations so we're speaking to specific communities within the market. Not broadly. Specifically. In a way that shows we actually understand who they are and where they live.
+That means different creative for different segments — narrative storytelling for some, straightforward education for others, still images, video, different tones, different emotional registers. We test a wide variety of angles simultaneously. We put 3-5 different creatives inside each campaign — a Spanish-language narrative that speaks to the Hispanic community, an educational piece about insurance lowball tactics, a direct opportunity play, a different emotional hook. All running at the same time, all targeting the full DMA.
 
-This is what separates real advertising from templates. Most lead gen vendors take one national ad, swap in a city name, and call it local. We don't do that. We go deep into your market, identify the real people in it, and build creative that speaks to them with genuine understanding — not cliches, not stock imagery, not baseline observations that could apply to any city in America.
+The creative IS the targeting. We don't narrow the audience through platform filters — we target everyone in the market and let the creative self-select the right people. The Hispanic family in the Inland Empire stops scrolling on the Spanish narrative. The suburban mom stops on the educational piece. The veteran scrolls past everything because he wasn't in an accident. Meta watches who responds to which creative and builds the audience model from that actual behavior — not from our assumptions about who should see what.
 
-We start wide — casting a broader net to learn the market, see what resonates, gather real data. Then we hone in. Every week the campaigns get sharper. Every segment gets more specific. The creative that works gets scaled. The creative that doesn't gets replaced. It's a continuous process of refinement — and the result is advertising that connects real people who've been hurt with real lawyers in their area who can fight for them.
+This is what separates real advertising from templates. Most lead gen vendors take one national ad, swap in a city name, and call it local. We don't do that. We go deep into your market, understand the real people in it, and build creative that speaks to each of them specifically. The platform then learns from who actually responds and gets smarter at finding more people like them. That's a compounding advantage — the longer we run, the more precise the targeting becomes, because it's trained on real behavior, not demographic assumptions.
+
+We start wide — casting a broader net across the full DMA to learn the market, see what resonates, gather real data. Then we hone in. The creatives that work get scaled. The ones that don't get replaced. New variations get tested against the proven winners. It's a continuous optimization cycle — and the result is advertising that connects real people who've been hurt with real lawyers in their area who can fight for them.
 
 ### Why Creative Quality Is the Whole Game
 
@@ -267,16 +269,20 @@ The person who comes through our funnel was honestly persuaded by advertising th
 
 If we're aligned on this call, the next step is simple.
 
-**Step 1 — We agree on which DMAs you want to start with.** Could be California, could be a few specific markets, could be broader. Whatever makes sense. We lock those territories for you.
+**Step 1 — We agree on which DMAs you want to start with.** We'd suggest 2-3 markets to start. Could be California, could be Denver plus a CA market, could be different. We lock those territories for you.
 
-**Step 2 — We send you a scope of work and invoice.** Clean document — which DMAs, pricing, terms. You review it, sign it, we're in business.
+**Step 2 — You buy a lead package for each DMA.** 100 leads per market for the first package. You pay upfront — like credits. We deliver them as fast as we generate them. A 100-lead package fills in roughly 5-7 weeks.
 
-**Step 3 — We get you onto our dashboard.** You'll have your own login. Everything from here lives there.
+**Why 100 per market:** The first 30 or so leads come during the algorithm's learning phase — costs are higher, targeting is least precise. If you only buy 50, you're evaluating us almost entirely on pre-optimization performance. At 100, you see the full arc — learning, stabilization, and early optimization. By lead 100, the campaigns are dialed in and you're seeing what they actually produce. That's a much fairer test for both of us.
 
-**Step 4 — We do deep research into each market.** We're figuring out the different archetypes in each DMA — who are the people we're reaching, what motivates them, how they think about this process. We bucket ZIP codes to target. We map out the demographics, the corridors, the community patterns.
+**Step 3 — We send you a scope of work and invoice.** Clean document — which DMAs, pricing, terms. You review it, sign it, we're in business.
 
-**Step 5 — We build the first batch of creative.** For each DMA, we develop the initial test creative — different formats, different messages, different angles. All of this goes into your dashboard so you can see exactly what we're running. If you want approval before anything goes live, we set that up.
+**Step 4 — We get you onto our dashboard.** Your own login. Everything from here lives there.
 
-**Step 6 — We launch and start testing.** Ads go live, leads start coming in, and we begin the optimization cycle — honing in on what works for each segment of each DMA. You see it all in real time on the dashboard.
+**Step 5 — We do deep research into each market.** We're figuring out the different archetypes in each DMA — who are the people we're reaching, what motivates them, how they think about this process. We map out the demographics, the corridors, the community patterns. This research informs the creative we build — different angles for different segments of the market, all running simultaneously.
 
-**From there it's ongoing:** we're continuously refining the creative, the targeting, the ZIP code splits. The pixel gets smarter. Your cost per lead goes down. Your cost per signed case is tracked from dollar one.
+**Step 6 — We build the first batch of creative.** For each DMA, we develop the initial test creative — different formats, different messages, different angles. All of this goes into your dashboard so you can see exactly what we're running. If you want approval before anything goes live, we set that up.
+
+**Step 7 — We launch and start delivering leads.** Ads go live, leads start flowing as we generate them, and we begin the optimization cycle — honing in on what works for each segment of each DMA. You see it all in real time on the dashboard.
+
+**When the first package is filled:** We notify you before the last leads are delivered. You purchase a renewal — 50+ leads per DMA. Campaigns continue without interruption. Every renewal benefits from the optimization of the first 100 — better targeting, better creative, better leads. The longer we run, the better it gets.

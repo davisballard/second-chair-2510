@@ -13,14 +13,18 @@
 **Primary channel:** Meta (Facebook and Instagram) — 95–100% of B2C ad spend.
 
 **Platform constraint — Special Ad Categories:**
-Personal injury legal advertising is classified under Meta's Special Ad Category (Credit, Employment, Housing, or Social Issues/Elections/Politics — legal services fall under the social issues interpretation). This means:
+Personal injury legal advertising runs under Meta's Special Ad Category. This means:
 - **No demographic targeting** — no age, gender, household income targeting
 - **No interest targeting** — no behavioral or psychographic stacks
-- **No lookalike audiences** built from demographic seeds
-- **Geographic targeting is available** — DMA/city/zip level
+- **No lookalike audiences** built from any seed
+- **Geographic targeting is available** — DMA/city level
 - **Creative is the only targeting tool**
 
 This is not a limitation. It is the mechanism that makes Second Chair's creative capability a competitive advantage. The ad that stops the right person mid-scroll while being invisible to everyone else is not built through a targeting algorithm — it is built through craft. That is what Second Chair offers that competitors cannot replicate.
+
+**Campaign structure:** 1 ad set per DMA at launch, 3-5 creatives inside (different angles, hooks, formats). Meta rotates and tests them simultaneously, shifting delivery to the winners. All conversion events feed one learning model. Second ad set (Spanish, retargeting) launches after first exits learning (~3-6 weeks at SC's volume of 1-3 leads/day). 100-lead minimum per DMA before expanding. See `09_Operations/HOW_META_CAMPAIGNS_OPTIMIZE.md`.
+
+**What IS available under SAC:** Retargeting — website visitors, video viewers (50%+), lead form openers, customer list uploads. These become valuable after the first 100 leads build enough site traffic.
 
 **The self-selection mechanism:**
 The ad must be specific enough to resonate immediately with a person who had an accident and be completely uninteresting to someone who didn't. This is precision through creative, not precision through data. The more specific and true the ad is to the claimant's situation, the stronger the self-selection effect. Vague ads waste spend. Specific ads find the right person.

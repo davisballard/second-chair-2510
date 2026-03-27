@@ -27,7 +27,7 @@ Our campaigns give us full margin, complete creative control, and the data advan
 
 **Why priority 1:** Already validated market. Our campaigns generate leads directly with full margin and creative learnings. Run both concepts as A/B test (anger vs. hope).
 
-**Targeting logic:** Metro Denver/Aurora. Maria archetype. Geo in creative copy — not Meta targeting parameters (Special Ad Categories restriction). Broad + strong creative = algorithm does the filtering.
+**Targeting logic:** Metro Denver/Aurora. Maria archetype. Geo in creative copy — not Meta targeting parameters (Special Ad Categories restriction). Broad + strong creative = algorithm does the filtering. 1 ad set with 3-5 creatives (narrative, educational, direct, different hooks). 100-lead minimum per DMA before expanding to second ad set. See `09_Operations/HOW_META_CAMPAIGNS_OPTIMIZE.md`.
 
 **Next actions:**
 - [ ] Complete asset generation for "On The Nose" (Beats 2A, 2B, 3B)

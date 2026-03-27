@@ -106,7 +106,7 @@ He already emailed "Can you please clarify?" Expect him to lead with:
 
 > *"Every market has different archetypes. A working mom in the Inland Empire commuting 45 minutes on the I-10 is not the same person as a tech worker in San Francisco who got hit on a bike. They respond to different messages. We build advertising for each of those people specifically."*
 
-> *"Within each DMA, we split targeting by ZIP code combinations — speaking to specific communities, not a whole metro generically. Through deep research, not cliches. This is what separates real advertising from templates. Most lead gen vendors take one national ad, swap in a city name, and call it local. We don't do that."*
+> *"We target the full DMA and let the creative do the filtering. We run 3-5 different creatives simultaneously — a Spanish-language narrative, an educational angle, a direct opportunity play, different hooks. Each one self-selects a different segment of the market. The algorithm watches who responds to which creative and builds the audience model from actual behavior, not demographic assumptions. That's what separates real advertising from templates."*
 
 ### The Process (Alex leads, Davis adds context)
 
@@ -141,7 +141,9 @@ He already emailed "Can you please clarify?" Expect him to lead with:
 
 ### If Tommie Asks About the Pixel / Optimization
 
-> *"The longer we run in your markets, the smarter the pixel gets. Meta's learning phase starts with CPL elevated 30-50% above steady-state. Once we hit ~50 optimization events per ad set per week, costs drop significantly. By 90 days the campaigns are dialed in."*
+> *"The longer we run in your markets, the smarter the algorithm gets. The first few weeks are the learning phase — costs are higher, targeting is least precise. By weeks 3-6, the campaigns stabilize and costs start dropping. By the time you're through the first 100 leads, the system knows who to target and delivery is efficient."*
+
+> *"The reason the first 100 leads matter: by that point the algorithm has enough data to be truly dialed in — it knows who in your market converts, what time of day, what placements work. We also have enough site traffic to launch retargeting — reaching people who visited but didn't convert the first time. Every lead after that benefits from what the first 100 taught the system."*
 
 > *"And through CAPI — Conversions API — we can pass signed case events back to Meta server-to-server. The algorithm stops optimizing for form fills and starts optimizing for actual case outcomes. That's how the leads get better over time, not just cheaper."*
 
@@ -197,7 +199,7 @@ He already emailed "Can you please clarify?" Expect him to lead with:
 
 > *"The California lockdown discount exists because there's real operational efficiency when we build one compliance framework, one creative system for the whole state. That's 15% we pass through. For individual markets in different states, each one is independent work. The price reflects what it costs to operate there."*
 
-> *"What we can talk about is starting focused — pick the markets that matter most, prove it works at 45 days, then expand."*
+> *"What we can talk about is starting focused — 2-3 markets at 100 leads each. You see the full performance arc, not just the learning phase. Once those prove out, we expand."*
 
 ---
 
@@ -217,17 +219,13 @@ He already emailed "Can you please clarify?" Expect him to lead with:
 
 > *"Great. Here's how it works from here."*
 
-> *"Step one — we agree on which DMAs you want to start with. Could be California, could be a few specific markets, could be broader."*
+> *"We'd suggest starting with 2-3 DMAs at 100 leads per market. You buy the leads upfront as a package — like credits. We deliver them as fast as we generate them. A 100-lead package fills in roughly 5-7 weeks."*
 
-> *"Step two — we send you a scope of work and invoice. Clean document — which DMAs, pricing, terms."*
+> *"The reason we recommend 100: the first 30 or so leads come during the algorithm's learning phase — costs are higher, targeting is least precise. By lead 100, the campaigns are past learning, into optimization, and you're seeing what they actually produce when they're dialed in. That's a much fairer evaluation for both of us."*
 
-> *"Step three — we get you onto our dashboard. Your own login. Everything from here lives there."*
+> *"We send you a scope of work and invoice. You sign it, we get you onto the dashboard, and we start deep research into each market — archetypes, demographics, community patterns. That research informs the creative we build — 3-5 different angles per DMA, all running simultaneously. Meta tests them, we see what works, and we optimize from there. Leads start flowing and you see it all in real time."*
 
-> *"Step four — we do deep research into each market. Archetypes, demographics, ZIP code targeting, community patterns. We map out exactly who we're reaching and how."*
-
-> *"Step five — we build the first batch of creative. Different formats, messages, angles for each DMA. All of it goes into your dashboard. If you want approval before anything goes live, we set that up."*
-
-> *"Step six — we launch and start testing. Leads start coming in, and we begin the optimization cycle. You see it all in real time."*
+> *"Once those first packages are filled and the performance is there, you renew at 50 leads per DMA and we keep the pipeline going. Or you expand to more markets. The campaigns are already optimized at that point — every renewal benefits from everything we learned in the first 100."*
 
 ### If He Wants Pricing in Writing
 

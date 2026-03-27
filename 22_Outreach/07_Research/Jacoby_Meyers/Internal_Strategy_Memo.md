@@ -14,7 +14,7 @@ Jacoby & Meyers is the single highest-value prospect in Second Chair's pipeline 
 **Updated intel (March 2026):** J&M is not a 14-office California firm. Via jacobymeyers.com, they are a **network of 43+ offices across 10 states + DC**, described as "independent law offices and attorneys throughout the United States." Their nationwide footprint maps to **17 viable DMAs** in SC's portfolio — including all 3 Tier 1 markets (NYC, LA, Miami).
 
 **Deal size at full scope:**
-- 17 DMAs at 15% enterprise discount = **$70K–$350K+ MRR** (at 200–1,000 leads/month)
+- 17 DMAs generating 1-3 leads/day each = 17-51 leads/day flowing to J&M
 - Annual potential: **$840K–$4.2M**
 - This is an anchor client that validates the multi-state enterprise model
 
@@ -195,7 +195,7 @@ This determines which path we propose. If J&M's intake team handles everything c
 | Parameter | Floor | Target | Notes |
 |-----------|-------|--------|-------|
 | **Contract term** | 6 months | 12 months | Could accept 6-month pilot for a single state/DMA |
-| **Volume commitment** | None required | 50 leads/DMA/mo minimum | Below 50/mo per DMA, economics don't work for either side |
+| **Volume commitment** | None required | Per-lead pricing, no monthly minimum | Leads delivered as generated — baseline 1-3 leads/day per DMA campaign. Volume scales as campaigns optimize. |
 | **Payment terms** | Net 15 | Net 15 | Standard. Do not extend to Net 30+ for a new client. |
 | **Creative approval** | SC retains final say | Collaborative review | They can review ads; they cannot dictate creative. SC's compliance standards are non-negotiable. |
 
@@ -213,26 +213,28 @@ This determines which path we propose. If J&M's intake team handles everything c
 
 | Risk | Likelihood | Impact | Mitigation |
 |------|-----------|--------|------------|
-| **J&M only wants California** | High | Medium | CA alone (6-8 DMAs at 15% off) is still a $30K-$80K+ MRR deal. This is a good outcome. |
+| **J&M only wants California** | High | Medium | CA alone (7 DMAs at 15% off) generating 7-21 leads/day is still a major deal. This is a good outcome. |
 | **Tommy is not empowered to approve** | High | Low | Expected — give Tommy materials for internal advocacy (Creative Brief, Attorney Pitch doc post-call). |
 | **They expect state-level flat pricing** | Medium | Medium | Discovery script reframes DMA pricing as better for them: they're not overpaying for Bakersfield so SC isn't undercharging for LA. |
 | **Multiple entities confusion** | Medium | Low | Three J&M web properties exist (jacobymeyers.com, jacobyandmeyers.com, jmlawyer.com). Ask on the call: "Which entity would be the contracting party?" |
-| **Volume expectations exceed SC capacity** | Medium | High | 31 attorneys across 14 offices — they may expect 500+ leads/month. Be honest about ramp-up: start with 50-100 leads in month 1 per state, scale from there. |
+| **Volume expectations exceed SC capacity** | Medium | High | 31 attorneys across 14 offices — they may expect high daily volume immediately. Be honest about ramp: campaigns start at ~1 lead/day per DMA, scale to 3-4/day as optimization matures. |
 | **Las Vegas hold blocks NV deal** | Medium | Medium | Decision needed pre-call. If hold stays, offer Reno only and position NV as a phased rollout. |
 
 ---
 
 ## Recommended Pilot Structure
 
-**Don't try to close a 4-state deal on one call.** Use the pilot approach:
+**Don't try to close a full multi-state deal on one call.** Use the pilot approach:
 
-1. **Call 1 (this call):** Discovery + creative preview. Understand their needs, present the model, show 2-3 ad concepts.
-2. **Follow-up:** Send Attorney Pitch doc + Creative Brief within 24 hours.
-3. **Call 2:** Pricing presentation + pilot proposal.
-4. **Pilot:** Start with **one state** (recommend Colorado — smallest, simplest, 2 DMAs, existing SC campaign work). 45-day data review.
-5. **Expansion:** If pilot performs, roll out remaining states with full 15% enterprise bundle.
+1. **Call 1 (this call):** Discovery + process walkthrough. Understand their needs, present the model.
+2. **Follow-up:** Send pricing summary + Attorney Pitch doc within 24 hours.
+3. **Call 2 (if needed):** Detailed pricing + pilot proposal.
+4. **Pilot:** Start with **2-3 DMAs at 100 leads per DMA.** Recommend CA starter (LA + SF + San Diego at lockdown pricing = $97,500) or Denver + 1-2 CA markets. 100 leads per DMA gets past the learning phase and into real optimized performance — the client sees what the campaigns actually produce, not just learning-phase data.
+5. **Expansion:** Once first packages perform, expand to additional DMAs. Renewals at 50+ leads per DMA.
 
-**The Roma principle:** Make the first commitment so small it would be embarrassing to say no. Denver at 50 leads/month for 45 days. That's the foot in the door.
+**Why 100 per DMA, not less:** The first ~30 leads come during the algorithm's learning phase (CPL elevated 30-50%, targeting least precise). At 50 leads, the client evaluates based almost entirely on pre-optimization performance and never sees what dialed-in campaigns look like. At 100, they see the full arc — learning, stabilization, and early optimization. By lead 100, the algorithm is dialed in, there's enough site traffic for retargeting, and the client has a real sample to judge.
+
+**Why 2-3 DMAs, not more:** Fewer markets at 100 leads beats more markets at 50. The algorithm needs data to optimize. Going deep in 3 DMAs produces better results than spreading thin across 7.
 
 ---
 
