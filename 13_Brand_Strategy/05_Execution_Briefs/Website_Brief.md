@@ -73,13 +73,15 @@ They have 90 seconds before they decide whether to engage or close the tab. The 
 
 **What it does:** Converts the attorney who is now curious about the advertising into someone who understands the full system behind it. The product section must be specific enough to be evaluable — not a list of features, but a description of what the attorney actually receives and how it works.
 
-**Three things, plain English:**
+**Four things, plain English:**
 
 1. **The advertising gets them there honestly.** We build creative in-house — the strategy, the visual direction, the copy — and run it on Meta (FB/IG). We show you the advertising before you commit to anything. You can evaluate it yourself.
 
 2. **The system qualifies and scores what arrives.** Every lead arrives with a compliance record (TrustedForm — court-admissible consent and origin documentation). Every lead is run through DNC/litigator screening automatically — if it fails, it doesn't get delivered. The two scores (Conversion Score + Case Value Score) tell you how to prioritize your intake queue before you pick up the phone.
 
-3. **You see the metric that matters.** We report on your cost-per-signed-case — not CPL. CPL tells you what you paid to talk to someone. CPSC tells you what you paid to sign them. We make that number visible so you can evaluate whether the relationship is working.
+3. **We don't just deliver leads. We qualify them (optional upgrade).** Standard tier: we deliver the web lead, you call them. AI-Qualified tier (+$200): we call within 90 seconds using AI voice, complete intake script, deliver transcript and structured notes. Human Live Transfer (+$1,200): Sasha or Davis calls within 90 seconds, qualifies, and transfers live to your intake team. Live transfers convert at 40-60% vs. 10-15% for web leads. One vendor for lead gen + intake + transfer.
+
+4. **You see the metric that matters.** We report on your cost-per-signed-case — not CPL. CPL tells you what you paid to talk to someone. CPSC tells you what you paid to sign them. We make that number visible so you can evaluate whether the relationship is working. Standard leads: $315 at 12% = $2,625 CPSC. Live transfers: $1,515 at 50% = $3,030 CPSC. You pay 15% more per case but need 75% fewer leads.
 
 **What this section is not:** A feature list. A spec sheet. A comparison table. Technical language the attorney doesn't need.
 

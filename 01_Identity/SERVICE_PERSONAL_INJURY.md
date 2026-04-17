@@ -1,6 +1,6 @@
 # Service Overview: Personal Injury (MVA Focus)
 
-**Last Updated:** February 20, 2026  
+**Last Updated:** March 20, 2026  
 **Status:** Active vertical  
 **Source:** Integrated from secondchair.co + internal positioning
 
@@ -8,9 +8,9 @@
 
 ## Service Name
 
-**Personal Injury Demand Infrastructure**
+**Personal Injury Lead Generation**
 
-Subtitle: "Predictable case flow for elite PI firms"
+Subtitle: "Honestly won leads for PI firms — advertising you can evaluate before you commit"
 
 ---
 
@@ -18,7 +18,32 @@ Subtitle: "Predictable case flow for elite PI firms"
 
 ### Core Offering
 
-Geo-exclusive MVA lead generation with pre-qualification, real-time delivery, and intake support for personal injury law firms. Territory exclusivity is structured per DMA (Designated Market Area) as the standard — one firm per DMA. Statewide and custom arrangements are available by negotiation.
+DMA-exclusive MVA lead generation with pre-qualification, real-time delivery, and optional premium qualification for personal injury law firms. Territory exclusivity is structured per DMA (Designated Market Area) as the standard — one firm per DMA. Statewide and custom arrangements are available by negotiation.
+
+**Three Service Tiers:**
+
+**Tier 1: Standard Web Lead** ($175-$500 based on DMA)
+- Pre-qualified web form submission from Fair Case consumer funnel
+- Dual scoring (conversion likelihood + case value)
+- Real-time delivery via portal, email, webhook
+- DMA exclusivity
+- Client calls lead
+
+**Tier 2: AI-Qualified Lead** (Base + $200)
+- Everything in Tier 1, PLUS:
+- AI calls lead within 90 seconds
+- 7-question intake qualification script
+- Full transcript and structured intake notes
+- 24/7 availability
+- Converts at 15-25% (better than standard 10-15%)
+
+**Tier 3: Human Live Transfer** (Base + $1,200)
+- Everything in Tier 1, PLUS:
+- Sasha or Davis calls within 90 seconds
+- 7-question intake qualification with state-specific criteria
+- Live warm transfer to firm (or detailed notes if unavailable)
+- Call recording and transcript
+- Converts at 40-60% (4x better than standard)
 
 **Coverage:**
 - Motor vehicle accidents (car, motorcycle, truck/semi, rideshare)
@@ -26,7 +51,7 @@ Geo-exclusive MVA lead generation with pre-qualification, real-time delivery, an
 - Medical malpractice
 - Product liability
 
-**Note:** MVA is the highest-volume PI case type and the best-developed within this vertical. Other PI case types (slip and fall, med mal, product liability) are accepted but less prioritized in current creative and tooling.
+**Note:** MVA is the highest-volume PI case type and the best-developed within this vertical. Premium tiers currently available for MVA only.
 
 ---
 
@@ -34,11 +59,11 @@ Geo-exclusive MVA lead generation with pre-qualification, real-time delivery, an
 
 ### 1. Demand Creation (Geography-Exclusive)
 
-We don't run generic PI ads. We build demand infrastructure within your exclusive territory — defined by DMA (Designated Market Area) as the standard. One firm per DMA. Statewide arrangements available by negotiation.
+We don't run generic PI ads. We build honest advertising within your DMA-exclusive territory — one firm per DMA as the standard. Statewide arrangements available by negotiation.
 
 - **Agency-grade creative:** 18+ years Fortune 500 advertising experience applied to legal — campaigns that earn attention, not just interrupt
 - **Behavioral targeting:** DMA-exclusive campaigns that reach the right people at the right time
-- **Brand familiarity:** By the time someone needs help, they've already seen Claim Justice Now
+- **Brand familiarity:** By the time someone needs help, they've already seen Fair Case
 
 **Emotional layer:** We're building awareness for people who need help after the worst moments of their lives—and connecting them to attorneys who can fight back against insurance companies.
 
@@ -50,13 +75,17 @@ Creative quality pre-qualifies at the top of funnel — the work itself filters 
 - **Behavioral qualification:** Injured in accident, not at fault, medical treatment, not represented, within statute
 - **Trust before transaction:** By the time they reach your intake, they're calm, qualified, and ready
 
-**Emotional layer:** These aren't "leads." They're people who've been hurt and need someone to fight for them. We make sure they're ready to be helped.
+**Premium qualification (optional upgrade):**
+- **AI Qualification:** AI voice agent calls within 90 seconds, completes 7-question intake script, delivers full transcript and structured notes. 24/7 availability. Converts at 15-25%.
+- **Human Live Transfer:** Sasha or Davis calls within 90 seconds, qualifies using same 7-question script with state-specific criteria (no-fault thresholds, contributory negligence, SOL), attempts live transfer to firm. Converts at 40-60%.
+
+**Emotional layer:** These aren't "leads." They're people who've been hurt and need someone to fight for them. Premium tiers ensure they're qualified and warm by the time they reach your intake — so you can focus on helping, not screening.
 
 ### 3. Demand Qualification (Risk Management)
 
 We reject leads before you have to:
 
-- **92% acceptance rate** — partner firms accept 92 out of 100 leads we deliver
+- **Over-qualification standard** — we reject leads before you have to
 - **Verified injuries** — medical treatment confirmed
 - **Liability screening** — not-at-fault determination
 - **Statute check** — within filing deadlines
@@ -90,7 +119,7 @@ We reject leads before you have to:
 
 **Business maturity:**
 - Already investing in lead generation (understand the model)
-- Think in cost per signed case, not cost per lead
+- Think in return on ad spend and projected case value, not just cost per lead
 - Want predictability over hype
 - Accept geo-exclusivity terms (no competing firms in market)
 
@@ -111,12 +140,12 @@ We reject leads before you have to:
 ## Pricing Model
 
 **From website:**
-- Average cost per signed case: **$1,600**
-- Qualification acceptance rate: **92%**
+- **Primary metric: Projected Attorney Fee → Projected ROAS** (day-one, from Fit Score × sign probability × median attorney fee by case type). CPSC tracks alongside as a confirmation metric once sign rate data accumulates. See `Projected_Attorney_Fee_Model.md` for the full framework.
+- Over-qualification standard: we reject leads before you have to
 
-**Pricing structure:** (Based on geo-exclusive model)
+**Pricing structure:** (Based on DMA-exclusive model)
 - Pay per qualified lead delivered
-- Geo-exclusive territory lock — standard unit is DMA (one firm per DMA)
+- DMA-exclusive territory lock — one firm per DMA
 - Statewide or multi-DMA bundles available by negotiation
 - No shared leads, no bidding wars
 - Transparent reporting, bad leads credited
@@ -144,31 +173,30 @@ We reject leads before you have to:
 
 ### The Unique Mechanism (Lead With This)
 
-> **"The Creative Advantage"** — We don't buy leads. We build them.
+> **"Honestly won leads"** — Advertising you can evaluate before you commit.
 
-Second Chair is led by co-founders with 18+ years of Fortune 500 advertising experience (Davis Ballard, Alex DuBelko, Sasha Zinshtein). Every campaign — every ad, every funnel, every landing page — is built at an agency level no lead gen competitor can match. The creative itself is the differentiator: better ads attract higher-intent prospects, behavioral targeting reaches real injury victims, and DMA-exclusive campaigns mean your firm owns the market.
+Second Chair is the only PI lead gen company that builds advertising that honestly persuades claimants. The advertising earns the claimant's response rather than manufacturing it — which means the claimant arrives at intake with accurate expectations and the readiness to engage. We show you the ads before you commit because we built them to be worth showing.
 
 **How to use it in conversation:**
-> "Most PI lead gen is built by media buyers running the same templates in every market. We're a creative agency that happens to do lead gen — 18 years of Fortune 500 advertising experience applied to personal injury. The result is leads that convert because the creative that produced them was better."
+> "Most PI lead gen advertising manipulates the claimant's vulnerability to produce volume — the claimant arrives with inflated expectations you have to manage down. We build advertising that honestly persuades. You can see the ads before you commit. The claimant arrives ready because the advertising earned their response."
 
-**Important:** The Creative Advantage isn't one tactic — it's the compounding effect of superior creative, smarter targeting, and geo-exclusive campaigns working together. Every lead we deliver exists because the advertising that attracted it was better than anything else in the market.
+**Important:** Honest advertising isn't a constraint on results — it is the mechanism that produces them. Claimants who were honestly persuaded arrive with accurate expectations, convert at a higher rate, and the ethical choice and the commercial choice are the same.
 
 ---
 
 ### Rational Hooks (Website)
 
-1. **"The Creative Advantage for elite PI firms"**
-   - Agency-grade advertising from co-founders with 18+ years Fortune 500 experience
-   - Creative quality pre-qualifies — better ads attract better cases
+1. **"Advertising you can evaluate before you commit"**
+   - Honest advertising from co-founders with 18+ years Fortune 500 experience
+   - Claimants arrive with accurate expectations — the advertising earned their response
    - One firm per market (DMA-exclusive)
-   - 92% acceptance rate
-   - $1,600 avg cost per signed case
+   - **Projected Attorney Fee → Projected ROAS as the day-one primary metric**, with CPSC alongside as confirmation
 
 2. **"The full case spectrum, built by a real agency"**
    - Consistent "keep the lights on" volume: soft tissue, minor fractures, general MVA
    - Intentional high-value targeting: rideshare (Uber/Lyft), commercial trucking, spine/TBI, wrongful death
    - DMA-exclusive campaigns with behavioral targeting — not recycled templates
-   - Consumer brand: Claim Justice Now
+   - Consumer brand: Fair Case
 
 3. **"Over-qualification beats volume"**
    - We reject leads before you have to
@@ -193,13 +221,13 @@ Second Chair is led by co-founders with 18+ years of Fortune 500 advertising exp
 ### Fused Messaging Examples
 
 **Homepage Hero:**
-> "Predictable MVA case flow for elite PI firms. One firm per market. 92% acceptance rate. Because you didn't become a PI attorney to stress about pipeline—you became one to fight for people against insurance companies with unlimited resources."
+> "Predictable MVA case flow for PI firms who care how the lead was won. One firm per market. Advertising you can evaluate before you commit. Because you didn't become a PI attorney to stress about pipeline — you became one to fight for people against insurance companies with unlimited resources."
 
 **Email Campaign:**
-> "What if next month's cases were already certain? Geo-exclusive MVA infrastructure. $1,600 per signed case. No bidding wars. The baseline that keeps your practice alive while you focus on the fight that matters."
+> "What if next month's cases were already certain? DMA-exclusive lead generation. Projected return on ad spend visible from day one. No bidding wars. The baseline that keeps your practice alive while you focus on the fight that matters."
 
 **Sales Call Opening:**
-> "Most lead gen companies sell you contact information. We build demand infrastructure in your exclusive territory. One firm per market. 92% acceptance rate. So you have the certainty you need to focus on what you do best—representing people who can't fight billion-dollar insurance companies alone."
+> "Most lead gen companies sell you contact information and you never see the advertising that produced it. We show you the ads before you commit — because we built them to be worth showing. One firm per market. Every lead arrives with a Projected Attorney Fee attached, so you see the value of the pipeline on day one — before anyone has signed anything."
 
 ---
 
@@ -230,10 +258,10 @@ See: [`05_Restrictions/State_Bar_Quick_Ref.md`](../05_Restrictions/State_Bar_Qui
 
 ## Creative & Campaign Infrastructure
 
-### Claim Justice Now (Consumer-Facing Brand)
+### Fair Case (Consumer-Facing Brand)
 
 **What it is:**
-> The consumer-facing brand through which all PI/MVA campaigns run. Claim Justice Now is the public identity — Second Chair is the B2B partner brand attorneys buy from.
+> The consumer-facing brand through which all PI/MVA campaigns run. Fair Case is the public identity — Second Chair is the B2B partner brand attorneys buy from.
 
 **Strategic value:**
 - Separates consumer advertising from attorney relationship
@@ -241,16 +269,16 @@ See: [`05_Restrictions/State_Bar_Quick_Ref.md`](../05_Restrictions/State_Bar_Qui
 - Enables trust-building creative that educates and empowers injury victims
 - Allows DMA-exclusive campaign deployment without competitor visibility
 
-### The Creative Advantage (Core Differentiator)
+### Honest Advertising as Mechanism (Core Differentiator)
 
 **What it is:**
-> 18+ years of Fortune 500 advertising experience (Davis Ballard, Alex DuBelko, Sasha Zinshtein) applied to PI lead generation. Agency-grade creative, behavioral targeting, and DMA-exclusive campaigns replace the template-driven, media-buy-only approach used by every other PI lead gen company.
+> 18+ years of Fortune 500 advertising experience (Davis Ballard, Alex DuBelko, Sasha Zinshtein) applied to PI lead generation. Advertising that honestly persuades claimants — specific, accurate, no manufactured urgency — replaces the manipulative, template-driven approach used by every other PI lead gen company. The attorney can evaluate the advertising before they commit.
 
 **How it works:**
-- **Creative quality as filter:** Better ads attract higher-intent, higher-quality prospects — the work itself pre-qualifies
+- **Honest persuasion as filter:** Advertising that earns the claimant's response attracts people with accurate expectations — the honesty itself pre-qualifies
 - **Behavioral targeting:** Campaigns reach people based on behavioral signals, not just keyword bidding
 - **DMA-exclusive deployment:** One firm per market means campaigns are built for that market, not recycled nationally
-- **Full-funnel creative:** From awareness content through qualification funnels — every touchpoint is agency-built
+- **Full-funnel creative:** From awareness content through qualification funnels — every touchpoint is built by the founding team with shared accountability
 
 ---
 
@@ -273,30 +301,43 @@ See: [`05_Restrictions/State_Bar_Quick_Ref.md`](../05_Restrictions/State_Bar_Qui
 ### What Second Chair Does Differently
 
 **Our model:**
-- **The Creative Advantage** — 18+ years Fortune 500 advertising experience. Agency-grade creative that pre-qualifies through quality, not gimmicks. No other PI lead gen company has real agency talent building their campaigns.
+- **Honest advertising as mechanism** — 18+ years Fortune 500 advertising experience. Advertising that honestly persuades claimants, producing leads who arrive with accurate expectations. No other PI lead gen company shows you the ads before you commit.
+- **Integrated lead gen + qualification + transfer** — Optional premium tiers provide AI or human qualification within 90 seconds, with live transfer capability. No other PI lead vendor combines exclusive DMA leads, honest advertising, and premium intake qualification from one partner.
 - **Full case spectrum** — soft tissue for consistency, high-value targeting (rideshare, trucking, spine/TBI, wrongful death) for upside
-- Geo-exclusive (one firm per DMA, actually enforced)
+- DMA-exclusive (one firm per DMA, actually enforced)
 - DMA-exclusive campaign deployment with behavioral targeting
 - Over-qualification beats volume — we reject leads before you have to
 - Transparent reporting, bad leads credited
-- We help you convert (follow-up intelligence, 60-second response protocol)
+- Premium tier performance: 40-60% conversion on live transfers vs. 10-15% on web leads
+
+**Service tiers:**
+- Standard: Web leads delivered in real-time, you call them
+- AI-Qualified: We call them (AI), you call back with detailed intel
+- Human Live Transfer: We call, qualify, and transfer live to your team
 
 **Language:**
-- "The Creative Advantage" not "quality leads"
-- "Agency-grade lead generation" not "we send leads"
-- "Demand infrastructure" not "lead gen"
-- "Elite firms" not "all attorneys"
+- "Honestly won leads" not "quality leads"
+- "Advertising you can evaluate" not "we send leads"
+- "We don't just deliver leads. We qualify them." (premium tier)
+- "One vendor for lead gen + intake + transfer" (premium tier differentiation)
+- "PI firms who care how the lead was won" not "all attorneys"
 - "Predictable case flow" not "get more leads"
-- "We're on your side in the fight" not "buy our leads"
+- "Cost-per-signed-case" not "cost-per-lead"
+
+**Character traits (locked):**
+- Expert not Arrogant
+- Honest in the Specific
+- Respectful of Intelligence
+- Weighted not Heavy
 
 ---
 
 ## Success Metrics
 
 ### Lead Quality Metrics
-- 92% acceptance rate (partner firms accept 92/100 leads)
+- Over-qualification standard (we reject leads before you have to)
 - 10-20% sign rate (industry standard with good follow-up)
-- $1,600 average cost per signed case
+- Cost-per-signed-case (CPSC) reported as primary metric on every account
 
 ### Attorney Success Factors
 - **Response speed:** <60 seconds = 391% better conversion than 5 minutes
@@ -315,7 +356,7 @@ See: [`05_Restrictions/State_Bar_Quick_Ref.md`](../05_Restrictions/State_Bar_Qui
 ```
 ACCIDENT HAPPENS
   ↓
-Victim encounters Claim Justice Now content (ad, video, search, social)
+Victim encounters Fair Case content (ad, video, search, social)
   ↓
 Engages with campaign — educates on rights, builds trust, qualifies through funnel
   ↓

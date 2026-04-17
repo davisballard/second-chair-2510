@@ -27,21 +27,36 @@ This document does the work Sasha can't do when he's not in the room. It must be
 
 ### What You Get
 
-Consistent PI leads from advertising you've already evaluated — delivered with the compliance infrastructure to verify where they came from, the scoring intelligence to prioritize who to call first, and the transparency to see whether the relationship is working.
+Consistent PI leads from advertising you've already evaluated — delivered with the compliance infrastructure to verify where they came from, the scoring intelligence to prioritize who to call first, and optional premium qualification that converts cold web leads into warm transfers.
+
+**Three service tiers:**
+
+**Standard Web Lead** — Pre-qualified web form submission. You call them. Converts at 10-15%.
+
+**AI-Qualified Lead** (+$200) — We call them within 90 seconds using AI voice, complete 7-question intake script, deliver full transcript and structured notes. Converts at 15-25%.
+
+**Human Live Transfer** (+$1,200) — Sasha or Davis calls within 90 seconds, qualifies using same script with state-specific criteria, attempts live warm transfer to your intake team (or delivers detailed notes if unavailable). Converts at 40-60%.
 
 Specifically:
 
 **Better intake calls.**
-The claimant who arrives through Second Chair was honestly persuaded — given accurate information about their situation and a genuine reason to call. They arrive with the right expectations. The intake call doesn't start with damage control.
+Standard tier: The claimant who arrives through Second Chair was honestly persuaded — given accurate information about their situation and a genuine reason to call. They arrive with the right expectations. The intake call doesn't start with damage control.
+
+Premium tiers: The claimant has already been qualified before you ever speak with them. You're receiving a warm transfer or calling back with detailed intel about injury type, liability, medical treatment, and case viability.
 
 **The metric that tells you if it's working.**
 We report on your cost-per-signed-case — not CPL. CPL tells you what you paid to talk to someone. CPSC tells you what you paid to sign them. That's the number that tells you whether lead gen is contributing to your practice or costing it.
 
+- Standard leads: $315 (Denver) at 12% conversion = $2,625 CPSC
+- Human Live Transfer: $1,515 at 50% conversion = $3,030 CPSC
+
+You pay 15% more per signed case but need 75% fewer leads and your intake team saves 6+ hours per week.
+
 **A compliance record on every lead.**
-TrustedForm full stack on every lead — court-admissible consent documentation and advertising origin record. You know where every lead came from and you can prove it.
+TrustedForm full stack on every lead — court-admissible consent documentation and advertising origin record. You know where every lead came from and you can prove it. Premium tier calls are recorded with two-party consent compliance.
 
 **No shared leads.**
-The lead generated for your firm is delivered to your firm. Not re-routed to another attorney in your market.
+The lead generated for your firm is delivered to your firm. Not re-routed to another attorney in your market. Premium tier live transfers are exclusive to your DMA.
 
 ---
 
@@ -123,7 +138,7 @@ Alex has also built the AI systems that power the council's creative and strateg
 
 **Sasha Zinshtein — Media Execution and Attorney Relationships**
 
-Sasha ran programmatic buying for 18+ global brands at 33across — ASOS, Bose, Diageo, H&R Block, Pepsico, Tinder, and others. He then served as Director of Growth at The Flower Agency, where he pioneered digital advertising for brands that had no access to standard platforms (Google and Facebook entirely unavailable) — building reach, performance, and attribution where others said it couldn't be done. This is directly analogous to PI Special Ad Category constraints, where demographic, interest, and behavioral targeting are unavailable. Sasha has navigated this constraint before and built ROI from it.
+Sasha ran programmatic buying for 18+ global brands at 33across — Bose, Coach, Diageo, Duracell, H&R Block, Indeed, Ocean Spray, PepsiCo, Tinder, and others. He then served as Director of Growth at The Flower Agency, where he pioneered digital advertising for brands that had no access to standard platforms (Google and Facebook entirely unavailable) — building reach, performance, and attribution where others said it couldn't be done. This is directly analogous to PI Special Ad Category constraints, where demographic, interest, and behavioral targeting are unavailable. Sasha has navigated this constraint before and built ROI from it.
 
 Before joining the advertising industry, Sasha underwrote company financials at Riverpoint Capital — bank statements, merchant processing, P&Ls, cash-flow analysis — and placed growth capital for SMBs. This background is why his conversations with managing partners about case acquisition economics sound like capital allocation conversations, not vendor pitches. He speaks the language of the practice's finances, not the language of a media buyer.
 

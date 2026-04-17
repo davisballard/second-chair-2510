@@ -4,21 +4,29 @@
 
 ## Role / Title
 
-**Co-Founder & Head of Marketing & Creative**  
+**Co-Founder — Creative & Strategy Systems**
 Second Chair
 
 ---
 
 ## Co-Founder Role
 
+**Headline credential:** 18 years building advertising for the world's most recognized brands.
+**Badge:** Creative & Strategy Systems
+
 **Equal co-founder** with Alex DuBelko and Sasha Zinshtein. 33/33/33 profit split.
 
 **Core Responsibilities:**
-- Brand positioning, strategy, and messaging architecture
-- Creative direction and ad production (Meta, Google, TikTok, Snapchat, LinkedIn)
-- Email, website copy, and content strategy
+- Brand architecture, strategy, and messaging (locked March 2026 via Julian Cole-chaired brand strategy process)
+- Creative direction and ad production — cinematic, intentionally produced B2C creative (Meta primary)
+- B2B content: website, email, LinkedIn, thought leadership
 - Campaign concepting, scripts, and visual direction
 - Technical sales support for large accounts (closing, not cold calling)
+
+**Key credential context:**
+- Partnered with 55-time Cannes Lion Winner Julian Cole on 4 Fortune 500 strategy projects (Disney, Samsung, and others)
+- Built and co-launched Strategy Finishing School with Julian Cole
+- First employee at Vacation — launched brand to 14 beauty awards in first year, 300+ PR mentions, 27M earned media impressions
 
 **NOT Responsible For:**
 - Cold calling or sales outreach (Sasha's domain)
@@ -32,7 +40,7 @@ Second Chair
 
 Davis Ballard is Co-Founder and Head of Marketing & Creative at Second Chair, where he architected the company's proprietary AI-powered marketing and creative engine—a sophisticated system that integrates marketing science, behavioral psychology, and autonomous creative execution into a complete in-house agency capability. This innovation represents the fusion of 18 years across strategy, creative direction, and AI systems development.
 
-Davis has worked across strategy and creative disciplines for **Disney, Google, Samsung, The Macallan, Vacation®, Oculus, NFL, NBA, Blink-182, A$AP Ferg, SET ACTIVE, Vice**, and **12 Fortune 500 brands** (including 4 through partnership with 55-time Cannes Lion Winner Julian Cole). His approach combines evidence-based marketing science with behavioral psychology and counterintuitive "alchemy" thinking—creating strategic frameworks that drive measurable business outcomes while enabling bold, culture-making creative.
+Davis has worked across strategy and creative disciplines for **Disney, Google, Samsung, NFL, NBA, Uber, Taco Bell, The Macallan, Oculus, Optum, E&J Gallo Winery, Miller, Blink-182, Harvard, Stanford, Vacation®, Vice, Virtue, A$AP Ferg, SET ACTIVE, Stray Kids**, and **12 Fortune 500 brands** (including 4 through partnership with 55-time Cannes Lion Winner Julian Cole). His approach combines evidence-based marketing science with behavioral psychology and counterintuitive "alchemy" thinking—creating strategic frameworks that drive measurable business outcomes while enabling bold, culture-making creative.
 
 As **first employee and Creative & Ecomm Lead at Vacation®**, Davis helped launch the brand to **14 beauty awards** in its first year (GQ, Esquire, Refinery29, Vogue, Byrdie), over **300 positive PR mentions**, and **27 million earned media impressions** through creative campaigns like the viral fake job titles initiative (Chief Jacuzzi Inspector, Head of Shrimp Cocktail Operations).
 
@@ -48,8 +56,8 @@ At Second Chair, Davis serves as the complete strategic and creative department�
 Second Chair is geo-exclusive lead generation for personal injury law firms (one firm per DMA). Equal co-founder with Alex DuBelko and Sasha Zinshtein.
 
 **What I Own:**
-• **Brand Positioning & Strategy** — Brand positioning (Claim Justice Now), consumer research (4 C's framework), messaging architecture, competitive positioning
-• **Ad Creative Development & Production** — Ad creative, scripts, concepts across Meta, Google, TikTok, Snapchat, LinkedIn
+• **Brand Positioning & Strategy** — Brand architecture, SMP, consumer research, messaging architecture (B2B + B2C via Fair Case), competitive positioning
+• **Ad Creative Development & Production** — Ad creative, scripts, concepts across Meta (95–100% B2C spend), LinkedIn (B2B)
 • **Content & Copy** — Email, website copy, content strategy, behavioral copy triggers
 • **Creative Direction** — Campaign concepting, visual direction, art direction for all marketing materials
 • **Positioning & Messaging** — Evidence-based positioning grounded in marketing science, behavioral psychology, and consumer insights
@@ -271,7 +279,7 @@ This philosophical foundation influences everything: creative work, strategic th
 • **Technology & Crypto** — Dinari, SolidViolet, Oculus, Samsung
 • **Entertainment & Music** — NFL, NBA, Blink-182, A$AP Ferg, Parang Recordings
 • **Healthcare** — McLean Hospital, Mass General, Stanford, Harvard, Optum, Scripps, Dana Farber
-• **Fortune 500 & Enterprise** — Disney, Google, Samsung, Vice
+• **Fortune 500 & Enterprise** — Disney, Google, Samsung, Uber, Taco Bell, PepsiCo, Vice
 • **Legal Technology** — Second Chair (B2C consumer + B2B attorney platforms)
 
 ---
@@ -288,7 +296,7 @@ This philosophical foundation influences everything: creative work, strategic th
 
 **Strategic Partnerships:**
 • Partnered with **55-time Cannes Lion Winner Julian Cole** on **4 Fortune 500 strategy projects**
-• Worked with **Disney, Samsung, Google, The Macallan, Vacation®, Oculus, NFL, NBA, Vice**
+• Worked with **Disney, Google, Samsung, NFL, NBA, Uber, Taco Bell, The Macallan, Oculus, Optum, E&J Gallo Winery, Miller, Blink-182, Harvard, Stanford, Vacation®, Vice**
 • Built Strategy Finishing School with Julian Cole: **3,500+ members** from Google, Amazon, Netflix, Droga5, Spotify, DDB
 
 **Business Building:**
@@ -345,7 +353,7 @@ Verticals: Legal Tech, DTC, Technology, Entertainment, Startups, Healthcare, Lux
 Creative Portfolio: http://davisballard.com/creative
 
 Creative:
-• Vacation®, The Macallan, Google, Blink 182, NFL, Poolsuite, NBA, A$AP Ferg, SET ACTIVE, ElectraMeccanica, Cann, Dinari, SolidViolet, Samba TV, Language Media, Universal Attractions, Parang Recordings, Factory Floor
+• Vacation®, The Macallan, Google, Blink-182, NFL, NBA, Uber, Taco Bell, E&J Gallo Winery, Miller, Stray Kids, Poolsuite, A$AP Ferg, SET ACTIVE, ElectraMeccanica, Cann, Dinari, SolidViolet, Samba TV, Language Media, Universal Attractions, Parang Recordings, Factory Floor
 
 Strategy:
 • Disney, Samsung, Oculus, Vice, Select Cannabis, Optum, Stanford, Harvard, Partnered with Julian Cole on 4 Fortune 500 Brands (Available on Request), McLean Hospital, Mass General Hospital, Scripps Hospital, Dana Farber, Partners Healthcare
@@ -368,7 +376,7 @@ davisballard@gmail.com
 
 ### Short Bio (Under 215 characters)
 
-18 years across strategy and creative for Disney, Samsung, Google + 12 Fortune 500s. Built Second Chair's AI engine unifying both—turning evidence-based strategy into bold, on-brand creative at scale.
+18 years across strategy and creative for Disney, Google, Samsung, NFL, NBA, Uber, Taco Bell + 12 Fortune 500s. Built Second Chair's AI engine—turning evidence-based strategy into bold, on-brand creative at scale.
 
 ---
 
@@ -388,4 +396,5 @@ davisballard@gmail.com
 
 ---
 
-*Last updated: February 20, 2026*
+*Last updated: March 2026*
+*Website framing source: `18_Website/index.html` (public presentation)*

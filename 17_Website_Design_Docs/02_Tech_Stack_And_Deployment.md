@@ -31,7 +31,7 @@ After the framework is in place: image optimization (`next/image`), font subsett
 
 | Item | Detail |
 |------|--------|
-| **Website source** | `18_Website/` inside this brand files repo |
+| **Website source** | `apps/second-chair-website/` inside the lead-gen repo (`https://github.com/highlydubious/lead-gen`) |
 | **Editor** | Cursor |
 | **Preview (Phase 1)** | Open `index.html` directly in browser, or run a local server (`npx serve .`) for anything requiring relative paths |
 | **Build step (Phase 1)** | None — static HTML, no compilation required |
@@ -40,7 +40,7 @@ After the framework is in place: image optimization (`next/image`), font subsett
 ### File Structure (Phase 1)
 
 ```
-18_Website/
+apps/second-chair-website/
 ├── index.html
 ├── css/
 │   └── styles.css
@@ -52,7 +52,7 @@ After the framework is in place: image optimization (`next/image`), font subsett
 
 ### Editing Workflow
 
-1. Open the `18_Website/` folder in Cursor
+1. Open the `apps/second-chair-website/` folder in Cursor
 2. Edit `index.html`, `css/styles.css`, or `js/main.js`
 3. Refresh browser to preview
 4. When happy with a change, commit and push to the website repo (see below)
@@ -84,7 +84,7 @@ git commit -m "describe what changed"
 git push origin main
 ```
 
-> The `18_Website/` folder inside this brand files repo is the working copy. Keep the website GitHub repo (`second-chair-website-5220`) in sync with it. The brand files repo (`second-chair-2510`) is for brand documentation only and is not connected to Vercel.
+> The `apps/second-chair-website/` folder inside this brand files repo is the working copy. Keep the website GitHub repo (`second-chair-website-5220`) in sync with it. The brand files repo (`second-chair-2510`) is for brand documentation only and is not connected to Vercel.
 
 ---
 
@@ -176,7 +176,7 @@ Begins after Phase 2 framework migration is complete and stable.
 ## QUICK REFERENCE
 
 ```
-Edit locally in Cursor (18_Website/)
+Edit locally in Cursor (apps/second-chair-website/)
     ↓
 Commit + push to second-chair-website-5220 (main)
     ↓

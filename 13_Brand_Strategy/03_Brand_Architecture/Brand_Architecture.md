@@ -90,6 +90,8 @@ Why it works: Directly addresses the most common way lead gen vendors fail — t
 
 Proof point: The three founders' specific roles — Davis (creative and strategy), Alex (product and compliance infrastructure), Sasha (media execution and attorney sales) — are operated from the same company with shared accountability to the same metric (CPSC).
 
+**Premium tier proof:** Lead generation + qualification + live transfer from one integrated partner. Call centers charge $300-$500 per call as a separate service. CPA vendors charge $2,500-$6,500 per signed case with 30-60 day payment delay. Second Chair integrates all three (lead gen + qualification + transfer) at $1,515 average with weekly billing and 89% gross margin. No other PI lead vendor offers this combination.
+
 ---
 
 ### Objection Responses
@@ -103,6 +105,8 @@ Proof point: The three founders' specific roles — Davis (creative and strategy
 | "Your leads are probably garbage like everyone else's." | Do you generate leads honestly? | "Here's the advertising. Here's the compliance record on a sample lead — TrustedForm certification, origin documentation, the full stack. You're not trusting our claim. You're evaluating the product." |
 | "I need to know it works before I commit." | Give me proof without risk | "Here's a firm in a comparable market you can call. Here's the CPSC data from their last 90 days. Here's the pilot structure — minimum commitment, clear quality standard, easy exit if the data doesn't support continuing." |
 | "It's too expensive." | Does the ROI math work? | "What's your current cost-per-signed-case from your existing vendors? Most attorneys don't have this number — because their vendors don't report it. Let's do the math together before we talk price." |
+| "$1,500 per lead is too much." (Premium tier) | Premium pricing concern | "Standard leads at $315 convert at 12% = $2,625 per signed case. Live transfers at $1,515 convert at 50% = $3,030 per case. You pay 15% more per case but need 75% fewer leads. Your intake team saves 6+ hours per week. And you're the only firm getting qualified live transfers in your DMA." |
+| "Why not just use Settlement Allies?" (CPA alternative) | CPA model comparison | "Settlement Allies charges $2,500-$6,500 per signed case with 30-60 day payment delay. Our premium tier costs $3,030 per signed case with weekly billing. You pay 20% more than SA's low end but get paid 4-6 weeks faster, keep DMA exclusivity, and control which cases you sign." |
 | "I need to talk to my partner first." | I'm not ready yet | "Absolutely. When you do — here's the one-page we recommend sharing. It has the advertising, the compliance record, and the CPSC reporting format. That's usually what partners want to see." |
 
 ---
@@ -350,9 +354,9 @@ Second Chair shows the advertising it runs to generate leads before any attorney
 - Dual scoring engine: Conversion Score and Case Value Score visible to the attorney, not just internally tracked
 
 **The founding team's specific credentials (verifiable by any attorney who investigates):**
-- Davis Ballard: 18+ years brand strategy and creative direction, global brands across restricted-category advertising environments
-- Alex DuBelko: Mobile platform product architecture at TradeStation (FINRA/SEC-adjacent compliance infrastructure, crash-free performance at scale), CXL/Reforge certifications, Summit Analytics consulting
-- Sasha Zinshtein: 14+ years programmatic media, programmatic buying for 18+ Fortune 500 brands at 33across (ASOS, Bose, Diageo, H&R Block, Pepsico, Tinder, and others); Director of Growth at The Flower Agency (restricted-category advertising with no standard platform access — direct operational analog to PI Special Ad Categories); financial underwriting at Riverpoint Capital (company financials, capital placement, payback modeling)
+- Davis Ballard: 18+ years brand strategy and creative direction across Disney, Google, Samsung, NFL, NBA, Uber, Taco Bell, The Macallan, Optum, and Fortune 500 compliance-heavy brands
+- Alex DuBelko: Mobile platform product architecture at TradeStation (1M users, FINRA/SEC compliance), product analytics at Compass, PE financial modeling at Breakwater Management ($550M+)
+- Sasha Zinshtein: 14+ years programmatic media, programmatic buying for 18+ Fortune 500 brands at 33across (Bose, Coach, Diageo, Duracell, H&R Block, Indeed, Ocean Spray, PepsiCo, Tinder, and others); Director of Growth at The Flower Agency (restricted-category advertising with no standard platform access — direct operational analog to PI Special Ad Categories); financial underwriting at Riverpoint Capital (company financials, capital placement, payback modeling)
 
 **Month-to-month terms:**
 No long-term contracts required. The business model assumes Second Chair must earn the relationship continuously.

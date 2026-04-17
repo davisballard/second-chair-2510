@@ -8,15 +8,16 @@
 
 ## 1. What The Platform Is
 
-The Second Chair platform is a two-sided lead generation and delivery system built specifically for personal injury law. It has three components:
+The Second Chair platform is a two-sided lead generation and delivery system built specifically for personal injury law. It has four components:
 
 1. **Consumer intake** — A quiz funnel under the consumer brand (Fair Case / getafaircase.com) that captures injured people, qualifies their case details, and collects TCPA-compliant consent.
 2. **The pipeline** — A backend system that validates, scores, verifies, and routes every submission before it ever reaches a law firm.
-3. **Firm-side delivery** — A portal, email, and webhook delivery layer that puts qualified leads directly into a law firm's workflow.
+3. **Premium nurturing (optional)** — AI or human qualification within 90 seconds, with live transfer capability for firms that opt in.
+4. **Firm-side delivery** — A portal, email, and webhook delivery layer that puts qualified leads directly into a law firm's workflow.
 
-Second Chair is what the law firm sees and pays for. The consumer brand is what injured people see. The pipeline is invisible to both — it's the infrastructure that makes the product worth selling.
+Second Chair is what the law firm sees and pays for. The consumer brand is what injured people see. The pipeline and premium nurturing are invisible to both — they're the infrastructure that makes the product worth selling.
 
-The design intent is to own the full chain: from the moment an injured person clicks an ad to the moment a qualified lead lands in a firm's intake queue. Most lead gen businesses stop at form submission. This one doesn't.
+The design intent is to own the full chain: from the moment an injured person clicks an ad to the moment a qualified lead lands in a firm's intake queue (standard tier) or transfers live to a firm's phone (premium tier). Most lead gen businesses stop at form submission. This one doesn't.
 
 ---
 
@@ -74,7 +75,14 @@ Submission received
        ├── 6. External compliance checks (DNC, litigator, TrustedForm)
        ├── 7. Scoring (Fit Score + Quality Score → Grade)
        ├── 8. Routing (firm assignment)
-       └── 9. Delivery (portal + email/webhook)
+       ├── 9. Premium Routing (if opted in):
+       │      ├── Check SC availability (Davis/Sasha toggle)
+       │      ├── If available → Trigger premium call (AI or Human)
+       │      ├── If unavailable → Check firm hours
+       │      │    ├── During firm hours → Deliver to firm standard
+       │      │    └── After hours → AI fallback (if AI tier)
+       │      └── Log call attempt, recording, transcript, outcome
+       └── 10. Delivery (portal + email/webhook, or post-call notes)
 ```
 
 ### Dual Scoring Engine
@@ -202,7 +210,111 @@ Firms set daily and weekly lead caps. When a cap is reached, new matching leads 
 
 ---
 
-## 6. The Firm Portal
+## 6. Premium Nurturing (Optional Tier)
+
+Firms can opt into premium qualification services that convert cold web leads into warm qualified leads or live transfers.
+
+### Three Service Tiers
+
+**Standard** — Web lead delivered to firm portal/email/webhook. Firm calls lead. Base price.
+
+**AI-Qualified** (+$200) — AI voice agent calls lead within 90 seconds of form submission, completes 7-question intake script, delivers full transcript and structured notes. Available 24/7.
+
+**Human Live Transfer** (+$1,200) — Davis or Sasha calls lead within 90 seconds, qualifies using same script with state-specific criteria (no-fault thresholds, contributory negligence, SOL), attempts live warm transfer to firm's intake line. If firm unavailable, delivers detailed qualification notes.
+
+### Premium Routing Logic
+
+```
+Lead submitted → passes validation/scoring
+       │
+       ├── Is firm opted into premium tier?
+       │     │
+       │     NO → Standard delivery (portal/email/webhook)
+       │     │
+       │     YES → Check premium tier selected
+       │          │
+       │          ├── AI-Qualified Tier:
+       │          │    ├── Trigger Bland.ai call within 90s
+       │          │    ├── Execute 7-question script
+       │          │    ├── Record call (two-party consent where required)
+       │          │    ├── Generate structured notes + transcript
+       │          │    └── Deliver to firm with AI qualification data
+       │          │
+       │          └── Human Live Transfer Tier:
+       │               ├── Check SC availability (Davis/Sasha toggle at admin.2ndchair.net/availability)
+       │               │    │
+       │               │    AVAILABLE → Notify via WhatsApp
+       │               │    │            ↓
+       │               │    │        Human calls lead within 90s
+       │               │    │            ↓
+       │               │    │        Qualify using 7-question script + state criteria
+       │               │    │            ↓
+       │               │    │        Lead qualified? 
+       │               │    │            │
+       │               │    │            YES → Attempt live transfer to firm
+       │               │    │            │      │
+       │               │    │            │      SUCCESS → Log successful transfer
+       │               │    │            │      FAIL → Deliver detailed notes for warm callback
+       │               │    │            │
+       │               │    │            NO → Log disqualified, do not bill
+       │               │    │
+       │               │    UNAVAILABLE → Check firm hours
+       │               │                   │
+       │               │                   DURING HOURS → Route to firm standard
+       │               │                   AFTER HOURS → AI fallback (if available)
+       │               │
+       │               └── Log: call attempt, recording URL (Twilio), transcript, outcome, billing status
+```
+
+### Technical Stack (Premium Tier)
+
+| Component | Technology | Purpose |
+|---|---|---|
+| **Availability Toggle** | Next.js admin panel + Supabase | Davis/Sasha set availability status |
+| **WhatsApp Notifications** | WhatsApp Business API | Instant lead notification with contact info |
+| **AI Voice** | Bland.ai | 24/7 AI voice agent, 7-question script execution |
+| **Phone System** | Twilio Programmable Voice | Call routing, recording, transfer |
+| **Call Interface** | Aircall | Human agent interface for Davis/Sasha calls |
+| **Call Recording** | Twilio Recording API | Two-party consent compliance (stored 7 years) |
+| **Transcript** | Bland.ai transcription | AI-generated from call audio |
+| **Call Logs** | Supabase | Call attempts, outcomes, recordings, billing |
+
+### Qualification Script (7 Questions)
+
+Standard across AI and Human tiers:
+
+1. **Injury Gate:** "Were you injured in the accident?" (Y/N — if No, politely end call)
+2. **Injury Type:** "What type of injuries did you sustain?" (Whiplash, broken bones, head injury, etc.)
+3. **Medical Treatment:** "Have you received medical treatment?" / "Are you still receiving treatment?"
+4. **Fault:** "Was the accident your fault, the other party's fault, or are you unsure?"
+5. **Attorney Status:** "Do you already have an attorney representing you for this accident?" (If Yes, politely end call)
+6. **Accident Date:** "When did the accident happen?" (Verify within SOL for state)
+7. **Contact Preference:** "What's the best way for the law firm to reach you — phone call, text, or email?"
+
+**State-specific add-ons** (Human tier only):
+- **No-fault states** (FL, MI, NJ, etc.): Verify injury threshold ($X+ medical costs)
+- **Contributory negligence states** (NC, VA, MD, DC, AL): Confirm 0% fault
+- **Pure comparative** (CA, NY, etc.): Note fault percentage for settlement impact
+
+### Call Recording Compliance
+
+**Two-party consent states:** CA, CT, FL, IL, MA, MD, MT, NH, PA, WA
+- Automated announcement at call start: "This call may be recorded for quality assurance and training purposes."
+- If lead objects, recording stops and call continues unrecorded (notes only)
+
+**One-party consent states:** All others
+- Recording starts immediately (SC is consenting party)
+
+Recordings stored 7 years (TCPA compliance requirement). Accessible via admin panel per lead.
+
+### Billing Logic
+
+- **AI-Qualified:** Bill base + $200 if call completes (lead answers and script executes). No bill if lead doesn't answer or hangs up immediately.
+- **Human Live Transfer:** Bill base + $1,200 if lead qualifies and transfer is attempted. No bill if lead doesn't answer, hangs up immediately, or disqualifies (no injury, already represented, etc.).
+
+---
+
+## 7. The Firm Portal
 
 The firm portal is the law firm team's primary interface for working their assigned leads.
 
@@ -243,6 +355,10 @@ The admin dashboard (internal-only) provides:
 | Bot challenge | Cloudflare Turnstile |
 | Consent verification | ActiveProspect TrustedForm |
 | Phone intelligence | Twilio Lookup |
+| Premium call routing | Twilio Programmable Voice |
+| Premium call interface | Aircall |
+| Premium AI voice | Bland.ai |
+| Premium notifications | WhatsApp Business API |
 | IP/fraud enrichment | MaxMind minFraud (Phase 2) |
 | Second Chair website | Next.js, React — Vercel + GitHub |
 

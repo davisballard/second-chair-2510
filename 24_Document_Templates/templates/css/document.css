@@ -1,0 +1,528 @@
+/* ============================================================
+   Second Chair — Document Template Stylesheet
+   Brand System locked: March 1, 2026 (Massimo Vignelli)
+   ============================================================ */
+
+/* ── Font Faces ─────────────────────────────────────────── */
+
+/* Tiempos Headline — Display/Headlines */
+@font-face {
+  font-family: 'TiemposHeadline';
+  src: url('../../17_Website_Design_Docs/fonts/TestTiemposHeadline-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'TiemposHeadline';
+  src: url('../../17_Website_Design_Docs/fonts/TestTiemposHeadline-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Adobe Caslon Pro — Body text */
+@font-face {
+  font-family: 'ACaslon';
+  src: url('../../17_Website_Design_Docs/fonts/ACaslonPro-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ACaslon';
+  src: url('../../17_Website_Design_Docs/fonts/ACaslonPro-Italic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'ACaslon';
+  src: url('../../17_Website_Design_Docs/fonts/ACaslonPro-Semibold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ACaslon';
+  src: url('../../17_Website_Design_Docs/fonts/ACaslonPro-SemiboldItalic.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'ACaslon';
+  src: url('../../17_Website_Design_Docs/fonts/ACaslonPro-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Söhne — UI/Metadata/Captions */
+@font-face {
+  font-family: 'Sohne';
+  src: url('../../17_Website_Design_Docs/fonts/Sohne-Buch.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Sohne';
+  src: url('../../17_Website_Design_Docs/fonts/Sohne-Kraftig.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* ── Design Tokens ──────────────────────────────────────── */
+
+:root {
+  --sc-cream:     #FBF7EA;
+  --sc-burgundy:  #490A0A;
+  --sc-charcoal:  #1C1917;
+  --sc-grey:      #6E6862;
+  --sc-navy:      #0F1E3A;
+
+  --font-display: 'TiemposHeadline', Georgia, 'Times New Roman', serif;
+  --font-body:    'ACaslon', 'Adobe Caslon Pro', Georgia, serif;
+  --font-ui:      'Sohne', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/* ── Page Setup ─────────────────────────────────────────── */
+
+@page {
+  size: 8.5in 11in;
+  margin: 1.2in 0.85in 1.2in 0.85in;
+}
+
+@page:first {
+  margin-top: 2.65in;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 8.5in;
+  background: transparent;
+  color: var(--sc-charcoal);
+  font-family: var(--font-body);
+  font-size: 10.5pt;
+  line-height: 170%;
+  font-feature-settings: 'liga' 1, 'onum' 1;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── Content Zone ───────────────────────────────────────── */
+/* Margins handled by @page rules. Content flows naturally. */
+/* Backgrounds are stamped onto each page by pypdf after rendering. */
+
+.content {
+  width: 100%;
+}
+
+/* ── Typography ─────────────────────────────────────────── */
+
+/* H1 — Document title (Tiempos italic, editorial weight) */
+h1 {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-style: italic;
+  font-size: 28pt;
+  line-height: 115%;
+  letter-spacing: -0.02em;
+  color: var(--sc-charcoal);
+  margin-bottom: 0.15in;
+  break-after: avoid;
+}
+
+/* H1 for invoice/proposal display text — stays bold upright */
+h1.display {
+  font-weight: 700;
+  font-style: normal;
+  font-size: 22pt;
+  letter-spacing: -0.01em;
+  color: var(--sc-burgundy);
+}
+
+/* H2 — Section headers (Söhne uppercase, bold, matching website section labels) */
+h2 {
+  font-family: var(--font-ui);
+  font-weight: 700;
+  font-size: 10pt;
+  line-height: 130%;
+  color: var(--sc-charcoal);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  margin-top: 0.28in;
+  margin-bottom: 0.12in;
+  break-after: avoid;
+}
+
+/* H3 — Subsection headers (Caslon italic) */
+h3 {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-style: italic;
+  font-size: 12pt;
+  line-height: 140%;
+  color: var(--sc-charcoal);
+  margin-top: 0.15in;
+  margin-bottom: 0.08in;
+  break-after: avoid;
+}
+
+/* Body text — softened color to match website */
+p {
+  font-family: var(--font-body);
+  font-size: 10.5pt;
+  line-height: 170%;
+  color: rgba(28, 25, 23, 0.72);
+  margin-bottom: 0.1in;
+  font-feature-settings: 'liga' 1, 'onum' 1;
+}
+
+/* Bold / defined terms */
+strong {
+  font-weight: 600;
+}
+
+/* Italic */
+em {
+  font-style: italic;
+}
+
+/* ── Horizontal Rules ───────────────────────────────────── */
+
+hr {
+  border: none;
+  border-top: 1px solid rgba(73, 10, 10, 0.40);
+  margin: 0.15in 0;
+}
+
+hr.short {
+  width: 2.5in;
+}
+
+hr.short-left {
+  width: 2in;
+  margin-left: 0;
+  margin-right: auto;
+}
+
+hr.centered {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+hr.charcoal {
+  border-color: var(--sc-charcoal);
+}
+
+hr.charcoal-light {
+  border-top: 1px solid rgba(28, 25, 23, 0.12);
+}
+
+/* ── Lists ──────────────────────────────────────────────── */
+
+ul {
+  list-style: none;
+  padding-left: 0.25in;
+  margin-bottom: 0.1in;
+}
+
+ul li {
+  font-size: 10.5pt;
+  line-height: 170%;
+  color: rgba(28, 25, 23, 0.72);
+  margin-bottom: 0.04in;
+  position: relative;
+  padding-left: 0.15in;
+}
+
+ul li::before {
+  content: '\2013';  /* en-dash bullet */
+  position: absolute;
+  left: 0;
+  color: var(--sc-charcoal);
+}
+
+ol {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 0.1in;
+  counter-reset: item;
+}
+
+ol li {
+  font-size: 10.5pt;
+  line-height: 150%;
+  margin-bottom: 0.04in;
+}
+
+/* ── Numbered Sections (Legal Style) ────────────────────── */
+
+.section-num {
+  display: inline;
+  margin-right: 0.2in;
+}
+
+.defined-term {
+  font-weight: 600;
+}
+
+/* ── Exhibit Label ──────────────────────────────────────── */
+
+.exhibit-label {
+  font-family: var(--font-body);
+  font-size: 8pt;
+  line-height: 120%;
+  color: var(--sc-grey);
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  margin-bottom: 0.06in;
+}
+
+/* ── Tables ─────────────────────────────────────────────── */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.1in 0;
+  break-inside: avoid;
+}
+
+thead th {
+  font-family: var(--font-ui);
+  font-size: 8pt;
+  font-weight: 500;
+  color: var(--sc-grey);
+  text-transform: uppercase;
+  letter-spacing: 0.10em;
+  text-align: left;
+  padding: 0.04in 0.08in;
+  border-bottom: 1px solid rgba(73, 10, 10, 0.30);
+  vertical-align: bottom;
+}
+
+thead th.right {
+  text-align: right;
+}
+
+thead th.center {
+  text-align: center;
+}
+
+tbody td {
+  font-family: var(--font-body);
+  font-size: 10pt;
+  line-height: 140%;
+  color: rgba(28, 25, 23, 0.72);
+  padding: 0.06in 0.08in;
+  border-bottom: 1px solid rgba(73, 10, 10, 0.10);
+  vertical-align: top;
+}
+
+tbody td.right {
+  text-align: right;
+  font-feature-settings: 'tnum' 1, 'lnum' 1;
+}
+
+tbody td.center {
+  text-align: center;
+}
+
+/* ── Invoice Totals ─────────────────────────────────────── */
+
+.totals {
+  margin-top: 0.15in;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.totals .double-rule {
+  width: 2.5in;
+  border-top: 1px solid rgba(73, 10, 10, 0.25);
+  border-bottom: 1px solid rgba(73, 10, 10, 0.25);
+  height: 3pt;
+  margin-bottom: 0.06in;
+}
+
+.totals .total-row {
+  display: flex;
+  justify-content: space-between;
+  width: 2.5in;
+  font-size: 10pt;
+  margin-bottom: 0.03in;
+}
+
+.totals .total-row .label {
+  color: var(--sc-grey);
+}
+
+.totals .total-row .amount {
+  font-feature-settings: 'tnum' 1, 'lnum' 1;
+}
+
+.totals .total-row.grand {
+  border-top: 1px solid rgba(28, 25, 23, 0.30);
+  padding-top: 0.06in;
+  margin-top: 0.04in;
+}
+
+.totals .total-row.grand .label {
+  font-feature-settings: 'smcp' 1;
+  letter-spacing: 0.05em;
+  color: var(--sc-charcoal);
+}
+
+.totals .total-row.grand .amount {
+  font-weight: 600;
+}
+
+/* ── Metadata Block (Invoice/Proposal) ──────────────────── */
+
+.meta-grid {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.2in;
+}
+
+.meta-left {
+  font-size: 9pt;
+  line-height: 160%;
+}
+
+.meta-left .label {
+  color: var(--sc-grey);
+  display: inline-block;
+  width: 0.5in;
+}
+
+.meta-right {
+  text-align: right;
+  font-size: 10pt;
+  line-height: 160%;
+}
+
+.meta-right .bill-label {
+  font-family: var(--font-ui);
+  font-size: 8pt;
+  color: var(--sc-grey);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.03in;
+}
+
+/* ── Payment Terms ──────────────────────────────────────── */
+
+.payment-terms {
+  font-style: italic;
+  font-size: 9pt;
+  color: var(--sc-grey);
+  margin-top: 0.3in;
+  line-height: 160%;
+}
+
+.thank-you {
+  font-style: italic;
+  font-size: 9pt;
+  color: var(--sc-grey);
+  text-align: center;
+  margin-top: 0.3in;
+}
+
+/* ── Signature Block ────────────────────────────────────── */
+
+.signature-block {
+  margin-top: 0.4in;
+  break-inside: avoid;
+}
+
+.sig-line {
+  border-top: 1px solid rgba(28, 25, 23, 0.30);
+  width: 3in;
+  margin-top: 0.5in;
+  padding-top: 0.04in;
+}
+
+.sig-name {
+  font-size: 10.5pt;
+}
+
+.sig-title {
+  font-style: italic;
+  font-size: 10pt;
+  color: var(--sc-grey);
+}
+
+/* ── Proposal Cover ─────────────────────────────────────── */
+
+.proposal-cover {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  text-align: center;
+  padding-top: 2.5in;
+}
+
+.proposal-cover h1 {
+  font-size: 24pt;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.proposal-cover .prepared-for {
+  font-family: var(--font-body);
+  font-feature-settings: 'smcp' 1;
+  letter-spacing: 0.06em;
+  font-size: 9pt;
+  color: var(--sc-grey);
+  margin-top: 0.2in;
+}
+
+.proposal-cover .client-name {
+  font-family: var(--font-body);
+  font-size: 14pt;
+  margin-top: 0.05in;
+}
+
+.proposal-cover .subtitle {
+  font-size: 10pt;
+  color: var(--sc-grey);
+  margin-top: 0.15in;
+}
+
+.proposal-cover .date {
+  font-size: 10pt;
+  color: var(--sc-grey);
+  margin-top: 0.05in;
+}
+
+/* ── Draft Watermark ────────────────────────────────────── */
+
+.watermark {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(-45deg);
+  font-family: var(--font-ui);
+  font-size: 72pt;
+  color: rgba(73, 10, 10, 0.06);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  z-index: 0;
+  pointer-events: none;
+}
+
+/* ── Page Break Utility ─────────────────────────────────── */
+
+.page-break {
+  break-before: page;
+}
+
+/* ── Print Overrides ────────────────────────────────────── */
+
+@media print {
+  body {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}

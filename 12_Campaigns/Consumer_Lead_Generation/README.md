@@ -15,7 +15,7 @@ This folder contains consumer-facing ad campaigns for **Claim Justice Now**, Sec
 - **Target Audience:** Adults 25-65 who've been in car accidents
 - **Primary Pain Points:** Insurance company difficulties, medical bills, lost wages, confusion about legal process
 - **Value Proposition:** Fast, easy connection to qualified PI attorneys; no upfront costs (contingency-based)
-- **Compliance:** Heavy restrictions (FCC 2025 TCPA, third-person language only, Special Ad Category)
+- **Compliance:** FCC 2025 TCPA (one-to-one consent), third-person language only, Special Ad Category (no demographic/interest targeting, no lookalikes — creative is the targeting tool). See `09_Operations/HOW_META_CAMPAIGNS_OPTIMIZE.md` for campaign structure.
 
 ### Active Platforms
 

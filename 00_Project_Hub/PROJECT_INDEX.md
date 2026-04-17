@@ -22,9 +22,9 @@
 
 | Co-Founder | Role |
 |------------|------|
-| **Davis Ballard** | Head of Marketing & Creative |
-| **Alex DuBelko** | Head of Product & Innovation |
-| **Sasha Zinshtein** | Head of Growth |
+| **Davis Ballard** | Creative & Strategy Systems |
+| **Alex DuBelko** | Product & Compliance Systems |
+| **Sasha Zinshtein** | Performance Media |
 
 **Team profiles:** [`../01_Identity/employees/`](../01_Identity/employees/) — DavisBallard.md, AlexDuBelko.md, SashaZinshtein.md
 
@@ -53,14 +53,15 @@
 | [`BRAND_MASTER.md`](../01_Identity/BRAND_MASTER.md) | **Brand hub** — quick reference, ad creation trigger, session starter |
 | [`BRAND_POSITIONING_CORE.md`](../01_Identity/BRAND_POSITIONING_CORE.md) | **Complete brand positioning** (rational + emotional layers) |
 | [`SERVICE_PERSONAL_INJURY.md`](../01_Identity/SERVICE_PERSONAL_INJURY.md) | PI service positioning and messaging hooks |
+| [`Premium_Nurturing_Service_Overview.md`](../01_Identity/Premium_Nurturing_Service_Overview.md) | Premium tier service definition (AI-Qualified, Human Live Transfer) |
 | [`Consumer_Brand_Names.md`](../01_Identity/Consumer_Brand_Names.md) | Consumer-facing brand naming exploration |
 | [`Naming_Options.md`](../01_Identity/Naming_Options.md) | Brand naming options and rationale |
-| [`ClaimJusticeNow_Identity_System.md`](../01_Identity/ClaimJusticeNow_Identity_System.md) | Consumer brand identity system |
+| [`FAIR_CASE_BRAND.md`](../20_Fair_Case/00_Brand_Overview/FAIR_CASE_BRAND.md) | Consumer brand (Fair Case) identity system |
 | [`Brand_Essence.md`](../01_Identity/Brand_Essence.md) | Brand essence and core values |
 | [`GEO_EXCLUSIVITY_POLICY.md`](../01_Identity/GEO_EXCLUSIVITY_POLICY.md) | DMA exclusivity policy and pricing tiers |
 
 **Subfolders:**
-- [`ClaimJusticeNow/`](../01_Identity/ClaimJusticeNow/) - Consumer brand logo development and design briefs
+- [`20_Fair_Case/`](../20_Fair_Case/) - Consumer brand (Fair Case) — strategy, social, ads, visual identity, website
 - [`employees/`](../01_Identity/employees/) - Team member profiles (DavisBallard.md, AlexDuBelko.md, SashaZinshtein.md, AlexDuBelko_Intro_Pitch.md)
 
 ---
@@ -167,6 +168,9 @@ Platform-specific format guides: Meta, Google, TikTok, Snapchat, LinkedIn, Bing,
 | [`LAUNCH_SCHEDULE.md`](../09_Operations/LAUNCH_SCHEDULE.md) | Pre-launch master schedule (anchor dates, task breakdown by founder) |
 | [`ORACLE_LAUNCH_CALENDAR.md`](../09_Operations/ORACLE_LAUNCH_CALENDAR.md) | Day-by-day Oracle launch calendar (Mar 11–23) |
 | [`AD_CREATION_WORKFLOW.md`](../09_Operations/AD_CREATION_WORKFLOW.md) | Full ad creation workflow and agency team coordination |
+| [`Intake_Qualification_Script.md`](../09_Operations/Intake_Qualification_Script.md) | 7-question MVA qualification script for premium tiers |
+| [`Premium_Nurturing_Technical_Spec.md`](../09_Operations/Premium_Nurturing_Technical_Spec.md) | Technical architecture for premium tier (Twilio, Aircall, Bland.ai, WhatsApp) |
+| [`Premium_Nurturing_Operations_Manual.md`](../09_Operations/Premium_Nurturing_Operations_Manual.md) | Day-to-day playbook for Davis/Sasha: availability, call handling, billing |
 | [`PUSH_INSTRUCTIONS.md`](../09_Operations/PUSH_INSTRUCTIONS.md) | How to push Second Chair files to GitHub |
 
 **Subfolder:** [`Tools_Scripts/`](../09_Operations/Tools_Scripts/) - Development scripts, push script, and virtual environment

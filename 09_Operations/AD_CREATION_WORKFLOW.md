@@ -53,8 +53,11 @@ When triggered, load these expert agents for the roundtable:
 - `02_Visual/Video_Format_Strategy.md` — Format guidance (Motion Still, TikTok Slide)
 
 **Restrictions:**
-- `05_Restrictions/Platform_Rules.md` — Meta Special Ad Categories
+- `05_Restrictions/Platform_Rules.md` — Meta Special Ad Categories (no demographic/interest targeting, no lookalikes — creative is the targeting tool)
 - `05_Restrictions/State_Bar_Quick_Ref.md` — State-specific disclosure requirements
+
+**Campaign Operations:**
+- `09_Operations/HOW_META_CAMPAIGNS_OPTIMIZE.md` — How Pixel, algorithm learning, retargeting, and creative-as-targeting work under SAC. Defines 100-lead minimum per DMA, 1 ad set at launch with 3-5 creatives, and the optimization cycle.
 
 ### State-Specific Context
 
@@ -233,7 +236,7 @@ Final concepts formatted for the Ad Factory:
     "headline": "The headline",
     "description": "The description",
     "cta": "Learn More",
-    "display_link": "claimjusticenow.com",
+    "display_link": "getafaircase.com",
     "image_prompt": "Detailed image prompt here...",
     "strategy": "Brief behavioral rationale",
     "state": "CA",

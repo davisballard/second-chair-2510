@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }}</title>
+  <link rel="stylesheet" href="{{ css_path }}">
+  <style>
+    /* Font paths resolved relative to this HTML file at render time */
+    @font-face {
+      font-family: 'TiemposHeadline';
+      src: url('{{ font_dir }}/TestTiemposHeadline-Bold.otf') format('opentype');
+      font-weight: 700; font-style: normal;
+    }
+    @font-face {
+      font-family: 'TiemposHeadline';
+      src: url('{{ font_dir }}/TestTiemposHeadline-Regular.otf') format('opentype');
+      font-weight: 400; font-style: normal;
+    }
+    @font-face {
+      font-family: 'ACaslon';
+      src: url('{{ font_dir }}/ACaslonPro-Regular.woff') format('woff');
+      font-weight: 400; font-style: normal;
+    }
+    @font-face {
+      font-family: 'ACaslon';
+      src: url('{{ font_dir }}/ACaslonPro-Italic.woff') format('woff');
+      font-weight: 400; font-style: italic;
+    }
+    @font-face {
+      font-family: 'ACaslon';
+      src: url('{{ font_dir }}/ACaslonPro-Semibold.woff') format('woff');
+      font-weight: 600; font-style: normal;
+    }
+    @font-face {
+      font-family: 'ACaslon';
+      src: url('{{ font_dir }}/ACaslonPro-SemiboldItalic.woff') format('woff');
+      font-weight: 600; font-style: italic;
+    }
+    @font-face {
+      font-family: 'ACaslon';
+      src: url('{{ font_dir }}/ACaslonPro-Bold.woff') format('woff');
+      font-weight: 700; font-style: normal;
+    }
+    @font-face {
+      font-family: 'Sohne';
+      src: url('{{ font_dir }}/Sohne-Buch.ttf') format('truetype');
+      font-weight: 400; font-style: normal;
+    }
+    @font-face {
+      font-family: 'Sohne';
+      src: url('{{ font_dir }}/Sohne-Kraftig.ttf') format('truetype');
+      font-weight: 500; font-style: normal;
+    }
+  </style>
+</head>
+<body>
+  {{ content }}
+</body>
+</html>

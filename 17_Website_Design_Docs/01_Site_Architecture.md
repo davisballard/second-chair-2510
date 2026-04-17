@@ -44,10 +44,13 @@
 |---|------|-----|---------|
 | 4 | **How It Works** | `/how-it-works` | Deeper process explanation for the prospect who wants detail before committing to a call. |
 | 5 | **About** | `/about` | Expanded team and founding story for the prospect who wants to know who these people are. |
+| 6 | **Premium Nurturing** | `/premium-nurturing` | Dedicated premium tier service page with tier comparison, ROI calculator, and live transfer positioning. |
 
 **Rationale for sequencing:**
 
 The homepage does most of the work for launch. If Danish books a call after the homepage, the subpages never needed to exist. `/apply` is a functional requirement — there has to be somewhere for the CTA to go. `/work` is needed because the homepage creative section is a preview; some prospects will want to go deeper before committing. The fast-follow pages exist for prospects who research before deciding — they're conversion support, not primary drivers.
+
+The `/premium-nurturing` page is for firms that want fewer leads at higher conversion. It's positioned after initial client relationships are established and standard leads have proven the model. Cross-linked from homepage services section, pricing pages, and discovery call emails.
 
 ---
 
@@ -89,7 +92,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 > **"The advertising other lead vendors aren't capable of."**
 
 **Credential subhead:**
-> "Built by the team behind creative for Disney, Samsung, and Google — focused entirely on personal injury law."
+> "Built by the team behind creative for Disney, Google, Samsung, NFL, and Uber — focused entirely on personal injury law."
 
 **Orientation line** (smaller, below CTA — answers "what is this?"):
 > "A creative, compliance, and technology firm that generates PI leads for personal injury law firms."
@@ -107,7 +110,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 - Orientation line: close to final, needs legal review for any claims
 - Logo/wordmark: Alex to supply
 
-**Credits for credential subhead:** Davis — 18 years, Disney, Google, Samsung. Alex — TradeStation (million-user trading app, FINRA/SEC compliant). Sasha — ASOS, Bose, Coach, Diageo programmatic. All available in founder files. Final wording needs one pass for precision.
+**Credits for credential subhead:** Davis — 18 years, Disney, Google, Samsung, NFL, NBA, Uber, Taco Bell, The Macallan, Optum. Alex — TradeStation (million-user trading app, FINRA/SEC compliant), Compass, Breakwater Management ($550M+ PE). Sasha — Bose, Coach, Diageo, Duracell, H&R Block, Indeed, Ocean Spray, PepsiCo, Tinder programmatic. All available in founder files. Final wording needs one pass for precision.
 
 ---
 
@@ -229,7 +232,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 *Role:* Co-Founder, Creative Strategy
 
 *Credentials (sourced from founding docs):*
-- 18 years building advertising for Disney, Google, Samsung
+- 18 years building advertising for Disney, Google, Samsung, NFL, NBA, Uber, Taco Bell, The Macallan, and Optum
 - Built the Vacation brand from zero — creative direction, strategy, voice, visual identity
 - Compliance-heavy brand experience: Dinari (SEC-backed), healthcare at Fortune 500 level
 - CXL certified, behavioral science-informed creative approach
@@ -261,7 +264,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 *Role:* Co-Founder, Sales & Media
 
 *Credentials (sourced from founding docs):*
-- Programmatic media buying across ASOS, Bose, Coach, Diageo, Tinder
+- Programmatic media buying across Bose, Coach, Diageo, Duracell, H&R Block, Indeed, Ocean Spray, PepsiCo, Tinder
 - Pioneered programmatic strategy for cannabis brands when major platforms were closed
 - Sales and account management across ad-tech, financial services, and architecture
 - Ukrainian-American, first-generation entrepreneur
@@ -411,7 +414,7 @@ The homepage does most of the work for launch. If Danish books a call after the 
 **Layout:** Three columns.
 - Left: Second Chair wordmark + one-line descriptor ("A creative, compliance, and technology firm for personal injury law firms.")
 - Center: Navigation links (Work / How It Works / Apply / [Privacy Policy])
-- Right: Contact email (hello@2ndchair.net or equivalent) + social links (LinkedIn at minimum)
+- Right: Contact email (sasha@2ndchair.net or equivalent) + social links (LinkedIn at minimum)
 
 **Legal requirements:**
 - "Attorney Advertising" disclaimer (required in most states for PI adjacent marketing)

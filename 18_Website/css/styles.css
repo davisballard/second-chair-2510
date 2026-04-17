@@ -948,6 +948,7 @@
     .creative-econ-step {
       font-family: var(--font-mono);
       font-size: 9px;
+      font-weight: 500;
       letter-spacing: 0.20em;
       text-transform: uppercase;
       color: rgba(73,10,10,0.45);
@@ -1350,6 +1351,7 @@
     .intel-bar {
       height: 100%;
       background: rgba(73,10,10,0.38);
+      transition: width 1.2s cubic-bezier(0.4, 0, 0.2, 1);
     }
     .intel-value {
       font-family: var(--font-mono);
@@ -1719,13 +1721,28 @@
     .engine-stat:last-child { border-right: none; }
     .engine-stat-number {
       font-family: var(--font-display);
-      font-size: 28px;
+      font-size: 42px;
       font-style: italic;
       font-weight: 400;
       line-height: 1;
-      color: var(--sc-gold);
+      color: rgba(255, 221, 114, 0.92);
       letter-spacing: -0.02em;
       flex-shrink: 0;
+      background: radial-gradient(circle at center, rgba(255, 221, 114, 0.08) 0%, transparent 70%);
+      padding: 8px 12px;
+      border-radius: 4px;
+      box-shadow: 0 0 24px rgba(255, 221, 114, 0.28);
+      transition: all 0.3s ease;
+      opacity: 0;
+      transform: scale(0.85);
+    }
+    .engine-stat-number.stamped {
+      opacity: 1;
+      transform: scale(1);
+    }
+    .engine-stat-number:hover {
+      box-shadow: 0 0 32px rgba(255, 221, 114, 0.42);
+      transform: scale(1.03);
     }
     .engine-stat-label {
       font-family: var(--font-mono);
@@ -2397,7 +2414,6 @@
     .footer-grid {
       display: grid;
       grid-template-columns: 1.5fr 1fr 1fr;
-      border-bottom: 1px solid rgba(255,221,114,0.22);
     }
 
     .footer-col {
@@ -2466,11 +2482,12 @@
     .footer-contact-link:hover { color: rgba(255,221,114,0.90); }
 
     .footer-legal {
-      padding: 16px 32px;
+      padding: 16px var(--outer-margin);
       display: flex;
       justify-content: space-between;
       align-items: center;
       gap: 24px;
+      border-top: 1px solid rgba(255,221,114,0.22);
     }
     .footer-legal p {
       font-family: var(--font-mono);

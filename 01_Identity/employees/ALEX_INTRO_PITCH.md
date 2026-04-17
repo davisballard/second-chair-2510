@@ -6,19 +6,19 @@
 
 ## What We Are
 
-Second Chair is a **geo-exclusive lead generation company** for personal injury law firms. We run our own ad accounts across Meta and Google, capture leads through behaviorally-optimized landing pages and quiz funnels, and sell those leads exclusively to **one partner law firm per DMA** (Designated Market Area).
+Second Chair is an **honest advertising and compliance-first lead generation company** for personal injury law firms. We run our own ad accounts across Meta and Google, capture leads through behaviorally-optimized landing pages and quiz funnels, and sell those leads exclusively to **one partner law firm per DMA** (Designated Market Area).
 
 One firm per metro. No shared leads. No bidding wars.
 
 **Consumer brand:** Fair Case (getafaircase.com)
 
-The model: we generate high-intent PI leads through advertising that pre-qualifies before the first phone call, and we sell those leads to partner attorneys at **$400 each** (standard) or **$1,500+** (premium case-ready). Our cost to generate a lead is **$75–$150**. Every DMA partner we sign is recurring revenue — they buy leads from us month after month because the leads convert into signed cases.
+The model: we generate high-intent PI leads through advertising that pre-qualifies before the first phone call, and we sell those leads to partner attorneys through CPSC-compliant pricing tiers. Our cost to generate a lead is **$75–$150**. Every DMA partner we sign is recurring revenue — they buy leads from us month after month because the leads convert into signed cases.
 
 We cover the full PI case spectrum: soft tissue and minor MVA ("keep the lights on" volume), plus high-value targeting — commercial trucking, rideshare, spinal injuries, wrongful death.
 
 Lead gen is the core. But once we've built trust with attorney partners, we expand into **premium lead nurturing** (doing the intake work for them) and **agency services** (brand identity, running their ads, chatbots, email flows, websites). Three revenue streams from one relationship.
 
-We're not a law firm. We're demand infrastructure — with an agency services layer on top.
+We're not a law firm. We're compliance architecture for honest legal advertising — with an agency services layer on top.
 
 ---
 
@@ -26,15 +26,15 @@ We're not a law firm. We're demand infrastructure — with an agency services la
 
 Legal lead gen is a category full of template-buyers. Media buyers running generic stock-image ads, competing for the same traffic, delivering the same low-intent contacts. Every company looks the same. Every lead feels the same.
 
-Second Chair is different because of **The Creative Advantage**:
+Second Chair is different because of our **compliance-first approach to honest advertising**:
 
-- **Agency-grade creative** — Built by a team with 18+ years across Fortune 500 brands (Disney, Google, Samsung, Vacation). Not templates — real creative that stops the scroll and triggers action.
+- **Agency-grade creative** — Built by a team with 18+ years across Fortune 500 brands (Disney, Google, Samsung, NFL, NBA, Uber, Taco Bell). Not templates — real creative that stops the scroll and triggers action.
 - **Behavioral science** — Every ad, headline, and quiz question is built on behavioral psychology. We solve the psychological barriers to contacting a lawyer before the lead ever calls.
 - **DMA exclusivity, actually enforced** — One firm per metro. Your market is yours. Period.
 - **Quiz funnels that pre-qualify** — By the time someone completes the flow, they've self-selected as a real case with real intent. The leads arrive fired up, ready to sign.
 - **Fair Case positioning** — "Fair Case" isn't just a brand name. It's the claimant's own language. Every touchpoint reinforces the emotional truth that they deserve fairness, in a way generic lead gen can't replicate.
 
-The rest of the industry buys traffic and hopes. We build advertising systems.
+The rest of the industry buys traffic and hopes. We build honest advertising systems with compliance baked in.
 
 ---
 
@@ -44,17 +44,17 @@ Three co-founders. Three domains. **Equal partners — 33/33/33 profit split.**
 
 ### Davis Ballard — Co-Founder & Head of Marketing & Creative
 
-18 years across strategy and creative for Disney, Google, Samsung, The Macallan, Vacation (first employee — 14 beauty awards, 27M earned impressions), and 12 Fortune 500 brands. Partnered with 55-time Cannes Lion Winner Julian Cole on 4 Fortune 500 strategy projects. Co-founded Gurus NYC (digital agency serving McLean Hospital, Stanford, Harvard, six enterprise healthcare companies). Built Second Chair's AI-powered marketing engine integrating marketing science, behavioral psychology, and creative execution into an autonomous system.
+18 years across strategy and creative for Disney, Google, Samsung, NFL, NBA, Uber, Taco Bell, The Macallan, Oculus, Optum, E&J Gallo Winery, Miller, Blink-182, and 12 Fortune 500 brands. Partnered with 55-time Cannes Lion Winner Julian Cole on 4 Fortune 500 strategy projects. Co-founded Gurus NYC (digital agency serving McLean Hospital, Stanford, Harvard, six enterprise healthcare companies). Built Second Chair's AI-powered marketing engine integrating marketing science, behavioral psychology, and creative execution into an autonomous system.
 
 *Los Angeles / San Diego, CA*
 
 ### Sasha Zinshtein — Co-Founder & Head of Growth
 
-14+ years across programmatic media buying, sales, and financial underwriting. Ran programmatic for 18+ brands at 33across (ASOS, Bose, Coach, Diageo, Pepsico, Tinder, Zalando). Director of Growth at The Flower Agency — pioneered cannabis programmatic on Forbes, TripAdvisor, Rolling Stone when Google and Facebook were off-limits. Fund Specialist at Riverpoint Capital — originated and deployed millions in non-dilutive growth capital for SMBs. Speaks capital-allocator language (ROI, payback, allocation), which is exactly how he sells to law firms.
+14+ years across programmatic media buying, sales, and financial underwriting. Ran programmatic for 18+ brands at 33across (Bose, Coach, Diageo, Duracell, H&R Block, Indeed, Ocean Spray, PepsiCo, Tinder). Director of Growth at The Flower Agency — pioneered cannabis programmatic on Forbes, TripAdvisor, Rolling Stone when Google and Facebook were off-limits. Fund Specialist at Riverpoint Capital — originated and deployed millions in non-dilutive growth capital for SMBs. Speaks capital-allocator language (ROI, payback, allocation), which is exactly how he sells to law firms.
 
 *New York, NY*
 
-### Alex DuBelko — Co-Founder & Head of Product & Innovation
+### Alex DuBelko — Co-Founder & Head of Product & Compliance Systems
 
 This is where you come in. You own the product stack.
 
@@ -95,7 +95,7 @@ Three domains. No overlap. One machine.
 
 | | |
 |---|---|
-| **We sell leads at** | $400/lead |
+| **We sell leads at** | CPSC-compliant standard tier |
 | **Our cost to generate** | $75 (optimized) – $150 (target) |
 | **Profit per lead** | $250 – $325 |
 | **Per founder, per lead** | **~$83 – ~$108** |
@@ -119,7 +119,7 @@ Standard leads put $83–$108 per founder per lead. Premium puts **$417–$450**
 
 This is the building block. One attorney partner, one metro area. **Per-founder take-home:**
 
-### Standard Leads ($400/lead)
+### Standard Leads (CPSC Standard Tier)
 
 | Leads/Day | At $150/Lead Cost | At $75/Lead Cost |
 |---|---|---|
@@ -311,7 +311,7 @@ At 10%, we **saturate all 210 US markets within 8 months**.
 
 ### How Close Rates Map to the Big Picture
 
-**Lead gen only (standard $400 leads):**
+**Lead gen only (standard CPSC-compliant leads):**
 
 | Close Rate | DMAs at Month 12 | DMA Fill % | Per Founder Annual Run Rate |
 |---|---|---|---|
@@ -341,7 +341,7 @@ DAVIS (Marketing & Creative)
     Behavioral science, campaign concepting, visual direction
     AI-powered marketing engine
                     ↓
-ALEX (Product & Innovation)
+ALEX (Product & Compliance Systems)
     Builds funnels, landing pages, quiz flows, tools
     Conversion optimization, A/B testing, analytics dashboards
     CRM architecture, lead scoring, API integrations

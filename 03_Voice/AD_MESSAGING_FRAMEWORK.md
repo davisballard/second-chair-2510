@@ -1,472 +1,222 @@
-# Ad Messaging Framework: Rational + Emotional Application
+# Ad Messaging Framework
 
-**Last Updated:** February 12, 2026  
-**Purpose:** How to apply the fused positioning (rational core + emotional layer) in ad creation  
-**Source:** Integrated from BRAND_POSITIONING_CORE.md
+**Last Updated:** March 2026
+**Status:** Aligned to Brand Architecture (Session 3)
+**Canonical source:** `13_Brand_Strategy/03_Brand_Architecture/Brand_Architecture.md`
+**Execution sources:** `13_Brand_Strategy/05_Execution_Briefs/B2C_Campaign_Brief.md`, `B2B_Sales_Language_Guide.md`
 
 ---
 
 ## Overview
 
-This framework shows how to use the **fused positioning** in actual ad creation. The positioning has two layers:
+This framework shows how to create advertising for Second Chair across B2B (attorney-facing) and B2C (claimant-facing, via Fair Case) channels.
 
-1. **Rational Core** (from website) — What we do, how we're different, proof points
-2. **Emotional Layer** (from research) — Why it matters, who attorneys are, what they're fighting for
-
-**The key:** Use both, in the right proportions, for the right audience and medium.
+**The governing principle:** Second Chair must feel trustworthy before it feels impressive. The attorney has heard every impressive claim. What moves them is the feeling that this company understands their world and isn't trying to manipulate them.
 
 ---
 
-## The Core Formula
+## B2B Ad Templates (Attorney-Facing)
 
-```
-RATIONAL PITCH + EMOTIONAL CONTEXT = COMPLETE MESSAGE
+### Template 1: The Show-Before-Commit (Primary)
 
-"What we do" + "Why it matters to you" = Memorable and motivating
+The single most differentiating move Second Chair has: offering to show the advertising before asking for commitment.
 
-"Geo-exclusive infrastructure" + "So you can focus on the fight" = Differentiated and human
-```
-
-### When to Lead Rational vs. Emotional
-
-| Medium/Context | Lead With | Why |
-|----------------|-----------|-----|
-| **Website homepage** | Rational (80%) + Emotional (20%) | Immediate credibility, professional positioning |
-| **Sales calls** | Rational (70%) + Emotional (30%) | Buyers think they want rational first, but buy emotionally |
-| **Email campaigns** | Emotional (40%) + Rational (60%) | Hook with emotion, close with proof |
-| **Case studies** | Emotional (50%) + Rational (50%) | Story hooks, data closes |
-| **LinkedIn ads** | Rational (70%) + Emotional (30%) | Professional platform, credibility-first |
-| **Facebook/Instagram ads** | Emotional (60%) + Rational (40%) | Social platform, story-first |
-| **Retargeting ads** | Emotional (70%) + Rational (30%) | They already know what we do, remind them why it matters |
-| **Landing pages** | Rational (75%) + Emotional (25%) | Conversion-focused, proof-driven |
-| **Thought leadership** | Emotional (60%) + Rational (40%) | Build connection, demonstrate understanding |
-| **Proposals** | Rational (80%) + Emotional (20%) | Business decision, ROI justification |
+> **Headline:** See the advertising before you commit to anything.
+>
+> **Body:** Second Chair builds the advertising that generates your leads in-house — and we show it to you before you spend a dollar. Because we built it to be worth showing. Honestly persuaded claimants arrive with accurate expectations and convert at a higher rate. The ethical choice and the commercial choice are the same.
+>
+> **Proof:** Cost-per-signed-case reported by default. TrustedForm on every lead. Month-to-month. No contracts.
+>
+> **CTA:** See the advertising we'd run in your market.
 
 ---
 
-## B2B (Attorney-Facing) Ad Templates
+### Template 2: The CPSC Reframe
 
-### Template 1: Lead Rational, Close Emotional
+Educates without condescending. Reframes the evaluation metric.
 
-**Structure:**
-1. Headline: Rational differentiator
-2. Subhead: Supporting proof point
-3. Body: How it works (rational)
-4. Close: Why it matters (emotional)
-5. CTA: Application/qualification-based
-
-**Example:**
-
-> **Headline:** One firm per market. No exceptions.
+> **Headline:** What's your cost-per-signed-case?
 >
-> **Subhead:** 92% acceptance rate. $1,600 avg cost per signed case. Zero shared leads.
+> **Body:** CPL tells you what you paid to talk to someone. CPSC tells you what you paid to sign them. Those numbers are different. Most attorneys don't know how different — because their vendors don't report it. Second Chair reports CPSC on every account by default.
 >
-> **Body:** Second Chair builds geo-exclusive demand infrastructure for elite PI firms. When you partner with us, you own your territory. Every qualified MVA case in your market flows exclusively to your firm. No bidding wars. No shared intake. Our four-phase system—demand creation, capture, qualification, and delivery—creates predictable case flow at scale.
+> **Proof:** Month-to-month. No shared leads. The creative, the compliance, and the media execution run by the same founding team.
 >
-> **Close:** Because you didn't become a PI attorney to stress about where next month's cases come from. You became one to fight for people against insurance companies with unlimited resources. We make sure you can keep doing that.
->
-> **CTA:** Check if your market is available →
-
-**Rational:** 70% | **Emotional:** 30%
+> **CTA:** Get your CPSC baseline — 30 minutes, no commitment.
 
 ---
 
-### Template 2: Lead Emotional, Support with Rational
+### Template 3: The Infrastructure Proof
 
-**Structure:**
-1. Headline: Emotional truth/pain point
-2. Subhead: Rational solution exists
-3. Body: Proof and process
-4. Close: Emotional + rational outcome
-5. CTA: Conversation/discovery
+For attorneys who have been burned by vendor handoffs where quality collapsed.
 
-**Example:**
-
-> **Headline:** You didn't go to law school to check the intake dashboard twelve times every Monday morning.
+> **Headline:** The creative, the compliance, and the media execution are run by the same founding team.
 >
-> **Subhead:** What if next month's cases were already certain?
+> **Body:** Most lead gen vendors outsource one piece — usually the creative or the compliance. The handoff is where quality collapses. Second Chair's founding team operates all three: Davis Ballard (18 years creative and strategy), Alex DuBelko (compliance-grade product engineering, FINRA/SEC), Sasha Zinshtein (14+ years programmatic media, Fortune 500). No vendor handoff. No layer where the claim breaks down.
 >
-> **Body:** Second Chair provides geo-exclusive MVA infrastructure for elite PI firms. One firm per market. 92% acceptance rate. $1,600 per signed case. Our demand infrastructure creates predictable case flow—so you have the certainty you need to focus on what matters: representing people who can't fight billion-dollar insurance companies alone.
->
-> **Close:** The rhythm that keeps your practice alive. The baseline that lets you compete with Morgan & Morgan's $240M budget. Geo-exclusive, transparent, partnership-based.
->
-> **CTA:** See if your market is open →
-
-**Rational:** 50% | **Emotional:** 50%
+> **CTA:** See how it works — 30 minutes.
 
 ---
 
-### Template 3: Pure Rational (High-Trust Medium)
+### Template 4: The Peer Reference
 
-**Structure:**
-1. Headline: Clear differentiator
-2. Proof points (bullets)
-3. Process explanation
-4. Qualification criteria
-5. CTA: Apply
+For the attorney in Buying Moment 5 — needs proof without risk.
 
-**Example:**
-
-> **Headline:** Geo-exclusive MVA demand infrastructure for elite PI firms
+> **Headline:** Here's a firm in a comparable market you can call.
 >
-> **What makes us different:**
-> - One firm per market (zero shared leads)
-> - 92% qualification acceptance rate
-> - $1,600 average cost per signed case
-> - Superior creative strategy that attracts higher-intent claimants
-> - Transparent reporting (bad weeks reported early)
+> **Body:** We'd rather you talk to an attorney who's worked with us than take our word for it. Here's the CPSC data from their last 90 days. Here's the pilot structure: minimum commitment, clear quality standard, easy exit if the data doesn't support continuing.
 >
-> **How it works:**
-> Four-phase system: Demand creation → Capture → Qualification → Delivery. We don't just run ads. We build infrastructure that creates predictable case flow in your exclusive territory.
->
-> **We partner with firms that:**
-> - Already invest in lead generation
-> - Have intake infrastructure in place
-> - Think in cost per signed case, not cost per lead
-> - Want predictability over hype
-> - Practice focus: personal injury (MVA, rideshare, trucking, TBI, wrongful death)
->
-> **We don't work with:**
-> - Price shoppers looking for cheapest CPL
-> - Firms without intake discipline
-> - Anyone who treats leads as a commodity
->
-> **CTA:** Apply for your market →
-
-**Rational:** 90% | **Emotional:** 10%
+> **CTA:** Get the reference and the pilot terms.
 
 ---
 
-### Template 4: Pure Emotional (Brand Storytelling)
+### B2B Objection-Response Templates
 
-**Structure:**
-1. Headline: Identity/mission statement
-2. Story: Who attorneys are
-3. The fight: What they face
-4. Our role: How we help
-5. CTA: Join the fight
+Use in email follow-ups, LinkedIn messages, and sales collateral:
 
-**Example:**
-
-> **Headline:** We're on your side in the fight.
->
-> **The truth about PI attorneys:**
-> You chose one of the hardest paths in law. You fight corporations with unlimited resources using limited capacity. You help real people at the worst moments of their lives. You operate on contingency—betting your time on outcomes you can't control. You carry the financial anxiety of the practice alone.
->
-> **Every case is David vs. Goliath.**
-> Insurance companies have unlimited legal budgets, teams of adjusters, and systematic "delay, deny, defend" tactics. You have passion, skill, and the weight of someone's future on your shoulders.
->
-> **We provide the ammunition.**
-> Second Chair doesn't just sell leads. We build geo-exclusive demand infrastructure that gives you the certainty you need to keep fighting. One firm per market. Pre-qualified cases. The predictable flow that keeps your practice alive—so you can focus on taking down insurance companies and winning for people who need you.
->
-> **You're not just a "client" to us. You're a warrior doing essential work.**
->
-> **CTA:** Let's talk about your market →
-
-**Rational:** 20% | **Emotional:** 80%
+| Objection | Template Response |
+|---|---|
+| "I've been burned before." | "Month-to-month. No contracts. Bad leads replaced. Before you spend anything — I want to show you the advertising we run so you can evaluate it yourself." |
+| "How is this different?" | "Can I show you the advertising we run before I explain anything else? Then you can evaluate the difference." |
+| "How many leads?" | "We'd rather start at a volume that lets you verify quality, then scale when you're satisfied. The goal is CPSC clarity before we talk about scaling." |
+| "Too expensive." | "What's your current cost-per-signed-case? Most attorneys don't have this number. Let's do the math together before we talk price." |
 
 ---
 
-## B2C (Consumer-Facing) Ad Templates
+## B2C Ad Templates (Claimant-Facing, via Fair Case)
 
-### Template 1: Emotional Lead (Primary Approach)
+### The 99%/1% Mandate
 
-**Structure:**
-1. Headline: Empowerment/fighting back
-2. Subhead: Fast, free, easy
-3. Body: What happens next
-4. Close: Take action
-5. CTA: Direct action
+Under Meta Special Ad Categories, demographic targeting is eliminated. Creative is the only targeting mechanism. Every ad must be specific enough that the 1% who had a recent accident self-select in, while the 99% who didn't self-select out.
 
-**Example:**
+**This means:** No generic "Were you in an accident?" hooks. The creative must contain a specific, recognizable detail that only someone in that situation would respond to.
 
-> **Headline:** Got hurt in a car accident? Don't let insurance decide what you're worth.
+---
+
+### Tier 1 — Days 0–30 (Decision Fully Open)
+
+**Who:** The working person who had an accident, got a call from the insurance company, and isn't sure what to do. Not "a personal injury claimant" in their own mind.
+
+**Template A — Insurance Company Hook:**
+
+> **Recognition:** The insurance company called. Here's what they're not telling you.
 >
-> **Subhead:** Free case evaluation in minutes. No cost. No obligation. Just answers.
+> **Evidence:** People who consulted an attorney before accepting an offer received significantly more than those who didn't. One conversation. Ten minutes. No cost.
 >
-> **Body:** Find out if you have a case, what your options are, and what your claim could be worth — before the insurance company makes their lowball offer. Connect with an experienced attorney who fights for people like you.
+> **Action:** Before you respond to anything — one free call.
+
+**Template B — Information Hook:**
+
+> **Recognition:** If you were in an accident recently — you'll want to hear this before you respond to the insurance company.
 >
-> **Close:** Insurance companies don't want to pay. Make sure you're ready to fight back.
+> **Evidence:** You have the right to find out what you actually have before you make any decision. That's what this call is for.
 >
-> **CTA:** Claim Justice Now →
-
-**Emotional:** 70% | **Rational:** 30%
+> **Action:** One call. Ten minutes. Free. No obligation.
 
 ---
 
-### Template 2: Rational Utility
+### Tier 2 — 1–6 Months (Accumulation Phase)
 
-**Structure:**
-1. Headline: Problem solved
-2. Subhead: Clear benefit
-3. Body: How it works
-4. Close: Free and fast
-5. CTA: Direct action
+**Who:** The claimant who accepted a first offer and is watching bills accumulate, or who is still negotiating with no resolution.
 
-**Example:**
+**Template A — Bills Accumulating:**
 
-> **Headline:** Don't know what your car accident case is worth?
+> **Recognition:** Your bills are still coming in. The settlement you received might not cover them.
 >
-> **Subhead:** Free case evaluation gives you answers in minutes.
+> **Evidence:** Most accident victims who accept the first offer don't know they had other options. Some did. Some still do.
 >
-> **Body:** Get a clear picture of your injuries, liability, and potential compensation — and connect with an attorney who can fight for maximum recovery. No cost. No obligation. No pressure.
+> **Action:** Find out where you stand. One call. No commitment required.
+
+**Template B — Regret/Uncertainty:**
+
+> **Recognition:** You accepted a settlement. But medical bills don't stop.
 >
-> **Close:** Trusted by top PI firms. Built for accident victims. Always free.
+> **Evidence:** Some people who accepted a first offer still have options they don't know about.
 >
-> **CTA:** Claim Justice Now →
-
-**Emotional:** 40% | **Rational:** 60%
+> **Action:** One call to find out. Free. No pressure.
 
 ---
 
-## Copywriting Principles (Rational + Emotional)
+### Tier 3 — 6+ Months to SOL (Deadline Approaching)
 
-### Rational Copy Characteristics
+**Who:** The claimant who hasn't acted and may not know there's a deadline. The advertising is informational, not emotional.
 
-**Voice:**
-- Clear, declarative, confident
-- Fact-based, proof-driven
-- Professional, not salesy
-- Specific numbers and metrics
+**Template (state-specific required):**
 
-**Structure:**
-- Lead with differentiator
-- Support with proof points
-- Explain the system/process
-- Close with clear CTA
-
-**Language:**
-- **"The Creative Advantage"** ← the primary positioning phrase
-- **"Better Creative. Better Cases."** ← the shorthand
-- **"We send cases, not contacts"** ← the contrast line
-- "Geo-exclusive demand infrastructure"
-- "One firm per market"
-- "92% acceptance rate"
-- "$1,600 average cost per signed case"
-- "Four-phase system"
-- "Over-qualification beats volume"
-- "Your leads are only as good as the creative that attracted them"
-
-**When to use:**
-- High-trust contexts (website, proposals)
-- Professional platforms (LinkedIn)
-- Sales conversations (opening)
-- Credibility-first situations
-
----
-
-### Emotional Copy Characteristics
-
-**Voice:**
-- Empathetic, resonant, understanding
-- Identity-affirming, pride-focused
-- Honest about struggle
-- Empowering, not manipulative
-
-**Structure:**
-- Lead with pain point or identity
-- Acknowledge the struggle
-- Position solution as partnership
-- Close with empowerment
-
-**Language:**
-- "The rhythm that keeps your practice alive"
-- "You didn't go to law school to..."
-- "We're on your side in the fight"
-- "David vs. Goliath"
-- "Insurance companies with unlimited resources"
-- "Focus on what matters"
-- "Fight for people who need you"
-
-**When to use:**
-- Story-driven contexts (case studies, brand content)
-- Social platforms (Facebook, Instagram)
-- Retargeting (they already know what we do)
-- Relationship-building (thought leadership)
-
----
-
-## Messaging Combinations by Channel
-
-### LinkedIn Ads (B2B)
-
-**Lead:** Rational (70%)  
-**Support:** Emotional (30%)
-
-**Headline:** Rational differentiator  
-**Body:** Proof + process  
-**Close:** Emotional truth  
-**CTA:** Professional (apply, check availability)
-
-**Example:**
-> Geo-exclusive MVA infrastructure. One firm per market. 92% acceptance rate. Because solo practitioners shouldn't have to compete with Morgan & Morgan's $240M budget. Check if your market is open.
-
----
-
-### Facebook/Instagram Ads (B2B)
-
-**Lead:** Emotional (60%)  
-**Support:** Rational (40%)
-
-**Headline:** Emotional hook  
-**Body:** Rational proof  
-**Close:** Emotional outcome  
-**CTA:** Conversational (let's talk, see your options)
-
-**Example:**
-> What if you never had to stress about where next month's cases would come from? Geo-exclusive MVA infrastructure. $1,600 per signed case. One firm per market. The certainty you need to focus on the fight that matters.
-
----
-
-### Email Campaigns (B2B)
-
-**Subject line:** Rational (curiosity/benefit)  
-**Opening:** Emotional (pain point/identity)  
-**Body:** Rational (solution/proof)  
-**Close:** Emotional + Rational (outcome + CTA)
-
-**Example:**
-
-**Subject:** Is your market still available?
-
-**Opening:**  
-You check the intake dashboard too many times on Monday mornings. You know the feeling—that ambient dread about whether the pipeline is about to slow down. The weight of contingency never really goes away, does it?
-
-**Body:**  
-Second Chair builds geo-exclusive MVA infrastructure for elite PI firms. One partner per market. No shared leads. No bidding wars. 92% acceptance rate. $1,600 average cost per signed case. Our four-phase system creates predictable case flow—demand creation, capture, qualification, and delivery.
-
-**Close:**  
-This is the certainty you've been looking for. The baseline that keeps your practice alive while you focus on fighting for people against insurance companies with unlimited resources. But exclusivity is real—once a market is locked, it stays locked.
-
-**CTA:**  
-Check if [YOUR CITY] is available →
-
----
-
-### Landing Pages (B2B)
-
-**Hero:** Rational headline + emotional subhead  
-**Value Props:** Rational (bullets, proof points)  
-**How It Works:** Rational (process explanation)  
-**Who We Work With:** Rational (qualification criteria)  
-**Testimonials/Social Proof:** Emotional + Rational  
-**Final CTA:** Emotional framing, rational button
-
-**Example Hero:**
-
-> **Headline:** Geo-exclusive MVA demand infrastructure for elite PI firms
+> **Recognition:** There's a deadline on your right to pursue a claim. Most people don't know when it is.
 >
-> **Subhead:** Because you didn't become a PI attorney to stress about pipeline. You became one to fight for people. We make sure you can keep doing that.
+> **Evidence:** In [state], you have [X] years from the date of your accident to file. After that, the option closes. The clock is running.
 >
-> **Proof:** 92% acceptance rate • $1,600 avg cost per signed case • One firm per market • Zero shared leads
+> **Action:** If you've never spoken to an attorney about your accident — find out if you still can.
+
+**Critical:** Tier 3 creative must be genuinely informational. The deadline is real. State it specifically. Do not manufacture fear around it.
 
 ---
 
-## Advanced Techniques
+## Anti-Patterns: What Second Chair Never Does in Advertising
 
-### The Admission Technique (Builds Trust)
+### B2B Anti-Patterns
 
-**Rational admission + Emotional reassurance**
+| Don't | Why | Instead |
+|---|---|---|
+| "Industry-leading lead generation" | Generic, unverifiable, every vendor says it | "Here's the advertising. Evaluate it yourself." |
+| "We're committed to quality" | Values performance — showing nothing | Show the CPSC number, the compliance record, the creative |
+| "Best-in-class leads" | Category noise | "Claimants who were honestly persuaded arrive differently." |
+| "Exclusive leads guaranteed!" | Scarcity mechanics violate brand character | "One attorney per market. Month-to-month. No contracts." |
+| End with a question | Positions SC as seeking permission | State. Don't ask. |
+| Volume as primary value | Violates non-negotiable #6 | Lead with quality and CPSC |
+| Fabricated statistics | Violates non-negotiable #8 | Use only provable pre-launch proof points |
 
-**Examples:**
-> "We're not the cheapest. Our leads cost more because we don't share them. But you didn't build a practice to compete on price—you built it to win cases."
+### B2C Anti-Patterns
 
-> "We can't guarantee every lead converts. What we guarantee is that every lead is real, pre-qualified, and exclusively yours. The rest is up to your intake speed."
-
-> "Some weeks are slow. We'll tell you early, no spin. Because operational dependency matters more than vendor promises."
-
----
-
-### The Identity Affirmation Technique (Emotional Resonance)
-
-**Acknowledge who they are before selling what you do**
-
-**Examples:**
-> "PI attorneys aren't lead buyers. You're advocates who chose one of the hardest paths in law—fighting unlimited corporate resources with limited capacity, helping real people at the worst moments of their lives."
-
-> "You carry the financial anxiety of contingency alone. Nobody talks about it. Everybody feels it. We see it. We're building the infrastructure that creates certainty."
-
----
-
-### The Contrast Technique (Competitive Differentiation)
-
-**What others do vs. What we do**
-
-**The primary contrast (use this first):**
-> "Most lead gen companies deliver a phone number. We deliver a case — pre-screened, pre-qualified, and ready for intake."
-
-> "The industry sends names. We send cases. The difference is the creative that attracted them in the first place."
-
-**Note on scope:** The contrast applies to all leads across the full case spectrum. Even a standard soft-tissue quiz-funnel lead from Second Chair is more intentful and better screened than what any competitor sends — because the creative that attracted them was built to filter for real intent, not just volume.
-
-**Supporting contrasts:**
-> "Most lead gen companies sell contact information. We build demand infrastructure. There's a difference."
-
-> "They sell to anyone with a budget. We partner with elite firms only. Scarcity is strategic."
-
-> "Competitors blame attorneys when leads don't convert. We teach the 60-second response protocol that converts 391% better."
+| Don't | Why | Instead |
+|---|---|---|
+| "You could be owed THOUSANDS!" | Caps + implied amount = lowest form of PI advertising | "People who consulted an attorney received significantly more." |
+| "Don't let them get away with it!" | Antagonism without substance | "Here's what the insurance company isn't telling you." |
+| "Call NOW before it's too late!" | Manufactured urgency (unless genuine SOL deadline) | "One call. Free. No obligation." |
+| "We'll fight for you!" | Promise the attorney makes, not the advertising | "Find out what you actually have." |
+| Dollar amounts | Can't substantiate for specific situations | "Significantly more" / "other options" |
+| "You may have a case!" | May + exclamation point = manipulation | "Find out where you stand." |
+| Fear-based hooks | Violates non-negotiable #7 | Respect their agency. Write to their intelligence. |
+| "Were you in an accident?" | Generic, fails 99%/1% test | Specific situational detail that triggers self-selection |
 
 ---
 
-## Don't Do This (Anti-Patterns)
+## Creative Quality Standards
 
-### ❌ Overpromise Without Proof
-Bad: "Unlimited quality leads guaranteed!"  
-Why: Destroys trust, sounds like every scam competitor
+### B2C Visual Direction
+**Cinematic. Not naturalistic.** The claimant's world — a kitchen, a car, an evening — elevated to the emotional register of the decision being made. Intentionally produced. The craft is visible.
 
-Good: "92% acceptance rate. $1,600 per signed case. We're not perfect, but we're transparent."
+**Not:** Found footage. Not AI-generated content that tries to look like found footage. Not UGC-style. Cinematic work that looks like someone who cared made it.
 
-### ❌ Manipulative Emotional Appeals
-Bad: "Don't let your family down. Buy our leads today or your practice will fail."  
-Why: Exploitative, not empowering
+### The Dual Test
+- **B2C test:** Could the person who saw this ad and made the call say "that ad was the reason I called"?
+- **B2B test:** When the attorney sees this creative in the pitch meeting, do they think "this is advertising I can be associated with"?
 
-Good: "You carry the weight of contingency alone. We provide the infrastructure that creates certainty."
-
-### ❌ Rational Without Context
-Bad: "Geo-exclusive model with four-phase qualification system and real-time delivery infrastructure."  
-Why: Jargon soup, no emotional hook
-
-Good: "One firm per market. No bidding wars. Predictable case flow. The certainty you need to focus on fighting for people."
-
-### ❌ Emotional Without Proof
-Bad: "We understand your pain and we're here to help you be the hero you always wanted to be!"  
-Why: Empty platitudes, no substance
-
-Good: "Every case is David vs. Goliath. We provide the ammunition: geo-exclusive MVA infrastructure with 92% acceptance rates."
+The B2C ad IS the B2B proof. They are the same creative act. If the ad passes one test but not the other, it's not ready.
 
 ---
 
-## Testing & Optimization
+## Channel Guidance
 
-### Test Rational vs. Emotional Emphasis
-
-**A/B test structure:**
-- Version A: 70% rational, 30% emotional
-- Version B: 50% rational, 50% emotional
-- Version C: 30% rational, 70% emotional
-
-**Measure:**
-- Click-through rate
-- Application completion rate
-- Quality of applications (do they meet partner criteria?)
-- Conversion to signed partner
-
-### Platform-Specific Optimization
-
-**LinkedIn** tends to favor rational-first (professional context)  
-**Facebook/Instagram** tends to favor emotional-first (social context)  
-**Email** works best with emotional open, rational body  
-**Landing pages** work best with rational proof, emotional close
+| Channel | Audience | Primary Template | Notes |
+|---|---|---|---|
+| **LinkedIn** | B2B attorneys | Show-Before-Commit, CPSC Reframe | Professional register. Never end with a question. |
+| **Meta (Facebook/Instagram)** | B2C claimants (via Fair Case) | Tier-specific templates | 95–100% of B2C spend. Special Ad Categories. Creative self-selection. |
+| **Email (cold)** | B2B attorneys | CPSC Reframe → Show-Before-Commit | Open with specific observation about their practice. |
+| **Email (nurture)** | B2B pipeline | Peer Reference, Infrastructure Proof | They've already engaged — deepen with proof. |
+| **Website** | B2B attorneys | Show actual B2C advertising first | The ad is the proof. Show it before explaining anything. |
+| **Podcast/Content** | B2B (Moment 1 — 2 AM Ceiling Math) | Educational, not sales | "Here's how to understand your case acquisition cost." |
 
 ---
 
 ## Related Documents
 
-- [`BRAND_POSITIONING_CORE.md`](../01_Identity/BRAND_POSITIONING_CORE.md) — Full fused positioning
-- [`BRAND_MASTER.md`](../01_Identity/BRAND_MASTER.md) — Brand hub
-- [`SERVICE_PERSONAL_INJURY.md`](../01_Identity/SERVICE_PERSONAL_INJURY.md) — Service-specific messaging
-- [`B2B_Attorney_Acquisition/`](../12_Campaigns/B2B_Attorney_Acquisition/) — Actual ad campaign examples
+- [`13_Brand_Strategy/03_Brand_Architecture/Brand_Architecture.md`](../13_Brand_Strategy/03_Brand_Architecture/Brand_Architecture.md) — Canonical brand source
+- [`13_Brand_Strategy/05_Execution_Briefs/B2C_Campaign_Brief.md`](../13_Brand_Strategy/05_Execution_Briefs/B2C_Campaign_Brief.md) — Full B2C campaign execution
+- [`13_Brand_Strategy/05_Execution_Briefs/B2B_Sales_Language_Guide.md`](../13_Brand_Strategy/05_Execution_Briefs/B2B_Sales_Language_Guide.md) — Sasha's sales conversation framework
+- [`Approved_Phrases.md`](Approved_Phrases.md) — Approved language
+- [`Banned_Phrases.md`](Banned_Phrases.md) — Banned language
 
 ---
 
-**Remember: The website is the rational skeleton. The emotional layer is the heart that makes it memorable. Use both.**
+*Last updated: March 2026. Aligned to Brand Architecture Session 3.*

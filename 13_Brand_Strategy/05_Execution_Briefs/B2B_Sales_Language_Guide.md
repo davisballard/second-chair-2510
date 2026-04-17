@@ -163,6 +163,10 @@ After the advertising has been evaluated, Sasha explains the system in three min
 
 *"The advertising gets people there honestly. The product qualifies what arrives — TrustedForm compliance record on every lead, DNC screening, the dual scoring that tells you which leads to prioritize before you pick up the phone. And we report on cost-per-signed-case, not CPL, so you can see whether the relationship is working."*
 
+Then, introducing premium tiers (optional, based on client sophistication):
+
+*"We also offer premium qualification tiers — totally optional. Standard tier is what I just described: we deliver the web lead, you call them. But we can also qualify leads for you. AI-Qualified tier: an AI voice agent calls within 90 seconds, completes our 7-question intake script, delivers full transcript and structured notes. That's an extra $200 per lead. Or Human Live Transfer: Sasha or I personally call, qualify, and if they have a case, we transfer them to you live — while they're on the phone and warm. That's $1,200 more. Live transfers convert at 40-60% vs. 10-15% for web leads. It's for firms that want fewer leads at higher conversion, or firms with 24/7 intake capability like Jacoby & Meyers."*
+
 Then: *"I want to show you what the reporting actually looks like — because that's usually the thing that changes how attorneys think about evaluating any vendor."*
 
 ---
@@ -192,6 +196,24 @@ If they do know: *"That's the number we'd need to beat to be worth your time. He
 *"Tell me what happened."*
 [Listen. Specifically.]
 *"Here's what we do differently about that specific thing: [address the exact issue they named]. And before you commit to anything — month-to-month, no contracts, bad leads get replaced. The structure is designed for people who've been burned before."*
+
+---
+
+**"$1,500 per lead is too expensive."** (Premium tier objection)
+
+*What they're afraid of:* The premium price doesn't justify the ROI.
+
+*Sasha's response:*
+*"Let me show you the math. Standard leads at $315 convert at around 12% — that's $2,625 per signed case. Live transfers at $1,515 convert at 40-60%, let's say 50%. That's $3,030 per signed case. You're paying 15% more per case but you need 75% fewer leads to hit your case volume target. Your intake team is spending 6+ hours less per week chasing dead ends. And you're the only firm in your DMA getting qualified live transfers. The question isn't whether it's expensive — it's whether $400 more per signed case is worth having your phone ring with someone who's already qualified and ready to sign."*
+
+---
+
+**"Why not just use Settlement Allies?"** (CPA alternative)
+
+*What they're asking:* CPA vendors only charge per signed case — why pay per lead at all?
+
+*Sasha's response:*
+*"Settlement Allies charges $2,500-$6,500 per signed case. Our premium tier costs $3,030 per signed case. The difference is: you pay SA 30-60 days after the case is signed. You pay us weekly. Your cashflow is 4-6 weeks faster. Second, SA doesn't give you DMA exclusivity — they'll sell the same market to 3-5 firms. You get one firm per DMA with us. Third, with SA you have no control over which cases you sign — they send them, you take them or lose the relationship. With us, you're getting the lead at intake stage and you decide. You pay 20% more than SA's low end but you get faster payment, exclusivity, and control. For firms that value those three things, we're worth it."*
 
 ---
 

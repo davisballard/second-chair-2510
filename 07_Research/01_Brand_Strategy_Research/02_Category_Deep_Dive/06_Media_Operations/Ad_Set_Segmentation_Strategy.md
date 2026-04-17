@@ -90,34 +90,24 @@ Second Chair's ad set structure should be organized across three axes simultaneo
 
 ## Part 3: Meta Targeting — What PI Lead Gen Can Actually Do
 
-### The Critical Clarification: PI Legal Is NOT a Special Ad Category
+### Correction (March 2026): PI Legal IS Running Under Special Ad Category
 
-A previous draft of this document suggested PI lead gen might fall under Meta's Special Ad Categories with restricted targeting. **This is incorrect and has been corrected.**
-
-Meta's Special Ad Categories apply exclusively to:
-- **Housing** (home sales, rentals, mortgages, homeowner's insurance)
-- **Employment** (job listings, internships, certification programs)
-- **Financial Products and Services** (banking, investment, payment services, credit)
-- **Social Issues, Elections, and Politics**
-
-**Personal injury legal advertising does not qualify for any of these categories.** Second Chair is not offering housing, a job, a financial product, or a political position. It is advertising access to legal representation for accident victims. Standard Meta advertising rules apply in full.
-
-### What This Means: Full Standard Targeting Is Available
-
-Because PI legal falls outside Special Ad Categories, Second Chair has access to the complete Meta targeting toolkit:
+**This section previously stated PI legal is not SAC. That was incorrect.** Second Chair runs PI legal advertising under Meta's Special Ad Category designation. This restricts the targeting toolkit.
 
 | Targeting Option | Available? | Notes |
 |---|---|---|
-| Language targeting (Spanish) | **Yes — full** | Target users whose Facebook language is Spanish or who engage primarily with Spanish content |
-| Zip code geography | **Yes — full** | No state-level-only restriction; can target specific zip codes in priority DMAs |
-| Detailed interest targeting | **Yes — full** | Accident recovery, insurance content, legal aid, medical content |
-| Demographic layering (age, gender) | **Yes — full** | Standard demographic targeting available |
-| Lookalike audiences | **Yes — full** | Build from past qualified lead lists without restriction |
-| Custom audiences | **Yes — full** | Upload past lead data, pixel-based audiences, video viewers |
-| Behavioral signals | **Yes — full** | Life events, purchase behavior, content engagement |
-| Exclusion targeting | **Yes — with caution** | Do not exclude by race, national origin, or religion (civil rights policy applies regardless of Special Ad Category) |
+| Geographic targeting (DMA/city) | **Yes** | Broad DMA targeting. Creative does the audience filtering. |
+| Language targeting (Spanish) | **Yes** | Target users whose Facebook language is Spanish |
+| Custom audiences (retargeting) | **Yes** | Website visitors, video viewers, form openers, customer lists |
+| Creative-based self-selection | **Yes** | SC's primary targeting method — specific creative self-selects the right audience |
+| Detailed interest targeting | **No** | Not available under SAC |
+| Demographic layering (age, gender) | **No** | Not available under SAC |
+| Lookalike audiences | **No** | Not available under SAC |
+| Behavioral signals | **No** | Not available under SAC |
 
-**The only restriction that applies regardless of category:** Do not use exclusion targeting based on protected characteristics (race, national origin, religion, gender). This is Meta's baseline civil rights policy for all advertisers. Inclusion-based targeting (targeting Spanish speakers) is fully permissible; exclusion-based targeting (excluding non-Spanish speakers by demographic) is not. In practice, language targeting achieves the same result without the civil rights issue — you target Spanish-preference users, not exclude non-Spanish users.
+**What this means for SC:** Creative quality is the ONLY precision instrument for reaching specific people. Geographic + creative is the entire toolkit. This makes SC's creative capability the core competitive advantage — not an optional layer. See `09_Operations/HOW_META_CAMPAIGNS_OPTIMIZE.md` for full campaign structure and optimization approach under SAC.
+
+**Civil rights policy still applies:** Do not use exclusion targeting based on protected characteristics (race, national origin, religion, gender). Inclusion-based targeting (targeting Spanish speakers by language preference) is permissible.
 
 ### Language Targeting: How It Actually Works
 

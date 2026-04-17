@@ -35,9 +35,9 @@ Richard Roma provides:
 
 | Co-Founder | Role |
 |------------|------|
-| **Davis Ballard** | Head of Marketing & Creative |
-| **Alex DuBelko** | Head of Product & Innovation |
-| **Sasha Zinshtein** | Head of Growth |
+| **Davis Ballard** | Creative & Strategy Systems |
+| **Alex DuBelko** | Product & Compliance Systems |
+| **Sasha Zinshtein** | Performance Media |
 
 **Team profiles:** [`employees/`](employees/)
 
@@ -49,12 +49,16 @@ Richard Roma provides:
 |-----------|-------|
 | **Brand Name** | Second Chair |
 | **Consumer-Facing Brand** | Fair Case (getafaircase.com) |
-| **Industry** | Legal Services / Lead Generation (PI ? MVA Focus) |
-| **Business Model** | PI lead aggregator ? runs ads, captures leads, sells to law firms |
-| **Unique Mechanism** | Creative Advantage ? creative-driven lead gen that outperforms commodity lead vendors |
-| **Primary Platforms** | Meta (Facebook/Instagram), Google Ads, TikTok (emerging) |
-| **Lead Price** | $400/lead |
+| **Industry** | Legal Services / Lead Generation (PI — MVA Focus) |
+| **Business Model** | PI lead gen — builds honest advertising, generates leads, delivers to one attorney per market with optional premium qualification and live transfer tiers |
+| **Single-Minded Proposition** | "The leads PI attorneys buy should be as honestly won as the cases they take." |
+| **Primary B2C Platform** | Meta (Facebook/Instagram) — 95–100% of B2C spend |
+| **Primary B2B Platform** | LinkedIn + direct outreach |
+| **Primary Metric** | **Projected Attorney Fee → Projected ROAS** (day-one, from Fit Score × sign probability × median attorney fee by case type). CPSC tracks alongside as confirmation. See `Projected_Attorney_Fee_Model.md`. |
+| **Typography** | Tiempos Headline / Adobe Caslon Pro / Söhne (Option C — "The Law Review") |
+| **Colors** | Cream (#FFF7F0), Oxblood (#490A0A), Charcoal (#1C1917), Grey (#6E6862), Navy (#0F1E3A) |
 | **Special Considerations** | Heavy compliance (FCC 2025, TCPA, State Bar rules, **CA SB37**), Special Ad Categories, third-person language ONLY |
+| **Canonical Strategy Source** | `13_Brand_Strategy/03_Brand_Architecture/Brand_Architecture.md` (locked March 2026) |
 
 ---
 
@@ -77,12 +81,12 @@ Website source lives in `../18_Website/`. Edit locally in Cursor, push to `secon
 ### Key Numbers
 | Metric | Value |
 |--------|-------|
-| Lead Price | $400/lead |
+| Primary metric | **Projected Attorney Fee → Projected ROAS** (day-one). CPSC alongside as confirmation. See `Projected_Attorney_Fee_Model.md`. |
+| Defensible day-one Projected ROAS range (CA markets) | **5–8×** |
 | Mobile traffic | 75% |
-| Special Ad Category | Geographic targeting only |
+| Special Ad Category | Creative self-selection (99%/1% mandate) |
 | Google High-Intent CPC | $100-$500+ |
-| Meta/TikTok CPM | $10-$30 |
-| AI SEO Cost | $0 per lead (arbitrage opportunity) |
+| Meta CPM | $10-$30 |
 
 ---
 
@@ -90,45 +94,37 @@ Website source lives in `../18_Website/`. Edit locally in Cursor, push to `secon
 
 > **Full financial models:** See `../11_Financials/FINANCIAL_PROJECTIONS.md` for comprehensive projections
 
-### Quick Summary
-
-**Current Model:**
-- **Lead Price:** $400/lead
-- **Distribution:** Three co-founders (Davis, Alex, Sasha)
-
-### Growth Potential: Own Lead Generation
-
-As we generate more leads in-house, profit margins increase significantly. See full financial projections for detailed breakdowns by volume and scenario.
+Three co-founders (Davis, Alex, Sasha). Month-to-month attorney partnerships. **Projected Attorney Fee → Projected ROAS** is the primary account health metric, surfaced on day one from the Fit Score × sign probability model. CPSC tracks alongside once sign rate data accumulates. See `Projected_Attorney_Fee_Model.md` for the canonical framework.
 
 ---
 
-## Brand Positioning (Updated Feb 2026)
+## Brand Positioning (Locked March 2026)
 
-**Start here for brand understanding**
+**Canonical source:** `13_Brand_Strategy/03_Brand_Architecture/Brand_Architecture.md`
 
-Second Chair positioning uses a **fused approach**: rational core (from website) + emotional layer (from research).
+### Governing Principle
+*"Second Chair must feel trustworthy before it feels impressive."*
 
-### Quick Reference
+### SMP
+*"The leads PI attorneys buy should be as honestly won as the cases they take."*
 
-**Rational Core (What We Do):**
-- Geo-exclusive demand infrastructure for elite law firms
-- One firm per DMA ? territory exclusive, not just lead exclusive
-- Creative Advantage ? superior ad creative that outperforms commodity lead vendors
-- Four-phase system: creation, capture, qualification, delivery
-- Over-qualification beats volume
+### Brand Character (4 Traits)
+1. **Expert, Not Arrogant** — Demonstrates, doesn't claim
+2. **Honest in the Specific** — Numbers, evidence, not values performance
+3. **Respectful of Intelligence** — Speaks to the capable evaluator
+4. **Weighted, Not Heavy** — Serious without being stiff or corporate
 
-**Emotional Layer (Why It Matters):**
-- "The rhythm that keeps a law practice alive"
-- Certainty in a profession built on contingency
-- Attorneys as advocates fighting resource asymmetry (David vs. Goliath)
-- We're on the attorney's side in the fight against insurance companies
+### Primary Proof Mechanism
+Show the advertising before commitment. No other PI lead gen vendor does this.
 
-**How to Use:**
-- **Lead with rational** in sales, website, proposals (credibility first)
-- **Layer in emotional** in storytelling, brand content, retargeting (resonance)
-- **Fuse both** in case studies, email campaigns, thought leadership
+### B2B Voice Register
+Earned peer, not vendor pitch. Specificity is credibility. Never end with a question. State, don't ask.
 
-**See:** `BRAND_POSITIONING_CORE.md` for complete fused positioning framework
+### B2C Voice Register (via Fair Case)
+One specific fact. One minimum-barrier action. Tier-specific (Days 0–30, 1–6 months, 6+ months to SOL). Never manufacture urgency. Respect intelligence.
+
+**See:** `BRAND_POSITIONING_CORE.md` for complete positioning framework
+**See:** `13_Brand_Strategy/` for all locked strategy sessions
 
 ---
 
@@ -144,7 +140,7 @@ Second Chair positioning uses a **fused approach**: rational core (from website)
 8. **VIDEO CLIP CONTINUITY** ? Same person must appear across all clips in a multi-clip video. If Clip 2 shows a man with a cast, Clip 3 must show the SAME man.
 9. **SCRIPT TIMING** ? Target 1.5-2.1 words per second. 15-sec video = **23-31 words**. Music/ambiance continues ~2-3 sec after VO ends.
 10. **AUDIO MIX** ? Voiceover 100%, Environment 50% (LOUD ? must be clearly audible), Music 30%. Music + environment run FULL video duration.
-11. **VOICE** ? Use `Bill` (gruff, working-class American) for ads. Alternative: `Adam` (deep, mature).
+11. **VOICE** — Brand character: Expert not Arrogant, Honest in the Specific, Respectful of Intelligence, Weighted not Heavy. For VO: `Adam` (deep, mature) or similar weighted register. Not gruff/working-class.
 
 ---
 
@@ -152,10 +148,12 @@ Second Chair positioning uses a **fused approach**: rational core (from website)
 
 | Document | Purpose | When to Load |
 |----------|---------|--------------|
-| **`BRAND_POSITIONING_CORE.md`** | **Complete fused positioning** ? rational core + emotional layer, how to use both | Any brand work, ad creation, B2B materials |
-| **`BRAND_DESIGN_SYSTEM.md`** | Complete visual system from secondchair.co | Visual standards, B2B brand work |
-| **`AD_MESSAGING_FRAMEWORK.md`** | How to apply positioning in ads ? templates, techniques | Creating ads, campaigns, content |
+| **`13_Brand_Strategy/03_Brand_Architecture/Brand_Architecture.md`** | **LOCKED canonical source** — positioning, SMP, message architecture, brand character, non-negotiables | Any brand decision |
+| **`BRAND_POSITIONING_CORE.md`** | Full positioning — SMP, B2B/B2C messaging, brand character, tone | Any brand work, ad creation, B2B materials |
+| **`BRAND_DESIGN_SYSTEM.md`** | Visual system — typography, colors, design principles | Visual standards, B2B brand work |
+| **`AD_MESSAGING_FRAMEWORK.md`** | Ad creation framework — B2B/B2C templates, anti-patterns | Creating ads, campaigns, content |
 | **`SERVICE_PERSONAL_INJURY.md`** | PI/MVA service details and messaging | PI campaigns, B2B materials |
+| **`Premium_Nurturing_Service_Overview.md`** | Premium tier service definition (AI-Qualified, Human Live Transfer) | B2B sales, premium tier positioning |
 
 ---
 
@@ -164,12 +162,26 @@ Second Chair positioning uses a **fused approach**: rational core (from website)
 ### 01_Identity
 | File | Purpose | Load When... |
 |------|---------|--------------|
-| `Brand_Essence.md` | Mission, values, Second Chair positioning | Starting any project |
-| `GEO_EXCLUSIVITY_POLICY.md` | **Active geo-exclusivity policy** ? DMA standard, pricing tiers, website vs. sales call guidance | B2B sales prep, website copy, contract questions |
-| `SERVICE_PERSONAL_INJURY.md` | **PI/MVA service details** ? positioning, messaging hooks, customer profile | PI campaigns, B2B materials |
-| `ClaimJusticeNow_Identity_System.md` | **ARCHIVED** ? Claim Justice Now identity system (superseded by Fair Case, March 2026) | Archive reference only |
-| `Consumer_Brand_Names.md` | **Fair Case** ? B2C consumer brand final decision record | Consumer brand reference |
-| `Naming_Options.md` | Brand naming options and rationale | Brand naming |
+| `Brand_Essence.md` | Mission, SMP, brand character, visual identity summary | Starting any project |
+| `BRAND_POSITIONING_CORE.md` | Full positioning — SMP, message architecture, brand character, tone | Brand work, ad creation, B2B materials |
+| `GEO_EXCLUSIVITY_POLICY.md` | Active geo-exclusivity policy | B2B sales prep, contract questions |
+| `SERVICE_PERSONAL_INJURY.md` | PI/MVA service details — positioning, messaging hooks | PI campaigns, B2B materials |
+| `Premium_Nurturing_Service_Overview.md` | Premium tier service definition — AI-Qualified and Human Live Transfer | B2B sales, premium tier positioning |
+| `Consumer_Brand_Names.md` | **Fair Case** — B2C consumer brand final decision record | Consumer brand reference |
+
+### 13_Brand_Strategy (Canonical Source — Read Only)
+| File | Purpose | Load When... |
+|------|---------|--------------|
+| `Brand_Architecture.md` | **LOCKED** — Positioning, SMP, message architecture, brand character, non-negotiables | Any brand decision |
+| `Creative_Brief.md` | **LOCKED** — Jennifer/Maria archetypes, creative mandate, visual direction | Creative work |
+| `05_Execution_Briefs/` | B2C campaign, B2B sales language, website brief | Execution planning |
+
+### 14_Visual_Identity (Locked Visual System)
+| File | Purpose | Load When... |
+|------|---------|--------------|
+| `02_Color_System.md` | **LOCKED** — Full color specifications, Figma setup, CSS tokens | Color decisions |
+| `03_Typography_System.md` | **LOCKED** — Tiempos/Caslon/Söhne system, type scales | Typography decisions |
+| `01_Logo_Directions.md` | Logo direction options and rationale | Logo work |
 
 ### 02_Visual
 | File | Purpose | Load When... |
@@ -393,10 +405,11 @@ Depesh/Kasim ? Place it
 
 | Priority | Style | Use For |
 |----------|-------|---------|
-| 1 | **UGC/Authentic** | TikTok, Reels, platform-native ads |
-| 2 | **Naturalistic/Documentary** | Serious topics, testimonials, trust-building |
-| 3 | **Super Bowl quality** | Hero content, brand anthems, landing page video |
-| 4 | **Stylized/Pop Art** | Attention-grabbing hooks, pattern interrupts |
+| 1 | **Cinematic, intentionally produced** | Primary B2C creative — the craft is visible, the care is visible |
+| 2 | **Editorial/Documentary** | Serious topics, testimonials, trust-building |
+| 3 | **Platform-native** | TikTok/Reels where platform conventions require it (secondary) |
+
+**Visual direction:** Cinematic. Not naturalistic. Not found footage. Not AI-generated content that tries to look like found footage. The claimant's world elevated to the emotional register of the decision being made.
 
 ---
 

@@ -1,8 +1,8 @@
 # Geo-Exclusivity Policy
 
 > **Type:** Internal policy — not for external distribution  
-> **Status:** Active  
-> **Date:** February 2026
+> **Status:** Active
+> **Date:** March 2026 (updated from February 2026)
 
 ---
 
@@ -25,10 +25,18 @@ Second Chair is launching with zero active clients. There are no legacy arrangem
 ## The Three Product Tiers
 
 ### Tier 1 — Standard: Per-DMA Exclusivity
-One firm locks one DMA. Pricing by market size:
-- **Mega** (LA, NYC, Chicago, Dallas, Houston, Miami): $400–$500/lead
-- **Large** (SF, San Diego, Tampa, Denver, Phoenix, Seattle): $350–$450/lead
-- **Mid/Small/Micro** (Fresno, Bakersfield, Corpus Christi, etc.): $200–$350/lead
+One firm locks one DMA. Pricing is set by the **Market Operating Index (MOI)** — a composite score (1.0–10.0) based on six weighted factors: competition & media cost (25%), legal viability rate (25%), market size (15%), case value competition (15%), uninsured motorist rate (10%), and market quality x-factors (10%).
+
+The MOI maps linearly to lead price:
+
+| MOI Score Range | Lead Price Range | Markets |
+|----------------|-----------------|---------|
+| **8.0–10.0** | $425–$500 | NYC ($460), LA ($425), Miami ($420) |
+| **6.0–7.9** | $355–$425 | Chicago ($390), Orlando ($385), SF ($380), Philly ($375), Houston/Dallas ($365), Atlanta ($360) |
+| **4.0–5.9** | $285–$355 | Riverside ($340), San Diego ($340), Seattle ($335), Phoenix ($315), Sacramento ($310), San Antonio/Austin ($300) |
+| **2.0–3.9** | $210–$285 | Fresno ($270), McAllen/El Paso ($270), Bakersfield ($260), Rockford ($260), Tucson/Spokane ($255), Peoria ($250) |
+
+Full methodology and per-DMA scoring: `07_Research/02_Sales_Intelligence/Market_Analysis/DMA_Baseline_Pricing_Framework.md`
 
 ### Tier 2 — Bundle: Multi-DMA or Regional
 For firms with multiple offices or regional reach — sell them the specific DMAs they operate in, bundled:
@@ -101,12 +109,15 @@ The DMA model opens the revenue ceiling to 2–3x the per-state model while keep
 
 ## Cross-Reference
 
-For full competitive research on how competitors define geo-exclusivity:  
+For per-DMA MOI scores, pricing methodology, and sales call scripts:
+→ `07_Research/02_Sales_Intelligence/Market_Analysis/DMA_Baseline_Pricing_Framework.md`
+
+For full competitive research on how competitors define geo-exclusivity:
 → `07_Research/B2B_Strategy_Research/03_Geo_Exclusivity/COMPETITOR_GEO_EXCLUSIVITY_ANALYSIS.md`
 
-For the strategic framework and pros/cons analysis:  
+For the strategic framework and pros/cons analysis:
 → `07_Research/B2B_Strategy_Research/03_Geo_Exclusivity/GEO_EXCLUSIVITY_TERRITORY_MODEL.md`
 
 ---
 
-*Second Chair — February 2026*
+*Second Chair — March 2026*

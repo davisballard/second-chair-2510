@@ -1,4 +1,4 @@
-﻿  // Intersection Observer — section reveal
+  // Intersection Observer — section reveal
   const revealEls = document.querySelectorAll('.reveal');
   const observer = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
@@ -17,6 +17,39 @@
       setTimeout(() => { bar.style.width = bar.dataset.w; }, i * 280);
     });
   }, 700);
+
+  // Intelligence dashboard bars — animate on scroll into view
+  const intelBars = document.querySelectorAll('.intel-bar');
+  if (intelBars.length) {
+    // Store target widths and set initial width to 0
+    intelBars.forEach((bar) => {
+      const targetWidth = bar.style.width;
+      bar.dataset.targetWidth = targetWidth;
+      bar.style.width = '0%';
+    });
+
+    // Observe the dashboard container
+    const intelDashboard = document.querySelector('.intel-dashboard');
+    if (intelDashboard) {
+      const barObserver = new IntersectionObserver(
+        (entries) => {
+          entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+              // Animate bars with stagger
+              intelBars.forEach((bar, i) => {
+                setTimeout(() => {
+                  bar.style.width = bar.dataset.targetWidth;
+                }, i * 180);
+              });
+              barObserver.unobserve(entry.target);
+            }
+          });
+        },
+        { threshold: 0.3, rootMargin: '0px' }
+      );
+      barObserver.observe(intelDashboard);
+    }
+  }
 
   // Page rails — stop above the scrolling logo ticker
   function positionPageRails() {
@@ -56,6 +89,34 @@
 
   animateBarsOnScroll('#cpsc-chart',     '.bar-fill',       'width');
   animateBarsOnScroll('#proof-cpl-chart', '.proof-cpl-fill', 'w');
+
+  // Compliance badges — stamp animation on scroll into view
+  const complianceBadges = document.querySelectorAll('.engine-stat-number');
+  if (complianceBadges.length) {
+    const statsContainers = document.querySelectorAll('.engine-stats');
+    
+    statsContainers.forEach((container) => {
+      const badges = container.querySelectorAll('.engine-stat-number');
+      
+      const badgeObserver = new IntersectionObserver(
+        (entries) => {
+          entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+              badges.forEach((badge, i) => {
+                setTimeout(() => {
+                  badge.classList.add('stamped');
+                }, i * 100);
+              });
+              badgeObserver.unobserve(entry.target);
+            }
+          });
+        },
+        { threshold: 0.4, rootMargin: '0px' }
+      );
+      
+      badgeObserver.observe(container);
+    });
+  }
 
   // Nav — subtle shadow on scroll
   const nav = document.getElementById('nav');

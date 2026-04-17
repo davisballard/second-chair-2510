@@ -51,7 +51,7 @@ The three research sessions have converged on a clear strategic direction. This 
 - For whom: Growth-stage PI attorneys (2–20 attorneys, $200K–$20M revenue) who are ashamed — explicitly or implicitly — of the lead gen advertising running in their name
 - Who find that: The PI lead gen category is structurally designed to serve vendors, not attorneys
 - Second Chair is: The only PI lead gen company that runs honest consumer advertising and measures success exclusively by cost-per-signed-case
-- Because: Creative pedigree (18 years building advertising for Disney, Google, Samsung) + a business model aligned with attorney outcomes, not lead volume
+- Because: Creative pedigree (18 years building advertising for Disney, Google, Samsung, NFL, NBA, Uber, Taco Bell) + a business model aligned with attorney outcomes, not lead volume
 - So that: PI attorneys can grow their practices in a way consistent with why they became PI attorneys
 
 **The one-word brief (Ed McCabe):** Proud
@@ -142,7 +142,7 @@ The specific record that matters:
 
 - **Vacation® (first employee)** — Joined six months pre-launch, led all creative direction through launch and six subsequent product releases. Results: 14 beauty awards (GQ, Esquire, Vogue, Refinery29, Byrdie), 300+ PR mentions, 27 million earned impressions — including the viral fake job titles campaign (Chief Jacuzzi Inspector, Head of Champagne Snorkeling) that generated 12,000+ unique cards in the first 5 days. This is what Davis means by brand advertising that earns culture rather than buying attention.
 
-- **Google, Samsung, Disney, The Macallan, SET ACTIVE, Oculus, NFL, NBA** — Creative and strategy work across global brands at the level where creative decisions are judged against Cannes, not CPM. SET ACTIVE merch preview work tripled order quantities. Google Workspace: most engaged post in 18 months. The Macallan: premium luxury creative for VIP events at The French Laundry, Post Ranch Inn, Aman.
+- **Disney, Google, Samsung, NFL, NBA, Uber, Taco Bell, The Macallan, Oculus, Optum, E&J Gallo Winery, Miller, Blink-182** — Creative and strategy work across global brands at the level where creative decisions are judged against Cannes, not CPM. SET ACTIVE merch preview work tripled order quantities. Google Workspace: most engaged post in 18 months. The Macallan: premium luxury creative for VIP events at The French Laundry, Post Ranch Inn, Aman.
 
 - **Gurus NYC (co-founder)** — Built a full-service digital agency from nothing, serving McLean Hospital (USA's largest psychiatric hospital), Stanford, Harvard, Mass General, Dana Farber, Scripps, Optum, Partners Healthcare. This is the business-building track record that makes Second Chair a company, not a freelance operation.
 
@@ -150,7 +150,7 @@ The specific record that matters:
 
 - **Strategic philosophy (three pillars):** Evidence-based marketing science (Ehrenberg-Bass, Byron Sharp, Binet & Field — the same frameworks running the 4Cs research) + Behavioral psychology as tactical toolkit (Shotton, Ferrier, Haidt) + Alchemy — Rory Sutherland's principle that the counterintuitive, seemingly inefficient solution often produces disproportionate value. Red Bull costs more and tastes worse. That's why it works. This is Davis's operating instinct.
 
-**What this means for Second Chair's positioning:** The brand's advertising claim is not aspirational — it is already true. The person who built the advertising for Vacation®, Google, and Disney is the person building the advertising for PI claimants. No competitor can say that.
+**What this means for Second Chair's positioning:** The brand's advertising claim is not aspirational — it is already true. The person who built the advertising for Disney, Google, Samsung, NFL, Uber, and Taco Bell is the person building the advertising for PI claimants. No competitor can say that.
 
 ---
 
@@ -192,7 +192,7 @@ Every product implication that falls from a strategy decision should be document
 Sasha is not just the sales and distribution function — he is a 14-year programmatic media professional with direct experience at Fortune 500 scale and a financial underwriting background that fundamentally changes how Second Chair talks to attorneys. His presence is what makes the team's capability claim complete.
 
 **The programmatic record that matters:**
-At **33across**, Sasha managed programmatic buying for 18+ global brands across the full DSP/SSP stack: ASOS, Bose, Coach, Diageo, Duracell, Fanatics, H&R Block, Indeed, Manolo Blahnik, Mondelez International, NatWest, Ocean Spray, Pepsico, Tinder, Wing Stop, Yaamava' Resort & Casino, Zalando, and others. He built optimization strategies, scaled buyer portfolios, managed video operations across both supply and demand side, and tracked ROI end-to-end. This is what rigorous programmatic management looks like at scale — and it is the operational standard Second Chair applies to PI advertising.
+At **33across**, Sasha managed programmatic buying for 18+ global brands across the full DSP/SSP stack: Bose, Coach, Diageo, Duracell, Fanatics, H&R Block, Indeed, Manolo Blahnik, Mondelez International, NatWest, Ocean Spray, PepsiCo, Tinder, Wing Stop, Yaamava' Resort & Casino, and others. He built optimization strategies, scaled buyer portfolios, managed video operations across both supply and demand side, and tracked ROI end-to-end. This is what rigorous programmatic management looks like at scale — and it is the operational standard Second Chair applies to PI advertising.
 
 **Restricted-category advertising — the PI analog:**
 As **Director of Growth at The Flower Agency**, Sasha pioneered digital advertising for brands operating where Google and Facebook were entirely unavailable. He built an alternative path: programmatic placements on Forbes, TripAdvisor, Rolling Stone, and Food & Wine using proprietary data segments, omni-channel strategy, and attribution that produced measurable ROI in a category that had never had it. This experience is a direct operational analog to PI Special Ad Categories — no demographic, interest, or behavioral targeting available; creative self-selection and contextual placement are the only tools. Sasha has built reach and performance under exactly this constraint before.

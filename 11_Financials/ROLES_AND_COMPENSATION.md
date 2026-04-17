@@ -10,7 +10,7 @@ Three equal co-founders. Every dollar of profit splits evenly. No hierarchy — 
 
 ---
 
-### Davis Ballard — Co-Founder & Head of Marketing & Creative
+### Davis Ballard — Co-Founder & Creative & Strategy Systems
 
 **What He Owns:**
 
@@ -19,18 +19,18 @@ Three equal co-founders. Every dollar of profit splits evenly. No hierarchy — 
 - Ad creative development and production (Meta, Google, TikTok, Snapchat, LinkedIn)
 - Email, website copy, and content strategy
 - Campaign concepting, scripts, visual direction, art direction
-- Creative direction for Claim Justice Now consumer brand
+- Creative direction for Fair Case consumer brand
 - Behavioral science integration into creative and messaging
 - Technical sales support for large accounts (closing, not cold calling)
 
-*Expansion (Month 4–6):*
+*Expansion (Month 1+):*
+- Premium nurturing: Human live transfer calls, qualification scripts, intake notes
 - Email / nurture flow builds for attorney partners
 - Brand identity projects for partner firms
 - Ad campaign creative for partner firms (creative side)
 - Content strategy for partner firms
-- Premium lead nurture copy and sequences
 
-**Background:** 18 years across strategy and creative for Disney, Google, Samsung, The Macallan, Vacation (first employee — 14 beauty awards, 27M earned impressions), and 12 Fortune 500 brands. Partnered with 55-time Cannes Lion Winner Julian Cole on 4 Fortune 500 strategy projects. Built Second Chair's AI-powered marketing engine integrating marketing science, behavioral psychology, and creative execution.
+**Background:** 18 years across strategy and creative for Disney, Google, Samsung, NFL, NBA, Uber, Taco Bell, The Macallan, Oculus, Optum, and 12 Fortune 500 brands. Partnered with 55-time Cannes Lion Winner Julian Cole on 4 Fortune 500 strategy projects. Built Second Chair's AI-powered marketing engine integrating marketing science, behavioral psychology, and creative execution.
 
 **Location:** Los Angeles / San Diego, California
 
@@ -38,7 +38,7 @@ Three equal co-founders. Every dollar of profit splits evenly. No hierarchy — 
 
 ---
 
-### Alex DuBelko — Co-Founder & Head of Product & Innovation
+### Alex DuBelko — Co-Founder & Product & Compliance Systems
 
 **What He Owns:**
 
@@ -52,9 +52,9 @@ Three equal co-founders. Every dollar of profit splits evenly. No hierarchy — 
 - API integrations with legal intake software and partner systems
 - AI-agent-powered internal tools and automation
 
-*Expansion (Month 4–6):*
-- AI chatbot builds for premium lead nurturing
-- AI call bot infrastructure and automation
+*Expansion (Month 1+):*
+- Premium nurturing: AI call bot integration (Bland.ai), Twilio + Aircall + WhatsApp setup
+- Premium tier admin panel (availability toggle, call logs, billing)
 - Intake automation and documentation tools
 - Website builds and redesigns for attorney partners
 - Analytics dashboards for partner firms
@@ -68,7 +68,7 @@ Three equal co-founders. Every dollar of profit splits evenly. No hierarchy — 
 
 ---
 
-### Sasha Zinshtein — Co-Founder & Head of Growth
+### Sasha Zinshtein — Co-Founder & Performance Media
 
 **What He Owns:**
 
@@ -82,13 +82,14 @@ Three equal co-founders. Every dollar of profit splits evenly. No hierarchy — 
 - Revenue reporting and dashboards
 - Partner onboarding process
 
-*Expansion (Month 4–6):*
+*Expansion (Month 1+):*
+- Premium nurturing: Human live transfer calls, qualification scripts, call handling
+- Premium tier sales and opt-in management
 - Ad buying / media management for partner firms' own campaigns
-- Premium lead qualification and routing
-- Upselling existing partners into premium leads + agency services
+- Upselling existing partners into premium tiers + agency services
 - Revenue expansion strategy per DMA
 
-**Background:** 14+ years across programmatic media buying, sales, and financial underwriting. Programmatic account management for 18+ Fortune 500 brands at 33across (ASOS, Bose, Coach, Diageo, Pepsico, Tinder, Zalando). Director of Growth at The Flower Agency (pioneered cannabis programmatic on Forbes, Rolling Stone). Fund Specialist at Riverpoint Capital (millions deployed in non-dilutive growth capital). Speaks capital-allocator language — ROI, payback, allocation — which is how he sells to law firms.
+**Background:** 14+ years across programmatic media buying, sales, and financial underwriting. Programmatic account management for 18+ Fortune 500 brands at 33across (Bose, Coach, Diageo, Duracell, H&R Block, Indeed, Ocean Spray, PepsiCo, Tinder). Director of Growth at The Flower Agency (pioneered cannabis programmatic on Forbes, Rolling Stone). Fund Specialist at Riverpoint Capital (millions deployed in non-dilutive growth capital). Speaks capital-allocator language — ROI, payback, allocation — which is how he sells to law firms.
 
 **Location:** New York, NY
 
@@ -106,7 +107,7 @@ Three equal co-founders. Every dollar of profit splits evenly. No hierarchy — 
 Applied to all net profit after direct costs (ad spend, tool subscriptions, platform fees).
 
 ### How It Works
-1. Revenue comes in from attorney partners purchasing leads at $400/lead
+1. Revenue comes in from attorney partners purchasing leads at cost-per-signed-case (CPSC) pricing
 2. Subtract direct costs (ad spend, platform fees, tool subscriptions)
 3. Net profit splits 33/33/33
 
@@ -151,4 +152,28 @@ Revenue flows back → 33/33/33
 
 ---
 
-*Last updated: February 20, 2026*
+## Future Roles (As Needed)
+
+### Intake Specialist (Premium Tier Scaling)
+
+**When to hire:** When premium tier volume exceeds 20 calls/day (~400-600 calls/month)
+
+**Role:**
+- Handle all human live transfer calls (qualification, intake, warm transfer)
+- Operate 7-question intake script with state-specific criteria
+- Manage call recording compliance (two-party consent states)
+- Deliver structured intake notes for transfers that don't connect live
+- Available during business hours (9am-6pm PT), expandable to 24/7 for firms like Jacoby & Meyers
+
+**Compensation:**
+- Salary: $40K-50K/year
+- Capacity: 30-40 calls/day = 600-800 calls/month
+- At 600 calls/month × $1,515 average = $909,000 monthly revenue
+- Cost: $4,167/month salary + $96,000 lead generation cost = $100,167
+- Margin: **89% even with dedicated staff**
+
+**Decision point:** Hire when Davis/Sasha availability becomes the bottleneck for premium tier growth. Until then, founders handle premium calls directly.
+
+---
+
+*Last updated: April 2026*
