@@ -1,7 +1,7 @@
 # Tofer & Associates — Oracle Reading & Buyer-Tuned Negotiation
 
 > **Type:** Pre-call prep — spiritual read + Voss moves tuned to Carlos Gutierrez
-> **Created:** {{Populate Thu 2026-04-16 PM, day before the call}}
+> **Created:** 2026-04-16
 > **Call date:** Friday 2026-04-17
 > **Master tactical reference:** `../../01_Playbooks/Negotiation_Playbook.md`
 
@@ -9,20 +9,57 @@
 
 ## Oracle Reading — Call Day 2026-04-17
 
-> **TO DO Thursday 4/16:** Pull the Mayan day, moon phase, card pull, or whatever reading is live for 4/17. Log it here with the directional read. The below is a placeholder structure.
+### 7 Chikchan (7 Serpent) · Waning Gibbous in Sagittarius · Late Aries Sun
 
-**Mayan day / moon / astrology / card pull:** {{e.g., "9 Ben / FM waxing gibbous / ..."}}
+**Mayan Tzolkin:** **7 Chikchan** — the Serpent. Chikchan governs life force, kundalini, instinct, and transformation. It rules the nervous system, primal intelligence, and the ability to sense what's hidden. The number 7 carries reflective, mystical, inward-seeking energy — a sacred pause within the trecena. 7 Chikchan is a day of deep intuitive power channeled through **stillness rather than strike**. The serpent watches before it moves. It sees heat signatures others miss.
 
-**What it suggests for the call:**
-- Energy: {{receptive / assertive / patient / strategic}}
-- Right posture: {{lead with measurement questions, or lead with frame, or lead with listening}}
-- Watch for: {{resistance spiral / openness / surprise revelation about Alex}}
+**Moon:** **Waning Gibbous** (~75-80% illuminated, decreasing — 4-5 days past the April 12 Full Moon). Moon transiting **Sagittarius** — expansive, philosophical, truth-seeking fire energy. A Sagittarius Moon has zero tolerance for pretense. It wants meaning over comfort.
 
-**Davis's pre-call ritual:**
-- Breath: box breathing 4-4-4-4 × 5 min before the call
-- Body: posture open, shoulders down, jaw soft — late-night DJ voice starts in the body
-- Mind: review Q1-Q3 verbatim + the arming 3 questions. Close the laptop to the BRIEF_CHEATSHEET only.
-- Intention: *"Arm Carlos. Don't close Carlos."*
+**Sun:** **27° Aries** — late Aries, the final push of the Ram's initiatory fire before Taurus season begins April 19-20. The last degrees of Aries carry urgency and decisiveness, but the energy is leaving — not building.
+
+**Key planetary transits:**
+- **Mercury in Aries** — direct, sharp, blunt communication. Honesty favored over diplomacy. Cuts to the real issue fast.
+- **Venus in late Pisces** — compassion and empathic sensitivity heightened. Creative and emotional currents run strong. The sales-human who leads with empathy (not the one who leads with features) wins today.
+- **Mars in Leo** — bold, theatrical action energy. Confidence is available but **ego must be governed**. The temptation is performative boldness. The serpent's power is the opposite: silence before the strike.
+- **Saturn in Pisces** — structural discipline applied to spiritual/creative domains. No shortcuts in the inner work. The long game rewards patience.
+
+### Energetic Signature: "The Coiled Sage"
+
+This is NOT a day for charging forward. Despite heavy Aries/Leo fire, the 7 Chikchan energy and the Waning Gibbous moon both point toward **strategic restraint and deep perception**.
+
+**What this means for the Tofer call:**
+- **Trust gut instinct over prepared scripts.** The serpent doesn't rehearse — it reads the room and moves when the opening appears. Carlos will give you signals. Follow them.
+- **Cut to the real issue.** Mercury in Aries + Sagittarius Moon = conversations that get to the truth fast. Carlos is an operator — he'll appreciate directness. Don't circle. Don't over-warm. Ask the question.
+- **Digest, don't initiate.** Waning Gibbous energy is about digesting what the Full Moon revealed — not starting new campaigns. The call is discovery (digestion), not close (initiation). This aligns perfectly with the "arm Carlos, don't close Carlos" posture.
+- **Govern the Leo energy.** Mars in Leo will tempt you to perform — to be impressive, to dazzle with the Disney/Google résumé, to dominate the room. The serpent's power is silence before the strike. Wait for the opening. Let the measurement pitch land on its own weight. Let Alex be the peer.
+- **Venus in Pisces is your secret weapon.** Compassion, empathy, reading the emotional substrate. When Carlos describes his intake team's frustration, sit in it. Label it gently. Don't rush to the solution. *"It sounds like you've been building the measurement system your vendors couldn't keep up with."* — that's Venus in Pisces language.
+
+### What to watch for on the call
+
+- **A surprise revelation about Alex's real priorities** — Chikchan sees what's hidden. One of Carlos's answers to the arming questions may reveal something about Alex that changes the strategy. Be ready to pivot.
+- **Carlos testing you with a blunt question** — Mercury in Aries. He may skip the niceties and ask something direct early: *"What do you charge?"* / *"Why should we switch?"* Don't flinch. Answer directly, then redirect to discovery.
+- **A moment of genuine connection** — Venus in Pisces. There will be a moment where Carlos drops the evaluator posture and says something real about his team, his frustrations, his ambitions. That's the moment. Label it. Mirror it. Don't sell through it.
+
+---
+
+### Davis's Pre-Call Ritual
+
+**30 minutes before:**
+- Breath: box breathing 4-4-4-4 × 5 min. Slow the nervous system. The serpent is calm before it moves.
+- Body: posture open, shoulders down, jaw soft, feet flat. Late-night DJ voice starts in the body, not the throat.
+- Space: close every tab except BRIEF_CHEATSHEET. Phone on silent. Water within reach.
+
+**5 minutes before:**
+- Mind: review the three arming questions verbatim. Then close the prep. Stop reading. Trust the preparation.
+- Mars-in-Leo check: ask yourself — *"Am I about to try to impress Carlos, or am I about to listen to him?"* If the answer is impress, slow down.
+- Intention: **"I am the coiled sage. I see what's hidden. I arm Carlos with truth, not performance. I wait for the opening."**
+
+**60 seconds before:**
+- One deep breath. Eyes closed. Recall the single sentence:
+
+> **Carlos is the operator who's been building the measurement system his vendors couldn't keep up with. We're the first vendor that finally catches up.**
+
+- Open eyes. Join the call. Late-night DJ voice from the first syllable.
 
 ---
 

@@ -7,6 +7,8 @@
 **Status:** Foundational research document — informs all creative and media strategy
 **Key constraint:** Meta Special Ad Categories — no age, gender, ZIP code, or interest targeting. Creative must self-qualify the audience.
 
+> **Rigor note (2026-04-21):** Load-bearing numbers indexed in `00_Evidence_Register.md`. Crash statistics are `sourced` (ADOT, NHTSA, Census). Per-case-type `non-ST %` and `representation rate` estimates are `internal estimates` awaiting validation — flagged inline.
+
 ---
 
 ## Table of Contents
@@ -90,7 +92,7 @@ Arizona is overwhelmingly urban. Maricopa + Pima counties account for **76% of t
 | Total injuries | 54,000+ |
 | Daily average | 331 crashes; 3 fatal per day |
 
-Arizona produces **~925-1,233 non-soft-tissue incidents per month**, creating a cumulative unrepresented pipeline of 2,775-7,400 people at any given time.
+Arizona produces **~925–1,233 non-soft-tissue incidents per month** (Register 3.1, ±14% around midpoint of 1,079/month — the range reflects dedup uncertainty across overlapping categories like motorcycle+DUI and pedestrian+truck; see Doc 3 §3 for the dedup math). This creates a cumulative unrepresented pipeline of **2,775–7,400** people at any given time (Register 5.x — the 2.6× spread comes from the representation-rate estimates, the widest uncertainty in the entire playbook).
 
 ---
 
@@ -367,6 +369,10 @@ These are all in **west Phoenix / Maryvale** -- the highest-Hispanic, lowest-inc
 
 ## 5. DUI / Alcohol-Related Crash Victims
 
+> **⚠️ OUT OF SCOPE for this pilot (2026-04-21).** WCTL's signed Service Agreement §1.3 does not include DUI cases. This entire section is preserved for addressable-market reference and potential Phase 2 scope expansion. **Do not use these volumes in forecasting for the current pilot.** The ~298/month DUI injury crashes are excluded from the operative non-ST monthly volume.
+>
+> **Dedup math (for the cross-reader who spots the two numbers):** The "925–1,233 non-ST incidents per month" figure in §1 already excludes DUI. Specifically: gross monthly non-ST (all AZ case types including DUI) ≈ 1,080. Minus DUI victim non-ST (~298, Register 3.5). Minus cross-category overlap (DUI+motorcycle, DUI+MVA, etc., ~150–250). **Pilot-eligible monthly volume: ~750–1,050** (Register 3.1, post-DUI-exclusion band). Capture-rate math: 21 leads over 5 weeks ÷ ~900/mo × ~1.25 months ≈ 1.9% of monthly addressable market at the midpoint — well under the 5% ceiling any single PI advertiser would hit.
+
 ### Incident Volume
 
 | Metric | 2024 |
@@ -532,6 +538,8 @@ This is the **largest category** -- the broad pool of people in car crashes with
 ---
 
 ## 7. Rideshare Accident Victims
+
+> **Evidence class: `extrapolated` (Register 3.7).** Rideshare-specific crash data for Arizona is not separately tracked by ADOT or any accessible state dataset. Everything in this section derives from national rideshare accident rates applied to Phoenix market volume — the weakest evidence class in this document. The ~17/month estimate is directional, not precise. Do not use rideshare projections as load-bearing inputs for budget or lead volume decisions.
 
 ### Incident Volume
 

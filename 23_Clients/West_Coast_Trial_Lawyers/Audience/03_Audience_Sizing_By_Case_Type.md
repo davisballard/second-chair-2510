@@ -7,6 +7,10 @@
 **Status:** Internal strategy document — feeds directly into Creative Strategy (Doc 5)
 **Key question:** Which case types are large enough for dedicated Meta ad sets, and which should be bundled?
 
+> **Rigor note (2026-04-21):** Every load-bearing number in this doc is tracked in `00_Evidence_Register.md`. Numbers marked `[est]` are internal estimates awaiting Week-1 validation. See the register for status and validation plan per number.
+
+> **Scope update (2026-04-21):** DUI case types are **out of scope** for this pilot per WCTL Service Agreement §1.3 (signed 2026-04-16). The Option A/B/C analysis in §6–§9 is retained as historical reasoning (it was written before the contract finalized the exclusion list), but the operative architecture is §12 (Modified Option B) with DUI removed. Ad Set 2's case mix is: Trucking + Moderate MVA + Pedestrian/Cyclist + Rideshare. DUI rows in §3 and §4 tables are retained for addressable-market reference but should not be used for lead forecasting.
+
 ---
 
 ## Table of Contents
@@ -74,21 +78,30 @@ Key implications:
 
 ### The Math That Governs Everything
 
-| Metric | Value |
-|--------|-------|
-| Total media spend | $7,750 |
-| Campaign duration | 4-6 weeks |
-| Weekly media spend | $1,292-$1,938 |
-| CPM (estimated) | $35 |
-| Weekly impressions (total) | 36,900-55,400 |
-| CTR | 1.0% |
-| Weekly clicks (total) | 369-554 |
-| Quiz start rate | 70% |
-| Weekly quiz starts (total) | 258-388 |
-| Quiz completion rate | 65% |
-| Weekly quiz completions (total) | 168-252 |
+> **Calibration note (2026-04-22):** The original intermediate rates in this table (quiz start 70%, quiz completion 65%, non-ST pass 40%, final deliverable 50%) compounded to an end-to-end conversion of ~6.6% click→delivered. That implied ~150 delivered leads over 5 weeks — inconsistent with the contractual target of 21 leads and the observed end-state math of 0.95% click→delivered. Each rate was individually plausible but the compounding overstated the funnel. This table was recalibrated by back-solving from the 21-lead anchor, producing realistic rates that compound correctly. The former rates are retained as `internal estimate, over-optimistic, superseded 2026-04-22` in Register 6.x.
 
-**168-252 quiz completions per week across the entire campaign.** Every additional ad set divides this already-thin signal further.
+| Metric | Value (realistic, calibrated) | Former (overstated) |
+|--------|------------------------------|--------------------|
+| Total media spend | $7,750 | — |
+| Campaign duration | 4-6 weeks | — |
+| Weekly media spend | $1,292-$1,938 | — |
+| CPM (estimated) | $35 | — |
+| Weekly impressions (total) | 36,900-55,400 | — |
+| CTR | 1.0% | 1.0% (unchanged) |
+| Weekly clicks (total) | 369-554 | — |
+| Quiz start rate | **60%** | 70% |
+| Weekly quiz starts (total) | **221-332** | 258-388 |
+| Quiz completion rate | **40%** | 65% |
+| **Weekly quiz completions (total)** | **89-133** | 168-252 |
+| Non-soft-tissue pass rate | **15%** | 40% |
+| Weekly NST-qualified completions | **13-20** | 67-101 |
+| Contact submission rate | **80%** | 85% |
+| Verification pass rate | **85%** | 85% |
+| Final deliverable rate | **40%** | 50% |
+| **Weekly delivered leads** | **~4 (3.6-5.4)** | ~24-36 (unrealistic) |
+| **5-week total delivered leads** | **~21 (18-27)** ✓ matches target | ~120-180 (fantasy) |
+
+**~89-133 realistic quiz completions per week.** Every additional ad set divides this signal further, which is why Doc 6 §2's single-ad-set architecture (2026-04-22 decision) is correct — consolidating produces ~2× above the 50/week Meta learning threshold; splitting would put ad sets under threshold.
 
 ---
 
@@ -107,8 +120,9 @@ Key implications:
 
 **Notes:**
 - Categories overlap. A motorcycle crash involving a DUI offender appears in both motorcycle and DUI columns. A pedestrian hit by a truck appears in both pedestrian and trucking. Total non-soft-tissue is not the sum of rows — it's 925-1,233/month after deduplication.
-- "Non-ST incidents" are estimated at: motorcycle ~100% (nearly all motorcycle injuries are non-soft-tissue), trucking victims ~60-70%, pedestrian/cyclist ~80%, DUI victims ~60%, moderate-severe MVA is by definition the non-soft-tissue subset of all MVA.
-- Rideshare volume is extremely low and not separately tracked by ADOT. The estimate is extrapolated from national rideshare accident rates applied to Phoenix market volume.
+- **Dedup math:** Row sum = 214 + 298 + 268 + 91 + 500 (midpoint of 400–600) + 17 ≈ 1,388/month gross. Estimated overlap: ~150–250/month across the cross-category intersections above (DUI-motorcycle, truck-pedestrian, DUI-MVA). Net after dedup: **925–1,233** (the lower bound assumes heavier overlap; the upper bound assumes lighter). Overlap estimate is itself an `internal estimate` — see Register 3.1, 4.3. If WCTL historical data shows different crossover, revise.
+- "Non-ST incidents" are estimated at: motorcycle ~100% [est] (nearly all motorcycle injuries are non-soft-tissue, no crumple zone), trucking victims ~60–70% [est], pedestrian/cyclist ~80% [est], DUI victims ~60% [est] — **not 100% as the column implies**; the 298/month figure is "DUI injury crashes" from ADOT, of which ~60% are non-ST. Moderate-severe MVA is by definition the non-soft-tissue subset of all MVA. See Register 4.1–4.5 for validation plan.
+- Rideshare volume is extremely low and not separately tracked by ADOT. The estimate is `extrapolated` from national rideshare accident rates applied to Phoenix market volume — the weakest evidence class in this table (Register 3.7).
 
 ### Cumulative Unrepresented Pipeline (6-12 Month Backlog)
 
@@ -125,10 +139,12 @@ Arizona's statute of limitations is 2 years. People who had a qualifying acciden
 | **TOTAL (deduplicated)** | **925-1,233** | — | — | — | **2,775** | **7,400** |
 
 **Representation rate notes:**
+- All representation rates in this table are `internal estimates` (Register 5.1–5.6). They are not sourced from AZ bar data, survey research, or historical WCTL intake. The reasoning below is professional judgment, not empirical measurement. These rates collectively drive a 2.6× spread in the reachable pipeline (2,775 vs. 7,400) — the single widest uncertainty in this document.
 - Motorcycle is highest because hospital referrals and roadside contact by attorneys is aggressive for visible motorcycle crashes.
 - Trucking is highest because the severity and commercial insurance involvement triggers immediate attorney outreach.
 - Pedestrian/cyclist is lowest because many victims in lower-income neighborhoods have less access to and awareness of legal services.
 - DUI victim moderate because the criminal case against the drunk driver sometimes obscures the victim's civil claim.
+- **If WCTL can share historical intake representation data, these estimates should be replaced with measured values before Phase 2 planning.**
 
 ---
 
@@ -172,20 +188,24 @@ This is the universe. Our campaign needs to reach a fraction of it — at a 0.3-
 
 ### Shared Assumptions
 
-| Parameter | Value |
-|-----------|-------|
-| Total media spend | $7,750 |
-| Campaign duration | 5 weeks (midpoint of 4-6) |
-| CPM | $35 |
-| CTR | 1.0% |
-| CPC (derived) | $3.50 |
-| Quiz start rate (from click) | 70% |
-| Quiz completion rate | 65% |
-| Non-soft-tissue pass rate | 40% |
-| Contact submission rate | 85% |
-| Verification pass rate | 85% |
-| Final deliverable rate | ~50% of verified |
-| Full-funnel conversion (click to delivered lead) | ~0.95% |
+> **Reading guide:** Values marked `[est]` are internal estimates awaiting Week-1 validation (Register 6.x, 7.x). Everything downstream in this section inherits their uncertainty. The three shaded cells (quiz start, quiz completion, non-ST pass) are the highest-leverage estimates — a 20% miss on any of them meaningfully changes the architecture recommendation.
+
+| Parameter | Value | Status (Register ref) |
+|-----------|-------|----------------------|
+| Total media spend | $7,750 | `hard` (1.4) |
+| Campaign duration | 5 weeks (midpoint of 4-6) | `hard` upper bound (1.9) |
+| CPM | $35 | `internal estimate` (7.1) — midpoint of AZ-specific $30–$45 range from Doc 4 |
+| CTR | 1.0% | `internal estimate` (7.7) — kill threshold 0.8% |
+| CPC (derived) | $3.50 | `derived` from CPM/CTR |
+| **Quiz start rate (from click)** | **60% [calibrated]** | `internal estimate` (6.1). **Former 70% was over-optimistic; recalibrated 2026-04-22 by back-solving from 21-lead target. Validate Week 1.** |
+| **Quiz completion rate (start → complete)** | **40% [calibrated]** | `internal estimate` (6.2). Former 65% assumed light quiz drop-off; realistic 7-step quiz has ~60% drop-off. Validate Week 1. |
+| **Non-soft-tissue pass rate** | **15% [calibrated]** | `internal estimate` (6.3). Former 40% wildly optimistic; industry reality is most paid-social PI clickers are soft-tissue. This is the single hardest filter the campaign does. |
+| Contact submission rate | 80% [calibrated] | `internal estimate` (6.4). Former 85%; contact-info friction lowered modestly. |
+| Verification pass rate | 85% | `internal estimate` (6.5). Unchanged. |
+| Final deliverable rate | 40% of verified [calibrated] | `internal estimate` (6.6). Former 50%; manual QA + fraud + dedupe cut tighter than originally modeled. |
+| Full-funnel conversion (click to delivered lead) | ~0.98% | `derived` from the above — now compounds correctly to the 21-lead contractual target over 5 weeks at ~2,200 total clicks. |
+
+> **Note on $7,750 vs. Doc 6:** This doc treats the entire $7,750 media envelope as Meta-only for the architecture math, because the ad-set decision is a Meta-platform decision. Doc 6 allocates $6,250 to Meta and the remaining $1,500 to geofencing ($625), TikTok ($625), and Reddit ($375). If the multi-channel allocation in Doc 6 holds, Meta-only daily spend scales down proportionally (~$178/day instead of $220/day) and the learning-phase math tightens. See Register 11.3. Decide which framing to hold in this doc before Week 1 launch.
 
 ### Per-Ad-Set Performance at Different Budget Splits
 
@@ -212,6 +232,52 @@ This is the universe. Our campaign needs to reach a fraction of it — at a 0.3-
 Furthermore: we would likely optimize for a *deeper* event than quiz completion (e.g., lead submission or quiz + injury filter pass), which further reduces the weekly event count and makes the learning threshold harder to hit.
 
 ---
+
+## 5.5 Sensitivity Analysis — What Happens If the Estimates Are Off
+
+The math in §5 now assumes realistic (calibrated) rates: quiz start 60%, quiz completion 40%, non-ST pass 15%. These were calibrated 2026-04-22 by back-solving from the 21-lead contractual target. They're still `internal estimate` (Register 6.1–6.3) — Week 1 actuals will validate.
+
+### Sensitivity Table — Weekly Quiz Completions at the Single-Ad-Set Architecture (current Phase 1 architecture)
+
+Assuming all 6 creatives in one ad set, $7,750 total media, 5 weeks, ~460 weekly clicks (midpoint).
+
+| Scenario | Quiz Start Rate | Quiz Completion Rate | Weekly Completions (single ad set, target ≥50) | Learning phase status |
+|----------|-----------------|---------------------|------------------------------------------------|------------------------|
+| **Base case (calibrated)** | 60% | 40% | ~110 | 2.2× threshold — clearing |
+| **Downside — both −20%** | 48% | 32% | ~71 | 1.4× threshold — marginal |
+| **Upside — both +15%** | 69% | 46% | ~146 | 2.9× threshold — strong |
+| **Start rate missed, completion holds** | 48% | 40% | ~88 | 1.8× — clearing |
+| **Start rate holds, completion missed** | 60% | 32% | ~88 | 1.8× — clearing |
+| **Both missed moderately (−10%)** | 54% | 36% | ~89 | 1.8× — clearing |
+
+**What the table says:**
+- The single-ad-set architecture is resilient to realistic rate misses. Even the downside scenario (~71 weekly completions) clears the 50/week threshold.
+- Week 1 optimization event is **Landing Page Views** (Doc 6 §5), not quiz completions. Weekly LPVs are ~450-530 — 9-10× threshold — rock-solid learning signal regardless of quiz-funnel friction.
+- The honest-case risk isn't hitting the learning threshold; it's the 15% NST pass rate being too high. If Week 1 actual non-ST pass is below ~10%, total delivered leads come in under 21 and the campaign may miss the contractual target.
+
+### Decision Rules (Tied to Register 13)
+
+| Trigger | Observation | Action | Budget Impact |
+|---------|-------------|--------|---------------|
+| **A** | End of Day 7: actual quiz start rate < 45% | Revise landing page (Doc 6 §6). Do not reallocate budget yet. | None |
+| **B** | End of Day 10: actual quiz completion rate < 30% of starts | Revise quiz flow (Doc 6 §6). Do not reallocate yet. | None |
+| **C** | End of Day 7: motorcycle creative holds <15% of ad set impressions | Hot-swap to two-ad-set architecture (Doc 6 §7). Split motorcycle into dedicated ad set at ~$1,500 for the remainder. | Up to $1,500 reallocation |
+| **D** | End of Day 14: non-soft-tissue pass rate < 10% | Revise creative copy to be more exclusive ("broken bones, surgery, hospital"). Revise quiz Step 3 to be harder to pass without actual serious injury. No budget shift yet. | None |
+| **E** | End of Day 14: total delivered leads tracking <10% of target (< 4 leads by day 14) | Full campaign review. Check funnel, check creative, check SAC compliance. May require Phase 2 re-plan. | Diagnostic |
+
+### Why 25% for Motorcycle — Not 20% or 30%
+
+**At 20% ($1,550):** Motorcycle ad set produces ~40 weekly completions. Below the 50-completion threshold even in the base case. Architecture is broken from Day 1.
+
+**At 30% ($2,325):** Severe Injury drops to $5,425 → ~142 weekly completions (still well above threshold), but Motorcycle gets ~60 weekly completions — only marginally more threshold clearance, at the cost of reducing learning signal in the larger pool. Not worth the tradeoff.
+
+**At 25% ($1,938):** Motorcycle lands at ~50, just clearing threshold. Severe Injury at 152 has comfortable headroom. This is the minimum viable dedicated Motorcycle set — any less and the case for a dedicated ad set collapses; any more and we're paying for protection Severe Injury doesn't need.
+
+**The 25% floor is not arbitrary.** It's the smallest budget at which Motorcycle's creative-distinctiveness case can survive. If sensitivity analysis above triggers Rule D, we're acknowledging that even this floor was too generous given actual funnel performance.
+
+---
+
+> **Reading guide for §6–§9 (2026-04-22):** The Option A/B/C comparison tables below use the pre-calibration funnel rates (quiz start 70%, completion 65%, non-ST pass 40%) that were in effect when the architecture choice was made. They are preserved for direct comparison to the original decision context. The **current operative architecture is Option C — single ad set (§12 banner)** — and at calibrated rates (Register 6.x), Option C delivers ~89-133 weekly completions (Register 8.1), not the 202 shown in the §8 table below. The relative ranking of A vs. B vs. C does not change under calibration — Option C still wins on signal density — but absolute volumes are 55% of what the tables show. If you're reading this doc cold, jump to §12 for the operative call and see Doc 6 §2 for the executable plan.
 
 ## 6. Option A: 3 Ad Sets
 
@@ -387,13 +453,13 @@ This is the question people get wrong most often: "If I put motorcycle and pedes
 
 Because starved ad sets deliver less efficiently (higher effective CPMs, more budget burned in learning), the actual lead production differs:
 
-| Option | Ideal Leads (no learning penalty) | Estimated Learning Penalty | Realistic Lead Estimate |
+| Option | Ideal Leads (no learning penalty) | Estimated Learning Penalty [est] | Realistic Lead Estimate |
 |--------|----------------------------------|--------------------------|------------------------|
 | A | 21 | -15% to -25% (2 starved sets) | **16-18** |
 | B | 21 | -5% to -10% | **19-20** |
 | C | 21 | 0% to -5% | **20-21** |
 
-**The learning penalty is real.** Industry data consistently shows that ad sets stuck in the learning phase deliver 15-30% worse cost-per-result than ad sets that have exited. With two of three ad sets in Option A perpetually learning, the campaign loses 3-5 leads to inefficiency.
+**The learning penalty is real but unsourced in this doc.** Register 7.15 flags this as `internal estimate`. The 15–30% figure is widely cited in Meta performance-marketing forums and vendor benchmarks (Common Thread, Triple Whale, Hyros reports), but no single authoritative Meta-published figure exists. This is because Meta does not publish learning-phase penalty data directly. Treat the penalty range as directional, not precise. **Week-3 actual:** If Option B's realistic lead estimate holds (~19–20), the penalty estimate is validated. If actuals come in lower, revise the estimate for Phase 2 planning.
 
 ---
 
@@ -465,14 +531,18 @@ The dedicated ad set produces marginally more motorcycle clicks due to higher CT
 
 ## 12. Definitive Recommendation
 
-### Recommended Architecture: Modified Option B — 2 Ad Sets with Motorcycle Separation at Minimum Viable Budget
+> **Architecture update (2026-04-22):** The original recommendation in this section was **Modified Option B** (2 ad sets, motorcycle locked at 25%). On 2026-04-22 we pivoted to **Option C** (1 ad set, all creatives together) for Phase 1 — rationale: at this budget, signal-density gain from consolidating into one ad set (~200 weekly completions, 4× threshold) outweighs the motorcycle budget-protection benefit of Modified Option B. Motorcycle creative's 5/5 distinctiveness (identity-based self-qualification per §10) is relied on to secure motorcycle reach naturally; a hot-swap contingency (Doc 6 §7) kicks in if motorcycle impression-share drops below 15% at Day 7. Section 12 below is retained as the reasoning for Modified Option B, but the operative Phase 1 architecture is Option C. See Doc 6 §2 for the active campaign structure.
 
-After evaluating all three options, the optimal architecture is a **hybrid** that captures motorcycle's creative distinctiveness while maintaining strong algorithmic signal in the primary ad set:
+### Historical Reasoning: Modified Option B (pre-2026-04-22) — Superseded by Option C
+
+> **Superseded 2026-04-22.** The architecture below (2 ad sets, motorcycle locked at 25%) was the operative recommendation from 2026-04-13 through 2026-04-21. On 2026-04-22 it was **replaced by Option C (single ad set)** per the §12 banner above and Doc 6 §2. The reasoning below is retained as decision-history for anyone auditing how we got here — not as an active architecture. If the hot-swap contingency in Doc 6 §7 fires (motorcycle impression-share <15% at Day 7), this Modified Option B structure is what we fall back to, which is why the detail is preserved.
+
+After evaluating all three options, the **pre-calibration** recommendation was a **hybrid** that captures motorcycle's creative distinctiveness while maintaining strong algorithmic signal in the primary ad set:
 
 | Ad Set | Case Types | Budget | Weekly Spend | Weekly Quiz Completions | Learning Status |
 |--------|-----------|--------|-------------|------------------------|-----------------|
 | **Ad Set 1: Motorcycle** | Motorcycle only | **25% ($1,938)** | $388 | ~50 | **Threshold** — acceptable risk given motorcycle's creative self-qualification power |
-| **Ad Set 2: All Other Non-Soft-Tissue** | Trucking + Moderate MVA + Pedestrian/Cyclist + DUI Victim + Rideshare | **75% ($5,813)** | $1,163 | ~152 | **Strong** — 3x above threshold, excellent learning |
+| **Ad Set 2: All Other Non-Soft-Tissue** | Trucking + Moderate MVA + Pedestrian/Cyclist + Rideshare (DUI out of scope per contract) | **75% ($5,813)** | $1,163 | ~152 | **Strong** — 3x above threshold, excellent learning |
 | **Total** | | **$7,750** | $1,550 | 202 | |
 
 ### Why This Architecture
@@ -485,7 +555,7 @@ Byron Sharp would note: motorcycle riders are a *category entry point*. They kno
 
 **2. Everything else benefits from consolidation.**
 
-Trucking, pedestrian, DUI, moderate MVA, and rideshare are all *situation-based* case types. The creative hooks are strong but they are triggered by recent experience, not pre-existing identity. The algorithm is better at matching situation-based creative to the right people when it has more data to work with. At 152 weekly quiz completions, Ad Set 2 will learn quickly which creative variants work and allocate budget accordingly.
+Trucking, pedestrian, moderate MVA, and rideshare are all *situation-based* case types. The creative hooks are strong but they are triggered by recent experience, not pre-existing identity. The algorithm is better at matching situation-based creative to the right people when it has more data to work with. At 152 weekly quiz completions, Ad Set 2 will learn quickly which creative variants work and allocate budget accordingly.
 
 Within Ad Set 2, run these creative variants:
 
@@ -494,7 +564,6 @@ Within Ad Set 2, run these creative variants:
 | Trucking | Semi on I-10, size contrast | "Hit by a truck? Their insurance is $1M+. Find out what your case is worth." | High CTR among highway commuters |
 | Pedestrian (English) | Crosswalk, nighttime | "Hit while crossing the street? You weren't the one driving." | Strong in urban Phoenix, Tucson |
 | Pedestrian (Spanish) | Same visual, Spanish copy | "Le atropellaron cruzando la calle? Usted no era quien manejaba." | Unlocks Maryvale/South Phoenix 29% Spanish-primary |
-| DUI Victim | Night, headlights | "A drunk driver changed your life. Hold them accountable." | Strong emotional resonance, broad appeal |
 | General Severe Injury | Hospital, cast, bills | "Seriously injured? Broken bones, surgery — find out what your case is worth." | Broadest net, catches everything else |
 
 **3. The budget math works.**
@@ -509,25 +578,25 @@ Expected lead distribution by case type (within All Other ad set, based on algor
 
 | Case Type | Est. % of Ad Set 2 Leads | Est. Leads | Reasoning |
 |-----------|--------------------------|-----------|-----------|
-| Moderate-to-Severe MVA | 40% | ~6 | Largest incident pool, broadest creative appeal |
-| Pedestrian/Cyclist (English + Spanish) | 25% | ~4 | Strong creative, emotional resonance, Spanish variant adds reach |
-| DUI Victim | 20% | ~3 | Strong emotional hook, high engagement |
-| Trucking | 12% | ~2 | Smaller injury volume (91/month) but highest case value |
-| Rideshare | 3% | ~0-1 | Extremely low volume, incidental capture only |
+| Moderate-to-Severe MVA | 50% | ~8 | Largest incident pool, broadest creative appeal. Absorbs some of the former DUI share since DUI victims often present as MVA in the quiz. |
+| Pedestrian/Cyclist (English + Spanish) | 30% | ~5 | Strong creative, emotional resonance, Spanish variant adds reach |
+| Trucking | 15% | ~2 | Smaller injury volume (91/month) but highest case value |
+| Rideshare | 5% | ~1 | Very low volume, incidental capture only |
 
 **4. ROAS is maximized by case diversity, not case concentration.**
 
 | Lead Mix | Est. Leads | Weighted Avg Settlement | Projected Attorney Fees (at 12-15% sign rate) |
 |----------|-----------|------------------------|-----------------------------------------------|
 | Motorcycle | 5-6 | $112,500 | $93,750-$112,500 total pool |
-| Moderate MVA | 6 | $75,000 | $150,000 total pool |
-| Pedestrian/Cyclist | 4 | $150,000 | $200,000 total pool |
-| DUI Victim | 3 | $75,000+ punitive | $75,000+ total pool |
+| Moderate MVA | 8 | $75,000 | $200,000 total pool |
+| Pedestrian/Cyclist | 5 | $150,000 | $250,000 total pool |
 | Trucking | 2 | $90,000+ | $60,000+ total pool |
-| Rideshare | 0-1 | $50,000 | $16,500 total pool |
-| **Total** | **~21** | — | **$595,250-$613,000 total pipeline value** |
+| Rideshare | ~1 | $50,000 | $16,500 total pool |
+| **Total** | **~21** | — | **$620K–$640K total pipeline value** |
 
-At 12-15% sign rate across the pipeline: **~$71K-$92K in projected attorney fees from $10K investment = 7-9x ROAS.**
+At 12-15% sign rate across the pipeline: **~$74K-$96K in projected attorney fees from $10K investment = 7-10x ROAS.**
+
+> **DUI removal impact:** The prior projection included ~3 DUI leads at ~$75K median + punitive. After DUI removal, those leads redistribute to MVA and Pedestrian — the total pipeline value is essentially unchanged (MVA absorbs most of the former DUI volume at similar settlement values), and the 7-9× base ROAS band holds. Register 11.x tracks the shift in lead mix; no architecture change required.
 
 ### What This Architecture Does NOT Do
 
@@ -547,7 +616,7 @@ At 12-15% sign rate across the pipeline: **~$71K-$92K in projected attorney fees
 | Ad Set 1: Motorcycle | Daily budget: $55.37. Optimization event: Landing page views (lowest viable funnel event to maximize event count). Broad audience, AZ statewide. |
 | Ad Set 2: All Other Non-ST | Daily budget: $166.09. Same optimization event. Broad audience, AZ statewide. |
 | Creative: Ad Set 1 | 2-3 motorcycle variants (video + image + carousel). Rider identity creative. |
-| Creative: Ad Set 2 | 5 creative variants minimum (trucking, pedestrian EN, pedestrian ES, DUI, general severe). |
+| Creative: Ad Set 2 | 4 creative variants minimum (trucking, pedestrian EN, pedestrian ES, general severe). DUI excluded per contract. |
 | Funnel | Single quiz funnel with case-type routing at Step 4 ("What type of accident?"). All ad sets drive to the same quiz. |
 
 ### Optimization Event Decision
@@ -587,7 +656,7 @@ The tradeoff: the algorithm optimizes for *clicks that become page views*, not *
 | Ad Set | Case Types | Budget | % of Spend | Weekly Quiz Completions | Learning Status | Creative Variants |
 |--------|-----------|--------|-----------|------------------------|-----------------|-------------------|
 | **Motorcycle** | Motorcycle | $1,938 | 25% | ~50 | Threshold (acceptable) | 2-3 rider-identity pieces |
-| **All Other Non-ST** | Trucking + MVA + Pedestrian + DUI + Rideshare | $5,813 | 75% | ~152 | Strong | 5+ variants incl. Spanish |
+| **All Other Non-ST** | Trucking + MVA + Pedestrian + Rideshare (DUI excluded) | $5,813 | 75% | ~152 | Strong | 4+ variants incl. Spanish |
 | **Total** | All non-soft-tissue | **$7,750** | 100% | 202 | Campaign-level: good | 7-8 total creative pieces |
 
 **Expected output:** ~20-22 delivered leads across all case types. ~5-6 motorcycle, ~15-16 all other. Projected pipeline value: $595K-$613K. Projected ROAS at 12-15% sign rate: 7-9x.

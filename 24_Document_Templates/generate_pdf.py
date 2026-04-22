@@ -160,6 +160,7 @@ def build_invoice_html(body_html: str, meta: dict) -> str:
         </tr>"""
 
     html = f"""
+    <div style="font-size:13pt;">
     <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:0.15in;">
       <h1 class="display">INVOICE</h1>
     </div>
@@ -214,6 +215,7 @@ def build_invoice_html(body_html: str, meta: dict) -> str:
 
     <div class="payment-terms">{notes}</div>
     <div class="thank-you">Thank you for your partnership.</div>
+    </div>
     """
     return html
 

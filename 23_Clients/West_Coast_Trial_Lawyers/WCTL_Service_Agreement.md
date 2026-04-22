@@ -27,7 +27,6 @@ Each individually a "Party" and collectively the "Parties."
 - Trucking and commercial vehicle accidents
 - Motorcycle accidents
 - Pedestrian and bicycle accidents
-- DUI/impaired driver victim claims
 - Rideshare (Uber/Lyft) accidents
 - Wrongful death
 

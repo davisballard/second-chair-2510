@@ -7,6 +7,8 @@
 **Status:** Internal research document — informs media plan and budget allocation
 **Key constraint:** Meta Special Ad Categories — no age, gender, or interest targeting. Creative self-qualifies.
 
+> **Rigor note (2026-04-21):** Load-bearing numbers indexed in `00_Evidence_Register.md`. CPM data is `sourced-dated` (quarterly 2025 benchmarks); the AZ-specific CPM band ($30–$45) is an `internal estimate` (inference chain) — the calc is now shown explicitly in §2. TikTok rejection probability and geofencing lift are single-source / single-vendor data points — both flagged inline.
+
 ---
 
 ## Table of Contents
@@ -130,7 +132,15 @@ The legal industry averaged $49.70 CPM throughout 2025 — **147% above the glob
 | Min Lead Gen CPM | $22-$26 |
 | Max Lead Gen CPM | $40-$55 |
 
-**Our estimated effective CPM for AZ statewide Special Ad Category (legal):** $30-$45. This blends the legal premium (~2x) with the moderating factors of AZ geography and broad targeting.
+**Our estimated effective CPM for AZ statewide Special Ad Category (legal):** $30–$45. This blends the legal premium (~2×) with the moderating factors of AZ geography and broad targeting.
+
+> **AZ CPM calculation (Register 7.2 — `internal estimate`, inference chain):**
+> - Starting point: National FB legal CPM 2025 full-year average = **$49.70** (Register 7.3, sourced from WordStream / Data-Axle quarterly data). This is the strongest anchor number on the page.
+> - Moderating factor 1 — **AZ market discount:** AZ does not appear in the top 5 legal advertising markets (CA, NY, FL, TX, IL account for the bulk of national legal spend). Competitive intensity in AZ is lower. Estimated effect: **−10% to −15%** on CPM.
+> - Moderating factor 2 — **Special Ad Category broad targeting:** SAC campaigns can't narrow audience, which means the algorithm has more inventory to work with and can bid toward cheaper impressions. Estimated effect: **−10%** vs. narrowly targeted legal campaigns.
+> - Moderating factor 3 — **Launch window (Feb–Apr 2026):** Jan 2026 legal CPM was $14.26 (Register 7.4, sourced) — a seasonal trough. Feb–Apr should still be below full-year average but rising. Estimated effect: **−5% to −15%** depending on exact launch date.
+> - Combined moderating effect: **−25% to −40%** vs. $49.70 → range of **$30–$37**. We widen the upper bound to **$45** to account for inference uncertainty and the observed 6.13 CPM point month-to-month volatility.
+> - **Validation:** Day 3–5 actuals. If actual CPM >$50 sustained over 3 days, trigger reallocation check (Doc 6 §7). If <$25, the calc was conservative and budget can absorb more daily spend.
 
 **CPC benchmarks:**
 - Legal industry Facebook CPC: $4.10 (lead gen campaigns, 2025)
@@ -289,7 +299,15 @@ Sources: [Hootsuite — Instagram Demographics 2026](https://blog.hootsuite.com/
 - We are a third-party lead gen company driving people to a quiz funnel — not a law firm advertising its own services. This is a gray area.
 - The quiz funnel approach could be framed as educational ("find out if you qualify") rather than direct solicitation
 - Risk: ads could be rejected during review or pulled mid-campaign, disrupting pixel learning and wasting budget
-- Reward: TikTok CPMs are 75-85% cheaper than Meta for legal. If ads run, the cost efficiency is dramatically better.
+- Reward: TikTok CPMs are 75–85% cheaper than Meta for legal. If ads run, the cost efficiency is dramatically better.
+
+> **TikTok rejection probability — our working estimate (Register 7.12, `internal estimate`):**
+> Honest framing: there is no sourced rejection-rate dataset for TikTok PI ads. The anchors we have are anecdotal:
+> - TikTok's written policy says PI ads "are not allowed" → 100% rejection if policy is enforced uniformly
+> - Known evidence of PI ads running (Rozavi Law Group, mass tort AFFF, WCTL's own in-house campaigns) → rejection is clearly not 100%
+> - **Our working estimate: 30–50% rejection probability for Second Chair's creative on first submission.** Lower than the written policy implies because we're lead-gen and can use educational framing, higher than 0% because enforcement is real and WCTL's experience is as a law firm, not a lead-gen vendor (different review path).
+> - **$625 at stake.** Decision rule (Doc 6 §7): if TikTok ads are rejected on Day 1–2 submission, reallocate the full $625 to Meta within 48 hours. Do not wait for appeal. Appeals are slow, and the campaign can't afford a week of stalled budget.
+> - **Mitigation:** Submit TikTok creative 72 hours before intended launch. If first submission is rejected, have a second, more educational-framed variant pre-produced and ready to submit same-day. This turns a potential $625 write-off into a two-shot attempt.
 
 **PI firms on TikTok — both paid and organic:**
 - Rozavi Law Group: running paid PI commercials on TikTok
@@ -432,7 +450,7 @@ Sasha's programmatic background (Bose, Coach, PepsiCo) makes this a natural stre
 | High-accident corridors | I-10/I-17 interchange, I-10 through Tucson, US-60 | Contextual relevance for commuters in crash-prone areas |
 
 **Performance data from PI geofencing campaigns:**
-- Clicks from hospitals are 3.1x more likely to result in a call than clicks from other locations
+- Clicks from hospitals are 3.1× more likely to result in a call than clicks from other locations ([Propellant Media case study](https://propellant.media/portfolio-item/personal-injury-attorney-influx-accident-cases-geofencing/)). **Single-vendor data point** — Register 7.11 flags this as `internal estimate` despite the citation because it's one DSP's self-reported case study, not a multi-source benchmark. Use as directional evidence, not a planning guarantee.
 - No significant cost difference between geofenced clicks and general metro clicks
 - Dramatically lower ad spend vs. broad metro targeting because the audience is precisely defined
 
@@ -766,34 +784,37 @@ For a $10K pilot that needs to deliver ~21 qualified non-soft-tissue leads in 4-
 
 ### Meta (Facebook + Instagram) — Primary Platform, $10K Pilot
 
-**Assumptions:**
-- Effective media spend: $7,750 (midpoint)
+> **Funnel rates recalibrated 2026-04-22** — former 70/65/40 compounded to ~6.6% click→delivered, a 7× overstatement vs. the 0.95-0.98% implied by the 21-lead contractual target. Rates below are now back-solved from the target and compound correctly. See Register 6.1-6.7 for full validation plan.
+
+**Assumptions (calibrated):**
+- Effective media spend: $7,750 (100% Meta per 2026-04-22 architecture collapse)
 - Legal CPM: $35 (AZ, Q2 2026, moderate estimate blending legal premium with AZ geography)
 - CPC: $4.25 (midpoint of $3.50-$5.00)
 - CTR: 1.0% (moderate for legal, reflecting 2025 YoY improvements)
-- Quiz start rate from click: 70% (landing page to quiz start)
-- Quiz completion rate: 65% (of those who start)
-- Non-soft-tissue pass rate: ~40% (most funnel starters are soft tissue — the filtering cost)
-- Contact info submission rate: 85% (of those who pass injury filter)
-- Verification pass rate: 85% (fraud filter, valid contact, in-territory)
+- **Quiz start rate from LPV: 60%** (Register 6.1 calibrated — was 70%)
+- **Quiz completion rate: 40%** of starts (Register 6.2 — was 65%; 7-step quiz realistically drops off harder)
+- **Non-soft-tissue pass rate: 15%** of completions (Register 6.3 — was 40%; industry reality is most paid-social PI clickers are soft-tissue)
+- **Contact info submission rate: 80%** (Register 6.4 — was 85%)
+- **Verification pass rate: 85%** (Register 6.5, unchanged)
+- **Final deliverable rate: 40%** of verified (Register 6.6 — was 50%; tighter QA)
 
 | Metric | Estimate | Calculation |
 |--------|----------|-------------|
 | **Impressions** | ~221,000 | $7,750 / ($35 / 1,000) |
 | **Unique reach** (est. freq. 2.5) | ~88,000 | 221,000 / 2.5 |
 | **Reach as % of AZ 25-64 FB users** | ~3.1% | 88,000 / 2,870,000 |
-| **Clicks** | ~2,210 | 221,000 x 1.0% CTR |
+| **Clicks** | ~2,210 | 221,000 × 1.0% CTR |
 | **Cost per click** | $3.51 | $7,750 / 2,210 |
-| **Quiz starts** | ~1,547 | 2,210 x 70% |
-| **Quiz completions** | ~1,006 | 1,547 x 65% |
-| **Pass injury filter (non-soft-tissue)** | ~402 | 1,006 x 40% |
-| **Submit contact info** | ~342 | 402 x 85% |
-| **Pass verification** | ~291 | 342 x 85% |
-| **But wait — not all verified leads are deliverable.** Many will already have attorneys, be outside statute, or fail final QA. Estimated deliverable rate: ~50% of verified. | | |
-| **Delivered leads** | ~20-25 | 291 x ~50% (attorney filter, statute, QA) |
-| **Cost per delivered lead** | ~$310-$390 | $7,750 / 20-25 |
+| **Landing page views** (~90% of clicks load) | ~1,989 | 2,210 × 90% |
+| **Quiz starts** | ~1,193 | 1,989 × 60% |
+| **Quiz completions** | ~477 | 1,193 × 40% |
+| **Pass injury filter (non-soft-tissue)** | ~72 | 477 × 15% |
+| **Submit contact info** | ~58 | 72 × 80% |
+| **Pass verification** | ~49 | 58 × 85% |
+| **Delivered leads** | **~20** | 49 × 40% (final QA + fraud + dedupe) |
+| **Cost per delivered lead** | **~$388** | $7,750 / 20 |
 
-**Note on delivered lead cost vs. client price:** The above is Second Chair's cost to acquire the lead (media spend only). At $475/lead client price with 21 leads, the total revenue is $9,975. The margin comes from the gap between acquisition cost (~$310-$390 media cost) and the $475 price, plus the portion of the $10K allocated to margin (~$1,250-$1,500).
+**Note on delivered lead cost vs. client price:** The above is Second Chair's media cost to acquire the lead. At $475/lead client price with 21 leads, client payment is $9,975 (contract). Margin = $475 - ~$388 per-lead media cost = ~$87/lead × 21 = ~$1,830 gross, then less creative production ($975), funnel/tech ($500) = ~$355 net before SC operating margin line ($750). Timeline discipline and campaign execution quality determine whether the implied ~$388 CPL holds — see §6 kill criteria in Doc 6.
 
 ### Comparison: If Budget Were Allocated to Other Platforms
 

@@ -5,7 +5,13 @@
 **Lead Agents:** Depesh Mandalia (Creative IS The Targeting) + Richard Shotton (Behavioral Science) + Adam Ferrier (Behavior Change)
 **Campaign:** Second Chair x West Coast Trial Lawyers — $10K Arizona Pilot
 **Status:** Core creative strategy document — synthesizes Docs 1-4 into actionable creative decisions
-**Prerequisite reading:** [01_Demographics](01_AZ_Non_Soft_Tissue_Demographics.md) | [02_Personas](02_Case_Type_Personas.md) | [03_Ad Set Architecture](03_Audience_Sizing_By_Case_Type.md) | [04_Platform](04_Platform_Behavior_And_Reach.md)
+**Prerequisite reading:** [00_Evidence Register](00_Evidence_Register.md) | [01_Demographics](01_AZ_Non_Soft_Tissue_Demographics.md) | [02_Personas](02_Case_Type_Personas.md) | [03_Ad Set Architecture](03_Audience_Sizing_By_Case_Type.md) | [04_Platform](04_Platform_Behavior_And_Reach.md)
+
+> **Rigor note (2026-04-21):** Load-bearing numbers indexed in `00_Evidence_Register.md`. Compliance jurisdictions clarified in §F (see Register §10). Backup creative asset table added as §G. The self-qualification thesis in §A is a **hypothesis validated Week 1** against actual non-soft-tissue pass rate (Register 6.3) — if pass rate comes in below 25%, the hooks themselves are not filtering and need copy revision.
+
+> **Scope update (2026-04-22):** **Spanish creative (C3 / former S3) deferred to Phase 2.** Decision rationale in `../../_Research/audience_rigor_session_2026-04-21.md` update log. Short version: at Phase 1 budget, one Spanish creative competing in a broad AZ ad set will likely be starved by the algorithm. Phase 2 gets a dedicated Spanish ad set with meaningful budget to prove the channel properly. Spanish-specific sections below (C3 persona work, Spanish funnel requirements, Spanish compliance rules) are retained as Phase 2 groundwork — do NOT produce Spanish creative for Phase 1 launch. Phase 1 launch set is 6 English assets (M1, M2, M3, S1, S2, S5).
+
+> **Architecture update (2026-04-22):** Phase 1 runs **one campaign, one ad set, 6 creatives**. See Doc 6 §2. The two-ad-set architecture referenced throughout this doc is deferred (hot-swap contingency only, not default).
 
 ---
 
@@ -29,6 +35,14 @@
 ## Section A: Self-Qualification Strategy
 
 ### How Creative Filters Out Soft Tissue — Without Targeting
+
+> **Hypothesis flag (Register 6.3):** The entire self-qualification strategy below rests on a testable claim: **that injury-severity language + situation specificity + visual self-qualification together filter quiz-starters to ≥15% non-soft-tissue pass rate (calibrated 2026-04-22 down from 40% — Register 6.3).** This is a working hypothesis, not a proven mechanism. Week-1 validation: end of Day 14, measure actual non-ST pass rate on ≥50 quiz completions. Escalation path if hypothesis fails:
+>
+> 1. **Actual pass rate 10–15% on ≥50 quiz completions (Day 14):** Soft warning. Revise to add harder severity language (more "broken bones / surgery / hospital," less "injured / hurt"). Do not pause any creative. Monitor Week 3.
+> 2. **Actual pass rate <10% on ≥50 quiz completions (Day 14):** **Kill threshold fired** (Doc 6 §6). Alex pauses the 2 lowest-NST-pass-rate creatives within 24 hours. Davis ships revised copy (harder severity language + negative self-qualification per Strategy 4) for backup variants within 72 hours.
+> 3. **Actual pass rate <8% after backup creative launch + 72 hours:** Structural creative failure. Pause ad set. Full creative audit with Hegarty and Saul. Do not proceed to Week 2 budget without redesign. Escalate to Davis + Robert.
+>
+> No "we'll investigate" band. Every threshold has a named action, a named owner, and a time window.
 
 This is the single most important creative challenge in the campaign. We cannot target by age, gender, interest, or behavior. Meta's Special Ad Categories rules (Social Issues designation) strip every precision tool from the media buyer's toolkit. The audience for every ad is the same: all adults in Arizona (~4.1M Facebook users). The question is not "who sees the ad?" -- everyone sees the ad. The question is: **who stops scrolling?**
 
@@ -98,7 +112,7 @@ Images and video communicate severity before a single word is read. The scroll-s
 
 | Visual | Why It Fails |
 |--------|-------------|
-| Crash footage (real or simulated) | Banned by Meta, banned by SB-37 principles, and does not communicate injury severity -- only crash severity. A dramatic crash can produce minor injuries. A low-speed impact can produce catastrophic ones. |
+| Crash footage (real or simulated) | Banned by Meta platform policy (Special Ad Category). Also incompatible with Second Chair brand guidelines (which draw on SB-37 compliance principles even outside California, for brand consistency). Arizona Bar rules don't prohibit crash footage per se but ER 7.1 prohibits misleading content. Plus the creative argument: crash severity ≠ injury severity. A dramatic crash can produce minor injuries; a low-speed impact can produce catastrophic ones. |
 | Neck brace alone | Signals whiplash. Invites soft tissue. |
 | Person rubbing their neck / back | Universal pain signal. Zero severity specificity. |
 | Gavel / courtroom | Signals "legal" but says nothing about injury severity. Attracts everyone who has ever thought about suing anyone. |
@@ -274,7 +288,10 @@ Single image (from visual set above) with bold, clean text overlay. Two lines ma
 
 ### Third-Person Compliance
 
-All motorcycle creative must use third-person language. Under Arizona State Bar advertising rules and SB-37-aligned compliance standards:
+All motorcycle creative must use third-person language. The requirement traces to:
+- **Meta platform policy** for Special Ad Category (Social Issues) — applies globally, not jurisdiction-specific.
+- **Arizona Rules of Professional Conduct ER 7.1** (truthfulness in communications), where second-person "were YOU injured" framings risk being construed as targeted solicitation rather than general advertising — a point WCTL's Arizona counsel should confirm. ER 7.3 (direct contact) and ER 7.5 (firm names) also touch adjacent issues.
+- **Second Chair brand standard**: we apply California's SB-37 principles (effective 2026) as an internal brand consistency standard even in out-of-state campaigns, because WCTL operates in CA and we'll be running CA campaigns in Phase 4. Adopting the highest-bar standard now reduces re-work later. **SB-37 itself is California law and does not apply to the Arizona pilot** — we're using its principles by choice, not obligation.
 
 - **Compliant:** "Motorcycle riders injured in Arizona..." / "Those injured in motorcycle accidents..." / "Arizona riders who have been hurt in a crash..."
 - **Non-compliant:** "Were you in a motorcycle accident?" / "If you were injured on your bike..." / "Your motorcycle crash..."
@@ -306,15 +323,17 @@ Ad Set 2 runs 5+ creative variants targeting different case types within the sam
 
 Within Ad Set 2, these are the distinct creative variants:
 
-| Variant | Case Type | Language | Target Persona |
-|---------|----------|----------|---------------|
-| C1 | Trucking / Commercial Vehicle | English | Sarah (ICU nurse, Flagstaff) |
-| C2 | Pedestrian | English | General pedestrian / Diana crossover |
-| C3 | Pedestrian | Spanish | Miguel (line cook, Maryvale) |
-| C4 | DUI Victim | English | James (sales engineer, Scottsdale) |
-| C5 | General Severe MVA | English | Diana (office manager, Chandler) + catch-all |
+| Variant | Case Type | Language | Target Persona | Phase 1 status |
+|---------|----------|----------|---------------|---|
+| C1 | Trucking / Commercial Vehicle | English | Sarah (ICU nurse, Flagstaff) | **Active** — maps to S1 in `Creative/Week_1_Launch_Concepts.md` |
+| C2 | Pedestrian | English | Laura (pedestrian protagonist, Creative doc) | **Active** — maps to S2 |
+| ~~C3~~ | ~~Pedestrian (Spanish)~~ | ~~Spanish~~ | ~~Miguel (line cook, Maryvale)~~ | **⛔ DEFERRED to Phase 2** (2026-04-22). Section retained as Phase 2 scaffold — do NOT produce for Phase 1. |
+| ~~C4~~ | ~~DUI Victim~~ | ~~English~~ | ~~James (sales engineer, Scottsdale)~~ | **⛔ OUT OF SCOPE** per signed Service Agreement §1.3 (2026-04-16). Section retained as Phase 2 / addressable-market reference — do NOT produce. |
+| C5 | General Severe MVA | English | Diana (MVA protagonist, Creative doc) + catch-all | **Active** — maps to S5 |
 
-Each variant must be strong enough to stand alone. The algorithm will starve underperformers. There are no participation trophies.
+Active Phase 1 variants: **C1, C2, C5** + motorcycle M1/M2/M3 (Section B) = **6 creatives total** (all 6 in one ad set per Doc 6 §2). C3 and C4 below are preserved as section content for Phase 2 groundwork but are deactivated for Phase 1 — a producer reading this doc should treat the struck-through C3 and C4 sections as "do not build."
+
+Each active variant must be strong enough to stand alone. The algorithm will starve underperformers. There are no participation trophies.
 
 ---
 
@@ -393,7 +412,9 @@ Sarah-informed, fact-forward:
 
 ---
 
-### C3: Pedestrian (Spanish)
+### ~~C3: Pedestrian (Spanish)~~ — ⛔ DEFERRED TO PHASE 2 (2026-04-22)
+
+> **⛔ DO NOT PRODUCE FOR PHASE 1.** Spanish creative deferred per the 2026-04-22 architecture decision. Rationale: at Phase 1 budget ($7,750 Meta), one Spanish creative competing in a broad English-dominated AZ ad set will be starved by the algorithm. Phase 2 proposal includes a dedicated Spanish ad set with meaningful budget to prove the channel properly. All content below is retained as Phase 2 groundwork — Miguel persona, Spanish hook strategy, cultural adaptation notes, Spanish-language landing page requirements. When Phase 2 kicks off, this section becomes the brief.
 
 **This is the competitive advantage variant.** 
 
@@ -444,7 +465,9 @@ Same crosswalk/intersection visual treatment as C2 but with Spanish text overlay
 
 ---
 
-### C4: DUI Victim
+### ~~C4: DUI Victim~~ — ⛔ OUT OF SCOPE PER SIGNED CONTRACT §1.3 (2026-04-16)
+
+> **⛔ DO NOT PRODUCE — EVER, FOR THIS PILOT.** DUI cases are explicitly excluded from the signed Service Agreement (§1.3). This entire section is retained as addressable-market reference and potential Phase 2 scope-expansion brief. The 298 monthly DUI injury crashes are not in the Phase 1 forecast. A creative team reading this should treat C4 as forbidden — no James persona work, no DUI creative, no punitive-damages framing.
 
 **Monthly incident volume:** 460 DUI crashes, 298 injuries, ~60% non-soft-tissue (Doc 1)
 **Average case value:** $75,000+ (with potential for punitive damages) (Doc 3)
@@ -796,7 +819,9 @@ Identical logic, identical branching, fully translated into Spanish. Key differe
 
 ### Quick Reference for All Creative -- Print This and Pin It
 
-Every piece of creative in this campaign must pass all items below before it runs. No exceptions. A single compliance failure can trigger Meta ad rejection, Arizona State Bar inquiry, or SB-37 exposure (WCTL is a California firm -- SB-37 principles apply to their brand even on out-of-state campaigns).
+Every piece of creative in this campaign must pass all items below before it runs. No exceptions. A single compliance failure can trigger Meta ad rejection or Arizona State Bar inquiry (AZ Rules of Professional Conduct ER 7.1, 7.3, 7.5 — see Register §10).
+
+> **Jurisdiction clarification:** SB-37 is **California law** and does not apply to this Arizona pilot. However, WCTL operates in both AZ and CA, and Second Chair expects to run CA campaigns in Phase 4. We apply SB-37 principles as a **brand-consistency standard** (voluntary, not required) so that creative developed for AZ transfers cleanly to CA without re-work. In this checklist: anything labeled "Arizona Bar" is legally required for this pilot; anything labeled "SB-37 principle" is voluntary brand standard.
 
 ### Language Compliance
 
@@ -853,17 +878,29 @@ Every piece of creative in this campaign must pass all items below before it run
 | **Advertising disclaimer** | "Advertising material" disclaimer may be required depending on format. Check with WCTL's compliance counsel. |
 | **No comparison claims without substantiation** | "We're the best PI firm in Arizona" requires substantiation. Avoid superlative claims. |
 
+### Motorcycle Creative Third-Person Verification (M1, M2, M3)
+
+**All motorcycle creative hooks must use third-person language.** On 2026-04-21, M3's hook was swapped from the second-person-adjacent "She said she didn't see you" to third-person "A driver didn't see the rider." Before production sign-off:
+
+- [ ] M1 hook ("Riders don't ask for sympathy. They ask for what's fair.") — **third-person: yes** ("riders" / "they")
+- [ ] M2 hook ("What the crash took is still being taken.") — **third-person: yes** (subject is "the crash," not "you")
+- [ ] M3 hook ("A driver didn't see the rider.") — **third-person: yes** (not "She didn't see you")
+- [ ] Any M4–M6 Week-2 rotation hook verified against `Creative/Week_1_Launch_Concepts.md` (or subsequent rotation concepts doc)
+
+If a producer builds from an older draft of any M-series hook that uses second-person ("Were you...", "She said she didn't see you"), the creative is non-compliant and must be rewritten before Meta submission.
+
 ### Pre-Launch Compliance Sign-Off
 
 Before any creative goes live:
 
 1. Davis or Sasha reviews all copy against this checklist
-2. Spanish copy reviewed by native speaker
+2. ~~Spanish copy reviewed by native speaker~~ — **N/A in Phase 1** (Spanish deferred to Phase 2)
 3. WCTL reviews and approves (if standing approval requirement is in place)
-4. Meta ad preview checked for Special Ad Category compliance flags
-5. Quiz funnel tested end-to-end in both English and Spanish
-6. TCPA consent flow tested and TrustedForm certificate confirmed
-7. All compliance items documented in campaign log for audit trail
+4. **WCTL's Arizona-licensed counsel reviews final creative and confirms AZ Bar compliance** (ER 7.1 truthfulness, ER 7.3 direct solicitation, ER 7.5 firm naming). Robert confirms review has occurred before final approval per Service Agreement §7.1.
+5. Meta ad preview checked for Special Ad Category compliance flags
+6. Quiz funnel tested end-to-end (English only in Phase 1)
+7. TCPA consent flow tested and TrustedForm certificate confirmed
+8. All compliance items documented in campaign log for audit trail
 
 ---
 
@@ -886,47 +923,48 @@ This section is the build sheet. It translates Sections A-F into a countable, sc
 | M5 | Video | 15-30 sec (1:1 + 9:16) | English | Loss + Fact-driven body | Week 2 rotation |
 | M6 | Static image | Text overlay (1:1 + 9:16) | English | Injustice + Story-driven body | Week 2 rotation |
 
-**Ad Set 2: All Other Non-Soft-Tissue (5 launch variants + 3 rotation variants)**
+**Severe-Injury creatives in the single ad set (3 launch variants + 3 rotation variants)**
 
 | Asset # | Type | Format | Language | Case Type | Priority |
 |---------|------|--------|----------|----------|----------|
 | S1 | Video | 15-30 sec (1:1 + 9:16) | English | Trucking / Commercial | **Week 1 launch** |
 | S2 | Static image | Text overlay (1:1 + 9:16) | English | Pedestrian | **Week 1 launch** |
-| S3 | Video | 15-20 sec (1:1 + 9:16) | **Spanish** | Pedestrian (Spanish) | **Week 1 launch** |
-| S4 | Static image | Text overlay (1:1 + 9:16) | English | DUI Victim | **Week 1 launch** |
 | S5 | Video | 15-30 sec (1:1 + 9:16) | English | General Severe MVA | **Week 1 launch** |
 | S6 | Static image | Text overlay (1:1 + 9:16) | English | Trucking (alternate hook) | Week 2 rotation |
 | S7 | Video | 15-20 sec (1:1 + 9:16) | English | Pedestrian (video version) | Week 2 rotation |
 | S8 | Static image | Text overlay (1:1 + 9:16) | English | General Severe MVA (alternate hook) | Week 2 rotation |
 
+> **Exclusions / deferrals from the launch set:**
+> - **S3 (Spanish pedestrian video)** — deferred to Phase 2 with dedicated Spanish ad set and meaningful budget. Running Spanish as 1-of-7 in a broad ad set would starve it.
+> - **S4 (DUI Victim static)** — excluded. DUI case types not covered under WCTL's signed Service Agreement §1.3.
+
 ### Summary Counts
 
 | Dimension | Count |
 |-----------|-------|
-| **Total creative assets (Week 1 launch)** | **8** (3 motorcycle + 5 all other) |
-| **Total creative assets (including Week 2 rotation)** | **14** (6 motorcycle + 8 all other) |
-| **Video assets** | **7** (M1, M2, M5, S1, S3, S5, S7) |
-| **Static image assets** | **7** (M3, M4, M6, S2, S4, S6, S8) |
-| **English assets** | **12** |
-| **Spanish assets** | **1** (S3 -- Spanish pedestrian video) |
-| **Bilingual assets** | **1** (S3 can include a bilingual CTA slide as test) |
+| **Total creative assets (Week 1 launch)** | **6** (3 motorcycle + 3 all other) |
+| **Total creative assets (including Week 2 rotation)** | **12** (6 motorcycle + 6 all other) |
+| **Video assets** | **6** (M1, M2, M5, S1, S5, S7) |
+| **Static image assets** | **6** (M3, M4, M6, S2, S6, S8) |
+| **English assets** | **12** (all) |
+| **Spanish assets** | **0 in Phase 1** (deferred to Phase 2) |
 
 ### Video vs. Static Split
 
 | Format | Count | % of Total | Rationale |
 |--------|-------|-----------|-----------|
-| Video (15-30 sec) | 7 | 50% | Higher engagement rates on Meta. Necessary for storytelling (motorcycle identity, pedestrian nighttime). Barry Hott's Ugly Ads Doctrine: filmed on iPhone, text-on-screen, native feel. |
-| Static image with text overlay | 7 | 50% | Faster to produce, cheaper to iterate. Strong for fact-driven creative (DUI punitive damages, trucking insurance amounts). Works well in feed placement where scroll speed is high. |
+| Video (15-30 sec) | 6 | 50% | Higher engagement rates on Meta. Necessary for storytelling (motorcycle identity, pedestrian dusk). Barry Hott's Ugly Ads Doctrine: iPhone-feel, text-on-screen, native feel. |
+| Static image with text overlay | 6 | 50% | Faster to produce, cheaper to iterate. Strong for fact-driven creative (trucking insurance amounts, pedestrian innocence framing). Works well in feed placement where scroll speed is high. |
 
 ### English vs. Spanish vs. Bilingual Split
 
 | Language | Count | % of Total | Rationale |
 |----------|-------|-----------|-----------|
-| English | 12 | 86% | Primary language for 5 of 6 personas. Majority of Arizona's Facebook audience consumes in English. |
-| Spanish | 1 | 7% | Critical for Maryvale/South Phoenix pedestrian reach. Miguel's persona is Spanish-dominant. This single asset serves a 29% Spanish-primary Hispanic social media audience that no competitor is reaching. |
-| Bilingual (CTA or hook element) | 1 | 7% | The Spanish pedestrian video (S3) can include a bilingual CTA slide ("Free consultation / Consulta gratis") to capture bilingual viewers. |
+| English | 11 | 85% | Primary language for 4 of the 5 in-scope personas. Majority of Arizona's Facebook audience consumes in English. |
+| Spanish | 1 | 8% | Critical for Maryvale/South Phoenix pedestrian reach. Miguel's persona is Spanish-dominant. This single asset serves a 29% Spanish-primary Hispanic social media audience that no competitor is reaching. |
+| Bilingual (CTA or hook element) | 1 | 8% | The Spanish pedestrian video (S3) can include a bilingual CTA slide ("Free consultation / Consulta gratis") to capture bilingual viewers. |
 
-**Note on Spanish volume:** One Spanish creative asset is the minimum viable test. If the Spanish pedestrian video (S3) generates engagement and quiz completions at a reasonable rate during Weeks 1-3, the Phase 2 recommendation will include expanding to 3-4 Spanish variants covering MVA and DUI in addition to pedestrian. The pilot is designed to prove the channel, not saturate it.
+**Note on Spanish volume:** One Spanish creative asset is the minimum viable test. If the Spanish pedestrian video (S3) generates engagement and quiz completions at a reasonable rate during Weeks 1-3, the Phase 2 recommendation will include expanding to 3-4 Spanish variants covering MVA and trucking in addition to pedestrian. The pilot is designed to prove the channel, not saturate it.
 
 ### Production Standards: Barry Hott's Ugly Ads Doctrine
 
@@ -938,27 +976,46 @@ Every video and static asset in this campaign must follow these production princ
 | **iPhone quality** | Shot on a phone (or graded to look like it). Natural lighting. No studio setups. No ring lights. No green screen. | It does not mean shaky, out-of-focus, or poorly composed. iPhone quality means "real person with a steady hand," not "accidental video." |
 | **Text-on-screen** | Primary messaging delivered as text overlays on video. Sound-off comprehension is mandatory -- 85% of Facebook video is watched without sound. | It does not mean walls of text. 5-8 words per screen. Clean font. High contrast. Readable at mobile scale. |
 | **Not polished studio work** | No voiceover artists. No motion graphics transitions. No corporate B-roll of handshakes and conference rooms. | It does not mean unprofessional. The content must be accurate, compliant, and emotionally resonant. The aesthetic is lo-fi. The thinking is not. |
-| **Real locations** | Arizona landscapes, Arizona roads, Arizona intersections. Not generic stock footage of "a highway somewhere." | It does not mean we need to fly to Arizona. Stock footage of recognizable AZ locations (I-10, I-17 canyon, Phoenix arterials, Scottsdale intersections) is acceptable if it looks real and specific. |
+| **Real locations** | Arizona landscapes, Arizona roads, Arizona intersections — specified in the AI prompt. Not "a highway somewhere." | It does not mean we need to fly to Arizona. All Week-1 creative is AI-generated with AZ-specific prompting (I-10 corridor, Phoenix arterial crosswalks, desert golden-hour light). Indistinguishable-from-real is the SC brand standard — no AI slop. |
 
 ### Testing Priority: What Launches First
 
-**Week 1 launch set (8 assets):**
+**Week 1 launch set (6 assets):**
 
 | Priority | Asset | Why First |
 |----------|-------|----------|
-| 1 | M1 (Motorcycle - Identity video) | Motorcycle identity is the strongest self-qualification creative in the campaign. Needs to start generating signal on Day 1. |
-| 2 | S5 (General Severe MVA video) | Largest case type pool. Broadest applicability. Will generate the most raw events for algorithmic learning. |
-| 3 | S3 (Pedestrian Spanish video) | Competitive advantage variant. Must launch in Week 1 to have enough time to prove or disprove the Spanish channel hypothesis within the pilot window. |
-| 4 | M2 (Motorcycle - Loss video) | Second motorcycle hook for algorithm comparison. Gives the motorcycle ad set two video variants to test against each other. |
-| 5 | S2 (Pedestrian English static) | High-distinctiveness case type, high incident volume. Static format provides contrast to S3's video format. |
-| 6 | S1 (Trucking video) | Highest case value. Must be present in Week 1 even though incident volume is lower. Every trucking lead is worth 2-3x an average MVA lead. |
-| 7 | S4 (DUI Victim static) | Strong emotional hook, good incident volume. Static format is fast to produce and effective for fact-driven copy. |
-| 8 | M3 (Motorcycle - Injustice static) | Gives motorcycle ad set a static option alongside two videos. Tests whether motorcycle audience responds differently to video vs. static. |
+| 1 | M1 (Motorcycle - Identity video · Marco) | Motorcycle identity is the strongest self-qualification creative in the campaign. Needs to start generating signal on Day 1. |
+| 2 | S5 (General Severe MVA video · Diana) | Largest case type pool. Broadest applicability. Will generate the most raw events for algorithmic learning. |
+| 3 | M2 (Motorcycle - Loss video · Marco) | Second motorcycle hook for algorithm comparison. Gives motorcycle two video variants to test against each other. |
+| 4 | S2 (Pedestrian English static · Laura) | High-distinctiveness case type, high incident volume. Suburban-Phoenix pedestrian reach. |
+| 5 | S1 (Trucking video · Sarah) | Highest case value. Must be present in Week 1 even though incident volume is lower. Every trucking lead is worth 2-3x an average MVA lead. |
+| 6 | M3 (Motorcycle - Injustice static · Marco) | Gives motorcycle a static option alongside two videos. Tests whether motorcycle audience responds differently to video vs. static. |
 
 **Week 2 rotation (6 assets, deployed based on Week 1 performance):**
 - If a Week 1 asset is underperforming (CTR <0.4% after 2,000 impressions), replace it with its Week 2 rotation counterpart.
 - If a Week 1 asset is performing well, add the Week 2 rotation as an additional variant to give the algorithm more options.
 - If budget is being consumed too fast (pacing >15% ahead), hold Week 2 rotation and let Week 1 set run longer to accumulate cleaner data.
+
+### Primary ↔ Backup Mapping (Week-3 Creative Refresh Protocol)
+
+This table binds directly to the Doc 6 §6 creative refresh protocol. When the refresh trigger fires (CTR <0.8% after 1,000 impressions OR frequency >4.0), Alex pauses the primary and activates the pre-produced matched backup — same hook family, different execution. Do NOT swap across hook families (an Identity backup for a Loss primary wastes the test).
+
+| Ad Set | Primary (Week 1 launch) | Matched Backup (pre-produced Week 1, activated Week 3 if trigger fires) | Backup hook family |
+|---|---|---|---|
+| Motorcycle | M1 — Identity video ("Riders don't ask for sympathy") | **M4** — Identity + Fact-driven body (static) | Same: Identity |
+| Motorcycle | M2 — Loss video ("The road took something from you") | **M5** — Loss + Fact-driven body (video) | Same: Loss |
+| Motorcycle | M3 — Injustice static ("A driver didn't see the rider") | **M6** — Injustice + Story-driven body (static) | Same: Injustice |
+| Severe Injury | S1 — Trucking video | **S6** — Trucking alternate hook (static) | Same: Trucking |
+| Severe Injury | S2 — Pedestrian English static | **S7** — Pedestrian video | Same: Pedestrian EN |
+| Severe Injury | S5 — General Severe MVA video | **S8** — Severe MVA alternate hook (static) | Same: Severe MVA |
+
+*(S3 Spanish pedestrian deferred to Phase 2 — not in Phase 1 backup mapping.)*
+
+**Decision rule cascade (from Doc 6 §6 Creative Refresh Protocol):**
+1. Primary CTR <0.8% after 1,000 impressions OR frequency >4.0 → pause primary, activate matched backup in same ad set.
+2. Observe 48 hours on backup.
+3. If backup also fails (CTR <0.8% after 1,000 impressions within 72 hours) → the hook family itself is dead, not the execution. Escalate to Davis for net-new concept work; do NOT auto-launch.
+4. Document in weekly report: which primary paused, which backup activated, initial performance delta.
 
 ### Funnel Production Requirements
 
@@ -973,15 +1030,15 @@ Every video and static asset in this campaign must follow these production princ
 
 | Day | Task |
 |-----|------|
-| Day 1-2 | Write all copy (hooks, body, CTAs) for 8 Week 1 assets. Spanish copy written by native speaker. Compliance review. |
-| Day 2-3 | Source or shoot all visual assets (stock or original). Reformat for 1:1 and 9:16. |
-| Day 3-4 | Build 7 video assets (text-on-screen edit, ambient sound, CTA slide). Build 7 static assets (image + text overlay). |
+| Day 1 | Lock 4 protagonist AI reference images (Marco, Sarah, Laura, Diana). Davis picks from 3–4 candidates per character. One locked image per persona drives all assets for that persona. |
+| Day 1-2 | Write all copy (hooks, body, CTAs) for 6 Week 1 assets. Compliance review. |
+| Day 2-3 | Generate all AI visual assets using the locked protagonist references. Reformat for 1:1 and 9:16. No stock, no live shoots. |
+| Day 3-4 | Build 4 video assets (text-on-screen edit, ambient sound, CTA slide). Build 2 static assets (image + text overlay). |
 | Day 4-5 | Build English quiz funnel. Install pixel. Test end-to-end. |
-| Day 5-6 | Build Spanish quiz funnel. Test end-to-end with native Spanish speaker. |
-| Day 6 | Upload all assets to Meta. Create campaign structure (1 campaign, 2 ad sets, 8 ads). Set budgets, optimization events, placements. |
+| Day 6 | Upload all 6 assets to Meta. Create campaign structure (1 main campaign + 1 retargeting, 1 ad set in main, 6 ads). Set budgets, optimization events, placements. |
 | Day 7 | Meta ad review (24-48 hours typical for Special Ad Category). Resolve any rejections. |
 | Day 8-9 | **Ads go live.** Monitor first 24 hours for delivery issues, ad rejections, funnel breaks. |
-| Day 10-14 | Write Week 2 rotation copy. Build 6 rotation assets. Ready for deployment based on Week 1 data. |
+| Day 10-14 | Write Week 2 rotation copy. Build rotation assets (matched backups per primary↔backup mapping). Ready for deployment based on Week 1 data. |
 
 ---
 
@@ -991,24 +1048,24 @@ Every video and static asset in this campaign must follow these production princ
 
 | Persona | Ad Set | Primary Variant | Hook Angle | Key Behavioral Lever | Primary Barrier (Ferrier) |
 |---------|--------|----------------|-----------|---------------------|--------------------------|
-| Marco (Motorcycle) | 1 | M1-M6 | Identity + Loss + Injustice | Loss aversion, identity congruence | Motivation (pride, cost fear) |
-| Diana (MVA) | 2 | S5 (General Severe) | Financial crisis + Insurance silence | Status quo bias, permission | Both (overwhelm + inertia) |
-| Miguel (Pedestrian) | 2 | S3 (Pedestrian Spanish) | Family impact + Education | Ability (must inform before persuade) | Ability (knowledge, language) |
-| Sarah (Trucking) | 2 | S1 (Trucking) | David vs. Goliath + Specialization | Friction reduction | Ability (cognitive overload) |
-| James (DUI) | 2 | S4 (DUI Victim) | Accountability + Punitive damages | Motivation via differentiation | Motivation (already has a lawyer) |
-| Sofia (Rideshare) | 2 | S5 catch-all (or incidental via Instagram) | Validation + $1M policy information | Reframing (the case isn't "too small") | Motivation (minimization instinct) |
+| Marco (Motorcycle) | Single ad set | M1-M3 (Week 1) + M4-M6 (Week 2 rotation) | Identity + Loss + Injustice | Loss aversion, identity congruence | Motivation (pride, cost fear) |
+| Diana (MVA) | Single ad set | S5 (General Severe) | Financial crisis + Insurance silence | Status quo bias, permission | Both (overwhelm + inertia) |
+| ~~Miguel (Pedestrian ES)~~ | ~~Single ad set~~ | ~~S3~~ | — | — | **Phase 2 deferral.** Spanish creative parked for Phase 2 with dedicated Spanish ad set (see Doc 6 §2 scope update 2026-04-22). Miguel persona + brief retained here and in Doc 2 §3 as Phase 2 groundwork. |
+| Laura (Pedestrian EN) | Single ad set | S2 (Pedestrian English) | Innocence + situation specificity | Reframing (you weren't driving) | Motivation (insurance first offer minimization) |
+| Sarah (Trucking) | Single ad set | S1 (Trucking) | David vs. Goliath + Specialization | Friction reduction | Ability (cognitive overload) |
+| ~~James (DUI)~~ | ~~Single ad set~~ | ~~S4 (DUI Victim)~~ | — | — | **Out of scope.** DUI case type excluded under WCTL Service Agreement §1.3. Persona retained in Doc 2 §5 for potential Phase 2 expansion. |
+| Sofia (Rideshare) | Phase 2 scaffold | — | — | — | **Phase 2 only.** ~17 incidents/mo is too low to justify dedicated Phase 1 creative; any rideshare leads arrive incidentally via S5 catch-all. |
 
-### Budget Allocation Summary
+### Budget Allocation Summary (2026-04-22 — Meta only)
 
 | Component | Amount | % of Total |
 |-----------|--------|-----------|
-| Media -- Ad Set 1 (Motorcycle) | $1,938 | 25% of media |
-| Media -- Ad Set 2 (All Other) | $5,813 | 75% of media |
+| Media -- Single Meta ad set + retargeting (Weeks 2-5) | $7,750 | 77.7% |
 | **Total Media** | **$7,750** | |
-| Creative production (est.) | $375-$500 | |
-| Funnel / tech | $250-$375 | |
-| Margin | $1,375-$1,625 | |
-| **Total Campaign** | **$10,000** | |
+| Creative production | $975 | 9.8% |
+| Funnel / tech | $500 | 5.0% |
+| Margin | $750 | 7.5% |
+| **Total Campaign (contract)** | **$9,975** | 100% |
 
 ### Expected Output
 

@@ -1,7 +1,9 @@
 # Tofer & Associates
 
-**Status:** discovery-scheduled
-**Call date:** Friday, 2026-04-17 (time TBD — Sasha suggested Friday in reply)
+**Status:** awaiting-internal-approval
+**Call 1:** Friday 2026-04-17 1:00 PM PT — Carlos Gutierrez (went well — ally secured)
+**Call 2:** Monday 2026-04-20 2:00 PM PT — Claudia Salazar + Carlos (Claudia sold — taking to Alex Tofer for sign-off)
+**Waiting on:** Claudia to meet with Alex Tofer, email back with DMA selections + approval
 **Owner:** Davis Ballard
 **Created:** 2026-04-15
 
@@ -12,8 +14,9 @@
 | Role | Name | Email | Phone | LinkedIn | Notes |
 |---|---|---|---|---|---|
 | Primary contact | **Carlos Gutierrez** | cgutierrez@toferlaw.com | 310-277-9000 ext. 7111 | ✅ | Intake Team Lead \| Legal Marketing Ops. Operator-buyer. Former Legal Soft Solution intake specialist — knows the vendor world from inside. |
-| Decision-maker | **Alex Tofer, Esq.** | TBD | 310-277-9000 | TBD | Founder / Trial Lawyer. He signs. |
-| Probable co-influencer | **Jennifer Mahgerefteh, Esq.** | TBD | 310-277-9000 | TBD | Managing Lawyer — likely weighs in on vendor decisions operationally. |
+| Operational DM | **Claudia** (last name TBD) | *(in Zoom chat — check)* | | TBD | Carlos's manager. Can *"make a decision"* on vendors per Carlos. **On the Monday call.** |
+| Founder / ultimate signer | **Alex Tofer, Esq.** | TBD | 310-277-9000 | TBD | Founder / Trial Lawyer. May or may not be involved in vendor decisions directly. |
+| Managing Lawyer | **Jennifer Mahgerefteh, Esq.** | TBD | 310-277-9000 | TBD | Managing Lawyer — role in vendor decisions unclear. |
 
 ## How We Got Here
 
@@ -79,12 +82,18 @@
 - [x] Pricing proposal drafted (04)
 - [x] Strategy memo written (05)
 - [x] Call script customized (06)
-- [ ] Pre-call oracle + negotiation prep (07) — do Thu 4/16 PM
-- [ ] Confirm Friday time + send calendar invite with Zoom link
-- [ ] Discovery call held (Fri 4/17)
-- [ ] Call notes logged (08)
-- [ ] Follow-up email sent (within 1 hour of call)
-- [ ] Deliverables sent within 24 hours (pricing sheet + SB-37 memo if wedge held)
-- [ ] Second call scheduled with Alex Tofer
+- [x] Pre-call oracle + negotiation prep (07)
+- [x] Discovery call held (Fri 4/17) — meeting notes: `Meetings/2026-04-17_Discovery_Call.md`
+- [ ] **Send proposal/overview of SC services** — before Mon 4/20
+- [ ] **Send all-DMA pricing table (standard, all injuries)** — before Mon 4/20
+- [ ] **Send non-soft-tissue pricing for Carlos's specific markets** — waiting on his email with target areas
+- [ ] **Send consent/compliance outline** — before Mon 4/20
+- [ ] **Send calendar invite for Mon 4/20 2PM PT** — include Carlos + Claudia
+- [x] **Call 2 with Claudia** — Mon 4/20 2:00 PM PT — meeting notes: `Meetings/2026-04-20_Call_2_Claudia.md`
+- [ ] **Claudia meeting with Alex Tofer** — awaiting her email back with approval + final DMA selections
+- [ ] **Prepare service agreement** — template for Riverside + Bakersfield + Fresno (or whichever 2-3 she picks), 50-100 leads/DMA
+- [ ] **Alex (SC) to explore disqualified lead routing** — Claudia wants DQ leads at pay-per-sign, 60-day window
+- [ ] **Send funnel/quiz questions** for Claudia to review and potentially customize
+- [ ] **If no response by Fri 4/25** — Sasha light check-in email
 - [ ] Proposal / service agreement sent
 - [ ] **Signed → move this folder to `../../../23_Clients/`**

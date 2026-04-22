@@ -8,6 +8,21 @@
 **Method:** Natural habitat research + deprivation thinking. Core principle: find the emotional truth by asking "what did this person LOSE?" That's where the insight lives.
 **Key constraint:** Meta Special Ad Categories — creative IS the targeting. These personas must inform ad hooks that make the right person stop scrolling.
 
+> **Methodology transparency (2026-04-21):** These six personas were built from (a) ADOT / NHTSA / Census demographic and crash data applied to Arizona-specific geography (Doc 1), (b) secondary research on post-trauma psychology and PI intake patterns, and (c) professional judgment from the agency team — Davis (18 years brand advertising) and Jon Steel-method deprivation framing. **They were not validated against interviews with actual WCTL claimants or primary ethnographic research.** The specificity (Marco's $2,100 mortgage, Miguel's remittance to mom, Diana's 6-hour work tolerance) is constructed detail grounded in demographic and behavioral reality, not quotes from real people. This is the common agency-planner practice Jon Steel-style "natural habitat" work actually represents — educated archetype-building, not ethnography. Treat these personas as sharp creative scaffolding, not as quantitative claims. Where WCTL has or can share intake data, these profiles should be re-validated after the pilot for Phase 2.
+
+> **⚠️ Persona ≠ Casting (2026-04-22).** The personas in this document are **psychological scaffolding** — emotional profiles of real market segments — not demographic mandates for on-screen protagonists. The Phase 1 creative protagonists in `Creative/Week_1_Launch_Concepts.md` are cast for **AZ demographic reach under Meta Special Ad Categories** (51% White / 32% Hispanic / 4.6% Black / 4.2% AI-AN / 3.6% Asian), optimized against homophily-bias research showing audiences engage more readily with in-group faces. Concretely:
+>
+> | Persona (this doc — psychological truth) | Phase 1 Casting (Creative doc — on-screen face) | Rationale |
+> |---|---|---|
+> | Marco Reyes (Mexican-American HVAC tech, §1) | White Arizona-weathered rider (Creative doc) | Motorcycle base in AZ skews ~55-65% white; rider identity cue carries across ethnicity |
+> | Diana Nguyen (Vietnamese-American office manager, §2) | White Arizona working mom (Creative doc) | Broadest-pool MVA catch-all asset; white casting reaches largest AZ demographic |
+> | Miguel (Mexican-origin pedestrian, §3) | **Deferred to Phase 2** — Spanish creative parked with dedicated budget | Spanish ad set not starved as 1-of-6 in a broad English ad set |
+> | Sarah (§4, trucking nurse) | Mixed white-Latina (Creative doc) | White-passing in some frames / Latina in others — pulls both audiences |
+> | James (§5, DUI victim) | **Excluded per signed contract §1.3** — out of scope | DUI not in pilot scope |
+> | Sofia (§6, rideshare) | **Phase 2 scaffold** — not produced for Phase 1 | Volume too low (~17/month) to justify dedicated creative |
+>
+> **The persona's emotional truth does not require demographic match on-screen for resonance.** Marco's loss-of-identity-as-rider lands whether the actor reads as white or Mexican-American; Diana's loss-of-household-control lands whether the actor reads as Vietnamese-American or white. Ethnicity of the protagonist is a reach decision under SAC constraints, not a persona-authenticity decision. When you see "Marco Reyes, Mexican-American" in this doc and "Marco, white rider" in the Creative doc, that is **by design, not a contradiction**.
+
 ---
 
 > *"If you can't picture the person sitting across from you, you don't know them well enough to sell to them."*
@@ -436,6 +451,8 @@ The baby was born at 37 weeks via scheduled C-section (Sarah's OB recommended it
 
 ## 5. James — The DUI Victim
 
+> **⚠️ OUT OF SCOPE for this pilot (2026-04-21).** DUI case types are excluded under WCTL's signed Service Agreement §1.3. James persona retained here for potential Phase 2 / future campaigns — do not build creative against this persona for the current pilot.
+
 ### Quick Profile
 
 | Field | Detail |
@@ -533,6 +550,11 @@ ACL reconstruction happened at Week 8. James is now in a second round of rehab, 
 ---
 
 ## 6. Sofia — The Rideshare Passenger
+
+> **⚠️ PHASE 2 SCAFFOLD — DO NOT PRODUCE PHASE 1 CREATIVE.** Rideshare = ~17 non-ST incidents/month (smallest volume of any case type in scope). At Phase 1 budget, dedicated rideshare creative would be starved as 1-of-7 in a broad ad set. Any rideshare leads in Phase 1 arrive incidentally via the S5 general-severe catch-all. Sofia persona retained here as groundwork for Phase 2 audience expansion only.
+
+
+> **Scope note (2026-04-21):** Rideshare represents ~17 non-soft-tissue incidents/month in Arizona (Register 3.7, `extrapolated`) — the smallest volume of any case type in this playbook. Sofia's persona should be treated as **Phase-2 scaffolding, not Phase-1 priority.** The campaign's two-ad-set architecture (Doc 3 §12) intentionally does not give rideshare its own budget line; any rideshare lead that arrives in Phase 1 comes through the Severe Injury ad set as an incidental capture. Additionally, Sofia's injuries as described (cervical strain, disc bulge at C4-C5, annular tear at C5-C6, fractured wrist) sit at the borderline of non-soft-tissue — the wrist is clearly qualifying, but the cervical work would need to clear the injury-severity quiz to pass. Keep the persona for Phase 2 audience expansion; do not build dedicated Phase 1 creative for it.
 
 ### Quick Profile
 
@@ -640,7 +662,7 @@ The cast came off at Week 7. Her wrist is stiff and weak. She is in occupational
 | **Diana** (MVA/Commuter) | Control over her life | The woman who held everything together can't hold anything right now. | Permission to hand something off |
 | **Miguel** (Pedestrian) | Safety + ability to provide | He can't send money to his mother. He can't walk to work. He is invisible in a system not built for him. | Spanish-language, family obligation, trust signals |
 | **Sarah** (Trucking) | Career + pregnancy safety | Her left arm may never work the same. Her maternity leave was stolen by a blown tire. | Specialization. David vs. Goliath. Professional respect. |
-| **James** (DUI) | Physical trajectory + justice | A stranger's choice bent the arc of his life. The anger has nowhere to go. | Accountability. "Choices, not accidents." Punitive damages. |
+| ~~**James** (DUI)~~ | — | — | **Out of scope per signed contract §1.3. See §5 banner. Persona retained for Phase 2 reference.** |
 | **Sofia** (Rideshare) | Trust in the responsible choice | She did everything right and got hurt anyway. Now she's told it's "not a big deal." | Validation. The $1M policy she doesn't know about. |
 
 ### The One Question to Ask Before Every Piece of Creative
@@ -665,6 +687,33 @@ If the answer to any of those is no, the creative is not ready.
 |----------|----------------|----------------------|
 | **Facebook** | Marco, Diana, Miguel, Sarah, James | ~75-80% of budget |
 | **Instagram** | Sofia, James (secondary), Diana (secondary) | ~20-25% of budget |
+
+---
+
+## Post-Accident Engagement-Timing Framework
+
+Each persona's "Post-Accident Psychology" section describes a timeline (Week 1 → Month 1 → Month 3–6). This section maps that psychology onto **when they are realistically reachable by a Meta ad** — which directly feeds the lead-quality-by-timing framework in Doc 6 §6.5.
+
+| Persona | Week 1 engagement | Month 1 (optimal window) | Month 3–6 (late responders) |
+|---------|-------------------|-------------------------|----------------------------|
+| **Marco** (Motorcycle) | Low — in hospital / pain-med haze, not scrolling purposefully. Any clicks are unreliable intent. | **Peak.** Home, healing, evening scroll resumes; pre-ride scroll time is now idle scroll time. Facebook feed is full of rider content he's mourning. | Moderate — insurance lowball received, realized lost income durable. Anger reactivates decision. |
+| **Diana** (MVA/Commuter) | Low-moderate — at home on FMLA, in pain, evening scroll 9–10 PM possible but distracted. | **Peak.** Conservative treatment failing, bills arriving, functional limitation becoming permanent-seeming. | Moderate — chronic pain acknowledgment, career impact confirmed. |
+| **Miguel** (Pedestrian) | Very low — at hospital / bedridden, no phone or very limited. Facebook midnight-1 AM habit broken. | Moderate — home, some mobility, Spanish-language Facebook use resumes. Rent pressure acute. | Higher — returned to work part-time, full financial reality visible, family remittance gap can't be masked further. |
+| **Sarah** (Trucking victim) | Very low — hospital with fetal monitor, high-stress health scenario, minimal social media. | Moderate — home but crisis mode (pregnancy + arm + career). Decision-making capacity limited. | **Peak.** Delivered / stabilized, arm recovery trajectory clear, career-threat realization lands. Highest case value, latest engagement. |
+| ~~**James** (DUI victim)~~ | — | — | **Out of scope per signed contract §1.3.** |
+| **Sofia** (Rideshare — Phase 2) | Moderate — home with cast, working from home, Instagram 15–20× per day (job habit). | Moderate-high — back at work 60%, Uber's low settlement offer on the table, decision pressure. | Lower — either accepted settlement or moved on. |
+
+### Expected Lead Distribution by Window (Feeds Doc 6 §6.5)
+
+| Window | Expected % of delivered leads | Personas most likely to be in this window |
+|---|---|---|
+| Week 1 of campaign | 10–15% | Miguel late-respond (if he was Week 3+ post-accident when campaign launched), James second-opinion |
+| Weeks 2–4 | 40–55% | Marco, Diana, Miguel, James, Sarah — the bulk |
+| Week 5+ | 20–30% | Sarah (late-onset case-value recognition), Marco (Month 3–6 late responders) |
+
+**Decision rule:** If Week 1 delivers >25% of total leads, interpret as quality risk — we may be attracting people mid-trauma who aren't good litigation clients yet. Review grade distribution before Week 2 scale decisions. Bind to Doc 6 §6.5 rule.
+
+**Decision rule:** If Week 5+ is overweight (>40%), extend campaign to 6 weeks at lower daily rate rather than closing at 5. The late responders are often highest-value; don't cut them off.
 
 ---
 
