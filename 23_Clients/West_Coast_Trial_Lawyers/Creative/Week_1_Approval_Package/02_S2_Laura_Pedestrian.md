@@ -3,10 +3,10 @@
 **Concept ID:** S2
 **Persona:** Laura Henderson — 42, Elementary School Librarian, Gilbert
 **Case type:** Pedestrian hit at crosswalk (non-DUI)
-**Formula:** HPR (Hook-Problem-Reveal) for V1/V2/V4, TTC (Tension-Turn-Conversion) for V3
-**Register:** Elevated Documentary (static, all 5 units)
-**Units:** 1 locked primary + 4 variants = 5 units
-**Production tier:** A (3 variants text-swap) + B (2 variants new composition)
+**Formula:** HPR (Hook-Problem-Reveal) for primary/V1/V2/V4/V5, TTC (Tension-Turn-Conversion) for V3
+**Register:** Elevated Documentary (static, all 6 units)
+**Units:** 1 locked primary + 5 variants = 6 units
+**Production tier:** A (4 variants text-swap) + B (2 variants new composition — V3 poetic, V5 dog-owner)
 
 ---
 
@@ -60,9 +60,13 @@ Laura is the archetype. 15 years walking the same three-mile loop with her dog M
 
 **Visual direction (Alec Soth / Nadav Kander composition):** Dusk light at Gilbert & Warner crosswalk. Warm sand-colored asphalt, cyan dusk sky, amber streetlight. Laura standing at the curb, three-quarter profile, looking down at the crosswalk lines. No vehicle in frame (per brand standard — no crash). Her cane (L hand, wooden or matte-black aluminum) and the ACE wrap (R ankle, beneath jean cuff) are continuity props. Pale-gray cardigan over white t-shirt, well-worn medium-wash jeans, simple slip-on Sperrys.
 
+**Temporal choice — dusk, not dawn (read before approval):** Laura's crash actually occurred at **5:45 AM dawn** per `Deep_Personas/Laura/01_Life_World.md`. The creative is set at **dusk** as a deliberate poetic-temporal choice — warm amber + cyan sky reads as *end of something* (end of her 15-year morning ritual), which is emotionally correct even though chronologically inverted. Dawn would feel hopeful and routine; dusk feels elegiac, which matches Laura's actual psychology (place-loss, "she's the woman who *used to* walk this neighborhood"). This is not a factual claim about when the crash happened — it's composition in service of the emotional truth.
+
 **Self-qualification:** "Crossing the street" is the hard situation filter. Vehicle occupants self-exclude. Third-person copy respects Meta SAC Personal Attributes policy.
 
 **Rationale:** This is the locked primary from the April call. Works because Laura is composed, not crying, not pleading — the composition reads as *quiet agency*, which is exactly her psychology. The "you weren't the one driving" body line releases the self-blame without saying "you deserve" (Laura rejects pity framing).
+
+**Maggie (Golden Retriever) note:** Laura's 9-year walking companion is her silent pressure (per `Deep_Personas/Laura/01_Life_World.md` — "Maggie still needs her daily walks; Laura can't yet provide them"). **Maggie does NOT appear in the primary or V1/V2/V3/V4** — those compositions focus on Laura alone at the crosswalk, which is the emotional truth of *this* moment. **Maggie appears in V5 below** — that variant unlocks the dog-owner walker sub-audience through Maggie's presence.
 
 ---
 
@@ -127,19 +131,37 @@ Laura is the archetype. 15 years walking the same three-mile loop with her dog M
 
 ---
 
+## Variant S2-V5 — Dog-owner walker / Maggie
+
+**Hook:** *"You walked the same route every morning. Your dog still needs those walks."*
+
+**Pull:** Unlocks the **dog-owner walker sub-audience** — predominantly female, 40+, pedestrians whose walking ritual is tied to a specific companion. The hook is two-beat: names the lost ritual (first sentence), names the *ongoing obligation* that still exists (second sentence). The second sentence is the emotional payload — the dog doesn't stop needing walks because Laura can't provide them. That's the quiet guilt that activates engagement.
+
+**Formula (HPR, static):** Hook top (two lines, balanced). Visual = Laura on her front porch at golden-hour, cane in L hand, **Maggie sitting at her feet** (Golden Retriever, 9 years old, looking up at Laura or looking out toward the street). The leash hangs unused on a hook beside the door — visible in the composition but not the subject. Reveal (bottom text): *"Arizona law understands the life that's on pause."*
+
+**Visual direction (Elevated Documentary, static):** Front-porch / front-step composition rather than crosswalk. Warm golden-hour light. Laura seated on the porch step, cane in L hand, Maggie sitting at her feet (alert, patient, unaware of what changed). Pale-gray cardigan, white t-shirt, jeans, slip-on Sperrys. ACE wrap R ankle still visible. The leash hanging unused is a small but load-bearing detail in the mid-ground — frame it so a viewer notices it on second look without being hit over the head. **Tier B** production (new composition with dog + porch setting).
+
+**Rationale:** No other PI ad is pulling this specific sub-audience. Dog-owner walkers are a high-empathy, high-LTV segment — they're disciplined routine-keepers (daily morning walks, 9-year relationships with their animals), which correlates with being the kind of person who *will* file a claim if the process respects their time. Maggie's presence also softens the creative without breaking the brand standard — she's not sympathy-bait, she's the companion that makes Laura's loss *ongoing*, not just historical.
+
+**Compliance:** Dog in frame is a character detail, not a graphic element. AZ ER 7.1 clean. "Arizona law understands the life that's on pause" is an empathy framing, not a guaranteed-results claim. Meta SAC: third-person throughout.
+
+---
+
 ## Compliance notes
 
-- All 5 Laura variants are static images, which reduces Meta review time and risk of motion-based sensationalism flags.
+- All 6 Laura variants are static images, which reduces Meta review time and risk of motion-based sensationalism flags.
 - No crash imagery in any variant. The crosswalk is the place; the absence of a vehicle in frame is the discipline.
-- Third-person copy throughout. "You weren't the one driving" is permitted per Meta guidance because it's a reframe of agency (releasing blame), not a personal-attribute assertion.
+- Third-person copy throughout. "You weren't the one driving" / "Your dog still needs those walks" are reframes of agency/obligation, not personal-attribute assertions — permitted per Meta guidance.
 - Body copy emphasizes "seriously injured — fracture, surgery, hospitalization" to filter soft-tissue pedestrian cases out of the funnel per Doc 5 §A.
 - Laura's cane and ACE wrap are compliant proof-of-severity without graphic content.
+- Maggie (V5) is a character detail; no welfare implications, no graphic element.
 
 ---
 
 ## Production summary for S2
 
-- 3 variants Tier A (text-swap on primary composition): primary, V1, V2, V4 — ~30min per variant
-- 2 variants Tier B (new composition): V3 poetic restraint — ~1-2hr with iteration
+- 4 variants Tier A (text-swap on primary composition): primary, V1, V2, V4 — ~30min per variant
+- 2 variants Tier B (new composition): V3 poetic restraint, V5 dog-owner / porch setting — ~1-2hr each with iteration
 - Reference portrait required: Laura locked portrait with cane in L hand, ACE wrap R ankle, shoulder-length light-brown hair, green-blue eyes, freckle pattern, pale-gray cardigan + white t-shirt + worn jeans + Sperrys
-- All 5 variants render static 1:1 (feed square) and 4:5 (feed portrait) native; 9:16 story format optional if testing Reels placement
+- **Maggie reference (V5 only):** Golden Retriever, 9 years old, medium-large build, cream-to-reddish-gold coat with feathering on legs and tail, gentle/alert expression. Generate as secondary reference or render in-composition with Laura locked.
+- All 6 variants render static 1:1 (feed square) and 4:5 (feed portrait) native; 9:16 story format optional if testing Reels placement

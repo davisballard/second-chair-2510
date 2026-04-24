@@ -34,7 +34,7 @@ The S5 asset is the **broadest-catch volume slot** in the entire Phase 1 campaig
 
 ## 2. Body Copy Direction (for Meta feed text)
 
-**Template (current from Week_1_Launch_Concepts.md — validated for Diana):**
+**Template (current from `Creative/Week_1_Approval_Package/03_S5_Diana_MVA_UGC.md` — validated for Diana):**
 
 > Serious injuries don't pause because you can't work. Arizona drivers injured in a crash — surgery, hospital stays, months of recovery — may be entitled to more than what insurance first offered. No fee unless we win.
 

@@ -1,4 +1,12 @@
-# Media Plan & Budget Allocation
+> **⚠ PERSONA REFERENCES SUPERSEDED 2026-04-23.** Wherever this doc says "Marco" (e.g., §2 architecture diagram, §3.1 per-creative notes), read it as **Ty Rivera** per `Audience/Deep_Personas/Ty/`. The motorcycle protagonist pivoted 2026-04-22 from Marco (cruiser) to Ty (supersport).
+>
+> **This doc remains authoritative for:** budget allocation ($7,750 media / $975 production / $500 tech / $750 margin), single-ad-set consolidation rationale, CPL trajectory ($337–517 blended), learning-phase thresholds, refresh protocol, kill criteria, quiz funnel spec, and Pre-Launch Checklist.
+>
+> **This doc is NOT authoritative for persona-level casting, visual direction, or ad-copy details** — use `Deep_Personas/` and `Creative/Week_1_Approval_Package/` for those.
+
+---
+
+# Media Plan & Budget Allocation [MEDIA AUTHORITATIVE — PERSONA REFS SUPERSEDED]
 ## Arizona Non-Soft-Tissue PI Pilot Campaign — $10K
 
 **Prepared:** April 13, 2026

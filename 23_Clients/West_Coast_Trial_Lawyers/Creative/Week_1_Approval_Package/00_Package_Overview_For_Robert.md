@@ -32,16 +32,16 @@ Three structural variants depending on persona: **PAS** (Problem-Agitate-Solve) 
 
 | # | Concept | Persona | Case Type | Units | Register |
 |---|---------|---------|-----------|-------|----------|
-| 01 | S1 | Sarah — ICU nurse, I-17 | Commercial trucking | 1 primary + 4 variants (1 UGC challenger) | Elevated Documentary + UGC (V3 only) |
-| 02 | S2 | Laura — librarian, Gilbert | Pedestrian / crosswalk | 1 primary + 4 variants (static only) | Elevated Documentary |
-| 03 | S5 | Diana — office manager, Chandler | General MVA (rear-end, disc + concussion) | 1 primary + 4 variants | UGC-Native (all) |
+| 01 | S1 | Sarah — ICU nurse, I-17 | Commercial trucking | 1 primary + 5 variants (1 UGC challenger) | Elevated Documentary + UGC (V3 only) |
+| 02 | S2 | Laura — librarian, Gilbert | Pedestrian / crosswalk | 1 primary + 5 variants (static only) | Elevated Documentary |
+| 03 | S5 | Diana — office manager, Chandler | General MVA (rear-end, disc + concussion) | 1 primary + 5 variants | UGC-Native (all) |
 | 04 | M1 | Ty — HVAC rider, Chandler | Motorcycle / identity frame | 1 primary + 3 variants | Elevated Documentary |
-| 05 | M2 | Ty | Motorcycle / loss frame | 1 primary + 3 variants (1 is a dramatization — see below) | Elevated + UGC (V1 dual) |
+| 05 | M2 | Ty (+ Rachel in V4) | Motorcycle / loss frame | 1 primary + 4 variants (1 is a dramatization — see below) | Elevated + UGC (V1 dual) |
 | 06 | M3 | Ty | Motorcycle / injustice frame | 1 primary + 3 variants (static only) | Elevated Documentary |
 
-**Total: 24 hook units in the package.** Launch week uses 6 primaries; the remaining 18 variants rotate into the ad set on data per Meta's refresh protocol (Week 2 → Week 5).
+**Total: 28 hook units, 30 render units** (including dual-register duplicates on Sarah S1-V3 and Ty M2-V1). Launch week uses 6 primaries; the remaining 22 variants rotate into the ad set on data per Meta's refresh protocol (Week 2 → Week 5).
 
-**The UGC / Elevated A/B test is inside the ad set.** 6 units render in UGC-Native register (Diana ×4 + Ty M2-V1 + Sarah S1-V3), 18 in Elevated Documentary. Meta's algorithm tells us which register this audience responds to; we lean in on Week 2-3 refresh accordingly.
+**The UGC / Elevated A/B test is inside the ad set.** 7 units render in UGC-Native register (Diana ×5 + Ty M2-V1 + Sarah S1-V3), 23 in Elevated Documentary. Meta's algorithm tells us which register this audience responds to; we lean in on Week 2-3 refresh accordingly.
 
 ---
 
@@ -51,15 +51,16 @@ Robert, two short-form questions and one longer-form question before production 
 
 ### Ask 1 — Hook variants OK?
 
-The primary hooks for all six concepts are substantially the same as what we shared on the April call. The new addition is **3-4 hook variants per concept**, each pulling a distinct emotional door into the same case type. Example for Sarah's S1 (trucking):
+The primary hooks for all six concepts are substantially the same as what we shared on the April call. The new addition is **3-5 hook variants per concept**, each pulling a distinct emotional door into the same case type. Example for Sarah's S1 (trucking):
 
-- **Primary:** "Hit by a semi on I-10?"
-- **Variant 1:** "Commercial insurance is different. So is the lawyer you need."
+- **Primary:** "Hit by a Freightliner on I-17?" *(persona-accurate — Sarah's actual corridor)*
+- **Variant 1:** "Commercial insurance is different. So is the lawyer."
 - **Variant 2:** "Their legal team was working before the ambulance arrived."
 - **Variant 3:** "The first offer is rarely the fair offer."
-- **Variant 4:** "Hit by a Freightliner on I-17?"
+- **Variant 4:** "Hit by a semi on I-10?" *(broad-reach alternative)*
+- **Variant 5:** "FMCSA violations. Maintenance records. A $1M policy." *(ultra-literate, evidence-led)*
 
-All five are testing the *same audience* (commercial-vehicle crash victims in Arizona); each opens with a different psychological hook. Meta learns which door the audience walks through.
+All six are testing the *same audience* (commercial-vehicle crash victims in Arizona); each opens with a different psychological hook. Meta learns which door the audience walks through — primary tests persona-accurate specificity; V4 tests broad-reach; V5 tests whether the clinical-professional segment responds to specialist-language framing over situation-led hooks.
 
 **Your call:** Approve all variants as written, or flag specific variants to kill or edit. Files 01–06 have the full context for each.
 

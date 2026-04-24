@@ -65,7 +65,7 @@ This style sheet is the source of truth for the **Elevated Documentary** treatme
 **Workflow per generation:**
 
 1. **Still image in Higgsfield (ChatGPT Images 2.0):** copy the §2 Image Injection Block into the top of your prompt. Then append the character brief + scene spec + side-specific detail reminders.
-2. **Video animation in Kling 3.0 Pro / O1 or Seedance 2.0:** upload the locked reference still as the character image. Copy the §3 Video Injection Block. Append the scene's motion description (from `Week_1_Launch_Concepts.md`). Generate. See `Abracadabra/04_Production/Giuseppe_Karma_(AI_Creative_Director)/Prompting_Guides/Kling_3.md` and `Seedance_2.md` for full model-specific prompting references.
+2. **Video animation in Kling 3.0 Pro / O1 or Seedance 2.0:** upload the locked reference still as the character image. Copy the §3 Video Injection Block. Append the scene's motion description (from `Creative/Week_1_Approval_Package/` — current canonical; `Archive/Week_1_Launch_Concepts_2026-04-21.md` is archive-only). Generate. See `Abracadabra/04_Production/Giuseppe_Karma_(AI_Creative_Director)/Prompting_Guides/Kling_3.md` and `Seedance_2.md` for full model-specific prompting references.
 3. **After generation:** if the output worked, paste the full prompt + Higgsfield/Kling seed into §9 Examples That Worked so v2 of this sheet can absorb what's landing.
 
 ---
@@ -391,7 +391,7 @@ Adopted verbatim in spirit from `Luca_Maxim_Style.md` §"⚠️ THE SECRET SAUCE
 | Expression Range | How does their face move through the piece? |
 | Easter Eggs | Small details that reward close viewing |
 
-**WCTL status check (2026-04-22):** Three of the four character briefs in `Week_1_Launch_Concepts.md` (Sarah line 77, Laura line 83, Diana line 89) already meet this bar — paste the existing brief verbatim. The **Marco brief at line 71 is stale** (cruiser archetype) — pending rewrite to Ty Rivera supersport archetype; until that doc update propagates, use `Audience/Deep_Personas/Ty_Rivera.md` as the authoritative source for Ty's character-as-insight specificity.
+**WCTL status check (updated 2026-04-23):** `Archive/Week_1_Launch_Concepts_2026-04-21.md` is archive-only (superseded by `Creative/Week_1_Approval_Package/`). For character-as-insight briefs, pull from the canonical `Audience/Deep_Personas/` folder — `Sarah/01_Life_World.md`, `Diana/01_Life_World.md`, `Laura/01_Life_World.md`, and `Ty/01_Life_World.md` (the motorcycle persona, renamed 2026-04-22 from Marco cruiser to Ty supersport). Deep_Personas is the authoritative source for all character specificity.
 
 ---
 

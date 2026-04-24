@@ -48,7 +48,7 @@ Each hook is a different emotional entry point into the same SMP. They don't com
 
 **What it does psychologically:** Directly refutes the fault presumption (Loss 5, the shadow loss). Gives Ty the *permission* to believe what he already knows in his gut.
 
-**Visual direction:** Southern Avenue & Dobson Road in Mesa at dusk (§01 §9). Ty standing at the curb looking at where it happened. Empty intersection, painted left-turn arrow, Circle K on the corner, amber streetlight switching on. **No crash scene in frame.** (Rejects the exploratory crash-frame direction from earlier in session — stays compliant with the `Week_1_Launch_Concepts.md` "no crash footage" brand rule.)
+**Visual direction:** Southern Avenue & Dobson Road in Mesa at dusk (§01 §9). Ty standing at the curb looking at where it happened. Empty intersection, painted left-turn arrow, Circle K on the corner, amber streetlight switching on. **No crash scene in frame.** (Aligns with the brand's "no crash footage" doctrine carried forward in `Creative/Week_1_Approval_Package/`; note that package M2-V3 opens a narrow compliant Moment-Before dramatization path for *one* motorcycle variant per Saul's guardrails — see `05_M2_Ty_Loss.md` for that specific exception.)
 
 ---
 
@@ -91,7 +91,7 @@ See `01_Life_World.md` §9 for the full anchor list. Per-hook specification:
 
 ## 4. Compliance Considerations Specific to Ty
 
-- **AZ Bar ER 7.3 (direct solicitation):** All hooks must be third-person. "Riders" / "the rider" / "Arizona riders" — never "you" in headlines. Body copy can shift to second-person once the creative has established the third-person frame (the existing Week_1_Launch_Concepts.md body copy pattern handles this correctly).
+- **AZ Bar ER 7.3 (direct solicitation):** All hooks must be third-person. "Riders" / "the rider" / "Arizona riders" — never "you" in headlines. Body copy can shift to second-person once the creative has established the third-person frame (the body copy pattern in `Creative/Week_1_Approval_Package/` M1/M2/M3 concept files handles this correctly).
 - **AZ Bar ER 7.1 (truthfulness):** No specific dollar-amount promises. "The law says more" is compliant; "get millions" is not.
 - **AZ Bar ER 7.5 (firm naming):** WCTL name must be identifiable in every ad (logo or end-card).
 - **Fault-presumption rigor note (Evidence Register §14):** If Robert at WCTL raises the "aren't bikers mostly at fault?" concern for the supersport demographic — §14.5 of the Evidence Register has the sourced pitch language. Hurt Report: 60–66% of multi-vehicle moto crashes are the other driver's fault. AZ ADOT: 62.6% of AZ moto crashes are multi-vehicle. Pure comparative negligence (A.R.S. § 12-2505) preserves recovery even when speed is alleged. This persona targets the clean-liability subset within a 4x-higher-crash-rate population.

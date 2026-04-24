@@ -10,7 +10,7 @@
 
 ## Why the session was called
 
-The new/updated deep personas (Diana, Laura, Sarah) just landed at `Audience/Deep_Personas/`. Davis flagged the existing `Creative/Week_1_Launch_Concepts.md` as *"outdated and probably not strong enough."* He also pushed back on the prior "no crash imagery" call for motorcycle, wanting a defensible answer one way or the other before client delivery Tuesday AM.
+The new/updated deep personas (Diana, Laura, Sarah) just landed at `Audience/Deep_Personas/`. Davis flagged the existing `Creative/Week_1_Launch_Concepts.md` (now archived at `Creative/Archive/Week_1_Launch_Concepts_2026-04-21.md`) as *"outdated and probably not strong enough."* He also pushed back on the prior "no crash imagery" call for motorcycle, wanting a defensible answer one way or the other before client delivery Tuesday AM.
 
 The ask was specifically **hook variants, not new concepts** — the 6-concept architecture from the April proposal is sound; what Meta's algorithm needs to learn is *which hook pulls which audience door* inside a single consolidated ad set.
 
@@ -92,7 +92,7 @@ Davis answered via permission component:
 
 1. `Creative/Week_1_Approval_Package/` folder created
 2. Nine docs drafted (00 overview + 01-06 concept files + 07 production + 08 compliance)
-3. `Creative/Week_1_Launch_Concepts.md` archive-stamped as superseded
+3. `Creative/Week_1_Launch_Concepts.md` archive-stamped as superseded, then moved 2026-04-23 evening to `Creative/Archive/Week_1_Launch_Concepts_2026-04-21.md`
 4. Feedback memory saved: `feedback_sc_ai_production_economics.md`
 5. This session note
 
@@ -100,9 +100,32 @@ Davis answered via permission component:
 
 ## Open items
 
-1. Reference portrait generation — blocked until Davis runs `Phase_1_Reference_Portrait_Prompts.md` in Higgsfield Friday AM
-2. Prompt file currently refers to "Marco" (old motorcycle protagonist name from Week_1_Launch_Concepts.md) — should be reconciled to "Ty" per new deep personas, or Davis explicitly keeps the casting/persona separation per Steel's prior logic. Flag for Davis's Friday AM check before generation.
-3. WCTL counsel heightened-review email draft for M2-V3 — to be written Monday as part of package finalization
+1. Reference portrait generation — blocked until Davis runs `Phase_1_Reference_Portrait_Prompts.md` in Higgsfield Friday AM. (Prompt file already correctly references Ty Rivera per 2026-04-22 rename; earlier concern about Marco-in-prompt was resolved before this session.)
+2. WCTL counsel heightened-review email draft for M2-V3 — to be written Monday as part of package finalization
+3. Drift audit completed 2026-04-23 evening — approval package precision-fixed (Sarah I-10/I-17 rationale, Sarah composure, Diana Ben intake + V4 day-parting, Laura dusk/dawn, Ty M2 Rachel presence). Infrastructure docs (`Audience/02_Case_Type_Personas.md`, `Audience/05_Creative_Strategy`, `Audience/06_Media_Plan`) stamped as superseded-on-persona-content pointing to `Deep_Personas/`.
+4. New-variant unlocks from drift audit (not auto-added, Davis's call): Sarah FMCSA-literacy variant, Diana construction-family-income-volatility variant, Laura dog-owner walker variant (Maggie), Ty wedding-postponement variant (M2-V2 already partially hits this). **UPDATE 2026-04-23 evening: Davis approved all four; added to package.**
+
+---
+
+## 2026-04-23 evening extension — what got added
+
+Davis approved the four unlocks + Sarah primary swap + archive relocation. Package executed:
+
+**Variant additions (4 net-new):**
+- **S1-V5** *"FMCSA violations. Maintenance records. A $1M policy."* — ultra-literate Sarah variant, evidence-led composition (Tier B). Added to `01_S1_Sarah_Trucking.md`.
+- **S2-V5** *"You walked the same route every morning. Your dog still needs those walks."* — Laura dog-owner variant with Maggie (Golden Retriever) appearing in-frame on the porch (Tier B). Unlocks dog-owner walker sub-audience. Added to `02_S2_Laura_Pedestrian.md`.
+- **S5-V5** *"Three kids. One stable paycheck. One summer-to-winter cycle. One crash."* — construction-family UGC variant with F-150 + paired pay-stub props (Tier B). Added to `03_S5_Diana_MVA_UGC.md`.
+- **M2-V4** *"Your wedding was supposed to be this spring. Your recovery might not let that happen."* — Rachel-perspective wedding-postponement, first variant in the package where Rachel appears in-frame as a named character (Tier B). Added to `05_M2_Ty_Loss.md`.
+
+**Sarah S1 primary swap:** Primary ↔ V4. New primary is *"Hit by a Freightliner on I-17?"* (persona-accurate — Sarah's actual corridor and vehicle). Former primary *"Hit by a semi on I-10?"* moved to V4 as the broad-reach alternative. Rationale documented in file 01's primary block.
+
+**New totals:** 28 hook lines, 30 render units (was 24 / 26). UGC cohort grew to 7 (Diana ×5 + Ty M2-V1 UGC + Sarah S1-V3 UGC). Elevated cohort: 23. AI inference cost unchanged at ~$10–20 total.
+
+**New reference portrait required:** Rachel (Ty's fiancée) added as the 5th character. Brief drafted from `Deep_Personas/Ty/01_Life_World.md` relationship context. Generate Friday alongside Ty. Only appears in M2-V4.
+
+**Archive relocation:** `Creative/Week_1_Launch_Concepts.md` moved to `Creative/Archive/Week_1_Launch_Concepts_2026-04-21.md` via `git mv` (preserves history). Cross-references updated in 8 active files. Creative top-level listing now shows only active work (Approval_Package, Review_Upgrades, Style_Sheets, Phase_1_Reference_Portrait_Prompts, Archive).
+
+**What this cost in Davis time estimate:** Sun Tier B production day gets ~2-4hr added for the four new-scene variants + Rachel portrait generation Friday PM (was 4-char lock, now 5-char). Mon QA pass adds ~30min for the extra units. Tuesday delivery still on track.
 
 ---
 
@@ -110,7 +133,7 @@ Davis answered via permission component:
 
 - Plan file: `/Users/davisballard/.claude/plans/ok-i-want-you-sharded-frost.md`
 - Deliverable: `Creative/Week_1_Approval_Package/` (9 files)
-- Superseded: `Creative/Week_1_Launch_Concepts.md` (retained as archive)
+- Archive: `Creative/Archive/Week_1_Launch_Concepts_2026-04-21.md` (retained for version history only)
 - Personas: `Audience/Deep_Personas/{Sarah,Diana,Laura,Ty}/`
 - Style sheets: `Creative/Style_Sheets/{Elevated_Documentary,UGC_Native}.md`
 - Reference-portrait prompts: `Creative/Phase_1_Reference_Portrait_Prompts.md`

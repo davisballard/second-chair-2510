@@ -4,9 +4,9 @@
 **Persona:** Diana Nguyen — 42, Senior Office Manager, Chandler
 **Case type:** General MVA (rear-end on I-10, C5-C6 herniated disc + Grade 2 concussion)
 **Formula:** HPR (Hook-Problem-Reveal)
-**Register:** UGC-Native (all 5 units — the entire UGC cohort leg of the A/B test)
-**Units:** 1 locked primary + 4 variants = 5 units
-**Production tier:** A (2 variants text-swap) + B (3 variants new UGC scene)
+**Register:** UGC-Native (all 6 units — the entire UGC cohort leg of the A/B test)
+**Units:** 1 locked primary + 5 variants = 6 units
+**Production tier:** A (2 variants text-swap) + B (4 variants new UGC scene)
 
 ---
 
@@ -120,9 +120,38 @@ Diana is the archetype: Senior Office Manager at a property management firm. Rea
 
 **Visual direction:** New UGC scene — low-light living room at 3AM. Phone glow on Diana's face. Household dark. Bills within reach. Same locked character. **Tier B** production.
 
-**Rationale:** Scheduled delivery — this variant is *bid up* during 2-4AM ET hours and *bid down* during daytime. Meta's day-parting controls allow this. The hook loses power in daylight; in insomnia-hours it feels like someone understood.
+**⚠ Media directive (explicit — not buried):** V4 is **day-parted for 2:00–4:00 AM MST delivery** at **2×–3× normal bid**. Reduce or pause daytime. This is hard-wired per Diana's deep persona (`Deep_Personas/Diana/04_Media_Reach.md` §2 — "Concussion-insomnia window. Unusually strong for Diana; she's on her phone specifically during the hours nobody else is reachable"). Outside that window the hook loses meaning and the bid is wasted.
 
 **Compliance:** "Here when you are" is permissible availability framing, not a direct solicitation. AZ ER 7.3 clean (not unsolicited contact — audience self-selects via form).
+
+---
+
+## Variant S5-V5 — Construction-family income volatility
+
+**Hook (0–3s):** *"Three kids. One stable paycheck. One summer-to-winter cycle. One crash."*
+
+**Pull:** Unlocks the **construction / tradesman household sub-audience** — families where one spouse has variable seasonal income and the other carries the stable anchor. In Diana's household, Ben's construction foreman income swings summer-peak $52K to winter-lull $38K (per `Deep_Personas/Diana/01_Life_World.md`). When Diana (the stable $48K) can't work, the math breaks in a specific way that billboard-energy PI ads don't name. This hook names it.
+
+**Formula (HPR, UGC):** Hook as text (four sentences, escalating specificity). Problem = UGC kitchen-island footage with household object-frames: Ben's white F-150 work truck visible through a window or parked in the driveway, a calendar with "SLOW MONTH" written in one of the winter boxes, Diana's pay stub on the counter, Ben's variable-hours timecard beside it. Reveal = Diana's face at the counter, tired but composed. Text: *"Your household math isn't standard. Neither is our response."*
+
+**Visual direction (UGC-Native):** Same Diana locked character, same kitchen setting, Ben's F-150 framed through the window (afternoon or morning light depending on the paycheck-prop the shot focuses on). The summer-to-winter pay disparity is shown through **paired prop shots** — two pay stubs side by side (summer high, winter low), a calendar marked "SLOW SEASON" in the winter block. Handheld phone-camera feel. Flat phone color. **Tier B** production (new scene with F-150 exterior frame + paired pay-stub composition).
+
+**Rationale:** Every other PI ad in this category treats household income as a single number. Real construction/tradesman families live with seasonal volatility — cash-flow planning is their daily practice. When the stable spouse (Diana) goes down, the *whole system* destabilizes in ways that are invisible to people who've never had to watch a winter pay-stub come in at 60% of summer. This hook signals **WCTL understands non-traditional household economics**, which is a trust-building signal for exactly the audience most hurt by standard PI treatment.
+
+**Compliance:** Construction-industry specificity is generic (no real carrier, no specific employer). "Summer-to-winter cycle" is descriptive of tradesman-category income volatility, not a defamation claim. Pay-stub props are generic/illustrative, no real wage data or employer names. AZ ER 7.1 clean. Meta SAC third-person throughout.
+
+---
+
+## Intake preparation — Ben as co-decision-maker
+
+From `Deep_Personas/Diana/03_Category_Journey.md` §2: Diana will not sign solo. **Ben Nguyen (45, construction foreman) is an active co-decision-maker** — he reads the firm's website, has opinions on process and fees, trusts Diana's judgment but wants to be in the room. Couple-review is the decision model.
+
+**Intake-team directive:**
+- First intake call, specialist proactively offers: *"This is a family decision — if Ben has questions about the process, fees, or how this interacts with your short-term disability, I'm happy to schedule a brief separate call with him, or loop him in now."*
+- Expect Ben to ask specifically about: payment timing (fees contingent, not upfront), short-term disability coordination (his construction income is variable summer-peak $52K / winter-lull $38K, so cash-flow timing matters), and how long the case might take.
+- **Do not treat Ben as an objection to work around.** He's a co-participant. Handle him as such and the close rate improves.
+
+This is out-of-scope for the ad creative itself but **belongs in the Tuesday package to Robert** so WCTL's intake team is prepped before leads start flowing.
 
 ---
 
@@ -143,18 +172,19 @@ Injection block lives in `Style_Sheets/UGC_Native.md` — paste verbatim into ev
 
 ## Compliance notes
 
-- All 5 Diana variants are UGC-Native, which *reads as more authentic* to Meta's algorithm but also triggers **more rigorous review** if anything reads as impersonating a real user (Meta policy: ads cannot appear to be organic posts from a real person). Disclosure: "Sponsored" label is mandatory on all ad placements; we confirm this is surfacing via Meta's ad format, not suppressed.
+- All 6 Diana variants are UGC-Native, which *reads as more authentic* to Meta's algorithm but also triggers **more rigorous review** if anything reads as impersonating a real user (Meta policy: ads cannot appear to be organic posts from a real person). Disclosure: "Sponsored" label is mandatory on all ad placements; we confirm this is surfacing via Meta's ad format, not suppressed.
 - No graphic injury. Sling on R arm is the only recovery prop, visible but not emphasized.
-- "Broken bones, surgery" severity language in primary text body for all 5 variants filters soft-tissue at the ad level.
+- "Broken bones, surgery" severity language in primary text body for all 6 variants filters soft-tissue at the ad level.
 - Numeric variants (V3) use prop documents, not WCTL case data. No guaranteed-results implication.
 - All third-person framing. Diana's "Bills don't stop" is observational, not a personal-attribute assertion.
+- V5 props (F-150 in frame, pay stubs, calendar markings) are generic/illustrative — no real wage data, employer names, or identifiable vehicles. Clean.
 
 ---
 
 ## Production summary for S5
 
 - 2 variants Tier A (text-swap on primary scene): primary, V3 — ~30min per variant after primary scene locked
-- 3 variants Tier B (new UGC scene): V1 (family system), V2 (invisible labor), V4 (2-4AM low-light) — ~1-2hr each
+- 4 variants Tier B (new UGC scene): V1 (family system), V2 (invisible labor), V4 (2-4AM low-light), V5 (construction-family / F-150 + pay stubs) — ~1-2hr each
 - Reference portrait required: Diana locked portrait with R arm sling (diagonal strap across body), mole L upper lip, reading glasses pushed up in hair, pale-yellow cardigan + white t-shirt + jeans OR gray sweatpants
-- All 5 render native 9:16 (Reels primary), cropped to 4:5 and 1:1 for feed
+- All 6 render native 9:16 (Reels primary), cropped to 4:5 and 1:1 for feed
 - UGC register locked via `Style_Sheets/UGC_Native.md` injection block — paste verbatim every generation

@@ -2,7 +2,7 @@
 ## Second Chair × West Coast Trial Lawyers — Arizona Pilot
 
 **Prepared:** 2026-04-22
-**Anchored to:** Barry Hott Ugly Ads Doctrine (referenced in `Week_1_Launch_Concepts.md` line 38 + §"Production Standards (Hott)" line 343) + Giuseppe Karma's MODE B UGC framework (`Abracadabra/04_Production/Giuseppe_Karma_(AI_Creative_Director)/AGENT.md` §5 MODE B).
+**Anchored to:** Barry Hott Ugly Ads Doctrine (referenced in `Archive/Week_1_Launch_Concepts_2026-04-21.md` line 38 + §"Production Standards (Hott)" line 343 — archive-only) + Giuseppe Karma's MODE B UGC framework (`Abracadabra/04_Production/Giuseppe_Karma_(AI_Creative_Director)/AGENT.md` §5 MODE B).
 **Status:** v1 — living document. Paste working prompts into §9 and observations into §10 as you iterate.
 
 ---
@@ -180,7 +180,7 @@ UGC has its own failure modes — distinct from Elevated. Scan every UGC output 
 
 ## 7. Character-as-Insight Principles
 
-**Specificity is style-agnostic — the same character-as-insight standard from Luca Maxim applies here.** See `Elevated_Documentary.md` §7 for the full framework ("I Know That Person" test + Full Character Sheet Method). Do not re-describe per generation — paste the Diana character brief verbatim from `Week_1_Launch_Concepts.md` line 89.
+**Specificity is style-agnostic — the same character-as-insight standard from Luca Maxim applies here.** See `Elevated_Documentary.md` §7 for the full framework ("I Know That Person" test + Full Character Sheet Method). Do not re-describe per generation — Diana's character brief lives at `Audience/Deep_Personas/Diana/` (canonical) or `Archive/Week_1_Launch_Concepts_2026-04-21.md` line 89 (archive only, historical reference).
 
 **UGC-specific character notes:**
 - Diana's props and side-specific details must survive the UGC style shift. The phone-camera look can flatten detail — call out the sling-on-RIGHT-arm, the bruise-on-RIGHT-jawline, the mole-above-LEFT-lip explicitly and twice in the prompt.
@@ -245,7 +245,7 @@ Live list of which WCTL assets use this style.
 
 ---
 
-*See also: `Elevated_Documentary.md` for the 5 Elevated assets (M1, M2, M3, S1, S2) and the Marco/Sarah/Laura reference portraits. `Phase_1_Reference_Portrait_Prompts.md` for the four ready-to-run reference portrait prompts.*
+*See also: `Elevated_Documentary.md` for the 5 Elevated assets (M1, M2, M3, S1, S2) and the Ty/Sarah/Laura reference portraits. `Phase_1_Reference_Portrait_Prompts.md` for the four ready-to-run reference portrait prompts. (Motorcycle protagonist renamed 2026-04-22 from Marco → Ty per `Audience/Deep_Personas/Ty/`.)*
 
 ---
 

@@ -1,4 +1,15 @@
-# Creative Strategy & Ad Set Architecture
+> **⚠ PERSONA REFERENCES SUPERSEDED 2026-04-23 — motorcycle sections reference "Marco Reyes" throughout. Canonical motorcycle persona is now `Audience/Deep_Personas/Ty/` (Ty Rivera supersport archetype).**
+>
+> Wherever this doc says "Marco" in a motorcycle context, read it as Ty Rivera. The strategic framing (identity-based self-qualification, 5/5 creative distinctiveness, single-ad-set consolidation) is still accurate and load-bearing. The *persona-specific details* (cruiser archetype, Mesa, Harley, 35yo) are stale — use `Deep_Personas/Ty/` for copy, casting, geography (Chandler + Southern & Dobson), vehicle (Yamaha R6), and voice.
+>
+> The Sarah / Diana / Laura references in this doc are also surface-level — for deep persona work use `Deep_Personas/Sarah/`, `Deep_Personas/Diana/`, `Deep_Personas/Laura/`. This doc remains authoritative for **ad-set architecture, funnel structure, compliance checklist, and self-qualification theory.** It is NOT authoritative for persona content.
+>
+> Operational sections to still trust: §B (four-filter self-qualification strategy), §C (ad-set sizing), §F (compliance), §G (backup asset architecture), funnel-flow specs.
+> Operational sections to cross-check against Deep_Personas: anywhere a persona is named and described in detail.
+
+---
+
+# Creative Strategy & Ad Set Architecture [PARTIAL ARCHIVE — PERSONA SECTIONS SUPERSEDED]
 ## Arizona Non-Soft-Tissue PI Campaign — $10K Meta Pilot
 
 **Prepared:** April 13, 2026
@@ -325,7 +336,7 @@ Within Ad Set 2, these are the distinct creative variants:
 
 | Variant | Case Type | Language | Target Persona | Phase 1 status |
 |---------|----------|----------|---------------|---|
-| C1 | Trucking / Commercial Vehicle | English | Sarah (ICU nurse, Flagstaff) | **Active** — maps to S1 in `Creative/Week_1_Launch_Concepts.md` |
+| C1 | Trucking / Commercial Vehicle | English | Sarah (ICU nurse, Flagstaff) | **Active** — maps to S1 in `Creative/Week_1_Approval_Package/01_S1_Sarah_Trucking.md` |
 | C2 | Pedestrian | English | Laura (pedestrian protagonist, Creative doc) | **Active** — maps to S2 |
 | ~~C3~~ | ~~Pedestrian (Spanish)~~ | ~~Spanish~~ | ~~Miguel (line cook, Maryvale)~~ | **⛔ DEFERRED to Phase 2** (2026-04-22). Section retained as Phase 2 scaffold — do NOT produce for Phase 1. |
 | ~~C4~~ | ~~DUI Victim~~ | ~~English~~ | ~~James (sales engineer, Scottsdale)~~ | **⛔ OUT OF SCOPE** per signed Service Agreement §1.3 (2026-04-16). Section retained as Phase 2 / addressable-market reference — do NOT produce. |
@@ -885,7 +896,7 @@ Every piece of creative in this campaign must pass all items below before it run
 - [ ] M1 hook ("Riders don't ask for sympathy. They ask for what's fair.") — **third-person: yes** ("riders" / "they")
 - [ ] M2 hook ("What the crash took is still being taken.") — **third-person: yes** (subject is "the crash," not "you")
 - [ ] M3 hook ("A driver didn't see the rider.") — **third-person: yes** (not "She didn't see you")
-- [ ] Any M4–M6 Week-2 rotation hook verified against `Creative/Week_1_Launch_Concepts.md` (or subsequent rotation concepts doc)
+- [ ] Any M4–M6 Week-2 rotation hook verified against `Creative/Week_1_Approval_Package/` (04–06 concept files) or subsequent rotation concepts doc
 
 If a producer builds from an older draft of any M-series hook that uses second-person ("Were you...", "She said she didn't see you"), the creative is non-compliant and must be rewritten before Meta submission.
 

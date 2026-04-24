@@ -28,7 +28,7 @@ The SMP from §00: *Laura didn't lose her body — she got most of it back. She 
 
 Static ads typically run shorter body copy than video ads because the format rewards scannability.
 
-**Primary body copy (current from Week_1_Launch_Concepts.md — validated for Laura):**
+**Primary body copy (current from `Creative/Week_1_Approval_Package/02_S2_Laura_Pedestrian.md` — validated for Laura):**
 
 > You weren't the one driving. Arizona pedestrians injured by a driver — broken bones, hospitalization, surgery — may be entitled to compensation. No fee unless we win.
 
@@ -186,7 +186,7 @@ Laura is the final Phase 1 persona. With this folder, the build-out is complete:
 
 **Recommended next work orders (Davis prioritizes):**
 
-1. **Cascade updates to upstream docs.** The Creative brief (`Week_1_Launch_Concepts.md`) and Case_Type_Personas (`Audience/02_Case_Type_Personas.md`) still reference pre-tune versions of all four personas. If Davis wants the downstream documentation aligned with the tuned archetypes, a separate cascade work order propagates the changes.
+1. **Cascade updates to upstream docs.** The old Creative brief (now `Archive/Week_1_Launch_Concepts_2026-04-21.md`) and Case_Type_Personas (`Audience/02_Case_Type_Personas.md`) still reference pre-tune versions of all four personas. The **current canonical creative is `Creative/Week_1_Approval_Package/`** (built from the deep personas). 02_Case_Type_Personas has been stamped SUPERSEDED.
 2. **Scene prompt generation for Hegarty's room.** Now that the four deep personas exist, the M1/M2/M3/S1/S2/S5 scene prompts can be written against them. Giuseppe Karma (AI Creative Director) is primed.
 3. **Intake team training.** The personas are useful only if the WCTL intake team can convert on them. Each persona's Category Journey (§3) + Campaign Implications (§5) provide the intake-playbook material. Consider a 2-hour training session for the WCTL intake team using the Ty/Sarah/Diana/Laura documents.
 4. **Phase 1 pilot launch.** Once scene prompts are written + reference portraits are locked, the campaign is ready to go live. Meta ad review submission 48-72 hours before intended launch per the compliance checklist.

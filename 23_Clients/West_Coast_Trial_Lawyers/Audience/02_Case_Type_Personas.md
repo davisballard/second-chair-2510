@@ -1,4 +1,22 @@
-# Arizona Non-Soft-Tissue PI Personas
+> **⚠ SUPERSEDED 2026-04-23 — canonical persona truth lives at `Audience/Deep_Personas/`.**
+>
+> This document is the April-13 shallow-pass persona scaffold. Davis built the full deep-persona work (6 files per persona: Executive Summary, Life World, Emotional Architecture, Category Journey, Media Reach, Campaign Implications) at `Audience/Deep_Personas/{Sarah,Diana,Laura,Ty}/`. When in conflict, **Deep_Personas wins.** Notable differences:
+>
+> | This doc says | Deep_Personas says (canonical) |
+> |---|---|
+> | §1 Marco Reyes, 35, Mesa, Harley Street Glide (cruiser), HVAC tech | **Ty Rivera**, 32, Chandler, **Yamaha R6 (supersport)**, HVAC tech — see `Deep_Personas/Ty/` |
+> | §2 Diana Nguyen, generic MVA victim | Diana Nguyen — senior office manager at 7-person property firm, husband Ben (variable-income construction), 52% household income stable anchor — see `Deep_Personas/Diana/` |
+> | §3 Miguel (Spanish pedestrian) | **Deferred to Phase 2** per signed proposal |
+> | §4 Sarah — trucking nurse (pregnancy mentioned) | Sarah Mitchell — ICU nurse at Flagstaff Medical Center, I-17 corridor, compound L humerus fracture, 71% household income anchor. **Pregnancy removed** from canonical deep persona — see `Deep_Personas/Sarah/` |
+> | §5 James (DUI) | **Excluded per signed contract §1.3** |
+> | §6 Sofia (rideshare) | Phase 2 scaffold, not in pilot |
+> | *Laura not in this doc* | Laura Henderson — elementary school librarian, Gilbert, crosswalk pedestrian, place-identity loss archetype — see `Deep_Personas/Laura/` |
+>
+> **For creative production, copy, casting, and intake prep, use the `Deep_Personas/` folder.** This doc is retained for demographic framing, methodology transparency, and version history only.
+
+---
+
+# Arizona Non-Soft-Tissue PI Personas [ARCHIVE — SUPERSEDED]
 ## B2C Audience Profiles — $10K Meta Pilot Campaign
 
 **Prepared:** April 13, 2026
@@ -10,7 +28,7 @@
 
 > **Methodology transparency (2026-04-21):** These six personas were built from (a) ADOT / NHTSA / Census demographic and crash data applied to Arizona-specific geography (Doc 1), (b) secondary research on post-trauma psychology and PI intake patterns, and (c) professional judgment from the agency team — Davis (18 years brand advertising) and Jon Steel-method deprivation framing. **They were not validated against interviews with actual WCTL claimants or primary ethnographic research.** The specificity (Marco's $2,100 mortgage, Miguel's remittance to mom, Diana's 6-hour work tolerance) is constructed detail grounded in demographic and behavioral reality, not quotes from real people. This is the common agency-planner practice Jon Steel-style "natural habitat" work actually represents — educated archetype-building, not ethnography. Treat these personas as sharp creative scaffolding, not as quantitative claims. Where WCTL has or can share intake data, these profiles should be re-validated after the pilot for Phase 2.
 
-> **⚠️ Persona ≠ Casting (2026-04-22).** The personas in this document are **psychological scaffolding** — emotional profiles of real market segments — not demographic mandates for on-screen protagonists. The Phase 1 creative protagonists in `Creative/Week_1_Launch_Concepts.md` are cast for **AZ demographic reach under Meta Special Ad Categories** (51% White / 32% Hispanic / 4.6% Black / 4.2% AI-AN / 3.6% Asian), optimized against homophily-bias research showing audiences engage more readily with in-group faces. Concretely:
+> **⚠️ Persona ≠ Casting (2026-04-22, updated 2026-04-23).** The personas in this document are **psychological scaffolding** — emotional profiles of real market segments — not demographic mandates for on-screen protagonists. The Phase 1 creative protagonists are now specified in `Creative/Week_1_Approval_Package/` (files 01–06) — this was previously `Creative/Week_1_Launch_Concepts.md` which is now at `Creative/Archive/Week_1_Launch_Concepts_2026-04-21.md` (archive-only). Casting was optimized for **AZ demographic reach under Meta Special Ad Categories** (51% White / 32% Hispanic / 4.6% Black / 4.2% AI-AN / 3.6% Asian), informed by homophily-bias research. The motorcycle persona was repivoted 2026-04-22 from Marco Reyes (cruiser) to Ty Rivera (supersport) — see `Audience/Deep_Personas/Ty/`. Concretely:
 >
 > | Persona (this doc — psychological truth) | Phase 1 Casting (Creative doc — on-screen face) | Rationale |
 > |---|---|---|
@@ -51,7 +69,9 @@ For media planning: the "Where to Reach Them" section maps directly to platform,
 
 ---
 
-## 1. Marco — The Motorcyclist
+## 1. Marco — The Motorcyclist [SUPERSEDED]
+
+> **⚠ This persona is SUPERSEDED by `Audience/Deep_Personas/Ty/`.** The motorcycle archetype pivoted 2026-04-22 from **Marco Reyes** (cruiser — 35, Mesa, Harley Street Glide, white, HVAC tech) to **Ty Rivera** (supersport — 32, Chandler, Yamaha R6, Latin heritage, HVAC tech). Rationale: AZ supersport riders have 4× higher per-capita crash rate than cruiser riders; the supersport archetype is the load-bearing WCTL motorcycle lead. Archived Marco source: `Audience/Deep_Personas/Archive/Marco_Cruiser.md`. For Week 1 creative, use `Deep_Personas/Ty/` and `Creative/Week_1_Approval_Package/04_M1_Ty_Identity.md` / `05_M2_Ty_Loss.md` / `06_M3_Ty_Injustice.md`. The content below is retained for version history only.
 
 ### Quick Profile
 
