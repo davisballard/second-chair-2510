@@ -42,14 +42,14 @@ This folder contains all B2B prospect intelligence and market analysis for Secon
 
 | File | Market |
 |------|--------|
-| [FL_Miami_Whale_List.md](Prospect_Targets/Whale_Lists/FL_Miami_Whale_List.md) | South Florida / Miami DMA |
-| [NY_NYC_Whale_List.md](Prospect_Targets/Whale_Lists/NY_NYC_Whale_List.md) | New York City DMA |
+| [FL_Miami_Whale_List.md](Prospect_Targets/Whale_Lists/FL_Miami_Whale_List.md) | South Florida / Miami Market |
+| [NY_NYC_Whale_List.md](Prospect_Targets/Whale_Lists/NY_NYC_Whale_List.md) | New York City Market |
 
 ---
 
 ## Market Analysis
 
-*Territory sizing, DMA prioritization, and geographic exclusivity modeling.*
+*Territory sizing, Market prioritization, and geographic exclusivity modeling.*
 
 ---
 
@@ -69,11 +69,11 @@ This folder contains all B2B prospect intelligence and market analysis for Secon
 
 ---
 
-### Top_10_DMA_Targets.md
+### Top_10_Market_Targets.md
 
-**Path:** [Market_Analysis/Top_10_DMA_Targets.md](Market_Analysis/Top_10_DMA_Targets.md)
+**Path:** [Market_Analysis/Top_10_Market_Targets.md](Market_Analysis/Top_10_Market_Targets.md)
 
-**Description:** The top 10 DMAs ranked for Second Chair expansion — scoring each on PI case volume, firm concentration, competitive presence, and geography exclusivity opportunity.
+**Description:** The top 10 Markets ranked for Second Chair expansion — scoring each on PI case volume, firm concentration, competitive presence, and geography exclusivity opportunity.
 
 ---
 

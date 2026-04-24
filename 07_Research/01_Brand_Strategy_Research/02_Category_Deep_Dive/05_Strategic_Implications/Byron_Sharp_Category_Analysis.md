@@ -57,7 +57,7 @@ I've mapped all identifiable CEPs for the PI attorney lead gen purchase decision
 *Emotional state:* Competitive anxiety. Urgency.
 *Trigger behavior:* Immediate action — evaluating whether to secure their own territory before the remaining options close.
 *Who currently owns this CEP:* Quintessa and similar exclusive territory vendors benefit most from this trigger. Second Chair's geo-exclusivity model is directly relevant.
-*Second Chair opportunity:* Very high. "Exclusive territory, one firm per DMA" maps perfectly to this CEP. FOMO and competitive pressure override status quo bias.
+*Second Chair opportunity:* Very high. "Exclusive territory, one firm per Market" maps perfectly to this CEP. FOMO and competitive pressure override status quo bias.
 
 **CEP 4: "January hit and I'm scared"**
 *Situation:* January-March seasonal slowdown (documented in Session 01 — 33% seasonal swing from trough to peak). Case flow is naturally lower and the attorney cannot distinguish between "seasonal" and "structural."

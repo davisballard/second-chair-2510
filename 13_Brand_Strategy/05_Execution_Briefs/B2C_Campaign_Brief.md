@@ -17,12 +17,12 @@ Personal injury legal advertising runs under Meta's Special Ad Category. This me
 - **No demographic targeting** — no age, gender, household income targeting
 - **No interest targeting** — no behavioral or psychographic stacks
 - **No lookalike audiences** built from any seed
-- **Geographic targeting is available** — DMA/city level
+- **Geographic targeting is available** — Market/city level
 - **Creative is the only targeting tool**
 
 This is not a limitation. It is the mechanism that makes Second Chair's creative capability a competitive advantage. The ad that stops the right person mid-scroll while being invisible to everyone else is not built through a targeting algorithm — it is built through craft. That is what Second Chair offers that competitors cannot replicate.
 
-**Campaign structure:** 1 ad set per DMA at launch, 3-5 creatives inside (different angles, hooks, formats). Meta rotates and tests them simultaneously, shifting delivery to the winners. All conversion events feed one learning model. Second ad set (Spanish, retargeting) launches after first exits learning (~3-6 weeks at SC's volume of 1-3 leads/day). 100-lead minimum per DMA before expanding. See `09_Operations/HOW_META_CAMPAIGNS_OPTIMIZE.md`.
+**Campaign structure:** 1 ad set per Market at launch, 3-5 creatives inside (different angles, hooks, formats). Meta rotates and tests them simultaneously, shifting delivery to the winners. All conversion events feed one learning model. Second ad set (Spanish, retargeting) launches after first exits learning (~3-6 weeks at SC's volume of 1-3 leads/day). 100-lead minimum per Market before expanding. See `09_Operations/HOW_META_CAMPAIGNS_OPTIMIZE.md`.
 
 **What IS available under SAC:** Retargeting — website visitors, video viewers (50%+), lead form openers, customer list uploads. These become valuable after the first 100 leads build enough site traffic.
 
@@ -213,7 +213,7 @@ If yes: the self-selection mechanism is working. If no: the ad is too generic an
 
 ## Production Workflow
 
-**Volume requirement:** Second Chair's competitive advantage includes hyper-localized creative production at scale. The same campaign framework runs across multiple DMAs with market-specific elements (city/state, local details, SOL by state for Tier 3).
+**Volume requirement:** Second Chair's competitive advantage includes hyper-localized creative production at scale. The same campaign framework runs across multiple Markets with market-specific elements (city/state, local details, SOL by state for Tier 3).
 
 **AI-assisted production:** The cinematic quality Second Chair requires is achievable at scale through AI-assisted creative production — but the quality threshold must be maintained. The test for every piece of produced creative: does it look like someone who cared made it? If the details are wrong, the production is not complete.
 

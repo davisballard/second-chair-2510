@@ -68,7 +68,7 @@
 ## 24-Hour Deliverables
 
 - [ ] Thank-you email within 1 hour
-- [ ] Pricing sheet (customized to DMAs they focused on) within 24 hours
+- [ ] Pricing sheet (customized to Markets they focused on) within 24 hours
 - [ ] {{Wedge}} memo they can share with {{DM_NAME}} within 24 hours
 - [ ] Short Slack/iMessage to Sasha + Alex with call summary
 

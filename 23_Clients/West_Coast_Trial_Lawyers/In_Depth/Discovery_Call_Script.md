@@ -24,7 +24,7 @@ Target: **Davis asks questions 70% of the time. Robert talks 60% of the call.** 
 
 - The meeting exists because of Sasha's SB-37 email. Robert asked "are you available to meet on Friday?" within 20 minutes of receiving it. That's a buying signal — the SB-37 language hit something.
 - Robert is WCTL's Digital Marketing Executive. He already buys leads. He already manages vendor relationships. He is NOT the decision-maker — Neama Rahmani is.
-- WCTL: $1.7B+ recovered, 20+ attorneys, 200+ staff, 11 DMAs across 4 states, 7 of them in California.
+- WCTL: $1.7B+ recovered, 20+ attorneys, 200+ staff, 11 Markets across 4 states, 7 of them in California.
 - We have no agenda. Robert may go anywhere from "who are you guys?" through to pricing and creative depth. Be ready for all of it.
 
 ---
@@ -286,11 +286,11 @@ Davis does NOT launch into a pitch. Davis asks permission and lets substance do 
 
 **Permission granted. Davis does ~3 minutes of tightly structured story (NOT pitch):**
 
-1. > *"We build creative specifically for each DMA. Not swap in a city name — actually go deep into who lives there. For Fresno that means Central Valley farmworkers, Spanish-language where the market demands it. For the Inland Empire it means commute corridors and the I-10/I-15 trucking reality. For Seattle it means Pacific Northwest tone. Every ad is built for the specific people in that specific market."*
+1. > *"We build creative specifically for each Market. Not swap in a city name — actually go deep into who lives there. For Fresno that means Central Valley farmworkers, Spanish-language where the market demands it. For the Inland Empire it means commute corridors and the I-10/I-15 trucking reality. For Seattle it means Pacific Northwest tone. Every ad is built for the specific people in that specific market."*
 
 2. > *"We run our own advertising — we're not buying from a marketplace. Every ad that runs under WCTL's name is built by us, visible to you in the dashboard, SB-37 compliant from day one, with mandatory disclosures and no prohibited content. You approve before it runs if you want to."*
 
-3. > *"One firm per DMA. Your competitor in LA can't buy from us while you hold LA. That's the product — not 'exclusive leads,' exclusive territory."*
+3. > *"One firm per Market. Your competitor in LA can't buy from us while you hold LA. That's the product — not 'exclusive leads,' exclusive territory."*
 
 4. > *"And here's the metric piece. Every lead we deliver has a Projected Attorney Fee attached to it — built from the Fit Score we score every lead on, combined with the median attorney fee for that case type. Aggregate the cohort, divide by spend, and you see the Projected ROAS on day one. Before any case has signed. No other vendor in this space projects per-lead value like that — they report CPL or CPSC after the fact. We built the model because CPL is vanity and CPSC averages away the case-value mix. Projected Attorney Fee is the only metric that actually tells you what's in the pipeline."*
 
@@ -363,15 +363,15 @@ Wait for Robert to ask. Don't lead with prices. Have `WCTL_Markets_Client_Facing
 
 ### Then reveal per-lead pricing
 
-> *"California is your home state — 7 DMAs, 23 office cities, one compliance framework. When you lock the whole state down, we apply a 15% operational-efficiency discount. The blended California rate comes to about $320 per lead."*
+> *"California is your home state — 7 Markets, 23 office cities, one compliance framework. When you lock the whole state down, we apply a 15% operational-efficiency discount. The blended California rate comes to about $320 per lead."*
 
 > *"LA at lockdown is $360. SF at lockdown is $325. Riverside–San Bernardino is $290. San Diego is $290. Sacramento $265. Fresno $230. Bakersfield $220."*
 
 > *"Outside California: Vegas is $325, Reno $270, Phoenix $315, Seattle $335. Those are at list price — because there's no operational efficiency to pass through outside California."*
 
-> *"Full 11-DMA portfolio blended, pop-weighted, comes to about $320-$325 per lead depending on delivery mix."*
+> *"Full 11-Market portfolio blended, pop-weighted, comes to about $320-$325 per lead depending on delivery mix."*
 
-**Share `WCTL_Markets_Client_Facing.md` on screen** if he wants to see it. The MOI methodology + full 11-DMA table.
+**Share `WCTL_Markets_Client_Facing.md` on screen** if he wants to see it. The MOI methodology + full 11-Market table.
 
 ### If he pushes on price
 
@@ -391,7 +391,7 @@ Wait for Robert to ask. Don't lead with prices. Have `WCTL_Markets_Client_Facing
 
 ### Davis verbatim
 
-> *"Robert — I want to be direct about something. I know you don't write a check for a multi-DMA program on your own authority. Neama has to sign off, probably your ops lead has to weigh in. So the most useful thing I can do for you on this call is figure out what you need from me to walk into Neama's office and make this case."*
+> *"Robert — I want to be direct about something. I know you don't write a check for a multi-Market program on your own authority. Neama has to sign off, probably your ops lead has to weigh in. So the most useful thing I can do for you on this call is figure out what you need from me to walk into Neama's office and make this case."*
 
 *(pause — this line gives Robert permission to stop performing as if he's the decision-maker)*
 
@@ -423,7 +423,7 @@ Wait for Robert to ask. Don't lead with prices. Have `WCTL_Markets_Client_Facing
 
 **The soft close — no pressure on Robert. He can't close anyway.**
 
-> *"Here's what I'd suggest. I'll put together two things and send them by end of day tomorrow. One — a market-by-market pricing sheet for your 11 DMAs: California lockdown, Vegas, Reno, Phoenix, Seattle, all the math transparent. Two — a short internal memo on SB-37 vendor liability you can share with Neama if you think it's useful. No pressure on timing. Would that be a bad idea?"*
+> *"Here's what I'd suggest. I'll put together two things and send them by end of day tomorrow. One — a market-by-market pricing sheet for your 11 Markets: California lockdown, Vegas, Reno, Phoenix, Seattle, all the math transparent. Two — a short internal memo on SB-37 vendor liability you can share with Neama if you think it's useful. No pressure on timing. Would that be a bad idea?"*
 
 *(No-oriented question — he'll say "no, that's fine" which is a yes)*
 
@@ -433,7 +433,7 @@ Wait for Robert to ask. Don't lead with prices. Have `WCTL_Markets_Client_Facing
 
 ### If Robert is enthusiastic
 
-> *"The way we'd typically start for a firm like WCTL is California. Seven DMAs, one compliance framework, 100 leads per market upfront as a package. That's $198,000 at lockdown pricing. You see the full performance arc — learning phase, stabilization, optimization — in 5 to 7 weeks. If the numbers work, you renew. If they don't, you walk away. That's the cleanest first move."*
+> *"The way we'd typically start for a firm like WCTL is California. Seven Markets, one compliance framework, 100 leads per market upfront as a package. That's $198,000 at lockdown pricing. You see the full performance arc — learning phase, stabilization, optimization — in 5 to 7 weeks. If the numbers work, you renew. If they don't, you walk away. That's the cleanest first move."*
 
 ### If Robert is hesitant about the scope
 
@@ -441,11 +441,11 @@ Wait for Robert to ask. Don't lead with prices. Have `WCTL_Markets_Client_Facing
 
 ### If Robert wants pricing in writing
 
-> *"I'll put together a market-by-market pricing summary for the territories you're focused on and send it over by end of day tomorrow. Clean document — DMA, MOI score, price, what's included."*
+> *"I'll put together a market-by-market pricing summary for the territories you're focused on and send it over by end of day tomorrow. Clean document — Market, MOI score, price, what's included."*
 
 ### If Robert needs to think / confer with Neama
 
-> *"Completely understand. I'll send everything in writing — the territory model, pricing for your 11 DMAs, and the SB-37 memo for Neama. Take whatever time you need."*
+> *"Completely understand. I'll send everything in writing — the territory model, pricing for your 11 Markets, and the SB-37 memo for Neama. Take whatever time you need."*
 
 **Follow up in 5 business days, not 24 hours.** Robert needs time to float this internally. Pressure backfires.
 
@@ -495,7 +495,7 @@ End with: *"Is it ridiculous to think that 18 years of brand advertising plus 4 
 
 ### "Send us a proposal."
 
-> *"Absolutely. Two questions so I don't waste your time. Which markets do you want me to price — are we talking full California lockdown, LA as a starting point, or all 11 DMAs? And what level of detail does Neama want — top-line or fully broken out?"*
+> *"Absolutely. Two questions so I don't waste your time. Which markets do you want me to price — are we talking full California lockdown, LA as a starting point, or all 11 Markets? And what level of detail does Neama want — top-line or fully broken out?"*
 
 ### "What about [specific current vendor]?"
 

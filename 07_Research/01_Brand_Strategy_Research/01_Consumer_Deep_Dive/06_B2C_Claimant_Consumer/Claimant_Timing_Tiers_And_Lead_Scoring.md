@@ -37,7 +37,7 @@ All personal injury legal advertising on Meta, Google, and major digital platfor
 - Lookalike audiences built from demographic data — disabled
 
 **What remains available:**
-- Geographic targeting (state, DMA, city, zip code)
+- Geographic targeting (state, Market, city, zip code)
 - Creative self-selection: the ad itself determines who stops scrolling
 - Conversion-signal lookalikes (Meta can find more people who look like those who submitted a lead form — based on behavioral patterns, not demographics)
 - Time-of-day and device targeting

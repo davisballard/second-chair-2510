@@ -51,19 +51,19 @@ For a California-primary firm with the scale of West Coast Trial Lawyers, this i
 
 ## What Our Creative IS
 
-- **DMA-specific** — built for the actual people in that actual market, not a national template
+- **Market-specific** — built for the actual people in that actual market, not a national template
 - **Compliance-grade** — designed to clear SB-37, FCC 2025, and state bar rules from day one
 - **Trusted-advisor tone** — the positioning SB-37 requires: a lawyer as a helpful resource, not a predator
 - **Bilingual where the market demands it** — LA, Fresno, Inland Empire, Bakersfield have large Hispanic populations; the creative reflects that
 - **Visible to you** — every ad lives in your dashboard. You can see what's running under your firm's name at any time. If you want approval before launch as a standing requirement, we set that up.
 - **Documented** — every consent moment captured with a TrustedForm certificate, every placement audit-traceable for 5 years
-- **Specific** — the claimant in the ad is recognizable as someone who actually lives in that DMA, drives those corridors, works in those industries, raises a family under those conditions
+- **Specific** — the claimant in the ad is recognizable as someone who actually lives in that Market, drives those corridors, works in those industries, raises a family under those conditions
 
 ---
 
 ## What This Means for West Coast Trial Lawyers
 
-WCTL is a California-primary firm with 7 of 11 DMAs in California, representing ~71% of your population coverage. SB-37 is not a peripheral issue for your marketing — it's the central regulatory fact of your operation.
+WCTL is a California-primary firm with 7 of 11 Markets in California, representing ~71% of your population coverage. SB-37 is not a peripheral issue for your marketing — it's the central regulatory fact of your operation.
 
 You have a co-founder who is a nationally recognized trial lawyer and TV legal analyst. Neama's personal brand is the firm's primary asset. Anything that runs under your firm's name reflects directly on him, his public image, and the cases he takes to trial.
 
@@ -75,9 +75,9 @@ If that matches how you think about the firm's image, we should talk.
 
 ## The Market-By-Market Application
 
-Every DMA in WCTL's footprint has different archetypes. Creative built for Los Angeles doesn't work for Fresno. Creative built for Seattle doesn't work for Vegas. The research up front is deep, and the creative output is specific.
+Every Market in WCTL's footprint has different archetypes. Creative built for Los Angeles doesn't work for Fresno. Creative built for Seattle doesn't work for Vegas. The research up front is deep, and the creative output is specific.
 
-### California DMAs
+### California Markets
 
 **Los Angeles** — 13.2M pop, ~49% Hispanic. Extreme PI competition. SB-37 fully active. Bilingual (Spanish) creative required alongside English. Archetypes include working-class Hispanic families in East LA and the San Fernando Valley, service-industry workers, commuters on the 101/405/10, Korean-American small business owners, Persian/Armenian community members (relevant to WCTL's existing community ties).
 
@@ -93,7 +93,7 @@ Every DMA in WCTL's footprint has different archetypes. Creative built for Los A
 
 **Bakersfield** — 0.9M pop, ~53% Hispanic. Oil industry, agriculture, I-5/CA-99 trucking corridor. Bilingual critical. Working-class authenticity matters.
 
-### Non-California DMAs
+### Non-California Markets
 
 **Las Vegas** — 2.3M pop. Service industry workforce, tourism, transient populations. Nevada does NOT have SB-37 equivalent — more creative latitude is available (crash footage allowed with context, settlement amounts with disclaimers, more direct urgency). Creative here can breathe more than California.
 
@@ -109,14 +109,14 @@ Every DMA in WCTL's footprint has different archetypes. Creative built for Los A
 
 Before any ad runs in any market, we do the following:
 
-1. **DMA demographics deep-dive** — who lives here, what they do for work, what languages they speak, what corridors they drive, what hospitals they go to after an accident
+1. **Market demographics deep-dive** — who lives here, what they do for work, what languages they speak, what corridors they drive, what hospitals they go to after an accident
 2. **Competitive scan** — what are the dominant PI advertising voices in the market, what's the table stakes, what's the white space
-3. **Compliance mapping** — for CA DMAs, the SB-37 compliance framework; for NV/AZ/WA, the applicable state bar rules
-4. **Audience archetype build** — 4-6 distinct archetypes per DMA, each with their own creative angle, emotional register, and language
-5. **Creative concepting** — 3-5 initial creative variants per DMA, designed to self-select different audience segments, built to clear compliance from the first frame
+3. **Compliance mapping** — for CA Markets, the SB-37 compliance framework; for NV/AZ/WA, the applicable state bar rules
+4. **Audience archetype build** — 4-6 distinct archetypes per Market, each with their own creative angle, emotional register, and language
+5. **Creative concepting** — 3-5 initial creative variants per Market, designed to self-select different audience segments, built to clear compliance from the first frame
 6. **Dashboard preview** — every creative lives in your dashboard, viewable before it goes live if that's a requirement
 
-This is not a 24-hour turnaround. It's a process. For a first package in a new DMA, the research-to-launch window is approximately 2 weeks. The advantage is that the creative is actually specific to your market — not a template with your city name swapped in.
+This is not a 24-hour turnaround. It's a process. For a first package in a new Market, the research-to-launch window is approximately 2 weeks. The advantage is that the creative is actually specific to your market — not a template with your city name swapped in.
 
 ---
 

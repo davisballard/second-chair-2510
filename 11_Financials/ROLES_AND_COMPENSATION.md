@@ -74,7 +74,7 @@ Three equal co-founders. Every dollar of profit splits evenly. No hierarchy — 
 
 *Core (Day 1):*
 - Media buying across Meta, Google, TikTok, Snapchat, LinkedIn
-- Sales execution and B2B attorney acquisition across target DMAs
+- Sales execution and B2B attorney acquisition across target Markets
 - CRM setup, configuration, and daily operations
 - Lead pipeline tracking, sales automation, outbound sequences
 - Account relationships and partner retention
@@ -87,7 +87,7 @@ Three equal co-founders. Every dollar of profit splits evenly. No hierarchy — 
 - Premium tier sales and opt-in management
 - Ad buying / media management for partner firms' own campaigns
 - Upselling existing partners into premium tiers + agency services
-- Revenue expansion strategy per DMA
+- Revenue expansion strategy per Market
 
 **Background:** 14+ years across programmatic media buying, sales, and financial underwriting. Programmatic account management for 18+ Fortune 500 brands at 33across (Bose, Coach, Diageo, Duracell, H&R Block, Indeed, Ocean Spray, PepsiCo, Tinder). Director of Growth at The Flower Agency (pioneered cannabis programmatic on Forbes, Rolling Stone). Fund Specialist at Riverpoint Capital (millions deployed in non-dilutive growth capital). Speaks capital-allocator language — ROI, payback, allocation — which is how he sells to law firms.
 

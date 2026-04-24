@@ -34,7 +34,7 @@
 - **NOT the founder.** The founders are Neama Rahmani and Allen Patatanyan.
 - **NOT the president.** Neama Rahmani is the President and the firm's public face.
 - **NOT a Tommie Joe-style operator.** No P&L experience, no 17-year engineering career, no 15-year angel investing lens. Robert is a career in-house digital marketer, not a cross-functional business operator.
-- **NOT going to approve a multi-DMA lockdown on his own authority.** The check has to be signed by Neama (or an ops manager Robert reports to).
+- **NOT going to approve a multi-Market lockdown on his own authority.** The check has to be signed by Neama (or an ops manager Robert reports to).
 - **NOT empowered to switch vendors unilaterally.** Vendor switches touch multiple people — the founders, ops, finance, probably legal.
 
 **The frame this forces:** This is not a decision-making call. It's an **influence-transfer call**. Davis's job is to give Robert a story, a threat, and an upside that Robert can walk into Neama's office and repeat.
@@ -99,11 +99,11 @@ This does three things at once:
 | Robert's metric | What to do with it |
 |---|---|
 | CPL (cost per lead) | Flip it. Anchor CPSC before revealing CPL. Show that a cheaper lead that doesn't sign is more expensive per signed case. |
-| Signed cases per month | Offer volume modeling at 1/2/3 leads per day per DMA. Show the monthly revenue math. |
+| Signed cases per month | Offer volume modeling at 1/2/3 leads per day per Market. Show the monthly revenue math. |
 | CRM integration | Alex covers webhook/portal/email + TrustedForm + audit trail. |
 | Attribution (which vendor signed which case) | SC gives cleaner attribution than multi-vendor setups — single dashboard, end-to-end tracking. |
 | Vendor reviews | Don't name vendors. Reference the industry 1.3/5 average rating from attorneys who use lead gen. Let Robert fill in the blank. |
-| Spanish-language / bilingual reach | Hit this hard. Davis's creative process is DMA-specific and bilingual where the market demands (Fresno, LA, Inland Empire). Robert as a Communications major in LA should value this. |
+| Spanish-language / bilingual reach | Hit this hard. Davis's creative process is Market-specific and bilingual where the market demands (Fresno, LA, Inland Empire). Robert as a Communications major in LA should value this. |
 
 ---
 

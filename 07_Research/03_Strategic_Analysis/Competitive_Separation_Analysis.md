@@ -30,8 +30,8 @@ These are contributions Davis made independently. They represent Davis's skills,
 
 **Business Strategy:**
 - B2B attorney acquisition strategy and sales approach
-- Geo-exclusive DMA model application to PI lead gen (common industry practice; Davis shaped the specific execution)
-- State/DMA market prioritization research
+- Geo-exclusive Market model application to PI lead gen (common industry practice; Davis shaped the specific execution)
+- State/Market market prioritization research
 - Financial modeling and projection frameworks
 - Competitive analysis and positioning
 
@@ -66,13 +66,13 @@ These were Danny Dilworth's contributions to Lead Faucet. All have been stripped
 - There is no proprietary claim on "generating PI leads." This is like saying two restaurants compete because they both serve food.
 - The industry includes mass players (All Injury Lawyers, Morgan & Morgan, Sokolove Law) and hundreds of smaller operations.
 
-### B. Geo-Exclusive DMA Model
+### B. Geo-Exclusive Market Model
 
 **Overlap:** Both use geo-exclusivity (one firm per territory).
 
 **Why it's not a problem:**
 - Geo-exclusivity is a common industry practice used by multiple lead gen companies (Martindale-Avvo, FindLaw, Legal Brand Marketing, etc.)
-- The DMA (Designated Market Area) framework is a Nielsen standard used across all media buying — it's not proprietary.
+- The Market (Designated Market Area) framework is a Nielsen standard used across all media buying — it's not proprietary.
 - Multiple competitors already offer "exclusive territory" arrangements. See: COMPETITOR_GEO_EXCLUSIVITY_ANALYSIS.md.
 
 ### C. Geo-Targeting Approach
@@ -81,7 +81,7 @@ These were Danny Dilworth's contributions to Lead Faucet. All have been stripped
 
 **Key distinction:**
 - Danny wanted to do geo-targeting as a general concept.
-- Davis developed the specific methodology: which DMAs, how to target, what creative to run, how to position it to attorneys, the MVA-specific funnel architecture.
+- Davis developed the specific methodology: which Markets, how to target, what creative to run, how to position it to attorneys, the MVA-specific funnel architecture.
 - The creative execution, targeting strategy, and conversion methodology are Davis's work.
 
 ### D. MVA Focus
@@ -177,7 +177,7 @@ The product roadmap diverges immediately. Danny builds UX-beautiful consumer too
 | **Creative Person** | Davis (was at Lead Faucet, now gone) | Davis (co-founder) |
 | **Sales/Media** | Sasha (was at Lead Faucet, now gone) | Sasha (co-founder) |
 | **Clients** | Jacoby & Meyers, Think Law | Starting fresh — no legacy clients |
-| **Territory Model** | Geo-exclusive (state-level for some) | Geo-exclusive (DMA standard, no exceptions) |
+| **Territory Model** | Geo-exclusive (state-level for some) | Geo-exclusive (Market standard, no exceptions) |
 | **Positioning** | "Case-Ready Leads" | "The Creative Advantage" |
 
 ---

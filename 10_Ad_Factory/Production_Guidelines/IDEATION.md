@@ -128,47 +128,52 @@ documentary photography style, realistic lighting
 
 ---
 
-## Text in Images: AI Limitations
+## Text in Images (Updated 2026-04-23)
 
-**Critical:** AI image generators struggle with readable text at close range. Text artifacts are immediately obvious and look unprofessional.
+*ChatGPT Image 2 shipped 2026-04-21. The old "AI can't do text" rule is retired for stills generated through ChatGPT Image 2 in Higgsfield — it renders readable text at ~99% accuracy on typography, including handwriting and non-Latin scripts. See `Abracadabra/04_Production/Giuseppe_Karma_(AI_Creative_Director)/ChatGPT_Images_2_Capability_Report.md`.*
 
-### What to Avoid vs. What Works
+### What's Now Available in the SC Stills Pipeline
 
-| Scenario | Status | Why |
-|----------|--------|-----|
-| **Close-up document with readable text** | ❌ AVOID | AI text is garbled/unreadable at close range |
-| **Documents as background/context** | ✅ GOOD | Text is small, not meant to be read |
-| **Simple bold headlines/logos** | ✅ GOOD | Large, simple text can work |
-| **Blurred/out-of-focus documents** | ✅ GOOD | Intentionally unreadable = no artifacts |
-| **Person holding document (not text focus)** | ✅ GOOD | Document implies info without showing it |
+| Scenario | Status | How to prompt |
+|----------|--------|---------------|
+| **Close-up document with readable copy** | ✅ SUPPORTED | Quote the exact text: `reading exactly "[copy]"`. Specify font style, weight, color. Use `quality=high`. |
+| **Handwritten notes / legal pad / prescription / signed cursive** | ✅ SUPPORTED | Anchor surface + tool ("pencil on yellow legal pad"), quote exact words, specify penmanship style. |
+| **Packaging, signage, book covers, menus, posters** | ✅ SUPPORTED | Render in-frame with the scene's lighting. Much more believable than post-comp'd overlays. |
+| **Phone screens with real UI labels** | ✅ SUPPORTED | Describe as if the product exists; specify status bar, buttons, native design (iOS / Android). |
+| **Non-Latin signage (ZH/JA/KO/Hindi/Bengali/Arabic)** | ✅ SUPPORTED | Specifically called out as a model strength. Specify script type for Arabic ("thuluth," "naskh"). |
 
-### Bad Example (Don't Do This)
+### When to Still Render Without Text (Creative / Pragmatic Reasons)
+
+Not limitations — these are deliberate choices:
+
+| Scenario | Why |
+|----------|-----|
+| Blurred-document aesthetic is the mood | The "quiet math of a bad situation" — text-out-of-focus IS the creative (e.g., Fair Case IG series) |
+| Copy must be editable downstream | AI output is raster; can't change words without full re-render |
+| Compliance-critical copy | Human-verify or set in real design tools |
+| Running a non-ChatGPT-Image-2 model | FLUX, older Nano Banana, etc. still garble text — legacy workarounds below still apply |
+
+### Legacy Workarounds (keep for non-ChatGPT-Image-2 runs)
+
 ```
-Close-up of official document with INTERNAL TRAINING MANUAL 
-header visible, partially visible text about claim tactics...
-```
-**Problem:** The text will be garbled and obviously AI-generated.
-
-### Good Alternatives for "Leaked Document" Concept
-```
-# Option 1: Distance/angle
+# Distance/angle
 Hands holding official-looking document, shot from behind 
 the shoulder, document partially visible, warm office lighting
 
-# Option 2: Heavy blur
+# Heavy blur
 Stack of legal documents on desk, shallow depth of field, 
 text intentionally blurred, focus on coffee cup in foreground
 
-# Option 3: Envelope/implication
+# Envelope/implication
 Opened manila envelope with confidential stamp, papers 
 partially pulled out, suggesting hidden information
 
-# Option 4: Context not content
+# Context not content
 Person surrounded by scattered paperwork and bills, 
 stressed expression, documents visible but not readable
 ```
 
-**Rule of Thumb:** If the text is meant to be READ, don't make it the focal point. Show context, not content.
+**Rule of Thumb (updated):** Decide whether the text is narratively *present* (part of the frame's meaning, now renderable) or narratively *implied* (out-of-focus mood prop, where blur IS the creative). Both are valid. Pre-2026-04-21 the choice was forced by the model; now it's a director's call.
 
 ---
 

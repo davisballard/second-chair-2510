@@ -53,7 +53,7 @@ At Second Chair, Davis serves as the complete strategic and creative department�
 ### Current Role: Second Chair (2026–Present)
 **Co-Founder & Head of Marketing & Creative**
 
-Second Chair is geo-exclusive lead generation for personal injury law firms (one firm per DMA). Equal co-founder with Alex DuBelko and Sasha Zinshtein.
+Second Chair is geo-exclusive lead generation for personal injury law firms (one firm per Market). Equal co-founder with Alex DuBelko and Sasha Zinshtein.
 
 **What I Own:**
 • **Brand Positioning & Strategy** — Brand architecture, SMP, consumer research, messaging architecture (B2B + B2C via Fair Case), competitive positioning

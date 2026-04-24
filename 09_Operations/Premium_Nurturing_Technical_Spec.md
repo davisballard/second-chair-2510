@@ -98,15 +98,15 @@ Auth Token: [From Twilio Console]
 ```
 
 #### Phone Numbers
-Purchase dedicated Twilio phone numbers for each major DMA or use one national number.
+Purchase dedicated Twilio phone numbers for each major Market or use one national number.
 
 **Recommended approach:** One national toll-free number
 - **Format:** +1 (888) XXX-XXXX
 - **Cost:** $2/month + $0.013/min usage
 - **Benefits:** Single number for all outbound calls, professional appearance, call tracking
 
-**Alternative:** DMA-specific local numbers
-- **Format:** Local area code per DMA
+**Alternative:** Market-specific local numbers
+- **Format:** Local area code per Market
 - **Cost:** $1.15/month per number + $0.013/min
 - **Benefits:** Local caller ID increases answer rate
 - **Drawback:** Requires 50+ numbers for full coverage

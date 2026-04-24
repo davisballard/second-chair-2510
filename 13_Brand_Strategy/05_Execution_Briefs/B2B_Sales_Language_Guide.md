@@ -204,7 +204,7 @@ If they do know: *"That's the number we'd need to beat to be worth your time. He
 *What they're afraid of:* The premium price doesn't justify the ROI.
 
 *Sasha's response:*
-*"Let me show you the math. Standard leads at $315 convert at around 12% — that's $2,625 per signed case. Live transfers at $1,515 convert at 40-60%, let's say 50%. That's $3,030 per signed case. You're paying 15% more per case but you need 75% fewer leads to hit your case volume target. Your intake team is spending 6+ hours less per week chasing dead ends. And you're the only firm in your DMA getting qualified live transfers. The question isn't whether it's expensive — it's whether $400 more per signed case is worth having your phone ring with someone who's already qualified and ready to sign."*
+*"Let me show you the math. Standard leads at $315 convert at around 12% — that's $2,625 per signed case. Live transfers at $1,515 convert at 40-60%, let's say 50%. That's $3,030 per signed case. You're paying 15% more per case but you need 75% fewer leads to hit your case volume target. Your intake team is spending 6+ hours less per week chasing dead ends. And you're the only firm in your Market getting qualified live transfers. The question isn't whether it's expensive — it's whether $400 more per signed case is worth having your phone ring with someone who's already qualified and ready to sign."*
 
 ---
 
@@ -213,7 +213,7 @@ If they do know: *"That's the number we'd need to beat to be worth your time. He
 *What they're asking:* CPA vendors only charge per signed case — why pay per lead at all?
 
 *Sasha's response:*
-*"Settlement Allies charges $2,500-$6,500 per signed case. Our premium tier costs $3,030 per signed case. The difference is: you pay SA 30-60 days after the case is signed. You pay us weekly. Your cashflow is 4-6 weeks faster. Second, SA doesn't give you DMA exclusivity — they'll sell the same market to 3-5 firms. You get one firm per DMA with us. Third, with SA you have no control over which cases you sign — they send them, you take them or lose the relationship. With us, you're getting the lead at intake stage and you decide. You pay 20% more than SA's low end but you get faster payment, exclusivity, and control. For firms that value those three things, we're worth it."*
+*"Settlement Allies charges $2,500-$6,500 per signed case. Our premium tier costs $3,030 per signed case. The difference is: you pay SA 30-60 days after the case is signed. You pay us weekly. Your cashflow is 4-6 weeks faster. Second, SA doesn't give you Market exclusivity — they'll sell the same market to 3-5 firms. You get one firm per Market with us. Third, with SA you have no control over which cases you sign — they send them, you take them or lose the relationship. With us, you're getting the lead at intake stage and you decide. You pay 20% more than SA's low end but you get faster payment, exclusivity, and control. For firms that value those three things, we're worth it."*
 
 ---
 

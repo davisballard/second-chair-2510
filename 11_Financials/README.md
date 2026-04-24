@@ -12,9 +12,9 @@ Financial projections, revenue modeling, and business planning documents.
 **Contains:**
 - Three-stream revenue model (standard leads, premium case-ready leads, agency services)
 - Unit economics ($400 standard, $1,500+ premium, $5K/mo agency services)
-- Per DMA revenue by lead volume (1–4 leads/day, standard + premium)
+- Per Market revenue by lead volume (1–4 leads/day, standard + premium)
 - Attorney acquisition close rate scenarios (1%, 5%, 10%)
-- DMA scaling projections (5%–100% market fill)
+- Market scaling projections (5%–100% market fill)
 - Growth timeline by close rate
 - Premium lead nurturing economics and adoption ramp
 - Agency services menu and scaling
@@ -25,7 +25,7 @@ Financial projections, revenue modeling, and business planning documents.
 **Use for:**
 - Business planning and forecasting
 - Revenue goal setting
-- DMA expansion strategy
+- Market expansion strategy
 - Partner compensation planning
 - Pitch materials and growth projections
 
@@ -45,7 +45,7 @@ Financial projections, revenue modeling, and business planning documents.
 
 ## Quick Reference: Key Milestones
 
-| Milestone | DMAs | Per Founder Annual (at 3 leads/day) |
+| Milestone | Markets | Per Founder Annual (at 3 leads/day) |
 |---|---|---|
 | **First milestone (5% fill)** | 11 | $990K – $1.29M |
 | **Growth phase (10% fill)** | 21 | $1.89M – $2.46M |

@@ -105,8 +105,8 @@ Proof point: The three founders' specific roles — Davis (creative and strategy
 | "Your leads are probably garbage like everyone else's." | Do you generate leads honestly? | "Here's the advertising. Here's the compliance record on a sample lead — TrustedForm certification, origin documentation, the full stack. You're not trusting our claim. You're evaluating the product." |
 | "I need to know it works before I commit." | Give me proof without risk | "Here's a firm in a comparable market you can call. Here's the CPSC data from their last 90 days. Here's the pilot structure — minimum commitment, clear quality standard, easy exit if the data doesn't support continuing." |
 | "It's too expensive." | Does the ROI math work? | "What's your current cost-per-signed-case from your existing vendors? Most attorneys don't have this number — because their vendors don't report it. Let's do the math together before we talk price." |
-| "$1,500 per lead is too much." (Premium tier) | Premium pricing concern | "Standard leads at $315 convert at 12% = $2,625 per signed case. Live transfers at $1,515 convert at 50% = $3,030 per case. You pay 15% more per case but need 75% fewer leads. Your intake team saves 6+ hours per week. And you're the only firm getting qualified live transfers in your DMA." |
-| "Why not just use Settlement Allies?" (CPA alternative) | CPA model comparison | "Settlement Allies charges $2,500-$6,500 per signed case with 30-60 day payment delay. Our premium tier costs $3,030 per signed case with weekly billing. You pay 20% more than SA's low end but get paid 4-6 weeks faster, keep DMA exclusivity, and control which cases you sign." |
+| "$1,500 per lead is too much." (Premium tier) | Premium pricing concern | "Standard leads at $315 convert at 12% = $2,625 per signed case. Live transfers at $1,515 convert at 50% = $3,030 per case. You pay 15% more per case but need 75% fewer leads. Your intake team saves 6+ hours per week. And you're the only firm getting qualified live transfers in your Market." |
+| "Why not just use Settlement Allies?" (CPA alternative) | CPA model comparison | "Settlement Allies charges $2,500-$6,500 per signed case with 30-60 day payment delay. Our premium tier costs $3,030 per signed case with weekly billing. You pay 20% more than SA's low end but get paid 4-6 weeks faster, keep Market exclusivity, and control which cases you sign." |
 | "I need to talk to my partner first." | I'm not ready yet | "Absolutely. When you do — here's the one-page we recommend sharing. It has the advertising, the compliance record, and the CPSC reporting format. That's usually what partners want to see." |
 
 ---
@@ -363,11 +363,11 @@ No long-term contracts required. The business model assumes Second Chair must ea
 
 ### Post-Launch — Format to Be Populated
 
-- Average CPSC by DMA and case type (soft tissue / non-soft tissue / catastrophic)
+- Average CPSC by Market and case type (soft tissue / non-soft tissue / catastrophic)
 - Intake conversion rate: Second Chair leads vs. attorney's prior vendor (at 90-day and 6-month marks)
 - TrustedForm compliance rate (target: 100% of delivered leads)
 - Attorney retention rate at 3 months, 6 months, 12 months
-- Named attorney references available per market (target: 1 named reference per active DMA)
+- Named attorney references available per market (target: 1 named reference per active Market)
 
 ---
 

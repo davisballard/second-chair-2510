@@ -38,7 +38,7 @@ We Qualify Them.
 **Subheadline:**
 ```
 Choose your service tier: Standard web leads, AI-qualified leads with full transcripts, 
-or human live transfers within 90 seconds. Same exclusive DMA leads, 
+or human live transfers within 90 seconds. Same exclusive Market leads, 
 better conversion rates.
 ```
 
@@ -97,7 +97,7 @@ Choose Your Service Tier
 
 **Subheadline:**
 ```
-All tiers include DMA exclusivity, honest advertising, real-time delivery, and compliance-first operations. 
+All tiers include Market exclusivity, honest advertising, real-time delivery, and compliance-first operations. 
 The difference is how we handle first contact.
 ```
 
@@ -112,12 +112,12 @@ The difference is how we handle first contact.
 - Dual scoring (conversion likelihood + case value)
 - Real-time delivery via portal, email, webhook
 - TrustedForm certificate, DNC/litigator screening
-- DMA exclusivity (one firm per territory)
+- Market exclusivity (one firm per territory)
 
 **Pricing:**
 ```
 $175-$500/lead
-Based on your DMA operating costs
+Based on your Market operating costs
 ```
 
 **Conversion:**
@@ -247,7 +247,7 @@ See how premium tier pricing compares to standard web leads.
 **Interactive calculator fields:**
 
 **Input 1: Your Market**
-- Dropdown: Select your DMA (auto-populates base lead price)
+- Dropdown: Select your Market (auto-populates base lead price)
 - Examples: Denver, NYC, Los Angeles, Chicago, Miami, Dallas, etc.
 - Shows base price: "$315/lead in Denver"
 
@@ -432,7 +432,7 @@ We integrate all three from one partner.
 
 | Feature | Standard Lead Vendors | Call Centers | CPA/CPSC Vendors | **Second Chair Premium** |
 |---|---|---|---|---|
-| **DMA exclusivity** | Sometimes | No | Varies | ✓ Yes |
+| **Market exclusivity** | Sometimes | No | Varies | ✓ Yes |
 | **Honest advertising** | No | N/A | No | ✓ Yes |
 | **Real-time qualification** | No | Yes | Yes | ✓ Yes (AI or human) |
 | **Live transfer** | No | Yes (separate service) | Sometimes | ✓ Yes (integrated) |
@@ -530,13 +530,13 @@ A: Our default availability is M-F 9am-6pm PT. For firms with 24/7 intake capabi
 
 **Q: How is this different from Settlement Allies or other CPA vendors?**
 
-A: Settlement Allies charges $2,500-$6,500 per signed case with review-before-pay. You take zero conversion risk, but you pay 2-3x per case and wait 30-60 days for billing. Our premium tier charges $1,500 average per lead with 40-60% conversion = $2,500-$3,750 per signed case. You take conversion risk, but you get faster cash flow, DMA exclusivity, and full control over which cases you sign. Which model is better depends on your priorities (risk vs. cash flow).
+A: Settlement Allies charges $2,500-$6,500 per signed case with review-before-pay. You take zero conversion risk, but you pay 2-3x per case and wait 30-60 days for billing. Our premium tier charges $1,500 average per lead with 40-60% conversion = $2,500-$3,750 per signed case. You take conversion risk, but you get faster cash flow, Market exclusivity, and full control over which cases you sign. Which model is better depends on your priorities (risk vs. cash flow).
 
 ---
 
 **Q: What states do you cover?**
 
-A: All 50 states. Pricing varies by DMA. Use our pricing calculator to see your market's base rate.
+A: All 50 states. Pricing varies by Market. Use our pricing calculator to see your market's base rate.
 
 ---
 
@@ -598,12 +598,12 @@ What Does This Cost in Your Market?
 
 **Subheadline:**
 ```
-Pricing varies by DMA based on operating costs. Select your market to see exact pricing.
+Pricing varies by Market based on operating costs. Select your market to see exact pricing.
 ```
 
 **Interactive pricing calculator:**
 
-**Input:** Dropdown with major DMAs (NYC, LA, Chicago, Miami, Dallas, Denver, Phoenix, etc.)
+**Input:** Dropdown with major Markets (NYC, LA, Chicago, Miami, Dallas, Denver, Phoenix, etc.)
 
 **Output:**
 
@@ -625,7 +625,7 @@ Pricing varies by DMA based on operating costs. Select your market to see exact 
 
 **Note:**
 ```
-Prices shown are examples. Actual pricing determined during discovery call based on your DMA, 
+Prices shown are examples. Actual pricing determined during discovery call based on your Market, 
 monthly volume, and service tier selection.
 ```
 
@@ -709,7 +709,7 @@ Questions? Email sasha@2ndchair.net or call (XXX) XXX-XXXX
 - Pricing calculator: Client-side only (no API calls for basic calculations)
 
 **Analytics tracking:**
-- Calculator usage (which DMAs searched)
+- Calculator usage (which Markets searched)
 - Tier comparison clicks
 - CTA button clicks
 - Time on page
@@ -726,7 +726,7 @@ Premium Lead Nurturing — Second Chair | AI & Human Qualified PI Leads
 
 **Meta Description:**
 ```
-Exclusive MVA leads with AI or human qualification. Standard delivery, AI-qualified with transcripts, or live transfers within 90 seconds. Choose your tier. DMA exclusivity included.
+Exclusive MVA leads with AI or human qualification. Standard delivery, AI-qualified with transcripts, or live transfers within 90 seconds. Choose your tier. Market exclusivity included.
 ```
 
 **H1:**
@@ -740,7 +740,7 @@ Premium Lead Nurturing: AI-Qualified & Live Transfer MVA Leads
 - Qualified PI leads
 - AI intake qualification
 - Exclusive MVA leads
-- DMA exclusive leads
+- Market exclusive leads
 - Personal injury lead generation
 - Law firm lead nurturing
 
@@ -788,7 +788,7 @@ Premium Lead Nurturing: AI-Qualified & Live Transfer MVA Leads
 - ☐ Copywriting finalized
 - ☐ Design mockups approved
 - ☐ ROI calculator logic tested
-- ☐ Pricing calculator populated with all DMAs
+- ☐ Pricing calculator populated with all Markets
 - ☐ SEO meta tags implemented
 - ☐ Analytics tracking set up
 - ☐ Mobile responsive testing complete

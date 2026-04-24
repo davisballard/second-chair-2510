@@ -341,7 +341,7 @@ Each active variant must be strong enough to stand alone. The algorithm will sta
 
 **Monthly incident volume:** 229 crashes, 91 injuries (Doc 1)
 **Average case value:** $90,000+ (commercial policies often $1M+) (Doc 3)
-**Persona anchor:** Sarah Mitchell, 38, ICU nurse, Flagstaff. Compound humeral fracture, broken ribs, lacerated spleen. Hit by an 18-wheeler on I-17. Seven months pregnant at time of crash.
+**Persona anchor:** Sarah Mitchell, 38, ICU nurse, Flagstaff. Compound humeral fracture, broken ribs, lacerated spleen. Hit by an 18-wheeler on I-17.
 
 **The insight:** Trucking accidents are not car accidents. The insurance is different ($1M+ commercial policies vs. $25K-$100K personal auto). The liability rules are different (FMCSA regulations, driver logs, maintenance records, fleet company negligence). The lawyers on the other side are different (experienced defense teams retained by commercial carriers). The creative must signal this distinction because the people who have been hit by trucks can feel the asymmetry -- they just don't have the language for it yet.
 

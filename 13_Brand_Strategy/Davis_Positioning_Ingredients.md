@@ -78,7 +78,7 @@ This is pre-suasion at the highest level. The advertising does intake work befor
 
 The competition's leads get worse over time because their tactics depend on platform loopholes, manufactured urgency, and manipulative copy. When the platform bans the tactic or the attorney base becomes desensitized to it, the lead quality collapses.
 
-Second Chair's leads get better over time because the approach is built on human truth, not tricks. The knowledge of what works, what audience responds to what message, what creative angle performs in what DMA — that compounds. The system gets smarter. The advertising gets more specific. The leads get more ready.
+Second Chair's leads get better over time because the approach is built on human truth, not tricks. The knowledge of what works, what audience responds to what message, what creative angle performs in what Market — that compounds. The system gets smarter. The advertising gets more specific. The leads get more ready.
 
 Consistency and repeatability is what PI attorneys actually want more than anything — the Monday morning where the pipeline isn't a mystery. Second Chair can deliver that because it's not built on tricks that expire.
 

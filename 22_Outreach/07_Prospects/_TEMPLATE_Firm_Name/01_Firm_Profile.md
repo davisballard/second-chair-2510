@@ -21,7 +21,7 @@
 
 ## Footprint
 
-- **DMAs:** {{list the DMAs they operate in}}
+- **Markets:** {{list the Markets they operate in}}
 - **Office cities:** {{every physical office}}
 - **States:** {{states where they're licensed}}
 

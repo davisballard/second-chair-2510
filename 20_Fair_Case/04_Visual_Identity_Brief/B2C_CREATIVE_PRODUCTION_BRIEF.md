@@ -23,7 +23,7 @@ Dial at 10                 Dial at 5–6                Dial at 1
 
 Test A vs. B first — the poles. When one wins or the data splits by tier, C becomes the intelligent in-between hypothesis.
 
-**How testing works operationally:** All style variants run as separate ads within ONE ad set per DMA. Meta rotates and optimizes delivery across them simultaneously. Do NOT create separate ad sets per style — at SC's volume (1-3 leads/day per DMA), splitting across multiple ad sets prevents any of them from getting enough conversion events to exit learning. One ad set, 3-5 creatives, let Meta find the winners. 100 leads per DMA minimum before expanding to a second ad set. See `09_Operations/HOW_META_CAMPAIGNS_OPTIMIZE.md` for full campaign structure.
+**How testing works operationally:** All style variants run as separate ads within ONE ad set per Market. Meta rotates and optimizes delivery across them simultaneously. Do NOT create separate ad sets per style — at SC's volume (1-3 leads/day per Market), splitting across multiple ad sets prevents any of them from getting enough conversion events to exit learning. One ad set, 3-5 creatives, let Meta find the winners. 100 leads per Market minimum before expanding to a second ad set. See `09_Operations/HOW_META_CAMPAIGNS_OPTIMIZE.md` for full campaign structure.
 
 ---
 

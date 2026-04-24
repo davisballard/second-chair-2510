@@ -40,17 +40,17 @@ Second Chair's premium lead nurturing service is priced at the high end of the m
 **Market research (April 2026):**
 
 **Standard markets:** $500-$700/transfer
-- Mid-size DMAs (1M-3M population)
+- Mid-size Markets (1M-3M population)
 - Moderate competition
 - Examples: Denver, Phoenix, Nashville, Portland
 
 **Competitive metros:** $700-$1,000/transfer
-- Major DMAs (3M-7M population)
+- Major Markets (3M-7M population)
 - High PI firm density
 - Examples: Dallas, Houston, Atlanta, Seattle
 
 **Premium markets:** $1,000-$1,500/transfer
-- Largest DMAs (7M+ population)
+- Largest Markets (7M+ population)
 - Extreme competition and media costs
 - Examples: NYC, LA, Miami, Chicago
 
@@ -76,7 +76,7 @@ Second Chair's premium lead nurturing service is priced at the high end of the m
 | **On Point Legal** | Live transfer | $150-$350 | Pre-qualified calls | Lower-tier live transfer |
 
 **Second Chair positioning:**
-- **Exclusive DMA leads** (not shared)
+- **Exclusive Market leads** (not shared)
 - **Human or AI qualification** (not just web form)
 - **Live transfer capability** (not separate vendor)
 - **All-in-one:** Lead gen + intake + transfer from single partner
@@ -91,7 +91,7 @@ Second Chair's premium lead nurturing service is priced at the high end of the m
 ### Finalized Premium Tier Pricing
 
 **Tier 1: Standard Web Lead**
-- **Price:** Base MOI price ($175-$500 by DMA)
+- **Price:** Base MOI price ($175-$500 by Market)
 - **Margin:** 50% (cost $150, revenue $300 average)
 
 **Tier 2: AI-Qualified Lead**
@@ -110,12 +110,12 @@ Second Chair's premium lead nurturing service is priced at the high end of the m
 ### Why This Pricing Works
 
 **1. Market-responsive pricing:**
-- Base price reflects DMA operating costs (MOI model)
+- Base price reflects Market operating costs (MOI model)
 - Premium reflects SC's qualification service (flat $200 or $1,200)
 - Naturally creates tiered pricing: average markets $1,500, premium markets $1,600-$1,800
 
 **2. High-end positioning justified by:**
-- DMA exclusivity (most live transfer vendors sell shared leads)
+- Market exclusivity (most live transfer vendors sell shared leads)
 - Integrated service (not managing multiple vendors)
 - Premium brand (honest advertising, compliance-first)
 - Proven qualification standards (7-question script, state-specific criteria)
@@ -219,7 +219,7 @@ Second Chair's premium lead nurturing service is priced at the high end of the m
 **Second Chair:**
 - Standard: $315
 - Live transfer: $1,515
-- DMA exclusive, honest advertising, integrated service
+- Market exclusive, honest advertising, integrated service
 
 **Competitor A (Quintessa / similar):**
 - Exclusive web leads: $300-$400
@@ -230,7 +230,7 @@ Second Chair's premium lead nurturing service is priced at the high end of the m
 - Pay-per-call: $297-$497 per call
 - Separate vendor (not integrated with lead gen)
 - Duration-based billing (must stay on 60+ seconds)
-- No DMA exclusivity
+- No Market exclusivity
 
 **Competitor C (The Legal Leads / CPA model):**
 - CPA: $2,500-$6,500 per signed case
@@ -239,7 +239,7 @@ Second Chair's premium lead nurturing service is priced at the high end of the m
 - Long payment delay (cases sign weeks later)
 
 **Second Chair's advantage:**
-- Only vendor combining DMA exclusivity + lead gen + qualification + transfer
+- Only vendor combining Market exclusivity + lead gen + qualification + transfer
 - One relationship, one invoice
 - Pay-per-lead (not CPA), so cash flow is faster
 - Premium tier is optional (clients can start with standard)
@@ -268,7 +268,7 @@ Second Chair's premium lead nurturing service is priced at the high end of the m
                     Low Price
 ```
 
-**SC occupies the "high service, high price" quadrant** — justified by integrated offering and DMA exclusivity.
+**SC occupies the "high service, high price" quadrant** — justified by integrated offering and Market exclusivity.
 
 ---
 
@@ -565,7 +565,7 @@ Second Chair's premium lead nurturing service is priced at the high end of the m
 #### Objection: "Why not just offer cheaper live transfers?"
 
 **Response:**  
-> "We could, but it would compromise quality. We're not a call center running hundreds of calls a day. Sasha or I personally handle every premium call. We know your case criteria, your market, your DMA exclusivity. That level of integration is why our clients see 40-60% conversion. Cheap live transfers from offshore call centers convert at 20-30% — you'd save $500/lead but lose 20 points of conversion. The math doesn't work."
+> "We could, but it would compromise quality. We're not a call center running hundreds of calls a day. Sasha or I personally handle every premium call. We know your case criteria, your market, your Market exclusivity. That level of integration is why our clients see 40-60% conversion. Cheap live transfers from offshore call centers convert at 20-30% — you'd save $500/lead but lose 20 points of conversion. The math doesn't work."
 
 ---
 
@@ -600,7 +600,7 @@ Second Chair's premium lead nurturing service is priced at the high end of the m
 - Trial period to prove conversion rates
 - Automatically converts to full pricing after 10 leads
 
-**Enterprise pricing (10+ DMAs, $500K+ annual spend):**
+**Enterprise pricing (10+ Markets, $500K+ annual spend):**
 - Custom pricing (contact Sasha/Davis)
 - Likely 10-20% off premium for commitment
 
@@ -742,7 +742,7 @@ Second Chair's premium lead nurturing service is priced at the high end of the m
 
 Before finalizing pricing with any client, verify:
 
-☐ **Base MOI price is correct** for their DMA  
+☐ **Base MOI price is correct** for their Market  
 ☐ **Premium surcharge** ($200 AI, $1,200 Human) is clearly stated  
 ☐ **Total price example** is shown (base + premium = total)  
 ☐ **Conversion rate expectations** are set (40-60% for live transfer)  

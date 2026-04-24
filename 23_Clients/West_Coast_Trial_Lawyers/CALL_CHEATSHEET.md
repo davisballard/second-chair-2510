@@ -34,8 +34,8 @@
 | Positioning | "#1 Personal Injury Lawyers" |
 | Neama Rahmani | Nationally recognized trial lawyer, **TV legal analyst** — his personal brand IS the firm's asset |
 | Notable verdicts | $55.6M defective tire, $19.4M wrongful death |
-| Footprint | **11 DMAs across 4 states, 29 office cities** |
-| CA concentration | **7 of 11 DMAs** in California (71% of pop coverage) |
+| Footprint | **11 Markets across 4 states, 29 office cities** |
+| CA concentration | **7 of 11 Markets** in California (71% of pop coverage) |
 
 **What this means:** WCTL is California-first. SB-37 is not a peripheral issue — it's the central regulatory fact of their operation. They're the firm in our pipeline with the most to lose from vendor ads they've never seen.
 
@@ -182,11 +182,11 @@ Then \~3 minutes of tight story (NOT a pitch):
 
 ### What We Do / How / Differentiators
 
-1. **DMA-specific creative** — "Not swap in a city name. Actually go deep. For Fresno that means Central Valley farmworkers and Spanish-language where the market demands it. For the Inland Empire it's commute corridors and trucking reality. For Seattle it's Pacific Northwest tone. Every ad is built for the specific people in that specific market."
+1. **Market-specific creative** — "Not swap in a city name. Actually go deep. For Fresno that means Central Valley farmworkers and Spanish-language where the market demands it. For the Inland Empire it's commute corridors and trucking reality. For Seattle it's Pacific Northwest tone. Every ad is built for the specific people in that specific market."
 
 2. **We run our own advertising** — "We're not buying from a marketplace. Every ad that runs under WCTL's name is built by us, visible to you in the dashboard, SB-37 compliant from day one, with mandatory disclosures and no prohibited content. You approve before it runs if you want to."
 
-3. **One firm per DMA** — "Territory exclusivity. Your competitor in LA can't buy from us while you hold LA. That's the product — not 'exclusive leads,' exclusive territory."
+3. **One firm per Market** — "Territory exclusivity. Your competitor in LA can't buy from us while you hold LA. That's the product — not 'exclusive leads,' exclusive territory."
 
 4. **Projected Attorney Fee → Projected ROAS** — "Every lead we deliver has a Projected Attorney Fee attached — built from the Fit Score × median attorney fee by case type. Aggregate the cohort, divide by spend, and you see the Projected ROAS on day one. Before any case has signed. No other vendor in this space projects per-lead value like that — they report CPL or CPSC after the fact. We built the model because CPL is vanity and CPSC averages away the case-value mix."
 
@@ -202,15 +202,15 @@ Then:
 
 ---
 
-## PRICING — WCTL 11 DMAs
+## PRICING — WCTL 11 Markets
 
 > **📄 Share screen:** `WCTL_Client_Proposal.md` is the publicly-facing deck. Covers pricing + the Projected ROAS model in one doc. If Robert wants to see the pricing or the projection math, that's the file to pull up. All the detail below is Davis's prep reference.
 
 **The formula (if he asks):** `Price = $175 + ($36.11 × (MOI - 1.0))`, rounded to nearest $5. MOI = Market Operating Index, composite of competition, legal viability, market size, case value, uninsured rate, market quality factors.
 
-### California — 7 DMAs (15% lockdown discount)
+### California — 7 Markets (15% lockdown discount)
 
-| DMA | MOI | List | **CA Lockdown** | Offices |
+| Market | MOI | List | **CA Lockdown** | Offices |
 | --- | --- | --- | --- | --- |
 | **Los Angeles** | 8.0 | $425 | **$360** | LA, Beverly Hills, Pasadena, Long Beach, Woodland Hills, Newport Beach, Glendora, Santa Ana, Fullerton, West Covina, Valencia, Irvine |
 | **SF–Oakland–San Jose** | 6.7 | $380 | **$325** | SF, San Jose |
@@ -222,9 +222,9 @@ Then:
 
 **CA blended (pop-weighted with lockdown): \~$320/lead**
 
-### Non-California — 4 DMAs (list price, no lockdown)
+### Non-California — 4 Markets (list price, no lockdown)
 
-| DMA | MOI | **Cost Per Lead** | Offices |
+| Market | MOI | **Cost Per Lead** | Offices |
 | --- | --- | --- | --- |
 | **Seattle–Tacoma (WA)** | 5.4 | **$335** | Seattle |
 | **Las Vegas (NV)** | 5.2 | **$325** | Las Vegas, Henderson |
@@ -233,37 +233,37 @@ Then:
 
 ### Portfolio Summary
 
-| Region | DMAs | Blended | Monthly @ 2 leads/day/DMA |
+| Region | Markets | Blended | Monthly @ 2 leads/day/Market |
 | --- | --- | --- | --- |
 | **CA lockdown** | 7 | \~$320 | \~$134,400 |
 | **Nevada** | 2 | \~$315 | \~$37,800 |
 | **Arizona** | 1 | $315 | \~$18,900 |
 | **Washington** | 1 | $335 | \~$20,100 |
-| **Full 11-DMA** | **11** | **\~$320-$325** | **\~$213,000** |
+| **Full 11-Market** | **11** | **\~$320-$325** | **\~$213,000** |
 
-### Revenue at full 11-DMA delivery
+### Revenue at full 11-Market delivery
 
 | Delivery Rate | Monthly | Annual |
 | --- | --- | --- |
-| 1/day/DMA | \~$106K | \~$1.27M |
-| 2/day/DMA | \~$213K | \~$2.56M |
-| 3/day/DMA | \~$319K | \~$3.83M |
+| 1/day/Market | \~$106K | \~$1.27M |
+| 2/day/Market | \~$213K | \~$2.56M |
+| 3/day/Market | \~$319K | \~$3.83M |
 
 ---
 
-## STARTER PACKAGES — 100 leads per DMA
+## STARTER PACKAGES — 100 leads per Market
 
-| Option | DMAs | Leads | **Investment** |
+| Option | Markets | Leads | **Investment** |
 | --- | --- | --- | --- |
 | 1 — LA Only (MVP) | 1 | 100 | **$36,000** |
 | 2 — **Top 3 CA (LA + SF + SD)** ⭐ | 3 | 300 | **$97,500** |
 | 3 — Full CA Lockdown | 7 | 700 | **$198,000** |
 | 4 — CA + Vegas | 8 | 800 | **$230,500** |
-| 5 — Full 11-DMA Lockdown | 11 | 1,100 | **\~$322,500** |
+| 5 — Full 11-Market Lockdown | 11 | 1,100 | **\~$322,500** |
 
 **⭐ Recommended starter: Option 2 (Top 3 CA). Tests 3 price tiers inside one SB-37 compliance framework.**
 
-**Why 100 per DMA:** First \~30 leads are Meta's learning phase (higher CPL, least precise). At 50 leads Robert would evaluate us on pre-optimization data. At 100 he sees the full arc — learning → stabilization → optimization.
+**Why 100 per Market:** First \~30 leads are Meta's learning phase (higher CPL, least precise). At 50 leads Robert would evaluate us on pre-optimization data. At 100 he sees the full arc — learning → stabilization → optimization.
 
 ---
 
@@ -333,7 +333,7 @@ See the canonical model: `Abracadabra/08_Brands/Second_Chair/01_Identity/Project
 
 **Projected ROAS: $248,500 ÷ $36,000 ≈ 6.9×** (conservative scenario lands at \~5.2×, optimistic at \~8.9×)
 
-**Defensible range to quote: 5 to 8× projected ROAS on day one for CA DMAs.**
+**Defensible range to quote: 5 to 8× projected ROAS on day one for CA Markets.**
 
 ---
 
@@ -414,7 +414,7 @@ Only deploy if Robert pushes on newness. Don't lead with it.
 
 Davis verbatim:
 
-> *"Robert — I want to be direct about something. I know you don't write a check for a multi-DMA program on your own authority. Neama has to sign off. So the most useful thing I can do for you on this call is figure out what you need from me to walk into Neama's office and make this case."*
+> *"Robert — I want to be direct about something. I know you don't write a check for a multi-Market program on your own authority. Neama has to sign off. So the most useful thing I can do for you on this call is figure out what you need from me to walk into Neama's office and make this case."*
 
 ### The 3 Neama questions — CAPTURE ANSWERS VERBATIM
 
@@ -442,7 +442,7 @@ Davis verbatim:
 
 **Davis — no-oriented soft ask:**
 
-> *"Here's what I'd suggest. I'll put together two things and send them by end of day tomorrow. One — a market-by-market pricing sheet for your 11 DMAs. Two — a short internal memo on SB-37 vendor liability you can share with Neama if you think it's useful. No pressure on timing. Would that be a bad idea?"*
+> *"Here's what I'd suggest. I'll put together two things and send them by end of day tomorrow. One — a market-by-market pricing sheet for your 11 Markets. Two — a short internal memo on SB-37 vendor liability you can share with Neama if you think it's useful. No pressure on timing. Would that be a bad idea?"*
 
 > *"And if the material lands well with Neama — is it crazy to think we could get the three of us on a call in the next week or two?"*
 
@@ -467,9 +467,9 @@ Davis verbatim:
 
 ## LINES WE DON'T CROSS
 
-1. **No discounts for geographic spread** — scattered DMAs = relationship, not a price break
-2. **No flat state fees** — always per-DMA via MOI
-3. **No shared exclusivity** — one firm per DMA, period
+1. **No discounts for geographic spread** — scattered Markets = relationship, not a price break
+2. **No flat state fees** — always per-Market via MOI
+3. **No shared exclusivity** — one firm per Market, period
 4. **No guaranteed CPSC** — Socratic refusal only
 5. **No stacking discounts** — 15% CA lockdown is the ceiling
 6. **No free leads as remedy** — we publish CPSC methodology, we don't backfill
@@ -494,7 +494,7 @@ Davis verbatim:
 
 ### Within 24 hours
 
-- [ ] Pricing sheet (customized to the DMAs Robert focused on)
+- [ ] Pricing sheet (customized to the Markets Robert focused on)
 
 - [ ] 1-pager SB-37 memo for Neama
 
@@ -525,7 +525,7 @@ Davis verbatim:
 
 **By the end of this call, Robert has to be able to walk into Neama's office and say:**
 
-> *"I talked to Second Chair. Here's what I learned. Under SB-37, we're on the hook for what our vendors run, not just what we run. $5K to $100K per violation, private right of action. And I realized something on the call — I've never actually seen the creative our current vendors are running under our name. Not once. These guys showed me a different model — DMA-specific creative, every ad visible, CPSC tracked with methodology, territory exclusivity. I think it's worth getting them on a call with you."*
+> *"I talked to Second Chair. Here's what I learned. Under SB-37, we're on the hook for what our vendors run, not just what we run. $5K to $100K per violation, private right of action. And I realized something on the call — I've never actually seen the creative our current vendors are running under our name. Not once. These guys showed me a different model — Market-specific creative, every ad visible, CPSC tracked with methodology, territory exclusivity. I think it's worth getting them on a call with you."*
 
 **If Robert can say that — in his own words — the deal advances.**
 

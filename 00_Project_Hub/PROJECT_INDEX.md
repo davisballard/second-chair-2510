@@ -14,7 +14,7 @@
 | **Brand positioning (complete)** | [`../01_Identity/BRAND_POSITIONING_CORE.md`](../01_Identity/BRAND_POSITIONING_CORE.md) |
 | **Research overview** | [`../07_Research/RESEARCH_INDEX.md`](../07_Research/RESEARCH_INDEX.md) |
 | **B2B strategy research** | [`../07_Research/B2B_Strategy_Research/RESEARCH_INDEX.md`](../07_Research/B2B_Strategy_Research/RESEARCH_INDEX.md) |
-| **Top 10 DMA targets** | [`../07_Research/B2B_Strategy_Research/TOP_10_DMA_TARGETS.md`](../07_Research/B2B_Strategy_Research/TOP_10_DMA_TARGETS.md) |
+| **Top 10 Market targets** | [`../07_Research/B2B_Strategy_Research/TOP_10_DMA_TARGETS.md`](../07_Research/B2B_Strategy_Research/TOP_10_DMA_TARGETS.md) |
 
 ---
 
@@ -58,7 +58,7 @@
 | [`Naming_Options.md`](../01_Identity/Naming_Options.md) | Brand naming options and rationale |
 | [`FAIR_CASE_BRAND.md`](../20_Fair_Case/00_Brand_Overview/FAIR_CASE_BRAND.md) | Consumer brand (Fair Case) identity system |
 | [`Brand_Essence.md`](../01_Identity/Brand_Essence.md) | Brand essence and core values |
-| [`GEO_EXCLUSIVITY_POLICY.md`](../01_Identity/GEO_EXCLUSIVITY_POLICY.md) | DMA exclusivity policy and pricing tiers |
+| [`GEO_EXCLUSIVITY_POLICY.md`](../01_Identity/GEO_EXCLUSIVITY_POLICY.md) | Market exclusivity policy and pricing tiers |
 
 **Subfolders:**
 - [`20_Fair_Case/`](../20_Fair_Case/) - Consumer brand (Fair Case) — strategy, social, ads, visual identity, website
@@ -303,7 +303,7 @@ This project uses a hierarchical naming system:
 
 1. Start: [`../07_Research/RESEARCH_INDEX.md`](../07_Research/RESEARCH_INDEX.md)
 2. B2B research: [`../07_Research/B2B_Strategy_Research/RESEARCH_INDEX.md`](../07_Research/B2B_Strategy_Research/RESEARCH_INDEX.md)
-3. DMA targets: [`../07_Research/B2B_Strategy_Research/TOP_10_DMA_TARGETS.md`](../07_Research/B2B_Strategy_Research/TOP_10_DMA_TARGETS.md)
+3. Market targets: [`../07_Research/B2B_Strategy_Research/TOP_10_DMA_TARGETS.md`](../07_Research/B2B_Strategy_Research/TOP_10_DMA_TARGETS.md)
 4. Platform copy: [`../07_Research/Platform_Best_Practices/`](../07_Research/Platform_Best_Practices/)
 
 ---

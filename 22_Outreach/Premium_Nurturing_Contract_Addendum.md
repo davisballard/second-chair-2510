@@ -22,7 +22,7 @@ Client has enrolled in Second Chair's Premium Lead Nurturing service, which offe
 - Dual scoring (conversion likelihood + case value)
 - Real-time delivery via portal, email, and webhook
 - TrustedForm certificate, DNC/litigator screening, Twilio Lookup
-- **Pricing:** Base MOI price per DMA (as specified in base agreement)
+- **Pricing:** Base MOI price per Market (as specified in base agreement)
 
 #### Tier 2: AI-Qualified Lead (Premium Service)
 - All Standard Lead features PLUS:
@@ -47,7 +47,7 @@ Client has enrolled in Second Chair's Premium Lead Nurturing service, which offe
 
 ### Section 2: Pricing Examples
 
-**DMA:** [City/State]
+**Market:** [City/State]
 **Base MOI Price:** $[X]/lead
 
 | Service Tier | Total Price | Premium Surcharge |
@@ -211,7 +211,7 @@ For every premium lead, Client receives:
 #### Lead Ownership
 - Client owns all lead data immediately upon delivery
 - Premium leads are exclusive to Client (never resold or shared)
-- DMA exclusivity applies (as specified in base agreement)
+- Market exclusivity applies (as specified in base agreement)
 
 ---
 
@@ -330,7 +330,7 @@ SC's total liability for any claim related to premium nurturing service is limit
 ### Section 14: Schedule A — Client-Specific Terms
 
 **Client:** [FIRM NAME]  
-**DMA(s):** [City, State]  
+**Market(s):** [City, State]  
 **Base MOI Price:** $[X]/lead  
 **Monthly Package:** [X] leads/month  
 

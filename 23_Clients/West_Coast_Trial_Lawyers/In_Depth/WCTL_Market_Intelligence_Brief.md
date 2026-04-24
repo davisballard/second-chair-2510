@@ -82,12 +82,12 @@
 
 ---
 
-## Office-to-DMA Mapping — 11 DMAs Total
+## Office-to-Market Mapping — 11 Markets Total
 
 ### Tier 1 — Premium
 
-**Los Angeles DMA (CA)** — MOI 8.0 | $425 list / **$360 CA lockdown**
-- 12 WCTL offices in this DMA (the heart of WCTL's footprint):
+**Los Angeles Market (CA)** — MOI 8.0 | $425 list / **$360 CA lockdown**
+- 12 WCTL offices in this Market (the heart of WCTL's footprint):
   LA, Beverly Hills, Pasadena, Long Beach, Woodland Hills, Newport Beach, Glendora, Santa Ana, Fullerton, West Covina, Valencia, Irvine
 - 13.2M population | ~49% Hispanic
 - Most competitive PI market in the US — 5,000+ firms
@@ -97,7 +97,7 @@
 
 ### Tier 2 — Core
 
-**SF–Oakland–San Jose DMA (CA)** — MOI 6.7 | $380 list / **$325 CA lockdown**
+**SF–Oakland–San Jose Market (CA)** — MOI 6.7 | $380 list / **$325 CA lockdown**
 - 2 WCTL offices: San Francisco, San Jose
 - 4.7M population
 - Tech economy, younger, higher income
@@ -106,39 +106,39 @@
 
 ### Tier 3 — Growth
 
-**Riverside–San Bernardino DMA (CA)** — MOI 5.5 | $340 / **$290 CA lockdown**
+**Riverside–San Bernardino Market (CA)** — MOI 5.5 | $340 / **$290 CA lockdown**
 - 3 WCTL office cities: Riverside, San Bernardino, Palm Springs
 - 4.7M population
 - Inland Empire: working-class, long commutes, I-10/I-15 trucking corridors
 - ~52% Hispanic
 - High-value trucking/commercial vehicle cases
 
-**San Diego DMA (CA)** — MOI 5.5 | $340 / **$290 CA lockdown**
+**San Diego Market (CA)** — MOI 5.5 | $340 / **$290 CA lockdown**
 - 2 WCTL office cities: San Diego, Solana Beach
 - 3.3M population
 - Military presence (Camp Pendleton, Naval bases)
 - Border proximity — cross-border accident patterns
 - ~34% Hispanic
 
-**Seattle–Tacoma DMA (WA)** — MOI 5.4 | **$335** list
+**Seattle–Tacoma Market (WA)** — MOI 5.4 | **$335** list
 - 1 WCTL office: Seattle
 - 4.6M population
 - Pacific Northwest tone (professional, authentic)
 - No SB-37 equivalent — standard WA RPC 7.1-7.5 rules
 
-**Las Vegas DMA (NV)** — MOI 5.2 | **$325** list
+**Las Vegas Market (NV)** — MOI 5.2 | **$325** list
 - 2 WCTL office cities: Las Vegas, Henderson
 - 2.3M population
 - Service industry workforce, tourism, transient populations
 - NV has more creative latitude than CA (crash footage allowed, settlement amounts with disclaimers allowed, fighter positioning allowed)
 
-**Phoenix–Mesa DMA (AZ)** — MOI 4.9 | **$315** list
+**Phoenix–Mesa Market (AZ)** — MOI 4.9 | **$315** list
 - 1 WCTL office: Phoenix
 - 4.8M population
 - Fast-growing metro, desert commuter patterns
 - Pure comparative fault state
 
-**Sacramento DMA (CA)** — MOI 4.7 | $310 / **$265 CA lockdown**
+**Sacramento Market (CA)** — MOI 4.7 | $310 / **$265 CA lockdown**
 - 1 WCTL office: Sacramento
 - 2.7M population
 - State capital, government workers, agricultural economy to the east
@@ -146,18 +146,18 @@
 
 ### Tier 4 — Opportunistic
 
-**Fresno–Visalia DMA (CA)** — MOI 3.7 | $270 / **$230 CA lockdown**
+**Fresno–Visalia Market (CA)** — MOI 3.7 | $270 / **$230 CA lockdown**
 - 2 WCTL office cities: Fresno, Visalia
 - 1.1M population
 - Central Valley agriculture
 - ~54% Hispanic — bilingual creative is critical here
 
-**Reno DMA (NV)** — MOI 3.6 | **$270** list
+**Reno Market (NV)** — MOI 3.6 | **$270** list
 - 2 WCTL office cities: Reno, Carson City
 - ~0.5M population
 - Less competitive than Vegas, same NV latitude
 
-**Bakersfield DMA (CA)** — MOI 3.4 | $260 / **$220 CA lockdown**
+**Bakersfield Market (CA)** — MOI 3.4 | $260 / **$220 CA lockdown**
 - 1 WCTL office: Bakersfield
 - 0.9M population
 - Oil industry, agriculture, I-5/CA-99 trucking corridor
@@ -165,7 +165,7 @@
 
 ### State Summary
 
-| State | DMAs | Office Cities | Tier Mix |
+| State | Markets | Office Cities | Tier Mix |
 |---|---|---|---|
 | California | 7 | 23 | 1 Tier 1, 1 Tier 2, 3 Tier 3, 2 Tier 4 |
 | Nevada | 2 | 4 | 1 Tier 3, 1 Tier 4 |
@@ -179,7 +179,7 @@
 
 ## Why a CA-Primary Firm Is Strategically Unique
 
-1. **7 of 11 DMAs are in California.** This is not a national firm with a CA region. This is a CA firm that has expanded strategically.
+1. **7 of 11 Markets are in California.** This is not a national firm with a CA region. This is a CA firm that has expanded strategically.
 2. **SB-37 is not a peripheral issue — it's the central regulatory fact of WCTL's operation.** 71% of their population coverage is subject to the statute.
 3. **The CA lockdown discount drives the entire economic model.** At ~$320 blended, WCTL's CA footprint alone produces $67K-$201K/month at 1-3 leads/day.
 4. **The non-CA states (NV/AZ/WA) are meaningful but not dominant.** They're expansion markets, not core. This is fundamentally different from Jacoby's multi-state national footprint.
@@ -205,13 +205,13 @@ We don't know specifically. We should NOT guess on the call. But we can reason a
 
 | What WCTL Likely Has Today | What SC Offers |
 |---|---|
-| Multiple vendors, probably shared leads | One vendor, territory exclusivity — one firm per DMA |
-| Generic creative, unseen by Robert | DMA-specific creative, every ad visible in the dashboard |
+| Multiple vendors, probably shared leads | One vendor, territory exclusivity — one firm per Market |
+| Generic creative, unseen by Robert | Market-specific creative, every ad visible in the dashboard |
 | Volume as the metric | CPSC tracked with methodology |
 | Unknown SB-37 compliance exposure | Compliance-grade creative from day one, TrustedForm audit trail, documentable vendor-side compliance |
 | Attribution across multiple vendors is messy | Single dashboard, clean end-to-end tracking |
 | Current vendor ads "running under Neama's name" without review | Approval workflow available before ads go live |
-| No cross-state consolidation | 11-DMA single partner, consistent creative discipline |
+| No cross-state consolidation | 11-Market single partner, consistent creative discipline |
 
 ---
 
@@ -259,7 +259,7 @@ We don't know specifically. We should NOT guess on the call. But we can reason a
 - westcoasttriallawyers.com (public pages)
 - Robert Davtyan LinkedIn profile
 - Neama Rahmani public record as trial lawyer and TV analyst
-- SC internal MOI table and DMA mapping (`DMA_Pricing_Table_Client_Facing.md`)
+- SC internal MOI table and Market mapping (`DMA_Pricing_Table_Client_Facing.md`)
 - Sasha's email exchange with Robert (the SB-37 wedge)
 - SB-37 text and enforcement framework via `State_Bar_Quick_Ref.md`
 

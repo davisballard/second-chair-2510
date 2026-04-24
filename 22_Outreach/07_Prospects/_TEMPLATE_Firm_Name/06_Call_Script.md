@@ -82,9 +82,9 @@ Team intro — **30 seconds max**. No resume dump.
 
 ### The 4 bullets
 
-1. **DMA-specific creative** — {{customize to their markets}}
+1. **Market-specific creative** — {{customize to their markets}}
 2. **We run our own advertising** — {{every ad visible, SB-37 compliant from day one, approval workflow}}
-3. **One firm per DMA** — territory exclusivity
+3. **One firm per Market** — territory exclusivity
 4. **Projected Attorney Fee → Projected ROAS** — day-one value visibility
 
 **Flip back to questions:**
@@ -102,7 +102,7 @@ Team intro — **30 seconds max**. No resume dump.
 
 {{Lead with the package from 05_Strategy_Memo.md tactical sequencing — Option 1 / 2 / 3 / Full}}
 
-**The blended anchor:** {{CA ~$X blended with lockdown / specific DMA rate}}
+**The blended anchor:** {{CA ~$X blended with lockdown / specific Market rate}}
 
 ---
 
@@ -123,7 +123,7 @@ See `../../01_Playbooks/Negotiation_Playbook.md` → Universal Objection Handler
 ## PHASE 7 — ARMING {{CONTACT_NAME}}
 
 **Setup (Davis verbatim):**
-> *"[Name] — I want to be direct about something. I know you don't write a check for a multi-DMA program on your own authority. The most useful thing I can do for you on this call is figure out what you need from me to walk into [decision-maker]'s office and make this case."*
+> *"[Name] — I want to be direct about something. I know you don't write a check for a multi-Market program on your own authority. The most useful thing I can do for you on this call is figure out what you need from me to walk into [decision-maker]'s office and make this case."*
 
 **The 3 questions — WRITE ANSWERS VERBATIM:**
 
@@ -139,7 +139,7 @@ See `../../01_Playbooks/Negotiation_Playbook.md` → Universal Objection Handler
 > *"[Name] — when Davis and I followed up on the [wedge topic] piece after our email exchange, the reason we wanted to get on a call is because it felt like something that belongs in a room with {{DM_NAME}}. Not because we wanted to close you today — because this is material worth walking upstairs."*
 
 **Davis — no-oriented soft ask:**
-> *"Here's what I'd suggest. I'll send two things by end of day tomorrow — a pricing sheet for your {{N}} DMAs and a short {{wedge}} memo you can share internally. No pressure on timing. Would that be a bad idea?"*
+> *"Here's what I'd suggest. I'll send two things by end of day tomorrow — a pricing sheet for your {{N}} Markets and a short {{wedge}} memo you can share internally. No pressure on timing. Would that be a bad idea?"*
 
 > *"And if the material lands well — is it crazy to think we could get a second call in the next week or two with {{DM_NAME}} on it?"*
 

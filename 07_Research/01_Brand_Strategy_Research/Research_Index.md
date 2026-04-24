@@ -304,7 +304,7 @@ The following folders in `07_Research/` complement the 4Cs sessions:
 
 | Folder | Contents |
 |--------|----------|
-| [`02_Sales_Intelligence/`](../02_Sales_Intelligence/00_Index.md) | B2B prospect lists, whale lists, TAM analysis, DMA targets, geo-exclusivity models |
+| [`02_Sales_Intelligence/`](../02_Sales_Intelligence/00_Index.md) | B2B prospect lists, whale lists, TAM analysis, Market targets, geo-exclusivity models |
 | [`03_Strategic_Analysis/`](../03_Strategic_Analysis/) | Competitive separation analysis, website audit, lead faucet language audit, visual research brief |
 | [`04_Visual_Research/`](../04_Visual_Research/) | Typography, color, data viz, adjacent brands, psychographic research, competitive visual audit |
 | [`05_Strategic_Insights/`](../05_Strategic_Insights/) | Audience psychology, channel playbooks, copy insights, funnel insights, visual insights |

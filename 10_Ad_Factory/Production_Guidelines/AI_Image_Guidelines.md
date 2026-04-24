@@ -264,19 +264,40 @@ Base: "iPhone photo quality, candid moment, natural lighting, messy background"
 ---
 
 ## AI Limitation Workarounds
+*Updated 2026-04-23. ChatGPT Image 2 shipped 2026-04-21 — the "AI can't do text" rule is retired for stills. See `Abracadabra/04_Production/Giuseppe_Karma_(AI_Creative_Director)/ChatGPT_Images_2_Capability_Report.md`.*
 
-### Text in Images
-AI generates garbled text. Work around it:
+### Text in Images — Now Native via ChatGPT Image 2
 
-| Scenario | Solution |
-|----------|----------|
+ChatGPT Image 2 (the SC primary stills model in Higgsfield) renders readable text at ~99% accuracy on typography benchmarks, including handwriting and non-Latin scripts. The old "garbled text, work around it" rule applied to pre-2026-04-21 models and is no longer the default for SC stills.
+
+**Default for SC stills:** write the exact copy in the prompt. Quote it (`reading exactly "Free Case Review"`), specify font style / weight / color / placement, use `quality=high` for dense text. See `Abracadabra/04_Production/Giuseppe_Karma_(AI_Creative_Director)/Prompting_Guides/ChatGPT_Image_2.md §6`.
+
+**What this unlocks for SC:**
+- Documents with real readable headers / body copy (legal brief, insurance letter, medical bill)
+- Handwritten notes (legal pad, sticky note, prescription layout, signed cursive)
+- Phone screens with real UI labels — SMS conversations, quiz app screens, notification stacks
+- Signs, packaging, book covers in frame with legible copy
+- Multilingual signage if a campaign ever needs it
+
+**When to still avoid readable text in-frame:**
+
+| Scenario | When it still applies |
+|----------|----------------------|
+| Copy must be edited after approval | Generate clean, add text in CapCut — AI output is raster |
+| Compliance-critical language | Human-verify or set in real tooling |
+| Running an older/cheaper model than ChatGPT Image 2 | Legacy workarounds below still apply |
+
+**Legacy workarounds (keep for non-ChatGPT-Image-2 models / FLUX / older Nano Banana runs):**
+
+| Scenario | Workaround |
+|----------|------------|
 | Documents | Show at distance, angle, or heavy blur |
 | Phone screens | Angle screen away, show reaction to screen |
 | Signs/headlines | Overlay in post, or imply without showing |
 | Legal papers | Person holding, focused on expression not text |
 
 ### Hands & Fingers
-AI struggles with complex hand positions.
+Dramatically improved on ChatGPT Image 2 (failure rate dropped from ~15% to ~3% on standard portraits per community testing 2026-04-21→23), but extreme close-ups on intricate hand poses still occasionally fail.
 
 | Solution | Execution |
 |----------|-----------|
@@ -285,13 +306,14 @@ AI struggles with complex hand positions.
 | Object interaction | Holding phone, document, coffee cup |
 
 ### Multiple People
-Complex positioning issues.
+Complex positioning issues. Thinking-mode multi-image batching (up to 8 coherent images) gives character consistency across a SET of frames, but multi-person-within-a-single-frame is still harder than single-subject.
 
 | Solution | Execution |
 |----------|-----------|
-| 1-2 people max | Primary subject with implied others |
+| 1-2 people max in-frame | Primary subject with implied others |
 | Separated positioning | People not touching/interacting closely |
 | Background presence | Others blurred, out of focus |
+| Batch consistency (same person across scenes) | ChatGPT Image 2 thinking mode (up to 8 coherent) or Kling Bind Subject |
 
 ---
 

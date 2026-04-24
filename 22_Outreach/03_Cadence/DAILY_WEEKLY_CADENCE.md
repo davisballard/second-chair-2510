@@ -52,7 +52,7 @@
 - Research tonight's Tier 0 (multi-market) and Tier 1 targets
 - Check SpyFu for firms running Google Ads in MULTIPLE metros (Tier 0 signal)
 - Pull new prospects from Best Lawyers / Google Maps / Avvo as needed
-- **Ensure prospects are spread across all 10 open DMAs — check DMA distribution in pipeline**
+- **Ensure prospects are spread across all 10 open Markets — check Market distribution in pipeline**
 
 **2:30-4:00 — Pipeline Maintenance**
 - Update deal stages in CRM
@@ -69,8 +69,8 @@
 - Hand-write 1-2 personalized emails to multi-office firms
 - Queue in Instantly, sending window handles delivery timing (9:00-10:30 AM, Tue-Thu)
 
-**Tier 1 (single-DMA whales):**
-- Hand-write 3-5 personalized emails SPREAD ACROSS ALL 10 DMAs
+**Tier 1 (single-Market whales):**
+- Hand-write 3-5 personalized emails SPREAD ACROSS ALL 10 Markets
 - Queue in Instantly, sending window handles delivery timing
 
 **Tier 2/3 (sequences):**
@@ -81,7 +81,7 @@
 **All emails go through Instantly** (from @2ndchair.net). Instantly handles timezone detection, sending windows, and follow-up scheduling. Write whenever, Instantly delivers at the right time.
 
 **Target:** 15-20 emails written and scheduled/queued per session.
-**CRITICAL:** Never send more than 5-10 new prospects into any single DMA per week.
+**CRITICAL:** Never send more than 5-10 new prospects into any single Market per week.
 
 ---
 
@@ -138,9 +138,9 @@
 
 ### Monday — Prep & Queue
 
-- Sasha: Queue the week's email batches in Instantly — **distributed across all 10 open DMAs**
+- Sasha: Queue the week's email batches in Instantly — **distributed across all 10 open Markets**
 - Sasha: Set weekly targets (emails to send, connections to make, calls to book)
-- Sasha: Review DMA pipeline distribution — are any DMAs over-invested or under-invested?
+- Sasha: Review Market pipeline distribution — are any Markets over-invested or under-invested?
 - Sasha: Check for any new multi-market firms identified (Tier 0 targets for the week)
 - Davis: Review last week's template performance, suggest copy tweaks
 - Alex: Run weekly domain health check, verify any new contact batches
@@ -154,13 +154,13 @@
 ### Friday — Week Retrospective (30 min)
 
 **Review these metrics:**
-- Emails sent (total + per person + **per DMA**)
+- Emails sent (total + per person + **per Market**)
 - Open rate (target: 35%+)
 - Reply rate (target: 5-8%)
 - Positive reply rate (target: 50% of replies)
 - Calls booked
 - Pipeline movement (new deals, stage advances, deals lost)
-- **DMA status: which DMAs are open, how deep is the pipeline in each, any DMAs at risk of over-investment?**
+- **Market status: which Markets are open, how deep is the pipeline in each, any Markets at risk of over-investment?**
 - **Tier 0 status: how many multi-market firms identified, contacted, responded?**
 - LinkedIn: connection requests sent, acceptance rate (target: 30%+), DMs sent
 
@@ -178,7 +178,7 @@
 
 - Full pipeline review: total prospects, by stage, conversion rates stage-to-stage
 - Revenue pipeline: deals in negotiation, expected close dates
-- Market expansion readiness: is it time to open a new DMA?
+- Market expansion readiness: is it time to open a new Market?
 - Domain health: Google Postmaster reputation, SenderScore, any blacklists
 - Template refresh: archive underperformers, draft new angles
 - Tool audit: is Instantly performing? Any tool changes needed?
@@ -194,6 +194,6 @@ This assumes domains are warmed up and ready.
 |------|-----------------|-----------------|--------------------:|-------|
 | Week 1 | 10-15 | 5-10 | 15-20 | Tier 0 + Tier 1 whales only, personal touch |
 | Week 2 | 15-20 | 10-15 | 20-25 | Add Tier 2, start Instantly sequences |
-| Week 3+ | 15-20 | 10-15 | 25-30 | Cruise speed — all tiers, all 10 DMAs |
+| Week 3+ | 15-20 | 10-15 | 25-30 | Cruise speed — all tiers, all 10 Markets |
 
 **Max 20 emails/day per account.** No need to ramp beyond this. Quality over volume.

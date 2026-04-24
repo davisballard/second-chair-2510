@@ -574,7 +574,7 @@ Where does the remaining 70-80% go?
 3. **Qualification rigor** — Better conversion rates (15-20% vs. 5-10% industry average)
 4. **Pricing transparency** — Market-based pricing, not hidden markups
 5. **Compliance expertise** — SB37 in CA, serious injury threshold in NY, state-specific rules
-6. **Local operations advantage** — Sales team in NY, market knowledge in target DMAs
+6. **Local operations advantage** — Sales team in NY, market knowledge in target Markets
 
 ---
 

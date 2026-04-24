@@ -28,18 +28,18 @@
 
 ---
 
-## 🔴 Priority #2: DMA Market Targeting
+## 🔴 Priority #2: Market Market Targeting
 
 **Deadline:** This week  
 **Why urgent:** Need to identify and prioritize launch markets before client outreach begins
 
 | Task | Status | Owner | Deliverable |
 |------|--------|-------|-------------|
-| Finalize Top 10 DMA target list | 📋 To Do | Davis + Sasha | See `TOP_10_DMA_TARGETS.md` |
-| Research competitive landscape per DMA | 📋 To Do | Sasha | Who's already selling leads in each market |
-| Identify lead volume potential per market | 📋 To Do | Alex | Expected CPL and volume by DMA |
-| Map state bar restrictions per target DMA | 📋 To Do | Davis | Compliance requirements for each market |
-| Prioritize 2-3 launch DMAs | 📋 To Do | All three | Final decision on where to start |
+| Finalize Top 10 Market target list | 📋 To Do | Davis + Sasha | See `TOP_10_DMA_TARGETS.md` |
+| Research competitive landscape per Market | 📋 To Do | Sasha | Who's already selling leads in each market |
+| Identify lead volume potential per market | 📋 To Do | Alex | Expected CPL and volume by Market |
+| Map state bar restrictions per target Market | 📋 To Do | Davis | Compliance requirements for each market |
+| Prioritize 2-3 launch Markets | 📋 To Do | All three | Final decision on where to start |
 
 **Reference:** [`../07_Research/B2B_Strategy_Research/TOP_10_DMA_TARGETS.md`](../07_Research/B2B_Strategy_Research/TOP_10_DMA_TARGETS.md)
 
@@ -69,7 +69,7 @@
 
 | Task | Status | Owner | Deliverable |
 |------|--------|-------|-------------|
-| Build PI attorney prospect list for target DMAs | 📋 To Do | Sasha | Qualified firms in priority markets |
+| Build PI attorney prospect list for target Markets | 📋 To Do | Sasha | Qualified firms in priority markets |
 | Set up Instantly.ai outreach campaigns | 📋 To Do | Sasha | Cold email sequences |
 | Create personalized pitch materials | 📋 To Do | Davis | Market-specific pitch pages, email templates |
 | Optimize email sequences with behavioral triggers | 📋 To Do | Davis | A/B test variations, follow-up flows |
@@ -87,9 +87,9 @@
 
 | Task | Status | Owner |
 |------|--------|-------|
-| Build ad creative library for launch DMAs | 📋 To Do | Davis |
+| Build ad creative library for launch Markets | 📋 To Do | Davis |
 | Set up Meta ad accounts for consumer campaigns | 📋 To Do | Alex |
-| Create template landing pages per DMA | 📋 To Do | Davis + Alex |
+| Create template landing pages per Market | 📋 To Do | Davis + Alex |
 | Develop quiz funnel for getafaircase.com | 📋 To Do | Davis |
 
 ### Operations
@@ -107,7 +107,7 @@
 
 ### Revenue Model
 - **Lead Price:** $400/lead
-- **Geo-exclusive:** One firm per DMA
+- **Geo-exclusive:** One firm per Market
 - **Fulfillment:** Generate own leads via ads (primary), buy from network (backup)
 - **Goal:** Full in-house lead generation for maximum margin
 
@@ -129,7 +129,7 @@
 
 | Metric | Target | Notes |
 |--------|--------|-------|
-| DMAs targeted | 2-3 | Initial launch markets |
+| Markets targeted | 2-3 | Initial launch markets |
 | Outreach emails sent/week | 100+ | After warm-up period |
 | Email open rate | 40%+ | Benchmark from Instantly |
 | Reply rate | 5-10% | Track positive vs. negative |
@@ -148,4 +148,4 @@
 
 ---
 
-**Next update:** After DMA targeting finalized and first outreach batch launched
+**Next update:** After Market targeting finalized and first outreach batch launched

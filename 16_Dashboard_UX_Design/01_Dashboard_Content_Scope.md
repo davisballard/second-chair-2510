@@ -239,7 +239,7 @@ This section is outside the analytical dashboard scope. It exists for completene
 
 ### What Belongs Here
 - Subscription plan and billing information
-- Territory and geography settings (what counties/DMAs are covered)
+- Territory and geography settings (what counties/Markets are covered)
 - Case type preferences (what types of leads to receive)
 - Intake contact information (phone numbers, CRM integration settings)
 - User management (who has access to this account)

@@ -301,7 +301,7 @@ CaseSnapshot asks someone who just got hit by a car to sit down and document the
 
 And it doesn't work as a qualifier. A soft-tissue claim who fills out the form is still a soft-tissue claim. A catastrophic spinal injury case who can barely type won't complete it. The friction filters out motivated-to-document people, not high-value-case people. Those are different populations.
 
-Davis's approach works differently. Emotionally resonant creative — targeted at people with accident behavior signals, in specific DMAs, at the right media moment — attracts people who are already primed. The creative does the psychological pre-qualification. Only people who feel wronged click. Only people ready to act fill out the quiz. The quiz does intelligent segmentation without requiring an essay.
+Davis's approach works differently. Emotionally resonant creative — targeted at people with accident behavior signals, in specific Markets, at the right media moment — attracts people who are already primed. The creative does the psychological pre-qualification. Only people who feel wronged click. Only people ready to act fill out the quiz. The quiz does intelligent segmentation without requiring an essay.
 
 Lower friction. Higher intent. Better leads. At scale.
 
@@ -328,10 +328,10 @@ That's not a small tactical difference. That's a different theory of how the bus
 - The AI-powered marketing engine and full Abracadabra system
 - All research: 4 C's framework, audience psychology, B2B strategy, persona development, quiz flow architecture
 - Email copy, website copy, sales materials, content strategy
-- The geo-exclusive DMA execution methodology — Danny suggested the concept; Davis built the specific targeting strategy, market prioritization, and client pitch approach
+- The geo-exclusive Market execution methodology — Danny suggested the concept; Davis built the specific targeting strategy, market prioritization, and client pitch approach
 
 ### The Geo-Exclusivity Note
-Danny suggested geo-exclusivity. Davis executed it. And it's not ownable — Martindale-Avvo, FindLaw, Legal Brand Marketing, and dozens of other operators use exclusive territory models. The DMA framework is a Nielsen standard. Nobody owns "one firm per market." What Davis built is the specific methodology: which DMAs, how to target, what creative, how to pitch. That's Davis's work.
+Danny suggested geo-exclusivity. Davis executed it. And it's not ownable — Martindale-Avvo, FindLaw, Legal Brand Marketing, and dozens of other operators use exclusive territory models. The Market framework is a Nielsen standard. Nobody owns "one firm per market." What Davis built is the specific methodology: which Markets, how to target, what creative, how to pitch. That's Davis's work.
 
 ### The Bottom Line
 Danny keeps everything he built — his tools, his clients, his brand, his software relationships. He is losing execution capacity (Davis's creative, Sasha's media buying) that he has demonstrated he doesn't need for the company he's building. Davis leaves with what he brought: 18 years of advertising background, his strategic frameworks, his creative systems, ideas he developed independently.
@@ -352,7 +352,7 @@ The legal services market is not zero-sum. At $10B+ annually in lead gen alone, 
 
 These are different buyer needs. Some firms will want both. Some will want only one. But the buyer who wants a white-label software platform and the buyer who wants premium creative-generated leads are asking different questions — and that means both companies can operate without fighting for exactly the same deals.
 
-**Where real overlap exists:** Both have PI attorney relationships, and the same firm could theoretically buy from both. This should be acknowledged honestly. The argument is not zero overlap — it's that in a $10B+ market with 210 US DMAs and fundamentally different value propositions, the overlap doesn't determine either company's success.
+**Where real overlap exists:** Both have PI attorney relationships, and the same firm could theoretically buy from both. This should be acknowledged honestly. The argument is not zero overlap — it's that in a $10B+ market with 210 US Markets and fundamentally different value propositions, the overlap doesn't determine either company's success.
 
 ---
 
@@ -424,7 +424,7 @@ Danny opened a door Davis hadn't been pursuing. Legal lead gen as a category, th
 The early proof of concept matters too. Danny had clients before Davis joined. The model was working well enough to be worth building on.
 
 ### What Davis Gave Lead Faucet
-Without Davis: no brand positioning, no messaging, no ad creative, no campaign concepts, no Claim Justice Now, no behavioral science integration, no research library, no quiz flow architecture, no email or website copy, no DMA execution methodology. Davis did all of this without a formal agreement, without salary, with his own money invested.
+Without Davis: no brand positioning, no messaging, no ad creative, no campaign concepts, no Claim Justice Now, no behavioral science integration, no research library, no quiz flow architecture, no email or website copy, no Market execution methodology. Davis did all of this without a formal agreement, without salary, with his own money invested.
 
 ### The Accounting
 The trade was fair. Danny gave Davis an opportunity and a proof of concept. Davis gave Lead Faucet its entire intellectual and creative foundation. Neither person owes the other anything. They got each other further than either could have reached alone. Now each person takes what they built and runs with it.
@@ -475,7 +475,7 @@ Every week you wait is a week that costs. Name the cost. Then decide.
 
 **Julian Cole:**
 
-**Risk 1: Danny becomes a PI competitor targeting the same DMAs.**
+**Risk 1: Danny becomes a PI competitor targeting the same Markets.**
 
 *Updated February 24 — Risk level: Low.*
 

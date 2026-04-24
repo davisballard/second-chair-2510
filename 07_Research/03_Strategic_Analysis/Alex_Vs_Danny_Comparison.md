@@ -114,7 +114,7 @@ The short version: Danny is a designer who calls himself a product person. Alex 
 | **Data pipeline design** | Not demonstrated | Event tracking, KPI definition, attribution modeling (CXL training) |
 | **API integrations** | Not demonstrated | Demonstrated across Compass (MLS/Zillow/Redfin APIs) and Carsey-Werner (metadata/rights systems) |
 
-**Why it matters:** Second Chair needs lead quality dashboards, DMA performance tracking, and partner reporting. Alex has built exactly this kind of infrastructure. Danny has not.
+**Why it matters:** Second Chair needs lead quality dashboards, Market performance tracking, and partner reporting. Alex has built exactly this kind of infrastructure. Danny has not.
 
 **Edge: Alex (+95%)**
 

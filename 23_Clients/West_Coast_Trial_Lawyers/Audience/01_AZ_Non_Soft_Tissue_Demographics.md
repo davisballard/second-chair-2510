@@ -658,7 +658,7 @@ Arizona's Hispanic population is **89% Mexican-origin**, reflecting geographic a
 
 ### Spanish-Language Media Landscape
 
-- **Univision Arizona** is the #1 Hispanic media company serving the 1.6M Hispanics in the Phoenix DMA
+- **Univision Arizona** is the #1 Hispanic media company serving the 1.6M Hispanics in the Phoenix Market
 - **Latino Mix 100.3 (KQMR-FM)** targets the young, bilingual Hispanic listener in Phoenix
 - **Arizona Bilingual News** serves the bilingual community
 - National trend: bilingual Hispanics saw a **26% increase** in watching TV in both English and Spanish (2020-2023)

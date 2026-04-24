@@ -50,7 +50,7 @@ TrustedForm consent is a hard requirement — not optional, not bolted on. Every
 
 **Routing — Exclusive Territory Model:**
 1. **ZIP Code Overrides** (highest priority) — direct ZIP-to-firm mapping
-2. **DMA Territory** — geographic zones defined as ZIP code arrays, one firm per DMA
+2. **Market Territory** — geographic zones defined as ZIP code arrays, one firm per Market
 3. **No match** → lead marked unroutable, status set to failed
 - **Capacity management:** per-firm daily/weekly caps with atomic check-and-reserve (no race conditions); exclusive routing means no fallback when cap reached
 

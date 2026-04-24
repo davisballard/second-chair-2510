@@ -14,7 +14,7 @@ We quantify this with the **Market Operating Index (MOI)** — a composite score
 |--------|--------|------------------|
 | **Competition & Media Cost** | 25% | Cost per click for PI keywords, number of competing firms, CPM environment |
 | **Legal Viability Rate** | 25% | What percentage of motor vehicle accidents become viable cases — driven by fault system, no-fault thresholds, statute of limitations |
-| **Market Size** | 15% | DMA population and annual accident volume — larger markets have more noise to cut through |
+| **Market Size** | 15% | Market population and annual accident volume — larger markets have more noise to cut through |
 | **Case Value Competition** | 15% | Average settlement values and jury verdicts — higher values attract more competition for the same leads |
 | **Uninsured Motorist Rate** | 10% | Percentage of at-fault drivers with no insurance — creates waste in the lead pool |
 | **Market Quality Factors** | 10% | Tourism, transient populations, military relocations, seasonal patterns — affects lead reliability |
@@ -32,13 +32,13 @@ Each factor is scored 1–10, weighted, and combined into the MOI. The MOI maps 
 
 **Price floor:** $245 | **Price ceiling:** $460 (current portfolio)
 
-*This is the same methodology Second Chair applies across its 121-DMA portfolio. The table below shows how it maps specifically to WCTL's 11 operating DMAs.*
+*This is the same methodology Second Chair applies across its 109-Market portfolio. The table below shows how it maps specifically to WCTL's 11 operating Markets.*
 
 ---
 
-## California — 7 DMAs (15% State Lockdown Discount)
+## California — 7 Markets (15% State Lockdown Discount)
 
-WCTL has 23 office cities across 7 California DMAs. When all CA DMAs are purchased together, a **15% state lockdown discount** applies — one compliance framework under SB-37, one creative system, one campaign architecture.
+WCTL has 23 office cities across 7 California Markets. When all CA Markets are purchased together, a **15% state lockdown discount** applies — one compliance framework under SB-37, one creative system, one campaign architecture.
 
 | Market | MOI | List Price | CA Lockdown | WCTL Office Cities | Key Demographics |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@ WCTL has 23 office cities across 7 California DMAs. When all CA DMAs are purchas
 
 ---
 
-## Nevada — 2 DMAs
+## Nevada — 2 Markets
 
 | Market | MOI | Cost Per Lead | WCTL Office Cities | Key Demographics |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ WCTL has 23 office cities across 7 California DMAs. When all CA DMAs are purchas
 
 ---
 
-## Arizona — 1 DMA
+## Arizona — 1 Market
 
 | Market | MOI | Cost Per Lead | WCTL Office Cities | Key Demographics |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ WCTL has 23 office cities across 7 California DMAs. When all CA DMAs are purchas
 
 ---
 
-## Washington — 1 DMA
+## Washington — 1 Market
 
 | Market | MOI | Cost Per Lead | WCTL Office Cities | Key Demographics |
 |---|---|---|---|---|
@@ -82,57 +82,57 @@ WCTL has 23 office cities across 7 California DMAs. When all CA DMAs are purchas
 
 ## Portfolio Summary
 
-| Region | DMAs | Offices | Blended Rate | Notes |
+| Region | Markets | Offices | Blended Rate | Notes |
 |---|---|---|---|---|
 | California (lockdown) | 7 | 23 cities | ~$320 | 15% state lockdown applied |
 | Nevada | 2 | 4 cities | ~$308 | List price |
 | Arizona | 1 | 1 city | $315 | List price |
 | Washington | 1 | 1 city | $335 | List price |
-| **Full 11-DMA portfolio** | **11** | **29 cities** | **~$320–$325** | Pop-weighted blend |
+| **Full 11-Market portfolio** | **11** | **29 cities** | **~$320–$325** | Pop-weighted blend |
 
 ---
 
 ## Revenue Scenarios — Delivery Rate Modeling
 
-Standard Second Chair delivery lands at 1–3 leads per day per DMA, depending on market size and campaign maturity. Learning phase (first ~30 leads in each DMA) runs at the lower end; optimized performance runs at the higher end.
+Standard Second Chair delivery lands at 1–3 leads per day per Market, depending on market size and campaign maturity. Learning phase (first ~30 leads in each Market) runs at the lower end; optimized performance runs at the higher end.
 
-### Full 11-DMA Footprint
+### Full 11-Market Footprint
 
 | Delivery Rate | Daily Leads | Monthly Leads | Monthly Investment |
 |---|---|---|---|
-| 1/day per DMA | 11 | ~330 | ~$106,000 |
-| 2/day per DMA | 22 | ~660 | ~$213,000 |
-| 3/day per DMA | 33 | ~990 | ~$319,000 |
+| 1/day per Market | 11 | ~330 | ~$106,000 |
+| 2/day per Market | 22 | ~660 | ~$213,000 |
+| 3/day per Market | 33 | ~990 | ~$319,000 |
 
-### California-Only (7 DMAs)
+### California-Only (7 Markets)
 
 | Delivery Rate | Daily Leads | Monthly Investment |
 |---|---|---|
-| 1/day per DMA | 7 | ~$67,200 |
-| 2/day per DMA | 14 | ~$134,400 |
-| 3/day per DMA | 21 | ~$201,600 |
+| 1/day per Market | 7 | ~$67,200 |
+| 2/day per Market | 14 | ~$134,400 |
+| 3/day per Market | 21 | ~$201,600 |
 
 ### Top 3 California (LA + SF + San Diego)
 
 | Delivery Rate | Daily Leads | Monthly Investment |
 |---|---|---|
-| 1/day per DMA | 3 | ~$29,250 |
-| 2/day per DMA | 6 | ~$58,500 |
-| 3/day per DMA | 9 | ~$87,750 |
+| 1/day per Market | 3 | ~$29,250 |
+| 2/day per Market | 6 | ~$58,500 |
+| 3/day per Market | 9 | ~$87,750 |
 
 ---
 
 ## Starter Package Options
 
-First packages are sold as pre-paid lead packages — 100 leads per DMA. That's the quantity that gets past the algorithm's learning phase (first ~30 leads) and into real optimized performance so you see what the campaigns actually produce, not just the ramp.
+First packages are sold as pre-paid lead packages — 100 leads per Market. That's the quantity that gets past the algorithm's learning phase (first ~30 leads) and into real optimized performance so you see what the campaigns actually produce, not just the ramp.
 
-| Option | DMAs | Leads | Investment |
+| Option | Markets | Leads | Investment |
 |---|---|---|---|
 | **Option 1 — LA Only** | 1 | 100 | **$36,000** |
 | **Option 2 — Top 3 CA** (LA + SF + San Diego) | 3 | 300 | **$97,500** |
 | **Option 3 — Full CA Lockdown** | 7 | 700 | **$198,000** |
 | **Option 4 — CA + Vegas** | 8 | 800 | **$230,500** |
-| **Option 5 — Full 11-DMA Lockdown** | 11 | 1,100 | **~$322,500** |
+| **Option 5 — Full 11-Market Lockdown** | 11 | 1,100 | **~$322,500** |
 
 ### Projected Attorney Fee → Projected ROAS (Day One)
 
@@ -142,7 +142,7 @@ Every lead delivered carries a **Projected Attorney Fee** built from its Fit Sco
 |---|---|---|---|
 | **LA (CA lockdown)** | $360 | ~$1,800-$2,800 | **5-8×** |
 | **CA blended** | ~$320 | ~$1,600-$2,500 | **5-8×** |
-| **Full 11-DMA blended** | ~$322 | ~$1,600-$2,500 | **5-8×** |
+| **Full 11-Market blended** | ~$322 | ~$1,600-$2,500 | **5-8×** |
 
 **Projected ROAS is the primary metric.** CPSC tracks alongside as a confirmation metric once sign rate data accumulates.
 
@@ -154,7 +154,7 @@ At a conservative 10% lead-to-sign conversion, cost per signed case lands in the
 |---|---|---|---|
 | LA (CA lockdown) | $360 | ~$3,600 | TV/radio $10K-$16K; Google $12K-$20K |
 | CA blended | ~$320 | ~$3,200 | Industry median CPSC from lead vendors ~$2,700 |
-| Full 11-DMA blended | ~$322 | ~$3,220 | — |
+| Full 11-Market blended | ~$322 | ~$3,220 | — |
 
 **Against a median MVA case of $25,000–$50,000 generating $8,300–$16,500 in attorney fees, that's a 3.5–7× ROAS before case expenses.**
 
@@ -162,13 +162,13 @@ At a conservative 10% lead-to-sign conversion, cost per signed case lands in the
 
 ## Key Terms
 
-**Territory Exclusivity:** One firm per DMA. When WCTL holds a DMA, no competing PI firm can purchase from Second Chair in that market. Not "exclusive leads" — exclusive market.
+**Territory Exclusivity:** One firm per Market. When WCTL holds a Market, no competing PI firm can purchase from Second Chair in that market. Not "exclusive leads" — exclusive market.
 
-**California State Lockdown:** 15% discount applies when all 7 CA DMAs are purchased together. Rationale: real operational efficiency from building one compliance framework under SB-37, one creative system, one campaign architecture across the entire state. This lockdown is California-specific and does not extend to other states.
+**California State Lockdown:** 15% discount applies when all 7 CA Markets are purchased together. Rationale: real operational efficiency from building one compliance framework under SB-37, one creative system, one campaign architecture across the entire state. This lockdown is California-specific and does not extend to other states.
 
 **Other States:** Nevada, Arizona, and Washington markets are priced at list. Each state is independent creative, compliance, and campaign work — no cross-state operational efficiency to pass through.
 
-**Package Structure:** 100 leads per DMA for first package. Renewals at 50+ leads per DMA.
+**Package Structure:** 100 leads per Market for first package. Renewals at 50+ leads per Market.
 
 **Delivery:** Portal, email, or webhook — whatever fits WCTL's intake workflow. Full data package: contact info, accident details, injury type, qualification score, consent proof via TrustedForm certificate.
 

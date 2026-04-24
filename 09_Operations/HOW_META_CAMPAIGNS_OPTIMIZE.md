@@ -3,7 +3,7 @@
 > **Type:** Internal operational reference — foundational to how SC runs campaigns
 > **Date:** March 2026
 > **Source:** `07_Research/01_Brand_Strategy_Research/02_Category_Deep_Dive/06_Media_Operations/Meta_Algorithm_Learning_And_Audience_Building.md`
-> **Why this matters:** This doc explains why there's a 100-lead minimum per DMA, how campaigns get better over time, and why creative quality is SC's structural advantage under Special Ad Category restrictions.
+> **Why this matters:** This doc explains why there's a 100-lead minimum per Market, how campaigns get better over time, and why creative quality is SC's structural advantage under Special Ad Category restrictions.
 
 ---
 
@@ -17,7 +17,7 @@ When someone converts (fills out the form), the Pixel records their behavioral f
 - Pixel data does NOT reset when you start a new campaign
 - It belongs to the ad account, not to any individual campaign or ad set
 - A new campaign in month 3 has access to everything the Pixel learned in months 1 and 2
-- This is why the second DMA you launch performs better than the first — there's already data in the account
+- This is why the second Market you launch performs better than the first — there's already data in the account
 
 ---
 
@@ -27,7 +27,7 @@ PI legal advertising runs under Meta's Special Ad Category. This restricts the t
 
 | Tool | Available? |
 |------|-----------|
-| Geographic targeting (DMA/city) | Yes |
+| Geographic targeting (Market/city) | Yes |
 | Creative-based self-selection | Yes — this is SC's primary targeting method |
 | Retargeting (website visitors, video viewers, form openers) | Yes |
 | Customer list retargeting | Yes |
@@ -36,7 +36,7 @@ PI legal advertising runs under Meta's Special Ad Category. This restricts the t
 | Interest/behavioral targeting | No |
 | Lookalike audiences | No |
 
-**What this means:** Creative is the ONLY way to reach specific people within a DMA. The ad that stops the right person mid-scroll while being invisible to everyone else is built through craft, not through platform filters. This is why SC's creative capability is the entire competitive advantage.
+**What this means:** Creative is the ONLY way to reach specific people within a Market. The ad that stops the right person mid-scroll while being invisible to everyone else is built through craft, not through platform filters. This is why SC's creative capability is the entire competitive advantage.
 
 ---
 
@@ -47,13 +47,13 @@ When you launch an **ad set**, Meta's algorithm starts learning for that specifi
 Even under SAC restrictions, the algorithm still learns from conversion events. When someone fills out the form, Meta records their behavioral fingerprint and finds more people on the platform whose aggregate behavior looks similar. It just can't expand into a separate lookalike audience — the optimization happens within the ad set's delivery model.
 
 **The 50-event threshold:**
-Meta's ideal is ~50 conversion events (form fills) per ad set per week to exit learning phase in about 2 weeks. At SC's realistic delivery rate of 1-3 leads/day per DMA:
+Meta's ideal is ~50 conversion events (form fills) per ad set per week to exit learning phase in about 2 weeks. At SC's realistic delivery rate of 1-3 leads/day per Market:
 
 | Events/Week | Learning Phase Duration | Reality for SC |
 |-------------|------------------------|----------------|
-| 50+ | ~2 weeks | Only in high-volume Tier 1 DMAs (LA, NYC) |
-| 25-49 | 3-4 weeks | Strong performance DMAs |
-| 10-24 | 4-6 weeks | Most SC DMAs will live here. Still works, just takes longer. |
+| 50+ | ~2 weeks | Only in high-volume Tier 1 Markets (LA, NYC) |
+| 25-49 | 3-4 weeks | Strong performance Markets |
+| 10-24 | 4-6 weeks | Most SC Markets will live here. Still works, just takes longer. |
 | Under 10 | May never fully exit | Too thin. This is why very small lead packages don't work. |
 
 **What resets learning (avoid during first 2-3 weeks):**
@@ -72,13 +72,13 @@ Meta's ideal is ~50 conversion events (form fills) per ad set per week to exit l
 
 ## 4. Campaign Structure for SC's Volume
 
-At 1-3 leads/day per DMA, SC cannot support multiple ad sets running simultaneously in the same DMA. Each ad set needs conversion events to learn, and splitting a thin volume across 2-3 ad sets means none of them get enough data.
+At 1-3 leads/day per Market, SC cannot support multiple ad sets running simultaneously in the same Market. Each ad set needs conversion events to learn, and splitting a thin volume across 2-3 ad sets means none of them get enough data.
 
 **The right structure at launch:**
 
 ```
-Campaign: [DMA Name]
-└── Ad Set 1: Primary (100% of budget, full DMA geography, broad audience)
+Campaign: [Market Name]
+└── Ad Set 1: Primary (100% of budget, full Market geography, broad audience)
     ├── Ad 1: Narrative storytelling (e.g., crash → family → action)
     ├── Ad 2: Same narrative, different opening hook
     ├── Ad 3: Educational angle (e.g., "68% accept the first offer")
@@ -88,11 +88,11 @@ Campaign: [DMA Name]
 
 - **One ad set.** All budget, all conversion events feeding one learning model.
 - **3-5 ads (creatives) inside that ad set.** Different angles, hooks, formats. Meta rotates and tests them all simultaneously, shifting delivery to the winners.
-- **Full DMA geographic targeting.** Broad. The creative does the audience filtering, not the targeting settings.
+- **Full Market geographic targeting.** Broad. The creative does the audience filtering, not the targeting settings.
 - **Second ad set (Spanish, retargeting) launches AFTER** the primary ad set exits learning and there are 100+ leads generating enough site traffic for retargeting.
 
 **Why 1 ad set, not 2-3:**
-If SC generates 15 leads/week in a DMA:
+If SC generates 15 leads/week in a Market:
 - 1 ad set: 15 events/week → exits learning in ~3-4 weeks
 - 2 ad sets: ~7-8 each/week → exits learning in ~5-6 weeks
 - 3 ad sets: ~5 each/week → might never exit learning
@@ -105,11 +105,11 @@ Concentrate the signal. Go deep with one ad set, then expand.
 
 This is the most important concept in SC's campaign model — and under SAC, it's the only way.
 
-SC targets the entire DMA with broad geographic targeting and uses **specific creative to self-select the right people.**
+SC targets the entire Market with broad geographic targeting and uses **specific creative to self-select the right people.**
 
 **How it works:**
 
-The ad set targets everyone in the Denver DMA. But:
+The ad set targets everyone in the Denver Market. But:
 - Ad 1 is a Spanish-language narrative with a Hispanic working-class family on the I-25 corridor → Hispanic commuters stop scrolling, everyone else keeps going
 - Ad 2 is an English educational piece about insurance lowball offers → people dealing with insurance stop, everyone else keeps going
 - Ad 3 is a direct opportunity play about settlement amounts → people who are action-ready stop
@@ -154,7 +154,7 @@ Most vendors optimize toward form fills. SC can pass signed case data back to Me
 
 ---
 
-## 8. Why 100 Leads Per DMA Is the Minimum First Package
+## 8. Why 100 Leads Per Market Is the Minimum First Package
 
 | Reason | Detail |
 |--------|--------|
@@ -171,7 +171,7 @@ Most vendors optimize toward form fills. SC can pass signed case data back to Me
 ## 9. The Optimization Cycle
 
 **First package (100 leads) = Research Phase**
-- Wide net. Full DMA. Multiple creative angles inside one ad set.
+- Wide net. Full Market. Multiple creative angles inside one ad set.
 - Learn which creatives convert, which segments respond, what the market looks like.
 - Algorithm exits learning. Retargeting audiences start building from site traffic.
 
@@ -187,8 +187,8 @@ Most vendors optimize toward form fills. SC can pass signed case data back to Me
 - Creative iteration informed by real performance data, not guesses.
 - Each renewal is better than the last.
 
-**Cross-DMA advantage:**
-When SC launches a second DMA, the Pixel already has data from the first. New campaigns learn faster. The more DMAs SC operates in, the faster each new one optimizes.
+**Cross-Market advantage:**
+When SC launches a second Market, the Pixel already has data from the first. New campaigns learn faster. The more Markets SC operates in, the faster each new one optimizes.
 
 ---
 

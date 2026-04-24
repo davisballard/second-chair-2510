@@ -356,7 +356,7 @@ These are formatted as visual callouts — rejection flags — before the benefi
 
 **Primary CTA:** "Get Started Today" — the most generic CTA in this audit
 
-**Layout principles:** Standard B2B lead gen template. Four-point "Why Us" section (Exclusive DMAs, Location Specific Targeting, Pay Per Lead, Exclusive Leads). Horizontal stats counter (50+ / 7500+ / 4200+ / 800+ / 15+). Card-based lead category swiper (MVA Leads, Workers' Comp, Premise, Other). "How does it work?" numbered four-step process. CRM integration visual. Detailed FAQ section. Dense but not distinctive.
+**Layout principles:** Standard B2B lead gen template. Four-point "Why Us" section (Exclusive Markets, Location Specific Targeting, Pay Per Lead, Exclusive Leads). Horizontal stats counter (50+ / 7500+ / 4200+ / 800+ / 15+). Card-based lead category swiper (MVA Leads, Workers' Comp, Premise, Other). "How does it work?" numbered four-step process. CRM integration visual. Detailed FAQ section. Dense but not distinctive.
 
 **CTA design:** "Get Started Today" — likely a solid green or blue fill, standard rounded button. No distinctive mechanism.
 
@@ -478,7 +478,7 @@ Concretely, this means:
 - **Color:** The prestige legal palette (Oxford navy `#0F1E3A`, Burgundy `#490A0A`, Old Gold `#E8C165`, Cream `#FFF7F0`) — not a single one of these appears anywhere in the competitive landscape
 - **Photography:** The actual consumer — the person who got hit, who got hurt, who is looking for help — alongside the quality of the creative work that reached them. Not attorneys. Not dashboards.
 - **Typography:** Century Schoolbook or Caslon at display size for headlines. A prestige serif that communicates institutional authority. Not Inter. Not Montserrat. Not any web font that could have been chosen by any template user.
-- **Hero mechanic:** Show the creative work, not a stat block. "Here's the campaign that ran in the Dallas DMA last month. 847 leads. $412 average cost." The sample lead (Growth Legal) and the demo call (Smith.ai) are the nearest competitors to this mechanic. Neither shows the creative.
+- **Hero mechanic:** Show the creative work, not a stat block. "Here's the campaign that ran in the Dallas Market last month. 847 leads. $412 average cost." The sample lead (Growth Legal) and the demo call (Smith.ai) are the nearest competitors to this mechanic. Neither shows the creative.
 - **CTA:** Something that reflects confidence, not desperation. "Apply for a market" or "See if your market is available" — borrowed from Quintessa's mechanic, executed in Second Chair's visual language.
 - **Tone:** Speak from creative authority. Not "we generate high-quality leads." But "we build the kind of advertising that makes someone pull over to call."
 - **Data presentation:** Tufte-style exhibits with the authority of a McKinsey deck, not a dashboard widget — a complete visual departure from every category convention

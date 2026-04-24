@@ -9,14 +9,14 @@
 
 ## The Opportunity
 
-West Coast Trial Lawyers is a **CA-primary firm with 11 DMAs across 4 states**. Founded 2014 by Neama Rahmani and Allen Patatanyan. $1.7 billion recovered. 20+ attorneys, 200+ staff. Heaviest concentration in California (7 DMAs, 23 office cities) with expansion into Nevada (2), Arizona (1), and Washington (1).
+West Coast Trial Lawyers is a **CA-primary firm with 11 Markets across 4 states**. Founded 2014 by Neama Rahmani and Allen Patatanyan. $1.7 billion recovered. 20+ attorneys, 200+ staff. Heaviest concentration in California (7 Markets, 23 office cities) with expansion into Nevada (2), Arizona (1), and Washington (1).
 
 **Deal size at full scope:**
-- 11 DMAs × ~$322 blended × 1–3 leads/day × 30 days = **$106K–$319K/month**
+- 11 Markets × ~$322 blended × 1–3 leads/day × 30 days = **$106K–$319K/month**
 - Annual potential: **$1.3M–$3.8M**
-- California-only scope (7 DMAs) alone: **$67K–$202K/month = $805K–$2.4M annual**
+- California-only scope (7 Markets) alone: **$67K–$202K/month = $805K–$2.4M annual**
 
-Not Jacoby-scale ($195K–$586K/month potential), but in the same league. And strategically more interesting for one reason: WCTL is **the most direct strategic fit for SC's SB-37 wedge of any firm in our pipeline.** 7 CA DMAs. 71% of population coverage subject to SB-37. If we can close WCTL on the SB-37 wedge, every other California PI firm we approach benefits from the proof point.
+Not Jacoby-scale ($195K–$586K/month potential), but in the same league. And strategically more interesting for one reason: WCTL is **the most direct strategic fit for SC's SB-37 wedge of any firm in our pipeline.** 7 CA Markets. 71% of population coverage subject to SB-37. If we can close WCTL on the SB-37 wedge, every other California PI firm we approach benefits from the proof point.
 
 **Why WCTL matters beyond revenue:**
 - Neama Rahmani is a nationally recognized trial lawyer and TV legal analyst. His personal brand is the firm's primary asset. Closing him validates the "brand-safe compliance-grade creative" positioning.
@@ -102,9 +102,9 @@ Robert is junior and structurally defensive about his vendor choices. Every tech
 Same as Jacoby — CA 15% lockdown, all other markets list price, no stacking, no flat state fees, no discounts for geographic spread.
 
 **Applied to WCTL:**
-- California (7 DMAs): **15% off** → ~$320 blended (LA $360, SF $325, RSB $290, SD $290, Sacramento $265, Fresno $230, Bakersfield $220)
+- California (7 Markets): **15% off** → ~$320 blended (LA $360, SF $325, RSB $290, SD $290, Sacramento $265, Fresno $230, Bakersfield $220)
 - Las Vegas ($325), Reno ($270), Phoenix ($315), Seattle ($335): **list price**
-- Full 11-DMA portfolio blended: **~$320–$325/lead**
+- Full 11-Market portfolio blended: **~$320–$325/lead**
 
 **See `State_Pricing_Calculator.md` for full math + revenue scenarios.**
 
@@ -112,7 +112,7 @@ Same as Jacoby — CA 15% lockdown, all other markets list price, no stacking, n
 
 The pitch is **not** "leads at $X each." The pitch is:
 
-> *"You lock down a market. No competing PI firm in your territory can buy from us. We build DMA-specific advertising for each of your markets. You see every ad before it runs — which is the SB-37 documentation Neama would want to have. You get a live dashboard where every lead arrives with a Projected Attorney Fee attached — so you see the projected ROAS of the cohort on day one, before anyone has signed anything. Sign rate and CPSC track alongside as cases close. We do all of this SB-37 and FCC 2025 compliant from day one."*
+> *"You lock down a market. No competing PI firm in your territory can buy from us. We build Market-specific advertising for each of your markets. You see every ad before it runs — which is the SB-37 documentation Neama would want to have. You get a live dashboard where every lead arrives with a Projected Attorney Fee attached — so you see the projected ROAS of the cohort on day one, before anyone has signed anything. Sign rate and CPSC track alongside as cases close. We do all of this SB-37 and FCC 2025 compliant from day one."*
 
 ### What We Are NOT Selling
 
@@ -133,15 +133,15 @@ If Las Vegas is still on strategic hold from the Jacoby planning work, it needs 
 
 ### 2. Scope Discovery — Which Markets Does Robert Actually Want?
 
-Don't assume Robert wants all 11 DMAs. He may be focused on LA only. He may want full California. He may want a pilot in one market first.
+Don't assume Robert wants all 11 Markets. He may be focused on LA only. He may want full California. He may want a pilot in one market first.
 
 **The first thing to establish in Phase 2/3 of the call:** what markets is Robert/WCTL focused on? His answer determines the pricing conversation:
 
 - **LA only:** $36,000 minimum viable pilot — still a meaningful first move
 - **Top 3 CA (LA + SF + SD):** $97,500 — tests 3 price tiers in home state
-- **Full CA lockdown (7 DMAs):** $198,000 — covers the primary exposure
+- **Full CA lockdown (7 Markets):** $198,000 — covers the primary exposure
 - **CA + Vegas:** $230,500 — adds the adjacent NV presence
-- **Full 11-DMA lockdown:** ~$322,500 — the enterprise move
+- **Full 11-Market lockdown:** ~$322,500 — the enterprise move
 
 ### 3. Creative To Have Ready
 
@@ -169,13 +169,13 @@ WCTL's legal entity structure is unclear. Is it one entity that contracts for th
 | **Neama has delegated lead gen entirely to Robert** | Low | High (good) | Black Swan #1 — if it surfaces, shift the close. Robert becomes the buyer, not the messenger. |
 | **WCTL is currently under bar scrutiny** | Low | High (good) | Black Swan #3 — if it surfaces, the SB-37 wedge is 10x more urgent. Listen for hints, don't ask directly. |
 | **Robert inherited current vendors and hates them** | Medium | High (good) | Black Swan #4 — Socratic sequences unlock much faster if he's already primed. Listen for "I didn't pick them originally." |
-| **Volume expectations exceed SC ramp capacity** | Low | Medium | WCTL is a high-volume firm. Be honest about ramp: campaigns start at ~1 lead/day per DMA, scale to 3-4/day as optimization matures. 100 leads per DMA takes 5-7 weeks in Phase 1. |
+| **Volume expectations exceed SC ramp capacity** | Low | Medium | WCTL is a high-volume firm. Be honest about ramp: campaigns start at ~1 lead/day per Market, scale to 3-4/day as optimization matures. 100 leads per Market takes 5-7 weeks in Phase 1. |
 
 ---
 
 ## Recommended Pilot Structure
 
-**Don't try to close a full 11-DMA deal on Call 1.** Call 1 is discovery + SB-37 wedge + arming Robert. The close happens at Call 2 with Neama in the room.
+**Don't try to close a full 11-Market deal on Call 1.** Call 1 is discovery + SB-37 wedge + arming Robert. The close happens at Call 2 with Neama in the room.
 
 **Sequence:**
 
@@ -215,7 +215,7 @@ WCTL's legal entity structure is unclear. Is it one entity that contracts for th
 
 1. Not naming any current or former WCTL vendor
 2. Not showing creative unless Robert explicitly asks
-3. Not pitching the full 11-DMA deal on Call 1 — pitch 3 CA DMAs (or LA alone) and let Robert expand
+3. Not pitching the full 11-Market deal on Call 1 — pitch 3 CA Markets (or LA alone) and let Robert expand
 4. Not offering a guarantee under any circumstances
 5. Not treating Robert as peer-to-Tommie engineer-operator
 6. Not using Jacoby-specific framings ("pioneered legal advertising in 1977", $2B+ recovered, "network of independent law offices")
@@ -228,12 +228,12 @@ WCTL's legal entity structure is unclear. Is it one entity that contracts for th
 
 ## Lines We Don't Cross
 
-1. **No discounts for geographic spread.** Buying DMAs in 4 states doesn't earn a per-lead discount. It earns a relationship.
-2. **No flat state fees.** The price is always per-DMA based on MOI score.
-3. **No shared exclusivity.** One firm per DMA.
+1. **No discounts for geographic spread.** Buying Markets in 4 states doesn't earn a per-lead discount. It earns a relationship.
+2. **No flat state fees.** The price is always per-Market based on MOI score.
+3. **No shared exclusivity.** One firm per Market.
 4. **No guaranteed case values.** We deliver qualified leads. Signing is on WCTL's intake.
 5. **No guaranteed CPSC.** Period. See `Guarantee_Reframe_Socratic.md` for the Socratic refusal.
-6. **No competitor data.** We don't share which DMAs other firms hold or are negotiating for.
+6. **No competitor data.** We don't share which Markets other firms hold or are negotiating for.
 7. **No stacking discounts.** CA lockdown is 15%; that's the ceiling.
 8. **No free leads as remedy.** We publish CPSC methodology; we don't backfill.
 
@@ -263,7 +263,7 @@ WCTL's legal entity structure is unclear. Is it one entity that contracts for th
 
 **By the end of this call, Robert has to be able to walk into Neama's office and say:**
 
-> *"I talked to Second Chair. Here's what I learned. Under SB-37, we're on the hook for what our vendors run, not just what we run. Statutory damages $5K to $100K per violation, private right of action. And I realized something on the call — I've never actually seen the creative our current vendors are running. Not once. I couldn't pull it together in an hour if you asked me to. Which means we're exposed and don't know it. These guys showed me a different model — DMA-specific creative, every ad visible in a dashboard, CPSC tracked with methodology, territory exclusivity. I think it's worth getting them on a call with you."*
+> *"I talked to Second Chair. Here's what I learned. Under SB-37, we're on the hook for what our vendors run, not just what we run. Statutory damages $5K to $100K per violation, private right of action. And I realized something on the call — I've never actually seen the creative our current vendors are running. Not once. I couldn't pull it together in an hour if you asked me to. Which means we're exposed and don't know it. These guys showed me a different model — Market-specific creative, every ad visible in a dashboard, CPSC tracked with methodology, territory exclusivity. I think it's worth getting them on a call with you."*
 
 If Robert can say that — even in his own words — the deal advances. That's the entire deliverable of the call. Nothing else matters.
 

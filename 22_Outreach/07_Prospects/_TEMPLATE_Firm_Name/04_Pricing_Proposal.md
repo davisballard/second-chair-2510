@@ -5,17 +5,17 @@
 
 ---
 
-Second Chair is a third-party lead generation company for personal injury law firms. We build DMA-specific creative, place the media ourselves, deliver compliant and territory-exclusive leads, and report on Projected ROAS from day one using our Fit Score model. This document covers what it costs to run in {{FIRM_NAME}}'s {{N}} operating markets, and how we get to the projected return on ad spend for every cohort.
+Second Chair is a third-party lead generation company for personal injury law firms. We build Market-specific creative, place the media ourselves, deliver compliant and territory-exclusive leads, and report on Projected ROAS from day one using our Fit Score model. This document covers what it costs to run in {{FIRM_NAME}}'s {{N}} operating markets, and how we get to the projected return on ad spend for every cohort.
 
 ---
 
-## Pricing — {{FIRM_NAME}}'s {{N}} DMAs
+## Pricing — {{FIRM_NAME}}'s {{N}} Markets
 
-{{SECTION: California DMAs with lockdown discount IF applicable. If prospect has no CA operations, delete this section.}}
+{{SECTION: California Markets with lockdown discount IF applicable. If prospect has no CA operations, delete this section.}}
 
-### California — {{N}} DMAs with 15% State Lockdown Discount
+### California — {{N}} Markets with 15% State Lockdown Discount
 
-When all seven California DMAs are purchased together, a **15% state lockdown discount** applies across the board. One compliance framework under SB-37, one creative system, one unified campaign architecture.
+When all seven California Markets are purchased together, a **15% state lockdown discount** applies across the board. One compliance framework under SB-37, one creative system, one unified campaign architecture.
 
 | Market | MOI | List Price | CA Lockdown | {{FIRM_NAME}} Office Cities |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ We quantify this with the **Market Operating Index (MOI)** — a composite score
 |---|---|---|
 | Competition & Media Cost | 25% | Cost per click for PI keywords, number of competing firms, CPM environment |
 | Legal Viability Rate | 25% | What percentage of motor vehicle accidents become viable cases |
-| Market Size | 15% | DMA population and annual accident volume |
+| Market Size | 15% | Market population and annual accident volume |
 | Case Value Competition | 15% | Average settlement values and jury verdicts in the market |
 | Uninsured Motorist Rate | 10% | Percentage of at-fault drivers with no insurance |
 | Market Quality Factors | 10% | Tourism, transient populations, seasonal patterns |
@@ -56,27 +56,27 @@ Every MOI score is transparent and auditable.
 
 ## Portfolio Summary
 
-| Region | DMAs | Offices | Blended Rate |
+| Region | Markets | Offices | Blended Rate |
 |---|---|---|---|
 | | | | |
-| **Full {{N}}-DMA portfolio** | **{{N}}** | **{{N}} cities** | **~${{X}}** |
+| **Full {{N}}-Market portfolio** | **{{N}}** | **{{N}} cities** | **~${{X}}** |
 
 ---
 
 ## Starter Package Options
 
-First packages are sold as pre-paid lead packages — **100 leads per DMA**. That's the quantity that gets past Meta's algorithm learning phase and into real optimized performance. Leads are delivered as we generate them; a 100-lead package in a single DMA fills in roughly 5–7 weeks.
+First packages are sold as pre-paid lead packages — **100 leads per Market**. That's the quantity that gets past Meta's algorithm learning phase and into real optimized performance. Leads are delivered as we generate them; a 100-lead package in a single Market fills in roughly 5–7 weeks.
 
-| Option | DMAs | Leads | Investment |
+| Option | Markets | Leads | Investment |
 |---|---|---|---|
 | **1. Primary Market Only** | 1 | 100 | **${{X}}** |
 | **2. Top 3 Markets** | 3 | 300 | **${{X}}** |
 | **3. Full CA Lockdown** (if applicable) | 7 | 700 | **${{X}}** |
 | **4. Full Footprint** | {{N}} | {{N}}00 | **${{X}}** |
 
-Renewals run at 50+ leads per DMA. Every renewal benefits from the optimization of the first 100 — better targeting, better creative, lower CPL over time.
+Renewals run at 50+ leads per Market. Every renewal benefits from the optimization of the first 100 — better targeting, better creative, lower CPL over time.
 
-> Why 100 leads per DMA? See `../../01_Playbooks/Why_100_Leads_Per_DMA.md`
+> Why 100 leads per Market? See `../../01_Playbooks/Why_100_Leads_Per_Market.md`
 
 ---
 
@@ -145,9 +145,9 @@ As the intake team works through the cohort and reports back which leads signed,
 
 ## Non-Soft-Tissue Option — High-Value Cases Only
 
-> **Include this section IF:** the prospect's DMA passes viability (≥200 monthly non-ST incidents) AND the firm has a known strength in trucking/catastrophic/wrongful death, or asks for high-value filtering.
+> **Include this section IF:** the prospect's Market passes viability (≥200 monthly non-ST incidents) AND the firm has a known strength in trucking/catastrophic/wrongful death, or asks for high-value filtering.
 > **Viability framework:** `../../../07_Research/02_Sales_Intelligence/Market_Analysis/Non_Soft_Tissue_Viability_Framework.md`
-> **Remove this section IF:** DMA is not viable for non-ST, or the prospect has no interest in case-type filtering.
+> **Remove this section IF:** Market is not viable for non-ST, or the prospect has no interest in case-type filtering.
 
 ### {{PRIMARY_DMA}} Non-Soft-Tissue Viability
 
@@ -178,8 +178,8 @@ As the intake team works through the cohort and reports back which leads signed,
 
 ## What's Included In Every Package
 
-- **Territory exclusivity** in purchased DMAs — one firm per market, no sharing
-- **DMA-specific creative** built from scratch for each market (no national templates)
+- **Territory exclusivity** in purchased Markets — one firm per market, no sharing
+- **Market-specific creative** built from scratch for each market (no national templates)
 - **{{state-specific compliance}} compliant creative** — no prohibited content, mandatory disclosures, full documentability
 - **FCC 2025 one-to-one consent** with TrustedForm certificate on every lead
 - **Full data package per lead** — contact, accident details, injury type, fit score, consent proof
@@ -189,13 +189,13 @@ As the intake team works through the cohort and reports back which leads signed,
 
 ## Key Terms
 
-**Territory Exclusivity** — When {{FIRM_NAME}} holds a DMA, no competing PI firm can purchase from Second Chair in that market.
+**Territory Exclusivity** — When {{FIRM_NAME}} holds a Market, no competing PI firm can purchase from Second Chair in that market.
 
-**California State Lockdown** — 15% discount applies when all seven California DMAs are purchased together.
+**California State Lockdown** — 15% discount applies when all seven California Markets are purchased together.
 
 **Non-California Markets** — Priced at list. Each state is independent creative, compliance, and campaign work.
 
-**Package Structure** — 100 leads per DMA for first package. Renewals at 50+ leads per DMA.
+**Package Structure** — 100 leads per Market for first package. Renewals at 50+ leads per Market.
 
 ---
 

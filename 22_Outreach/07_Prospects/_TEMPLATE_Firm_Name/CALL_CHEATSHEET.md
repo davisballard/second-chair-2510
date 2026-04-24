@@ -34,7 +34,7 @@
 | Positioning | |
 | {{DM_NAME}} | {{what makes them the decision-maker; their brand/reputation}} |
 | Notable verdicts | |
-| Footprint | {{N DMAs, M offices}} |
+| Footprint | {{N Markets, M offices}} |
 
 **What this means:** {{1-2 sentences on what this firm's shape tells us about the wedge}}
 
@@ -110,9 +110,9 @@ Team intro — 30 seconds max.
 
 **Permission:** *"Based on what you described — can I walk you through how we think about this?"*
 
-1. **DMA-specific creative** — {{local angle}}
+1. **Market-specific creative** — {{local angle}}
 2. **We run our own advertising** — visible, compliant, approval workflow
-3. **One firm per DMA** — territory exclusivity
+3. **One firm per Market** — territory exclusivity
 4. **Projected Attorney Fee → Projected ROAS** — day-one value
 
 **Flip back:**
@@ -129,11 +129,11 @@ Team intro — 30 seconds max.
 
 {{From Strategy Memo: Option 1 / 2 / 3 / Full. Why it's right for them.}}
 
-### Quick Reference — {{FIRM_NAME}}'s DMAs
+### Quick Reference — {{FIRM_NAME}}'s Markets
 
-{{Embed just their DMAs here — pulled from 04_Pricing_Proposal.md}}
+{{Embed just their Markets here — pulled from 04_Pricing_Proposal.md}}
 
-| DMA | MOI | Price | Lockdown |
+| Market | MOI | Price | Lockdown |
 |---|---|---|---|
 | | | | |
 
@@ -190,7 +190,7 @@ See `../../01_Playbooks/Negotiation_Playbook.md` → Trust Reframe
 ## PHASE 7 — ARMING {{CONTACT_NAME}}
 
 **Setup:**
-> *"[Name] — I want to be direct. I know you don't write a check for a multi-DMA program on your own authority. The most useful thing I can do is figure out what you need from me to walk into {{DM_NAME}}'s office and make this case."*
+> *"[Name] — I want to be direct. I know you don't write a check for a multi-Market program on your own authority. The most useful thing I can do is figure out what you need from me to walk into {{DM_NAME}}'s office and make this case."*
 
 ### THE 3 QUESTIONS — WRITE ANSWERS VERBATIM
 
@@ -208,7 +208,7 @@ These 3 answers become tomorrow's pricing sheet + {{wedge}} memo.
 > *"[Name] — the reason we wanted to get on a call is because the {{wedge}} piece felt like something that belongs in a room with {{DM_NAME}}. Not to close you today — this is material worth walking upstairs."*
 
 **Davis — no-oriented soft ask:**
-> *"I'll send two things by end of day tomorrow — pricing sheet for your {{N}} DMAs and a short {{wedge}} memo you can share internally. No pressure on timing. Would that be a bad idea?"*
+> *"I'll send two things by end of day tomorrow — pricing sheet for your {{N}} Markets and a short {{wedge}} memo you can share internally. No pressure on timing. Would that be a bad idea?"*
 
 > *"And if the material lands well — is it crazy to think we could get a second call in the next week or two with {{DM_NAME}} on it?"*
 
@@ -221,7 +221,7 @@ These 3 answers become tomorrow's pricing sheet + {{wedge}} memo.
 | "Happy with current vendors" | *"What's the piece that works best? And what's the piece you've had to work around?"* |
 | "More expensive than we're paying" | Accusation audit + Projected ROAS flip |
 | "I need to talk to {{DM_NAME}}" | *"Of course. Summary email? One-pager? Second call with them on it?"* |
-| "Can you do better on price?" | *"How would you want me to handle it if [top DMA] and [bottom DMA] cost us the same to operate in?"* → fairness trigger |
+| "Can you do better on price?" | *"How would you want me to handle it if [top Market] and [bottom Market] cost us the same to operate in?"* → fairness trigger |
 | "What if the leads don't convert?" | *"That's exactly why we lead with Projected Attorney Fee, and why 100 leads past learning phase."* |
 | "Send us a proposal" | *"Absolutely. Which markets? Top-line or fully broken out?"* |
 | "You guys are new" | → **Trust Reframe** |
@@ -250,7 +250,7 @@ See `../../01_Playbooks/Negotiation_Playbook.md` → Lines We Don't Cross
 - [ ] Short thank-you email with commitment for tomorrow's deliverables
 
 ### Within 24 hours
-- [ ] Pricing sheet (customized to DMAs they focused on)
+- [ ] Pricing sheet (customized to Markets they focused on)
 - [ ] 1-pager {{wedge}} memo for {{DM_NAME}}
 - [ ] **Do NOT send a proposal or contract**
 
@@ -269,7 +269,7 @@ See `../../01_Playbooks/Negotiation_Playbook.md` → The 10 Golden Rules
 
 **By the end of this call, {{CONTACT}} has to be able to walk into {{DM_NAME}}'s office and say, in their own words:**
 
-> *"I talked to Second Chair. Here's what I learned. {{core wedge insight}}. I realized — I've never actually seen the creative our current vendors are running under our name. Not once. These guys showed me a different model — DMA-specific creative, every ad visible, Projected ROAS tracked with methodology, territory exclusivity. I think it's worth getting them on a call with you."*
+> *"I talked to Second Chair. Here's what I learned. {{core wedge insight}}. I realized — I've never actually seen the creative our current vendors are running under our name. Not once. These guys showed me a different model — Market-specific creative, every ad visible, Projected ROAS tracked with methodology, territory exclusivity. I think it's worth getting them on a call with you."*
 
 **If {{CONTACT}} can say that — in their own words — the deal advances. That is the entire deliverable of the call.**
 

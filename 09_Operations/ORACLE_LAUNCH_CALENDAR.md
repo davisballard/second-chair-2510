@@ -298,7 +298,7 @@ Open 开 = grand openings, major announcements. 8 Ahau = the Sun completing at t
 - Tax reserve: 30–35% of each founder's distribution set aside before it hits personal accounts
 - Operating buffer: 1.5–2x monthly tool costs stays in company account before distributing
 - Distribution cadence: monthly
-- Dashboard: gross revenue, ad spend, tools, net profit, per-founder distributions, YTD, run rate, DMA count
+- Dashboard: gross revenue, ad spend, tools, net profit, per-founder distributions, YTD, run rate, Market count
 
 ---
 

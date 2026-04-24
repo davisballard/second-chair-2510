@@ -16,7 +16,7 @@ Personal injury legal advertising operates under Meta's Special Ad Category desi
 - **No demographic targeting** — no age, gender, household income
 - **No interest targeting** — no behavioral or psychographic stacks
 - **No lookalike audiences** built from demographic seeds
-- **Geographic targeting only** — DMA / city / zip level
+- **Geographic targeting only** — Market / city / zip level
 - **Creative is the only targeting tool**
 
 This is not a limitation. It is the mechanism that makes creative quality the entire competitive advantage. The ad that stops the right person mid-scroll while being invisible to everyone else is not built through an algorithm — it is built through craft.
@@ -154,7 +154,7 @@ Can be the most visually stripped of the three tiers. The fact is doing the work
 ## Production Workflow
 
 **Volume requirement:**  
-Fair Case's competitive advantage includes hyper-localized creative production at scale. The same campaign framework runs across multiple DMAs with market-specific elements (city/state, local details, SOL by state for Tier 3).
+Fair Case's competitive advantage includes hyper-localized creative production at scale. The same campaign framework runs across multiple Markets with market-specific elements (city/state, local details, SOL by state for Tier 3).
 
 **AI-assisted production:**  
 The cinematic quality required is achievable at scale through AI-assisted creative production — but the quality threshold must be maintained. The test for every piece of produced creative: does it look like someone who cared made it? If the details are wrong, the production is not complete.

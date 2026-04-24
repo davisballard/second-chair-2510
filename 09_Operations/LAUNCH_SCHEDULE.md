@@ -210,7 +210,7 @@ Mercury goes direct. Rest the weekend.
 - Tax reserve: 30–35% of each founder's distribution set aside before it hits personal accounts
 - Operating buffer: 1.5–2x monthly tool costs stays in company account before distributing
 - Distribution cadence: monthly
-- Dashboard: gross revenue, ad spend, tools, net profit, per-founder distributions, YTD, run rate, DMA count
+- Dashboard: gross revenue, ad spend, tools, net profit, per-founder distributions, YTD, run rate, Market count
 
 **Pipedrive** — Sasha configures as first responses arrive: New → Contacted → Call Booked → Proposal → Closed
 

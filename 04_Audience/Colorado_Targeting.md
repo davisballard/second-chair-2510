@@ -9,9 +9,9 @@
 
 This document defines the Colorado targeting strategy for Second Chair MVA campaigns. Three distinct archetypes cover the working-class population most likely to respond to personal injury advertising.
 
-**Targeting Method:** Geographic only — Meta Special Ad Categories. ZIP code data below informs the CREATIVE (who we're speaking to), not the audience filters. Broad DMA targeting, creative does the qualifying.
+**Targeting Method:** Geographic only — Meta Special Ad Categories. ZIP code data below informs the CREATIVE (who we're speaking to), not the audience filters. Broad Market targeting, creative does the qualifying.
 **Creative Strategy:** Let the creative do the qualifying — call out avatar in first 3 seconds. Multiple creatives per ad set, each speaking to a different archetype. Meta tests them simultaneously and builds the audience model from who responds to which creative.
-**Campaign Structure:** 1 ad set per DMA at launch with 3-5 creatives inside. All conversion events feed one learning model. Second ad set (Spanish, retargeting) launches after first exits learning (~3-6 weeks at SC's volume). 100-lead minimum per DMA. See `09_Operations/HOW_META_CAMPAIGNS_OPTIMIZE.md` for full detail.
+**Campaign Structure:** 1 ad set per Market at launch with 3-5 creatives inside. All conversion events feed one learning model. Second ad set (Spanish, retargeting) launches after first exits learning (~3-6 weeks at SC's volume). 100-lead minimum per Market. See `09_Operations/HOW_META_CAMPAIGNS_OPTIMIZE.md` for full detail.
 
 ---
 

@@ -56,7 +56,7 @@ You pay 15% more per signed case but need 75% fewer leads and your intake team s
 TrustedForm full stack on every lead — court-admissible consent documentation and advertising origin record. You know where every lead came from and you can prove it. Premium tier calls are recorded with two-party consent compliance.
 
 **No shared leads.**
-The lead generated for your firm is delivered to your firm. Not re-routed to another attorney in your market. Premium tier live transfers are exclusive to your DMA.
+The lead generated for your firm is delivered to your firm. Not re-routed to another attorney in your market. Premium tier live transfers are exclusive to your Market.
 
 ---
 
@@ -132,7 +132,7 @@ The craft that makes Second Chair's B2C advertising work — specific, emotional
 
 The compliance architecture behind every Second Chair lead — TrustedForm full stack, fail-closed screening, the dual scoring engine — was built by someone who built financial products at TradeStation under FINRA/SEC compliance standards. The same engineering discipline that makes a financial platform audit-ready makes Second Chair's compliance infrastructure non-negotiable rather than aspirational.
 
-Alex has also built the AI systems that power the council's creative and strategic intelligence — the same systems that produce the B2C advertising at scale, with market-specific precision, across Second Chair's active DMAs.
+Alex has also built the AI systems that power the council's creative and strategic intelligence — the same systems that produce the B2C advertising at scale, with market-specific precision, across Second Chair's active Markets.
 
 ---
 

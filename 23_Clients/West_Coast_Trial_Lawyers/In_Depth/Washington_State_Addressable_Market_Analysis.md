@@ -9,7 +9,7 @@
 
 ## Executive Summary
 
-Washington state sees approximately **75,900 total traffic crashes per year** (2023), of which roughly **23,500 result in injuries**. Excluding soft tissue cases — the only category WCTL declines — the estimated addressable incident pool is **~7,000–9,400 per year, or approximately 590–785 per month statewide**. Within the Seattle-Tacoma DMA (~55% of state crash volume), that narrows to an estimated **325–430 viable incidents per month**.
+Washington state sees approximately **75,900 total traffic crashes per year** (2023), of which roughly **23,500 result in injuries**. Excluding soft tissue cases — the only category WCTL declines — the estimated addressable incident pool is **~7,000–9,400 per year, or approximately 590–785 per month statewide**. Within the Seattle-Tacoma Market (~55% of state crash volume), that narrows to an estimated **325–430 viable incidents per month**.
 
 This is a workable but competitive pool. The pilot should concentrate on 2-3 high-value sub-categories where ad creative can speak directly to the incident type.
 
@@ -115,11 +115,11 @@ The following categories represent the types of cases WCTL accepts. Note: catego
 
 ---
 
-## Seattle-Tacoma DMA Concentration
+## Seattle-Tacoma Market Concentration
 
-The Seattle-Tacoma DMA encompasses **~55% of Washington's population** and a roughly proportional share of traffic crashes. The Puget Sound region more broadly accounts for approximately two-thirds of the state.
+The Seattle-Tacoma Market encompasses **~55% of Washington's population** and a roughly proportional share of traffic crashes. The Puget Sound region more broadly accounts for approximately two-thirds of the state.
 
-| Metric | Statewide Monthly | Seattle-Tacoma DMA Monthly (Est.) |
+| Metric | Statewide Monthly | Seattle-Tacoma Market Monthly (Est.) |
 |--------|-------------------|----------------------------------|
 | Total addressable non-soft-tissue incidents | 588–785 | **325–430** |
 | Fatal / wrongful death | 68 | ~37 |
@@ -129,7 +129,7 @@ The Seattle-Tacoma DMA encompasses **~55% of Washington's population** and a rou
 | Pedestrian/cyclist (fatal + serious) | 67 | ~37 |
 | DUI injury crashes | 108 | ~59 |
 
-*Note: Seattle proper saw ~7,984 crashes in 2021, but the DMA extends well beyond city limits into Tacoma, Bellevue, Everett, Olympia corridor, and surrounding counties.*
+*Note: Seattle proper saw ~7,984 crashes in 2021, but the Market extends well beyond city limits into Tacoma, Bellevue, Everett, Olympia corridor, and surrounding counties.*
 
 ---
 
@@ -137,7 +137,7 @@ The Seattle-Tacoma DMA encompasses **~55% of Washington's population** and a rou
 
 ### The Math
 - **Target:** 3–4 sign-worthy leads from $10K spend
-- **Addressable pool (Seattle DMA):** ~325–430 non-soft-tissue incidents/month
+- **Addressable pool (Seattle Market):** ~325–430 non-soft-tissue incidents/month
 - **Realistic ad reach:** A fraction of these individuals will see and engage with paid social ads during the campaign window
 - **Funnel conversion:** Ad impression → Click → Quiz completion → Qualified lead → Delivered to WCTL → Signed case
 
@@ -148,7 +148,7 @@ The Seattle-Tacoma DMA encompasses **~55% of Washington's population** and a rou
 - Less competition in WA than in saturated CA/NV markets (per Robert's own assessment)
 
 ### Risk Factors
-- $10K may not generate enough impressions for pixel optimization in a single DMA
+- $10K may not generate enough impressions for pixel optimization in a single Market
 - Higher-severity injury victims may already have attorneys (hospital referrals, existing relationships)
 - Seasonal variation: motorcycle crashes spike spring–fall; winter brings different crash profiles
 - Campaign ramp-up means first 25 leads will have highest CPL
@@ -170,7 +170,7 @@ The Seattle-Tacoma DMA encompasses **~55% of Washington's population** and a rou
 - WSDOT/WTSC data uses a 5-level injury severity scale (fatal, serious, evident, possible, none). The line between "moderate non-soft-tissue" and "soft tissue" does not map cleanly to these categories — the estimates in this document use industry PI claim ratios as a proxy.
 - Rideshare data is extrapolated from national figures due to lack of WA-specific reporting.
 - Not all crash victims pursue legal representation. Estimated PI claim filing rates vary from 30–50% of eligible incidents.
-- DMA-level estimates assume proportional distribution by population; actual crash density may vary.
+- Market-level estimates assume proportional distribution by population; actual crash density may vary.
 - All figures based on most recent available data (primarily 2022–2023). 2024 data is partial.
 
 ---

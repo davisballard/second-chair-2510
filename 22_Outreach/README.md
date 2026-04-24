@@ -35,7 +35,7 @@
 ├── 05_Prospect_Emails/             ← Firm-specific personalized outreach
 ├── 06_Infrastructure/              ← Domain strategy, tools, deliverability
 ├── 07_Prospects/                   ← Per-firm pre-sale research (one folder per prospect)
-└── 08_DMA_Prospect_Lists/          ← Scraped prospect lists by DMA
+└── 08_Market_Prospect_Lists/          ← Scraped prospect lists by Market
 ```
 
 > **Signed clients live at `../23_Clients/`.** When a prospect signs, move the entire folder from `07_Prospects/` to `23_Clients/` — full history travels with the client.
@@ -58,10 +58,10 @@ These files stay in their home directories but directly inform outreach work:
 - [Spanish-Capable PI Firms](../07_Research/02_Sales_Intelligence/Prospect_Targets/Spanish_Capable_PI_Firms.md) — Bilingual market segment
 
 ### Market Research
-- [Top 10 DMA Targets](../07_Research/02_Sales_Intelligence/Market_Analysis/Top_10_DMA_Targets.md) — DMA rankings and analysis
+- [Top 10 Market Targets](../07_Research/02_Sales_Intelligence/Market_Analysis/Top_10_Market_Targets.md) — Market rankings and analysis
 - [State Market Prioritization](../07_Research/02_Sales_Intelligence/Market_Analysis/State_Market_Prioritization.md) — State-by-state model
 - [TAM Analysis](../07_Research/02_Sales_Intelligence/Market_Analysis/Total_Addressable_Market_Analysis.md) — Total addressable market
-- [DMA Baseline Pricing](../07_Research/02_Sales_Intelligence/Market_Analysis/DMA_Baseline_Pricing_Framework.md) — Per-market pricing model
+- [Market Baseline Pricing](../07_Research/02_Sales_Intelligence/Market_Analysis/Market_Baseline_Pricing_Framework.md) — Per-market pricing model
 
 ### Sales Frameworks (Roma's Agent)
 - [Cold Outreach B2B](../../../05_Accounts/Richard_Roma_(VP_of_Sales)/prospecting/Cold_Outreach_B2B.md) — Email template patterns, multi-channel sequencing

@@ -27,7 +27,7 @@ Every time an ad is served, Meta's delivery system collects signals at every sta
 - How long the user paused before scrolling past (scroll velocity)
 - Whether the video was watched 3 seconds, 25%, 50%, 75%, or 100%
 - Device type, OS, time of day, day of week
-- Geographic precision (DMA, city, neighborhood cluster)
+- Geographic precision (Market, city, neighborhood cluster)
 - Content that the user had been engaging with in the previous session
 
 **Engagement signals:**
@@ -151,7 +151,7 @@ This is structurally favorable to Second Chair and structurally unfavorable to c
 
 ## Part 4: 90-Day Audience Maturation Timeline
 
-The following timeline assumes Second Chair launches in a single DMA with a ~$40K/month media budget (~$1,300/day), running 3-4 active ad sets at launch.
+The following timeline assumes Second Chair launches in a single Market with a ~$40K/month media budget (~$1,300/day), running 3-4 active ad sets at launch.
 
 ### Phase 1: Learning (Days 1-14)
 
@@ -201,7 +201,7 @@ The following timeline assumes Second Chair launches in a single DMA with a ~$40
 - If CAPI is integrated and signed case data is flowing back (see Part 5), shift optimization event to signed case or case value signal
 - Build lookalike audiences from signed case custom audience (not just lead custom audience) — this is the highest-quality seed possible
 - Expand to new ad sets in adjacent audience segments based on what worked
-- Begin geo expansion to new DMAs using the audience model built in the initial market as a template
+- Begin geo expansion to new Markets using the audience model built in the initial market as a template
 
 **Expected performance:** CPL at or below agency-optimized scenario. CPSC declining as lead quality improves through CAPI optimization.
 

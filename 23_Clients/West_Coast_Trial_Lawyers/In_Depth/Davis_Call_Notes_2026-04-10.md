@@ -160,7 +160,7 @@ Deploy Trust_Experience_Reframe in full. Start with: *"Robert — you're probabl
 > *"Completely fair. What specifically would be most helpful for me to send you and Neama?"* Then give him exactly what he asks for.
 
 **If Robert says "just send me pricing":**
-> *"Absolutely. Two questions so I don't waste your time. Which markets do you want me to price — are we talking LA as a starter, full California, or all 11 DMAs? And what level of detail does Neama want — top-line or fully broken out?"*
+> *"Absolutely. Two questions so I don't waste your time. Which markets do you want me to price — are we talking LA as a starter, full California, or all 11 Markets? And what level of detail does Neama want — top-line or fully broken out?"*
 
 ---
 

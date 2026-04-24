@@ -6,7 +6,7 @@
 
 Second Chair operates across multiple states, each with different Bar advertising rules. This file tracks state-specific requirements and adjustments.
 
-**Current Status:** Second Chair is launching fresh with no active clients. Target markets are defined by DMA (Designated Market Area) priorities rather than client-specific state coverage.
+**Current Status:** Second Chair is launching fresh with no active clients. Target markets are defined by Market (Designated Market Area) priorities rather than client-specific state coverage.
 
 ---
 
@@ -14,7 +14,7 @@ Second Chair operates across multiple states, each with different Bar advertisin
 
 **No active clients.** Second Chair is in pre-launch phase for B2B client acquisition.
 
-**Priority DMAs for launch:**
+**Priority Markets for launch:**
 - New York City metro
 - Los Angeles metro
 - Miami metro

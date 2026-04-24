@@ -35,8 +35,8 @@
 
 - `01_Firm_Profile.md` — firm intelligence (facts, verdicts, footprint, positioning)
 - `02_Contact_Profile.md` — who we're talking to + how to handle them
-- `03_DMA_Analysis.md` — their DMAs only, pulled from central pricing framework
-- `04_Pricing_Proposal.md` — client-facing pricing table for their DMAs
+- `03_Market_Analysis.md` — their Markets only, pulled from central pricing framework
+- `04_Pricing_Proposal.md` — client-facing pricing table for their Markets
 - `05_Strategy_Memo.md` — how we approach THIS buyer (internal only)
 - `06_Call_Script.md` — Socratic discovery script customized for their situation
 - `07_Oracle_And_Negotiation.md` — call-day oracle reading + buyer-tuned Voss moves
@@ -48,9 +48,9 @@
 
 - **Negotiation tactics:** `../../01_Playbooks/Negotiation_Playbook.md`
 - **Premium tier (Call 2+):** `../../01_Playbooks/Premium_Nurturing_Differentiator.md`
-- **Why 100 leads per DMA:** `../../01_Playbooks/Why_100_Leads_Per_DMA.md`
+- **Why 100 leads per Market:** `../../01_Playbooks/Why_100_Leads_Per_Market.md`
 - **Email outreach patterns:** `../../01_Playbooks/EMAIL_OUTREACH_PLAYBOOK.md`
-- **DMA pricing framework (source of truth):** `../../../07_Research/02_Sales_Intelligence/Market_Analysis/DMA_Baseline_Pricing_Framework.md`
+- **Market pricing framework (source of truth):** `../../../07_Research/02_Sales_Intelligence/Market_Analysis/Market_Baseline_Pricing_Framework.md`
 - **Projected Attorney Fee model (source of truth):** `../../../01_Identity/Projected_Attorney_Fee_Model.md`
 - **Universal pain points:** `../../../07_Research/02_Sales_Intelligence/Prospect_Targets/Universal_Pain_Points.md`
 - **Sales approach guide (Roma's whale methodology):** `../../../07_Research/02_Sales_Intelligence/Prospect_Targets/Sales_Approach_Guide.md`

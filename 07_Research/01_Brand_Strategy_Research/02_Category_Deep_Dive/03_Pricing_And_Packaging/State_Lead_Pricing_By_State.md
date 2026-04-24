@@ -13,7 +13,7 @@ Lead pricing in PI is not uniform across states. The variation is large, structu
 
 1. **No-fault vs. tort insurance system** — which cases can be litigated, and what injury threshold must be cleared
 2. **Average MVA case settlement value** — which determines the contingency fee economics and what attorneys can pay per lead
-3. **Market competition density** — how many attorneys are competing for the same leads in a given DMA
+3. **Market competition density** — how many attorneys are competing for the same leads in a given Market
 4. **State bar advertising compliance complexity** — additional compliance costs in high-regulation states raise the vendor's cost of delivery, which flows into price
 
 This document maps all four factors by state and produces Second Chair's recommended pricing framework by state tier.
@@ -114,7 +114,7 @@ GetSignedCases / Accident Payments is the only competitor publishing specific pe
 Second Chair's lead price by state is driven by three variables:
 1. **No-fault premium** — markets where only serious injuries are litigable require higher-quality leads, which cost more to acquire and qualify
 2. **Average attorney willingness to pay** — proxied by Google Ads CPC for PI keywords (if attorneys are paying $300/click on Google, they will pay $300–$500 for a qualified exclusive lead)
-3. **Delivery cost** — media CPM and CPL in the DMA drives Second Chair's cost of goods; price must maintain target margin
+3. **Delivery cost** — media CPM and CPL in the Market drives Second Chair's cost of goods; price must maintain target margin
 
 ### Recommended Pricing by Market (Launch Phase)
 
@@ -180,7 +180,7 @@ Some states impose additional restrictions on legal advertising that affect lead
 | Insurance system | No-fault (threshold system) | Pure tort (open litigation) |
 | Settlement values | High average settlement (CA, NY) | Lower average settlement (Midwest) |
 | Attorney competition | Dense attorney market | Sparse attorney market |
-| DMA media cost | High CPM / CPL (urban) | Low CPM / CPL (rural / mid-market) |
+| Market media cost | High CPM / CPL (urban) | Low CPM / CPL (rural / mid-market) |
 | Compliance complexity | High-restriction states | Low-restriction states |
 
 ---

@@ -237,4 +237,59 @@ When the register's validation plan fires (Week 1 actuals come in), these are th
 
 ---
 
+## 14. Fault Distribution & Rider Liability (Rigor Note — 2026-04-22)
+
+**Purpose:** Answer the "are motorcyclists mostly at fault for their own crashes?" objection if Robert or any WCTL stakeholder raises it. Added following Davis's fault-distribution sanity check on the supersport-persona pivot. Load-bearing numbers live in the tables below; the §14.5 narrative framing is the actual pitch language.
+
+### 14.1 Multi-vehicle moto crashes (~75% of all moto crashes)
+
+| # | Number | Value | Source | Status |
+|---|---|---|---|---|
+| 14.1.1 | Multi-vehicle share of all motorcycle crashes | ~75% | Hurt Report (USC 1981 foundational study); replicated in modern NTSB analyses | `sourced` |
+| 14.1.2 | Multi-vehicle crashes where the OTHER DRIVER is at fault | 60–66% | Hurt Report (66%), MAIDS European report (60%), modern NTSB analysis (~64%, 88 of 138 cases) | `sourced` |
+| 14.1.3 | Most common other-driver-fault scenario | Left-turn failure-to-yield — driver didn't see motorcyclist | Hurt Report + ADOT | `sourced` |
+
+### 14.2 Single-vehicle moto crashes (~25% of all moto crashes — NOT our target)
+
+| # | Number | Value | Source | Status |
+|---|---|---|---|---|
+| 14.2.1 | Single-vehicle share of all moto crashes | ~25% | Hurt Report, NHTSA | `sourced` |
+| 14.2.2 | Single-vehicle crashes where the rider is at fault | ~67% | Hurt Report ("rider error present as precipitating factor in ~2/3 of single-vehicle cases") | `sourced` |
+| 14.2.3 | Typical rider-error causes | Overbraking slide-out, running wide on a curve due to excess speed | Hurt Report | `sourced` |
+
+**Note:** Single-vehicle crashes are NOT our PI target — no third-party defendant means no recoverable case. These riders don't contact WCTL.
+
+### 14.3 Arizona-specific fault context
+
+| # | Number | Value | Source | Status |
+|---|---|---|---|---|
+| 14.3.1 | AZ moto crashes occurring with no fault of the rider (all crash types) | ~47% | AZ PI firm aggregate citing ADOT-derivative data (esquirelaw.com, 2025) | `sourced` |
+| 14.3.2 | Mesa moto crashes from failure-to-yield + left-turn-without-dedicated-arrow + alcohol + older drivers | 63% of all Mesa moto collisions | City of Mesa crash analysis | `sourced` |
+| 14.3.3 | Multi-vehicle share of AZ 2023 moto crashes | 62.6% (1,980 of 3,165) | ADOT 2023 Crash Facts | `sourced` |
+| 14.3.4 | AZ comparative negligence rule | Pure comparative — rider's recovery reduced proportional to their fault, never eliminated | A.R.S. § 12-2505 | `sourced` |
+
+### 14.4 Supersport-specific (post-2026-04-22 pivot to Ty Rivera persona)
+
+| # | Number | Value | Source | Status |
+|---|---|---|---|---|
+| 14.4.1 | Supersport fatal crash rate per 10,000 registered bikes | 22.5–22.6 | Dulaney, Lauer & Thomas study + Motorcycle Industry Council data | `sourced` |
+| 14.4.2 | Cruiser fatal crash rate per 10,000 registered bikes | 5.6–5.7 | Same source | `sourced` |
+| 14.4.3 | Supersport fatality rate vs. cruiser | ~4x higher per registered bike | Derived from 14.4.1 / 14.4.2 | `derived` |
+| 14.4.4 | Supersport fatalities involving rider speed | 57% | MIC / NHTSA | `sourced` |
+| 14.4.5 | Left-turn driver's duty to yield under AZ law | Presumptively at fault in intersection crashes REGARDLESS of oncoming-vehicle speed; speed reduces rider's recovery proportionally but doesn't eliminate the driver's liability | A.R.S. § 28-772 + AZ case law interpretation | `sourced` |
+
+### 14.5 The pitch language (for Robert / any WCTL stakeholder)
+
+**Objection:** "Aren't motorcyclists mostly at fault for their own crashes?"
+
+**Answer (sourced):** No. Three-quarters of motorcycle crashes are multi-vehicle, and in those, the other driver is at fault 60–66% of the time per the Hurt Report, MAIDS, and NTSB. In AZ specifically, ADOT data confirms the most common cause is drivers failing to yield or making left turns without seeing the motorcyclist — exactly the scenario our M3 creative ("A driver didn't see the rider") speaks to. The remaining ~25% of crashes that are single-vehicle rider-error cases are NOT our PI target: no third-party defendant means no case to sign. Those riders don't call WCTL.
+
+**Our creative filters for clean-liability cases.** The M3 hook ("A driver didn't see the rider") explicitly self-qualifies to the driver-fault multi-vehicle subset. M1 and M2 are emotional/identity/loss hooks that don't depend on fault allocation. WCTL's ad spend reaches riders most likely to be (a) injured in a crash that wasn't their fault and (b) aware they have a case worth pursuing.
+
+**Supersport-specific (Ty Rivera persona):** Even after the 2026-04-22 pivot to the sportbike archetype — which has a 4x per-capita crash rate and a speed-involvement tail in fatalities — the left-turn driver's duty to yield applies REGARDLESS of rider speed. AZ's pure comparative-negligence rule reduces a rider's recovery proportionally to any fault but never eliminates it: a rider found 20% at fault on a $500K claim still recovers $400K. Supersport riders hit at intersections by left-turning drivers are a clean-liability subset within a 4x-higher-crash-rate population. Math works.
+
+**Validation during pilot:** Track sign rate by self-reported crash-cause in the quiz funnel (Step 3 "What happened?"). Expected pattern: "driver at fault" leads sign at 3–5× the rate of "I was at fault" or "not sure" leads. If the fault-filter doesn't hold that spread, re-tune M3 hook to filter harder — e.g., explicit "hit by a left-turning driver" phrasing.
+
+---
+
 *Evidence Register for Second Chair × WCTL Arizona Pilot — maintained alongside Audience/ docs 01–06. If a load-bearing number changes, update this file first.*

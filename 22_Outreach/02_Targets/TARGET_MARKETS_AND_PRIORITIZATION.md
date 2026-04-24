@@ -1,20 +1,20 @@
 # Target Markets & Prioritization
 
 > **Owner:** Julian Cole (strategy), Roma (tier system), Nigel (commercial)
-> **Source:** Top_10_DMA_Targets.md, State_Market_Prioritization.md, Geo_Exclusivity_Territory_Model.md
+> **Source:** Top_10_Market_Targets.md, State_Market_Prioritization.md, Geo_Exclusivity_Territory_Model.md
 > **Updated:** March 24, 2026
-> **Critical rule:** One client per DMA. Breadth over depth. Never over-invest in a single market.
+> **Critical rule:** One client per Market. Breadth over depth. Never over-invest in a single market.
 
 ---
 
-## The One-Per-DMA Reality
+## The One-Per-Market Reality
 
-Second Chair sells geo-exclusive territory — one firm per DMA. This means:
+Second Chair sells geo-exclusive territory — one firm per Market. This means:
 
 - **If you close NYC, you're done in NYC.** All remaining NYC outreach is wasted.
-- **Sequential market rollout is wrong.** You can't spend 3 months on 2 DMAs when a close in either one ends that DMA.
-- **Breadth from Day 1.** Hit all 10 priority DMAs simultaneously. Go 5-10 prospects deep per DMA, not 50 deep in one.
-- **Multi-market firms are the highest ROI target.** One close = multiple DMAs locked = maximum revenue per sales effort.
+- **Sequential market rollout is wrong.** You can't spend 3 months on 2 Markets when a close in either one ends that Market.
+- **Breadth from Day 1.** Hit all 10 priority Markets simultaneously. Go 5-10 prospects deep per Market, not 50 deep in one.
+- **Multi-market firms are the highest ROI target.** One close = multiple Markets locked = maximum revenue per sales effort.
 
 ---
 
@@ -22,21 +22,21 @@ Second Chair sells geo-exclusive territory — one firm per DMA. This means:
 
 **These are the first emails Sasha sends.**
 
-Firms with offices in 3+ cities/states. One close locks multiple DMAs simultaneously. This is the highest possible ROI per unit of sales effort.
+Firms with offices in 3+ cities/states. One close locks multiple Markets simultaneously. This is the highest possible ROI per unit of sales effort.
 
 ### What a Multi-Market Close Looks Like
 
-| Firm Type | Example | DMAs Locked | Potential MRR |
+| Firm Type | Example | Markets Locked | Potential MRR |
 |-----------|---------|-------------|---------------|
-| Multi-city, same state | LA + SF + San Diego offices | 3 CA DMAs | $56K-$96K |
-| Multi-state | CA + TX + FL offices | 3+ DMAs across states | $68K-$116K |
-| Regional multi-state | Houston + Dallas + San Antonio | 2-3 TX DMAs | $40K-$68K |
-| National firm | CA + NY + FL + TX + IL | 5-10 DMAs | $108K-$188K |
+| Multi-city, same state | LA + SF + San Diego offices | 3 CA Markets | $56K-$96K |
+| Multi-state | CA + TX + FL offices | 3+ Markets across states | $68K-$116K |
+| Regional multi-state | Houston + Dallas + San Antonio | 2-3 TX Markets | $40K-$68K |
+| National firm | CA + NY + FL + TX + IL | 5-10 Markets | $108K-$188K |
 
 **Pricing:** Per the Geo Exclusivity Territory Model:
-- Multi-city same state (Scenario A): Price per DMA, optional regional bundle discount
-- Multi-state (Scenario B): Custom enterprise package, each DMA named and locked
-- Statewide (Scenario C): Sum of individual DMAs with 10-15% bundle discount
+- Multi-city same state (Scenario A): Price per Market, optional regional bundle discount
+- Multi-state (Scenario B): Custom enterprise package, each Market named and locked
+- Statewide (Scenario C): Sum of individual Markets with 10-15% bundle discount
 
 ### How to Find Multi-Market Firms
 
@@ -53,17 +53,17 @@ Sasha hand-crafts every one of these. The pitch references their multi-market pr
 
 *"You have offices in LA, Dallas, and Miami. We can build advertising for all three markets — one relationship, three exclusive territories."*
 
-**Target:** Identify 20-30 multi-market firms across the Top 10 DMAs. These are Sasha's first outreach priority.
+**Target:** Identify 20-30 multi-market firms across the Top 10 Markets. These are Sasha's first outreach priority.
 
 ---
 
-## Outreach Priority 2: Single-DMA Whales — All 10 DMAs Simultaneously
+## Outreach Priority 2: Single-Market Whales — All 10 Markets Simultaneously
 
-Hit all 10 DMAs from Day 1. Not phases. Not sequential. Parallel tracks.
+Hit all 10 Markets from Day 1. Not phases. Not sequential. Parallel tracks.
 
-### The Top 10 DMAs
+### The Top 10 Markets
 
-| Rank | DMA | Score | Est. Revenue/Client | Team Advantage | Status |
+| Rank | Market | Score | Est. Revenue/Client | Team Advantage | Status |
 |------|-----|-------|--------------------:|----------------|--------|
 | 1 | **Atlanta** | 8.7 | $16K-$28K/mo | Alex has relationships | Open |
 | 2 | **Los Angeles** | 8.5 | $28K-$48K/mo | Davis + Alex are local | Open |
@@ -78,27 +78,27 @@ Hit all 10 DMAs from Day 1. Not phases. Not sequential. Parallel tracks.
 
 **Combined potential (10 clients):** $192K-$328K/mo ($2.3M-$3.9M ARR)
 
-**Full DMA profiles:** See `07_Research/02_Sales_Intelligence/Market_Analysis/Top_10_DMA_Targets.md`
+**Full Market profiles:** See `07_Research/02_Sales_Intelligence/Market_Analysis/Top_10_Market_Targets.md`
 
-### Volume Allocation Across DMAs
+### Volume Allocation Across Markets
 
-- **Weekly target:** 5-10 new prospects per DMA = 50-100 new prospects total
-- **Don't go 50 deep in one DMA.** If you load 50 Atlanta prospects and close Atlanta on prospect #3, the other 47 are wasted effort.
-- **Balance across all 10.** Sasha and Davis divide DMAs based on proximity and relationships.
+- **Weekly target:** 5-10 new prospects per Market = 50-100 new prospects total
+- **Don't go 50 deep in one Market.** If you load 50 Atlanta prospects and close Atlanta on prospect #3, the other 47 are wasted effort.
+- **Balance across all 10.** Sasha and Davis divide Markets based on proximity and relationships.
 
-### When a DMA Is Sold
+### When a Market Is Sold
 
-1. **STOP all outreach to that DMA immediately.** Pause Instantly sequences. Remove from LinkedIn targeting.
-2. **Move remaining prospects to a DMA Waitlist.** They become re-engagement candidates if:
+1. **STOP all outreach to that Market immediately.** Pause Instantly sequences. Remove from LinkedIn targeting.
+2. **Move remaining prospects to a Market Waitlist.** They become re-engagement candidates if:
    - The client churns
-   - The DMA is large enough for sub-territories (LA and NYC can support 2-3 exclusive zones)
-   - You open adjacent DMAs in the same state
+   - The Market is large enough for sub-territories (LA and NYC can support 2-3 exclusive zones)
+   - You open adjacent Markets in the same state
 3. **Update the Status column** in the table above from "Open" to "Sold — [Client Name]"
-4. **Reallocate volume** to remaining open DMAs
+4. **Reallocate volume** to remaining open Markets
 
 ### Competing Interest Rule
 
-If two prospects in the same DMA are both interested simultaneously:
+If two prospects in the same Market are both interested simultaneously:
 - The one closer to closing gets priority
 - The other gets: *"We're in active conversations for [market]. If you're interested, I'd want to move quickly — decision timeline is [X]."*
 - This creates urgency without lying. Both are real.
@@ -107,11 +107,11 @@ If two prospects in the same DMA are both interested simultaneously:
 
 ## Outreach Priority 3: State-Level Expansion
 
-Once the Top 10 DMAs are in motion, expand into additional DMAs within priority states.
+Once the Top 10 Markets are in motion, expand into additional Markets within priority states.
 
 ### Priority States (from State Market Prioritization)
 
-| State | B2B Score | Lead Pricing | Revenue/Client | Key DMAs Beyond Top 10 |
+| State | B2B Score | Lead Pricing | Revenue/Client | Key Markets Beyond Top 10 |
 |-------|----------|-------------|---------------:|----------------------|
 | **California** | 10/10 | $375-$450/lead | $30K-$45K/mo | Sacramento, Fresno, Riverside |
 | **Florida** | 9/10 | $300-$375/lead | $20K-$30K/mo | Tampa, Orlando, Jacksonville |
@@ -134,13 +134,13 @@ Once the Top 10 DMAs are in motion, expand into additional DMAs within priority 
 - Offices in 3+ cities OR 2+ states
 - $50M+ estimated revenue
 - Identifiable marketing director or managing partner at HQ
-- Appears in multiple DMA searches (SpyFu, Best Lawyers, Google Maps)
+- Appears in multiple Market searches (SpyFu, Best Lawyers, Google Maps)
 
 **Outreach:** Sasha only. Fully personalized. Reference their multi-market presence. Pitch the territory bundle.
 
 **Volume:** Research and reach 20-30 total. These are finite — treat each one as a strategic account.
 
-### Tier 1 — Single-DMA Whales (Hand-Crafted)
+### Tier 1 — Single-Market Whales (Hand-Crafted)
 
 **Criteria:**
 - 10+ attorneys
@@ -151,7 +151,7 @@ Once the Top 10 DMAs are in motion, expand into additional DMAs within priority 
 
 **Outreach:** Fully personalized email from Sasha (hand-written, not template). Pre-outreach LinkedIn engagement. 30-60 min per prospect.
 
-**Volume:** 3-5 new Tier 1 per day across all DMAs (not concentrated in one market)
+**Volume:** 3-5 new Tier 1 per day across all Markets (not concentrated in one market)
 
 **Personas:** Jennifer Walsh (Established Builder) or Marcus Chen (Marketing Director)
 
@@ -165,7 +165,7 @@ Once the Top 10 DMAs are in motion, expand into additional DMAs within priority 
 
 **Outreach:** Semi-personalized via Instantly with merge fields. 7-touch sequence. 5-10 min per prospect.
 
-**Volume:** 20-30 per day split between Sasha and Davis, spread across all open DMAs
+**Volume:** 20-30 per day split between Sasha and Davis, spread across all open Markets
 
 **Personas:** Tony Reyes (growing) or Jennifer Walsh
 
@@ -178,7 +178,7 @@ Once the Top 10 DMAs are in motion, expand into additional DMAs within priority 
 
 **Outreach:** Template-based via Instantly. Fully automated 7-touch sequence. <1 min per prospect.
 
-**Volume:** Batches of 100-200 loaded weekly, distributed across open DMAs
+**Volume:** Batches of 100-200 loaded weekly, distributed across open Markets
 
 **Persona:** Tony Reyes (Hungry Solo)
 
@@ -212,9 +212,9 @@ When building the weekly outreach queue:
 4. **Firms with 50+ Google reviews and 4.5+ rating** — active, established, marketing-aware
 5. **Firms in whale lists** (NYC, Miami pre-built) — pre-researched
 6. **Spanish-capable firms** — Fair Case bilingual campaign is unique differentiator
-7. **All remaining firms in open DMAs** — fill volume with Tier 2/3 batch outreach
+7. **All remaining firms in open Markets** — fill volume with Tier 2/3 batch outreach
 
-**Spread across all open DMAs.** Never overweight one market.
+**Spread across all open Markets.** Never overweight one market.
 
 ---
 
@@ -222,11 +222,11 @@ When building the weekly outreach queue:
 
 | Doc | Location | Use |
 |-----|----------|-----|
-| Top 10 DMA Targets | `07_Research/02_Sales_Intelligence/Market_Analysis/Top_10_DMA_Targets.md` | Full DMA profiles, scoring, revenue |
+| Top 10 Market Targets | `07_Research/02_Sales_Intelligence/Market_Analysis/Top_10_Market_Targets.md` | Full Market profiles, scoring, revenue |
 | State Market Prioritization | `07_Research/02_Sales_Intelligence/Market_Analysis/State_Market_Prioritization.md` | State-level analysis, mega-firm dynamics |
 | Geo Exclusivity Territory Model | `07_Research/02_Sales_Intelligence/Market_Analysis/Geo_Exclusivity/Geo_Exclusivity_Territory_Model.md` | Multi-location pricing (Scenarios A/B/C) |
 | Whale Client Model | `07_Research/02_Sales_Intelligence/Market_Analysis/Geo_Exclusivity/Geo_Exclusive_Whale_Client_Model.md` | Whale identification, revenue flywheel |
 | NY/NYC Whale List | `07_Research/02_Sales_Intelligence/Whale_Lists/NY_NYC_Whale_List.md` | Pre-researched NYC prospects |
 | FL/Miami Whale List | `07_Research/02_Sales_Intelligence/Whale_Lists/FL_Miami_Whale_List.md` | Pre-researched Miami prospects |
 | Spanish-Capable PI Firms | `07_Research/02_Sales_Intelligence/Prospect_Targets/Spanish_Capable_PI_Firms.md` | Multi-market bilingual firms |
-| DMA Pricing | `07_Research/02_Sales_Intelligence/Market_Analysis/DMA_Baseline_Pricing_Framework.md` | Per-market pricing model |
+| Market Pricing | `07_Research/02_Sales_Intelligence/Market_Analysis/Market_Baseline_Pricing_Framework.md` | Per-market pricing model |

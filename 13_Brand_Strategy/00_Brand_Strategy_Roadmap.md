@@ -202,7 +202,7 @@ At **Riverpoint Capital**, Sasha underwrote company financials — bank statemen
 
 **What he actually owns at Second Chair:**
 - **Media execution** — Runs all campaigns across Meta (FB/IG, primary), and other channels as needed. Optimizes CPL, manages lead flow and pacing, scales what works. The creative strategy (Davis) and the media execution (Sasha) are designed by the same team and calibrated together — not handed off across a vendor boundary.
-- **Sales execution** — Cold outreach and closing of PI law firms across target DMAs. Opens with attorney economics, not a pitch. Closes when the fit is real; declines when it isn't.
+- **Sales execution** — Cold outreach and closing of PI law firms across target Markets. Opens with attorney economics, not a pitch. Closes when the fit is real; declines when it isn't.
 - **Account relationships** — Day-to-day partner relationships, renewal and expansion strategy, CRM operations. The trust layer that keeps attorney partners long-term.
 - **CRM and pipeline operations** — Owns CRM setup, lead routing rules, sales automation, outbound sequences, and pipeline reporting.
 
@@ -395,7 +395,7 @@ The category sells leads. Second Chair sells a system whose output is a case —
 
 The category has destroyed attorney trust through a structurally misaligned revenue model: vendors earn when leads are delivered, not when cases are signed. Second Chair's model (CPSC-aligned) means a bad lead costs Second Chair as much as it costs the attorney. But claiming alignment is not enough — the attorneys the research profiled are not persuaded by claims. They are persuaded by data they can see themselves.
 
-This territory makes alignment visible through product. Alex's real-time attorney analytics dashboard — case pipeline, conversion rates, CPSC by DMA, lead quality trends — gives the attorney the same information Second Chair has. The attorney is not trusting a vendor's claim. They are reading their own dashboard. The advertising (Davis) is the proof of what generated the lead. The dashboard (Alex) is the proof that it produced a case. Together, they close the trust gap the category has opened.
+This territory makes alignment visible through product. Alex's real-time attorney analytics dashboard — case pipeline, conversion rates, CPSC by Market, lead quality trends — gives the attorney the same information Second Chair has. The attorney is not trusting a vendor's claim. They are reading their own dashboard. The advertising (Davis) is the proof of what generated the lead. The dashboard (Alex) is the proof that it produced a case. Together, they close the trust gap the category has opened.
 
 *What makes this "only us":* Alex has built custom analytics dashboards using real-time API data at Compass, designed MarTech attribution infrastructure at Alfred Realty (67% MQL-to-SQL lift), and built financial modeling systems at Breakwater. The CPSC dashboard is a product he can build. It is not a product that Lead Generation Company With A New Agency Relationship can build. The credibility of "we'll show you the data" requires actually building the infrastructure that produces real-time data worth showing.
 

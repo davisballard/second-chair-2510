@@ -11,7 +11,7 @@
 **Standard tier (Call 1 focus):**
 - Pre-qualified exclusive web leads via portal/email/webhook
 - Client's intake team calls them
-- Price: per-DMA via MOI (see `../../07_Research/02_Sales_Intelligence/Market_Analysis/DMA_Baseline_Pricing_Framework.md`)
+- Price: per-Market via MOI (see `../../07_Research/02_Sales_Intelligence/Market_Analysis/Market_Baseline_Pricing_Framework.md`)
 - Expected conversion: 10-15% (industry standard for exclusive web leads; higher for firms with strong intake)
 
 **Premium tier (Phase 2 option):**
@@ -63,16 +63,16 @@ Evaluate against the prospect's operation:
 ## Phase 2 / Call 2 Framing
 
 **When to introduce:**
-- After standard tier delivers first 100 leads in at least 2 DMAs
+- After standard tier delivers first 100 leads in at least 2 Markets
 - After the client has real conversion data to compare standard against
 - In response to "how do we scale this up?"
 
 **How to position:**
-> *"Standard has proven out. Phase 2 could look two ways. Double down on standard — more DMAs, more leads, ride the optimization curve. Or add premium to your top 2-3 DMAs and see what happens when live transfers hit [top market]. Intake spends less time on cold callbacks, sign rate jumps, and the SB-37 footprint gets tighter because we control the initial conversation script end-to-end."*
+> *"Standard has proven out. Phase 2 could look two ways. Double down on standard — more Markets, more leads, ride the optimization curve. Or add premium to your top 2-3 Markets and see what happens when live transfers hit [top market]. Intake spends less time on cold callbacks, sign rate jumps, and the SB-37 footprint gets tighter because we control the initial conversation script end-to-end."*
 
 **Test structure options:**
-- **A** — All standard. Blended × 100 leads × N DMAs.
-- **B** — Standard in most, premium in 1 DMA (typically top). Direct sign-rate comparison in 30-45 days.
+- **A** — All standard. Blended × 100 leads × N Markets.
+- **B** — Standard in most, premium in 1 Market (typically top). Direct sign-rate comparison in 30-45 days.
 - **C** — Premium in top 2-3 only. The "intake force multiplier" play.
 
 ---

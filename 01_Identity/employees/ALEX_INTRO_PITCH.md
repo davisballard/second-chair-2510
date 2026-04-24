@@ -6,13 +6,13 @@
 
 ## What We Are
 
-Second Chair is an **honest advertising and compliance-first lead generation company** for personal injury law firms. We run our own ad accounts across Meta and Google, capture leads through behaviorally-optimized landing pages and quiz funnels, and sell those leads exclusively to **one partner law firm per DMA** (Designated Market Area).
+Second Chair is an **honest advertising and compliance-first lead generation company** for personal injury law firms. We run our own ad accounts across Meta and Google, capture leads through behaviorally-optimized landing pages and quiz funnels, and sell those leads exclusively to **one partner law firm per Market** (Designated Market Area).
 
 One firm per metro. No shared leads. No bidding wars.
 
 **Consumer brand:** Fair Case (getafaircase.com)
 
-The model: we generate high-intent PI leads through advertising that pre-qualifies before the first phone call, and we sell those leads to partner attorneys through CPSC-compliant pricing tiers. Our cost to generate a lead is **$75–$150**. Every DMA partner we sign is recurring revenue — they buy leads from us month after month because the leads convert into signed cases.
+The model: we generate high-intent PI leads through advertising that pre-qualifies before the first phone call, and we sell those leads to partner attorneys through CPSC-compliant pricing tiers. Our cost to generate a lead is **$75–$150**. Every Market partner we sign is recurring revenue — they buy leads from us month after month because the leads convert into signed cases.
 
 We cover the full PI case spectrum: soft tissue and minor MVA ("keep the lights on" volume), plus high-value targeting — commercial trucking, rideshare, spinal injuries, wrongful death.
 
@@ -30,7 +30,7 @@ Second Chair is different because of our **compliance-first approach to honest a
 
 - **Agency-grade creative** — Built by a team with 18+ years across Fortune 500 brands (Disney, Google, Samsung, NFL, NBA, Uber, Taco Bell). Not templates — real creative that stops the scroll and triggers action.
 - **Behavioral science** — Every ad, headline, and quiz question is built on behavioral psychology. We solve the psychological barriers to contacting a lawyer before the lead ever calls.
-- **DMA exclusivity, actually enforced** — One firm per metro. Your market is yours. Period.
+- **Market exclusivity, actually enforced** — One firm per metro. Your market is yours. Period.
 - **Quiz funnels that pre-qualify** — By the time someone completes the flow, they've self-selected as a real case with real intent. The leads arrive fired up, ready to sign.
 - **Fair Case positioning** — "Fair Case" isn't just a brand name. It's the claimant's own language. Every touchpoint reinforces the emotional truth that they deserve fairness, in a way generic lead gen can't replicate.
 
@@ -70,7 +70,7 @@ This is a shot in the dark based on your LinkedIn, but here's what jumped out.
 
 **Your CXL + Reforge training** — Conversion optimization, growth marketing, digital psychology, product strategy, scaling product delivery. This is the exact toolkit for what we're building: funnels that convert, quiz flows that pre-qualify, and growth mechanics that compound. You're not learning on the job — you've been trained by the best programs in the industry for exactly this kind of work.
 
-**Your Compass analytics work** — You built custom real estate analytics dashboards using APIs with statistical modeling and pricing forecasts. We need the same thing for our partners: DMA performance dashboards, lead quality analytics for attorney partners, real-time views into what's working and what's not. And internally, market-by-market intelligence to guide our expansion.
+**Your Compass analytics work** — You built custom real estate analytics dashboards using APIs with statistical modeling and pricing forecasts. We need the same thing for our partners: Market performance dashboards, lead quality analytics for attorney partners, real-time views into what's working and what's not. And internally, market-by-market intelligence to guide our expansion.
 
 **Your AI agent build** — You recently built a proprietary trading platform using AI agents with Claude Code. We're running our entire marketing and creative engine on AI systems. You understand what's possible when you stop treating AI as a toy and start treating it as infrastructure.
 
@@ -111,11 +111,11 @@ Three domains. No overlap. One machine.
 
 Premium leads go through a full nurturing stack before the attorney ever touches them: AI call bots for initial contact, AI chatbots for 24/7 engagement, SMS/text sequences, real human calls for high-value leads, and full intake documentation. The lead arrives at the attorney's desk **case-ready** — they just need to sign. We're doing part of the lawyer's intake job for them, and charging accordingly.
 
-Standard leads put $83–$108 per founder per lead. Premium puts **$417–$450**. Same DMA, same partner, 4–5x the revenue per lead.
+Standard leads put $83–$108 per founder per lead. Premium puts **$417–$450**. Same Market, same partner, 4–5x the revenue per lead.
 
 ---
 
-## What One Client in One DMA Looks Like
+## What One Client in One Market Looks Like
 
 This is the building block. One attorney partner, one metro area. **Per-founder take-home:**
 
@@ -137,39 +137,39 @@ This is the building block. One attorney partner, one metro area. **Per-founder 
 | **3 leads/day** | $37,500 – $40,500 | $450,000 – $486,000 |
 | **4 leads/day** | $50,000 – $54,000 | $600,000 – $648,000 |
 
-Every new DMA partner we sign stacks another one of these on top. A single standard client doing 3 leads/day puts $90K–$117K/year in each founder's pocket. A single premium client at the same volume: **$450K–$486K/year per founder**.
+Every new Market partner we sign stacks another one of these on top. A single standard client doing 3 leads/day puts $90K–$117K/year in each founder's pocket. A single premium client at the same volume: **$450K–$486K/year per founder**.
 
-Five premium DMAs = each of us clearing **$2.25M–$2.4M/year**. From five markets.
+Five premium Markets = each of us clearing **$2.25M–$2.4M/year**. From five markets.
 
 ---
 
 ## Attorney Acquisition — Close Rate Scenarios
 
-We acquire DMA partners through direct outreach: **10–25 firms targeted per DMA**.
+We acquire Market partners through direct outreach: **10–25 firms targeted per Market**.
 
-**Baseline outreach: Targeting 20 DMAs/month, 15 firms per DMA = 300 reachouts/month**
+**Baseline outreach: Targeting 20 Markets/month, 15 firms per Market = 300 reachouts/month**
 
 Average close time: 2–4 weeks. Month 1 is pipeline building — first partners close in Month 2.
 
 | Close Rate | New Partners/Month | After 6 Months | After 12 Months |
 |---|---|---|---|
-| **1% (conservative)** | 3 | 15 DMAs filled | 33 DMAs filled |
-| **5% (moderate)** | 15 | 75 DMAs filled | 165 DMAs filled |
-| **10% (strong)** | 30 | 150 DMAs filled | 210 DMAs (full market) |
+| **1% (conservative)** | 3 | 15 Markets filled | 33 Markets filled |
+| **5% (moderate)** | 15 | 75 Markets filled | 165 Markets filled |
+| **10% (strong)** | 30 | 150 Markets filled | 210 DMAs (full market) |
 
-Even at a **1% close rate** — the most conservative scenario — we're adding 3 DMA partners per month, every month. That's 3 new recurring revenue streams stacking on top of each other, compounding indefinitely.
+Even at a **1% close rate** — the most conservative scenario — we're adding 3 Market partners per month, every month. That's 3 new recurring revenue streams stacking on top of each other, compounding indefinitely.
 
 At 5%, we fill 75 markets within 6 months. At 10%, we saturate all 210 US markets within a year.
 
 ---
 
-## DMA Market Scale — The Big Picture
+## Market Market Scale — The Big Picture
 
 There are **210 Designated Market Areas** in the United States. Each one is a market we can own.
 
-**Per-founder annual income at 3 leads/day per DMA:**
+**Per-founder annual income at 3 leads/day per Market:**
 
-| DMA Fill | Active DMAs | At $150/Lead Cost | At $75/Lead Cost |
+| Market Fill | Active Markets | At $150/Lead Cost | At $75/Lead Cost |
 |---|---|---|---|
 | **5%** | 11 | **$990,000/yr** | **$1,287,000/yr** |
 | **10%** | 21 | **$1,890,000/yr** | **$2,457,000/yr** |
@@ -179,9 +179,9 @@ There are **210 Designated Market Areas** in the United States. Each one is a ma
 
 These are **per-founder** numbers. Equal three-way split.
 
-Filling just 5% of US markets — 11 DMAs — puts each of us near or above **$1M/year**.
+Filling just 5% of US markets — 11 Markets — puts each of us near or above **$1M/year**.
 
-At 25% fill (53 DMAs), each founder is clearing **$4.7M–$6.2M/year**. This is not fantasy math — it's unit economics multiplied by market count.
+At 25% fill (53 Markets), each founder is clearing **$4.7M–$6.2M/year**. This is not fantasy math — it's unit economics multiplied by market count.
 
 ---
 
@@ -240,14 +240,14 @@ This is pure upside. We're not prospecting — we're upselling existing partners
 
 ### The Combined Picture — All Three Revenue Streams
 
-Here's what it looks like when lead gen, premium nurturing, and agency services stack together. Using the **1% close rate** (most conservative) at Month 12 — 33 cumulative DMA partners, 3 leads/day:
+Here's what it looks like when lead gen, premium nurturing, and agency services stack together. Using the **1% close rate** (most conservative) at Month 12 — 33 cumulative Market partners, 3 leads/day:
 
 **Assumptions:** 25% of partners on premium leads, 20% using agency services.
 
 | Revenue Stream | Units | Per Founder Monthly | Per Founder Annual |
 |---|---|---|---|
-| **Standard leads** (25 DMAs) | 75 leads/day | $187,500 | $2,250,000 |
-| **Premium leads** (8 DMAs) | 24 leads/day | $300,000 | $3,600,000 |
+| **Standard leads** (25 Markets) | 75 leads/day | $187,500 | $2,250,000 |
+| **Premium leads** (8 Markets) | 24 leads/day | $300,000 | $3,600,000 |
 | **Agency services** (7 clients) | $5K/mo avg | $8,167 | $98,000 |
 | **COMBINED** | | **$495,667/mo** | **$5,948,000/yr** |
 
@@ -259,8 +259,8 @@ Premium leads and agency services **double** each founder's income — even at t
 
 | Scenario (Month 12) | Lead-Gen Only | With Premium + Services | Uplift |
 |---|---|---|---|
-| **1% close (33 DMAs)** | $2.97M/yr | **$5.95M/yr** | +100% |
-| **5% close (165 DMAs)** | $14.85M/yr | **$29.8M/yr** | +100% |
+| **1% close (33 Markets)** | $2.97M/yr | **$5.95M/yr** | +100% |
+| **5% close (165 Markets)** | $14.85M/yr | **$29.8M/yr** | +100% |
 | **10% close (210 DMAs)** | $18.9M/yr | **$37.8M/yr** | +100% |
 
 These are per-founder numbers. Premium leads are the multiplier. Agency services are the cherry on top.
@@ -269,13 +269,13 @@ These are per-founder numbers. Premium leads are the multiplier. Agency services
 
 ## Growth Timeline — What the Ramp Looks Like
 
-Built from the outreach math, not guesswork. Assumes 300 reachouts/month (20 DMAs targeted, 15 firms each), 2–4 week close cycle, and 3 leads/day per DMA at operating capacity.
+Built from the outreach math, not guesswork. Assumes 300 reachouts/month (20 Markets targeted, 15 firms each), 2–4 week close cycle, and 3 leads/day per Market at operating capacity.
 
 All numbers below are **per founder**.
 
 ### At 1% Close Rate (Conservative) — 3 New Partners/Month
 
-| Month | Cumulative DMAs | Monthly Income | Annual Run Rate |
+| Month | Cumulative Markets | Monthly Income | Annual Run Rate |
 |---|---|---|---|
 | **1** | 0 | $0 (pipeline building) | — |
 | **2** | 3 | $22,500 – $29,250 | $270K – $351K |
@@ -288,7 +288,7 @@ Even the most conservative scenario — just 1% of attorneys we contact saying y
 
 ### At 5% Close Rate (Moderate) — 15 New Partners/Month
 
-| Month | Cumulative DMAs | Monthly Income | Annual Run Rate |
+| Month | Cumulative Markets | Monthly Income | Annual Run Rate |
 |---|---|---|---|
 | **2** | 15 | $112,500 – $146,250 | $1.35M – $1.76M |
 | **3** | 30 | $225,000 – $292,500 | $2.7M – $3.51M |
@@ -296,11 +296,11 @@ Even the most conservative scenario — just 1% of attorneys we contact saying y
 | **9** | 120 | $900,000 – $1,170,000 | $10.8M – $14.04M |
 | **12** | 165 | $1,237,500 – $1,608,750 | **$14.85M – $19.31M** |
 
-At 5% close, we're at 165 DMAs by end of Year 1 — **79% of the US market** — and each founder is pulling **$1.2M–$1.6M per month**.
+At 5% close, we're at 165 Markets by end of Year 1 — **79% of the US market** — and each founder is pulling **$1.2M–$1.6M per month**.
 
 ### At 10% Close Rate (Strong) — 30 New Partners/Month
 
-| Month | Cumulative DMAs | Monthly Income | Annual Run Rate |
+| Month | Cumulative Markets | Monthly Income | Annual Run Rate |
 |---|---|---|---|
 | **2** | 30 | $225,000 – $292,500 | $2.7M – $3.51M |
 | **3** | 60 | $450,000 – $585,000 | $5.4M – $7.02M |
@@ -313,7 +313,7 @@ At 10%, we **saturate all 210 US markets within 8 months**.
 
 **Lead gen only (standard CPSC-compliant leads):**
 
-| Close Rate | DMAs at Month 12 | DMA Fill % | Per Founder Annual Run Rate |
+| Close Rate | Markets at Month 12 | Market Fill % | Per Founder Annual Run Rate |
 |---|---|---|---|
 | **1%** | 33 | 16% | $2.97M – $3.86M |
 | **5%** | 165 | 79% | $14.85M – $19.31M |
@@ -321,13 +321,13 @@ At 10%, we **saturate all 210 US markets within 8 months**.
 
 **All three revenue streams combined (25% premium, 20% agency services):**
 
-| Close Rate | DMAs at Month 12 | Per Founder — Lead Gen Only | Per Founder — Combined |
+| Close Rate | Markets at Month 12 | Per Founder — Lead Gen Only | Per Founder — Combined |
 |---|---|---|---|
 | **1%** | 33 | $2.97M/yr | **$5.95M/yr** |
 | **5%** | 165 | $14.85M/yr | **$29.8M/yr** |
 | **10%** | 210 | $18.9M/yr | **$37.8M/yr** |
 
-The economics compound. More partners = more premium upsells = more agency service revenue. Every DMA we fill creates three revenue opportunities.
+The economics compound. More partners = more premium upsells = more agency service revenue. Every Market we fill creates three revenue opportunities.
 
 ---
 
@@ -374,7 +374,7 @@ SASHA — Expanded Services
     + Ad buying / media management for partner firms
     + Premium lead qualification and routing
     + Upsell existing partners into premium + services
-    + Revenue expansion per DMA
+    + Revenue expansion per Market
 ```
 
 ### Who Owns What

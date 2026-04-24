@@ -139,7 +139,7 @@ This is the correct offer because:
 If possible, the city auto-populates from the attorney's location. If not, the form asks for their market as the first field.
 
 **Secondary action (for attorneys not ready to book):**
-*"Get the Second Chair market report for [state]"* — a one-page document showing lead volume data for their DMA, the scoring breakdown, and a sample of the creative direction. Email capture. No call required.
+*"Get the Second Chair market report for [state]"* — a one-page document showing lead volume data for their Market, the scoring breakdown, and a sample of the creative direction. Email capture. No call required.
 
 ---
 

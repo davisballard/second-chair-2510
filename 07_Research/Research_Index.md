@@ -331,7 +331,14 @@ Start with `10_Ad_Factory/Production_Guidelines/AI_Image_Guidelines.md` for beha
 - `Visual_Styles_Library.md` — Cinematic, UGC, VFX, animated, and stylized aesthetics
 - `Cinematography_Direction.md` — Shot composition, camera movement, lighting direction
 - `Text_Overlay_System.md` — AI text generation, typography, high-quality text overlays
-- `Music_Audio_Direction.md` — Music selection, voiceover direction, audio aesthetic
+
+**Audio direction is owned by Ennio Morricone**, not Giuseppe — `04_Production/Ennio_Morricone_(Sound_Designer)/`:
+- `AGENT.md` — Sound Designer persona (Italian-master pair to Giuseppe)
+- `Stable_Audio_Prompting_Framework.md` — 5-part prompt template, the 25% Longer Rule
+- `VO_Direction_Playbook.md` — voice casting, ElevenLabs settings, pacing
+- `SFX_and_Mixing_Standards.md` — mix levels, ducking, −14 LUFS
+- `Sonic_Brand_System.md` — director→composer pairing, SC don't list
+- `Morricone_Own_Catalog/` + `Composer_Reference_Library/` — composer profiles
 
 **Visual Style Priority for Second Chair:**
 1. UGC/Authentic first (matches platform, builds trust)

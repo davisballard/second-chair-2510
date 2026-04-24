@@ -90,7 +90,7 @@ This playbook provides sales positioning, scripts, objection handling, and colla
 - "We're trying AI tools" = SC has AI tier built-in
 
 **If using multiple vendors:**
-> "So you're managing a lead vendor plus a call center? We actually combine both — exclusive DMA leads plus live qualification and transfer — from one vendor. One relationship, one invoice. Simplifies things quite a bit. Want me to walk you through how it works?"
+> "So you're managing a lead vendor plus a call center? We actually combine both — exclusive Market leads plus live qualification and transfer — from one vendor. One relationship, one invoice. Simplifies things quite a bit. Want me to walk you through how it works?"
 
 ---
 
@@ -119,11 +119,11 @@ This playbook provides sales positioning, scripts, objection handling, and colla
 **Always show all three tiers side-by-side:**
 
 ```
-SECOND CHAIR PRICING — [DMA NAME]
+SECOND CHAIR PRICING — [Market NAME]
 
 Tier 1: Standard Web Lead
 Price: $[X]/lead
-What you get: Pre-qualified exclusive lead, real-time delivery, DMA exclusivity
+What you get: Pre-qualified exclusive lead, real-time delivery, Market exclusivity
 Conversion: 10-15% (industry standard)
 Your action: You call them
 
@@ -191,23 +191,23 @@ For 4x better conversion + 75% less intake time = Worth it?
 
 ### Email 1: Introduction (Standard Tier Focus)
 
-**Subject:** Exclusive MVA leads in [DMA] — no sharing, no games
+**Subject:** Exclusive MVA leads in [Market] — no sharing, no games
 
 **Body:**
 
 ```
 Hi [Name],
 
-I'm Sasha with Second Chair. We generate exclusive motor vehicle accident leads for personal injury firms in [DMA].
+I'm Sasha with Second Chair. We generate exclusive motor vehicle accident leads for personal injury firms in [Market].
 
 What makes us different:
 
-• DMA exclusivity — you're the only firm getting leads in [City]. No shared leads, ever.
+• Market exclusivity — you're the only firm getting leads in [City]. No shared leads, ever.
 • Honest advertising — our Fair Case brand uses tier-aware messaging and SOL-aware campaigns. We don't trick people into filling out forms.
 • Real-time delivery — leads hit your portal/email/webhook within seconds of form submission.
 • Compliance-first — TrustedForm certs, DNC screening, litigator scrubbing, Twilio Lookup.
 
-Pricing: $[X]/lead based on your market's operating costs. No setup fees, no contracts. DMA exclusivity included.
+Pricing: $[X]/lead based on your market's operating costs. No setup fees, no contracts. Market exclusivity included.
 
 Interested in seeing how this works?
 
@@ -303,9 +303,9 @@ Discovery Call — [Firm Name]
 ### Slide 2: What We Do
 
 ```
-EXCLUSIVE MVA LEADS IN [DMA]
+EXCLUSIVE MVA LEADS IN [Market]
 
-• DMA exclusivity (one firm per territory)
+• Market exclusivity (one firm per territory)
 • Fair Case brand (honest advertising, tier-aware messaging)
 • Real-time delivery (seconds, not minutes)
 • Dual scoring (conversion + case value)
@@ -483,7 +483,7 @@ Full transparency. No black box.
 ### Slide 11: Pricing Recap
 
 ```
-YOUR PRICING — [DMA]
+YOUR PRICING — [Market]
 
 Base Package: 100 leads/month at $[X]/lead = $[Total]
 
@@ -536,7 +536,7 @@ Questions?
 **Don't say:** "Call centers suck..."
 
 **Do say:**
-> "You absolutely could — and some firms do. The challenge is you're managing two vendors: a lead vendor and a call center. If something breaks, whose fault is it? We integrate both, so there's one throat to choke. Also, call centers typically charge $300-$500 per call with 60-90 second duration minimums. We charge $1,200 for a qualified transfer, no duration games. And we know your DMA, your case criteria, your exclusivity. A call center is calling leads for 50 different firms. We're only calling for you in your territory."
+> "You absolutely could — and some firms do. The challenge is you're managing two vendors: a lead vendor and a call center. If something breaks, whose fault is it? We integrate both, so there's one throat to choke. Also, call centers typically charge $300-$500 per call with 60-90 second duration minimums. We charge $1,200 for a qualified transfer, no duration games. And we know your Market, your case criteria, your exclusivity. A call center is calling leads for 50 different firms. We're only calling for you in your territory."
 
 ---
 
@@ -673,7 +673,7 @@ Questions?
 **Script:**
 > "I'm sending over two documents:
 >
-> 1. **Base agreement** — covers standard tier pricing, DMA exclusivity, delivery terms, billing, termination. This is the foundation.
+> 1. **Base agreement** — covers standard tier pricing, Market exclusivity, delivery terms, billing, termination. This is the foundation.
 >
 > 2. **Premium addendum** — if you're opting into AI or human tier, this outlines premium pricing, availability hours, routing logic, SLAs, and call recording compliance. You can sign this now or add it later.
 >
@@ -681,7 +681,7 @@ Questions?
 > - Base package billed upfront (1st of month)
 > - Premium surcharges billed weekly (net-7)
 > - You can cancel premium tier with 7 days notice
-> - DMA exclusivity is permanent (we won't sign another firm in [City] while you're active)
+> - Market exclusivity is permanent (we won't sign another firm in [City] while you're active)
 > - No long-term commitment — either party can terminate with 30 days notice
 >
 > Any questions before you sign?"
@@ -787,7 +787,7 @@ If you have questions before our kickoff call, just reply to this email.
 **Don't sign if:**
 - Client haggles aggressively on base pricing (signals they'll be nightmare client)
 - Client demands CPA model (we don't offer it, no exceptions)
-- Client wants shared leads or multi-firm DMA (violates our model)
+- Client wants shared leads or multi-firm Market (violates our model)
 - Client has reputation issues (unethical advertising, bar complaints)
 
 **Politely decline:**

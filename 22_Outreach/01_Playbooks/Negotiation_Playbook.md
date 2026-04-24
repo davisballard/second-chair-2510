@@ -123,7 +123,7 @@ Each mirror extracts deeper information without asking a direct question. Prospe
 - *"What would the ideal vendor look like to you, honestly?"*
 
 ### Implementation
-- *"How would you want to start — one DMA or a few?"*
+- *"How would you want to start — one Market or a few?"*
 - *"How would success look in 90 days from your perspective?"*
 - *"What would you want to see in the proposal to [decision-maker]?"*
 
@@ -356,7 +356,7 @@ For PI lead gen, Davis has had **four months**. That's 8x the preparation runway
 *(pause)*
 > *"Let me answer it the only way I know how, which is by telling you what my normal looks like."*
 > *"I've spent 18 years building advertising at the highest level — Disney, Google, Samsung, the NFL, NBA, Uber, The Macallan. In that world, my normal is this: I get two weeks, max, to understand a market and build a campaign that has to compete against billion-dollar rivals. That's the runway I've had for Super Bowl work, for Google product launches, for NFL brand campaigns. Two weeks."*
-> *"For PI lead gen, I've had four months. That's eight times the runway I've ever had in my career. I've gone deeper into DMA demographics, SB-37 compliance, Meta learning-phase mechanics, and creative archetypes for [local-specific audiences] than any NFL campaign I've ever built — because I've had the time."*
+> *"For PI lead gen, I've had four months. That's eight times the runway I've ever had in my career. I've gone deeper into Market demographics, SB-37 compliance, Meta learning-phase mechanics, and creative archetypes for [local-specific audiences] than any NFL campaign I've ever built — because I've had the time."*
 
 **Psychology:**
 - **Pratfall Effect (Aronson 1966):** admitting the "4 months" fact increases credibility on every other claim
@@ -366,7 +366,7 @@ For PI lead gen, Davis has had **four months**. That's 8x the preparation runway
 ### The tenure-as-red-flag reversal
 > *"And here's the question I'd honestly ask your current vendors: what have they figured out in their ten years that we haven't in four months?"*
 *(silence)*
-> *"Because if the answer is 'territory exclusivity in every DMA, SB-37-compliant creative, Projected ROAS per lead, every ad visible to the client' — great, they're ahead of us. Tell me to go away, they're doing the job."*
+> *"Because if the answer is 'territory exclusivity in every Market, SB-37-compliant creative, Projected ROAS per lead, every ad visible to the client' — great, they're ahead of us. Tell me to go away, they're doing the job."*
 *(pause)*
 > *"But if the answer is 'we've been running the same formula for a decade' — then tenure isn't experience. It's inertia. Ten years running the wrong playbook isn't more experience than four months running the right one."*
 
@@ -421,8 +421,8 @@ For PI lead gen, Davis has had **four months**. That's 8x the preparation runway
 | "We're happy with our current vendors" | **Label:** *"Sounds like the relationship works at some level."* **Calibrated:** *"What's the piece that works best? And what's the piece you've had to work around?"* → arm for decision-maker |
 | "This is more expensive than we're paying" | **Accusation audit:** *"Figured you'd say that. On per-lead, we are."* **Reframe:** Projected Attorney Fee → Projected ROAS math. *"A cheaper lead with half the projected value isn't cheaper — it's just a lower denominator."* |
 | "I need to run this by [decision-maker]" | *"Of course. What would help you most when you bring it to them? Summary email? One-pager? A second call?"* |
-| "Can you do better on price?" | *"How would you want me to handle it if [top DMA] and [bottom DMA] cost us the same to operate in?"* → fairness trigger |
-| "What if the leads don't convert?" | **Label:** *"Sounds like you've been burned before."* **Reframe:** Projected Attorney Fee visible day one + 100 leads per DMA past learning phase. *"If the numbers don't work, you don't renew."* |
+| "Can you do better on price?" | *"How would you want me to handle it if [top Market] and [bottom Market] cost us the same to operate in?"* → fairness trigger |
+| "What if the leads don't convert?" | **Label:** *"Sounds like you've been burned before."* **Reframe:** Projected Attorney Fee visible day one + 100 leads per Market past learning phase. *"If the numbers don't work, you don't renew."* |
 | "Send us a proposal" | *"Absolutely. Which markets? And what level of detail — top-line or fully broken out?"* |
 | "You guys are new" | → Deploy **Trust Reframe** above |
 | "Can you guarantee signed cases?" | → Deploy **Guarantee Reframe** Sequences 1, 2, 4 minimum |
@@ -443,7 +443,7 @@ Within 30 minutes of the call ending:
 
 Within 1 hour: Short thank-you email with commitment for next-day deliverables.
 
-Within 24 hours: Pricing sheet (customized to the DMAs they focused on) + one-pager memo. **Do NOT send a proposal or contract yet.**
+Within 24 hours: Pricing sheet (customized to the Markets they focused on) + one-pager memo. **Do NOT send a proposal or contract yet.**
 
 Follow-up: **5 business days** — not sooner.
 
@@ -451,9 +451,9 @@ Follow-up: **5 business days** — not sooner.
 
 ## Lines We Don't Cross
 
-1. **No discounts for geographic spread** — scattered DMAs = relationship, not a price break
-2. **No flat state fees** — always per-DMA via MOI
-3. **No shared exclusivity** — one firm per DMA, period
+1. **No discounts for geographic spread** — scattered Markets = relationship, not a price break
+2. **No flat state fees** — always per-Market via MOI
+3. **No shared exclusivity** — one firm per Market, period
 4. **No guaranteed CPSC** — Socratic refusal only
 5. **No stacking discounts** — 15% CA lockdown is the ceiling
 6. **No free leads as remedy** — we publish CPSC methodology, we don't backfill

@@ -74,11 +74,11 @@
 
 **The 4 bullets:**
 
-1. **DMA-specific creative** — "Not swap in a city name. Actually go deep. For Fresno that means Central Valley farmworkers, Spanish-language where the market demands it. For the Inland Empire it's commute corridors. For Seattle it's Pacific Northwest tone. Every ad is built for the specific people in that specific market."
+1. **Market-specific creative** — "Not swap in a city name. Actually go deep. For Fresno that means Central Valley farmworkers, Spanish-language where the market demands it. For the Inland Empire it's commute corridors. For Seattle it's Pacific Northwest tone. Every ad is built for the specific people in that specific market."
 
 2. **We run our own advertising** — "We're not buying from a marketplace. Every ad that runs under WCTL's name is built by us, visible to you in the dashboard, SB-37 compliant from day one, with mandatory disclosures and no prohibited content. You approve before it runs if you want to."
 
-3. **One firm per DMA** — "Territory exclusivity. Your competitor in LA can't buy from us while you hold LA. That's the product — not 'exclusive leads,' exclusive territory."
+3. **One firm per Market** — "Territory exclusivity. Your competitor in LA can't buy from us while you hold LA. That's the product — not 'exclusive leads,' exclusive territory."
 
 4. **Projected Attorney Fee → Projected ROAS** — "Every lead we deliver has a Projected Attorney Fee attached — built from the Fit Score × median attorney fee by case type. Aggregate the cohort, divide by spend, and you see the Projected ROAS on day one. Before any case has signed. No other vendor in this space projects per-lead value like that."
 
@@ -95,7 +95,7 @@ Then:
 ## Pricing
 
 **📄 Share screen: `WCTL_Client_Proposal.md`**
-CA lockdown ~$320 blended · LA $360 · 5-8× projected ROAS day one. Full DMA table + starter options + projection math all live in that doc.
+CA lockdown ~$320 blended · LA $360 · 5-8× projected ROAS day one. Full Market table + starter options + projection math all live in that doc.
 
 ---
 
@@ -127,7 +127,7 @@ CA lockdown ~$320 blended · LA $360 · 5-8× projected ROAS day one. Full DMA t
 ## PHASE 7 — Arming Robert
 
 **Setup (Davis verbatim):**
-> *"Robert — I want to be direct about something. I know you don't write a check for a multi-DMA program on your own authority. The most useful thing I can do for you on this call is figure out what you need from me to walk into your decision-maker's office and make this case."*
+> *"Robert — I want to be direct about something. I know you don't write a check for a multi-Market program on your own authority. The most useful thing I can do for you on this call is figure out what you need from me to walk into your decision-maker's office and make this case."*
 
 **The 3 questions — WRITE ANSWERS VERBATIM:**
 
@@ -145,7 +145,7 @@ CA lockdown ~$320 blended · LA $360 · 5-8× projected ROAS day one. Full DMA t
 > *"Robert — when Davis and I followed up on the SB-37 piece after our email exchange, the reason we wanted to get on a call is because it felt like something that belongs in a room with your leadership. Not because we wanted to close you today — because this is material worth walking upstairs."*
 
 **Davis — no-oriented soft ask:**
-> *"Here's what I'd suggest. I'll send two things by end of day tomorrow — a pricing sheet for your 11 DMAs and a short SB-37 memo you can share internally. No pressure on timing. Would that be a bad idea?"*
+> *"Here's what I'd suggest. I'll send two things by end of day tomorrow — a pricing sheet for your 11 Markets and a short SB-37 memo you can share internally. No pressure on timing. Would that be a bad idea?"*
 
 > *"And if the material lands well — is it crazy to think we could get a second call in the next week or two with the decision-maker on it?"*
 

@@ -229,7 +229,7 @@ One specific fact. One minimum-barrier action. Tier-specific (Days 0–30, 1–6
 ### 07_Research
 | File | Purpose | Load When... |
 |------|---------|--------------|
-| `TOP_10_DMA_TARGETS.md` | **Top 10 DMA markets** for launch prioritization | Market selection, expansion planning |
+| `TOP_10_DMA_TARGETS.md` | **Top 10 Market markets** for launch prioritization | Market selection, expansion planning |
 | `WEBSITE_SCRAPE_RAW_2026-02-12.md` | **Complete secondchair.co scrape** ? all copy, design, structure | Reference for website updates, understanding current messaging |
 | `MESSAGING_ARCHITECTURE_ANALYSIS.md` | **Website messaging breakdown** ? value props, themes, voice analysis | Understanding rational selling approach |
 | `BEHAVIORAL_CONTENT_SYSTEM.md` | **Master content framework** ? behavioral levers, power scores | **START HERE for any new content** |
@@ -349,7 +349,7 @@ Load: RESEARCH_INDEX.md ? then specific research files as needed
 Load: AI_SEO_Geo_Strategy.md ? content structures that get cited by AI
 ```
 
-**For DMA Market Selection:**
+**For Market Market Selection:**
 ```
 Load: TOP_10_DMA_TARGETS.md ? market prioritization and expansion planning
 ```
@@ -383,9 +383,10 @@ For all AI-generated video and visual content, Giuseppe Karma (`@Giuseppe_Karma`
 | `Visual_Styles_Library.md` | Cinematic, UGC, VFX style presets | Choosing visual approach |
 | `Cinematography_Direction.md` | Shot composition, camera movement, lighting | Detailed visual direction |
 | `Text_Overlay_System.md` | Automated subtitle pipeline, ASS styling | Adding captions to video |
-| `Music_Audio_Direction.md` | Music presets, VO direction | Audio production |
 
 **Path:** `../04_Production/Giuseppe_Karma_(AI_Creative_Director)/`
+
+**Audio direction is owned by Ennio Morricone (Sound Designer)** — see `../04_Production/Ennio_Morricone_(Sound_Designer)/AGENT.md`. Italian-master pair to Giuseppe. Owns score, VO casting, SFX, mix. Codifies the 25% Longer Rule for Stable Audio (request 25% longer than ad duration to avoid tail-off bug). Director→composer pairing matrix in `Sonic_Brand_System.md`.
 
 ### The Production Stack
 

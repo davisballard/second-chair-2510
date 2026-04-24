@@ -34,9 +34,9 @@
 - Dual scoring (conversion likelihood + case value)
 - Real-time delivery via portal, email, webhook
 - TrustedForm certificate, DNC/litigator screening, Twilio Lookup
-- DMA exclusivity (one firm per territory)
+- Market exclusivity (one firm per territory)
 
-**Pricing:** Base MOI price ($175-$500 by DMA)  
+**Pricing:** Base MOI price ($175-$500 by Market)  
 **Conversion expectation:** 10-15%  
 **Client action required:** Client calls lead
 
@@ -95,7 +95,7 @@
 - No vendors offering integrated lead gen + qualification + live transfer from one partner
 
 **Second Chair's unique combination:**
-1. **Exclusive DMA leads** (territorial exclusivity, not just "exclusive lead")
+1. **Exclusive Market leads** (territorial exclusivity, not just "exclusive lead")
 2. **Honest B2C advertising** (Fair Case brand, tier-aware messaging, SOL-aware campaigns)
 3. **Real-time qualification** (human or AI, within 90 seconds)
 4. **Live transfer capability** (not a separate vendor/call center)
@@ -105,7 +105,7 @@
 
 | Feature | Second Chair | Standard Lead Vendors | Call Centers | CPA/CPSC Vendors |
 |---|---|---|---|---|
-| DMA exclusivity | ✓ | ✗ (most share) | ✗ | Varies |
+| Market exclusivity | ✓ | ✗ (most share) | ✗ | Varies |
 | Honest advertising | ✓ | ✗ | N/A | ✗ |
 | Real-time qualification | ✓ | ✗ | ✓ | ✓ |
 | Live transfer | ✓ | ✗ | ✓ (separate service) | Sometimes |
@@ -113,7 +113,7 @@
 | Pay-per-lead pricing | ✓ | ✓ | ✓ | ✗ (pay per case) |
 
 **The positioning:**
-> "We're the only PI lead vendor that combines exclusive DMA leads, honest advertising, and premium qualification from one partner. You're not managing three vendors — it's one relationship."
+> "We're the only PI lead vendor that combines exclusive Market leads, honest advertising, and premium qualification from one partner. You're not managing three vendors — it's one relationship."
 
 ---
 
@@ -570,7 +570,7 @@ ROI ANALYSIS (assuming $35K avg settlement, 33% contingency):
 
 **3. Brand consistency**
 - Second Chair positions as premium vendor ("trustworthy before impressive")
-- DMA exclusivity, honest advertising = premium positioning
+- Market exclusivity, honest advertising = premium positioning
 - Pricing matches brand promise
 
 **4. Market validation**
@@ -617,7 +617,7 @@ ROI ANALYSIS (assuming $35K avg settlement, 33% contingency):
 **Root cause analysis if conversion is low:**
 - Qualification accuracy problem? (SC qualifying bad leads)
 - Firm intake problem? (firm rejecting good leads, slow follow-up)
-- Market problem? (DMA has unique characteristics)
+- Market problem? (Market has unique characteristics)
 
 ---
 
@@ -656,8 +656,8 @@ ROI ANALYSIS (assuming $35K avg settlement, 33% contingency):
 ### Geographic Pricing Adjustments
 
 **After 6 months of data:**
-- Review actual conversion rates by DMA
-- Consider DMA-specific premiums:
+- Review actual conversion rates by Market
+- Consider Market-specific premiums:
   - NYC: $1,400 premium (vs. $1,200 standard) — justified by higher case values
   - Small markets: $1,000 premium (vs. $1,200) — lower case values
 - Only implement if data clearly supports it

@@ -47,9 +47,9 @@ Even though the domain is already warmed, Instantly's warmup maintains reputatio
 
 ## 3. Create Campaigns (One Per Timezone)
 
-**Important: Instantly does NOT auto-detect recipient timezones.** You set one timezone per campaign. Since you're targeting 10 DMAs across multiple timezones, create separate campaigns:
+**Important: Instantly does NOT auto-detect recipient timezones.** You set one timezone per campaign. Since you're targeting 10 Markets across multiple timezones, create separate campaigns:
 
-| Campaign Name | DMAs | Timezone | Send Window |
+| Campaign Name | Markets | Timezone | Send Window |
 |---------------|------|----------|-------------|
 | `Tier1_Eastern` | NYC, Miami, Philly, Atlanta | America/New_York | 9:00 AM - 12:00 PM ET |
 | `Tier1_Central` | Chicago, Dallas, Houston | America/Chicago | 9:00 AM - 12:00 PM CT |
@@ -76,7 +76,7 @@ Go to campaign → **Leads** → **Add Leads** → **CSV**
 | Last Name | lastName | Optional |
 | Company Name | companyName | Optional |
 | City | Custom variable → `{{City}}` | Yes (for templates) |
-| DMA | Custom variable → `{{DMA}}` | Recommended (for tracking) |
+| Market | Custom variable → `{{Market}}` | Recommended (for tracking) |
 | Tier | Custom variable → `{{Tier}}` | Recommended (for tracking) |
 | Firm Name | Custom variable → `{{firmName}}` | Yes (for subject lines) |
 

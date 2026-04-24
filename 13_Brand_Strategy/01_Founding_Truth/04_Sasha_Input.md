@@ -439,7 +439,7 @@ As for what infrastructure Second Chair needs that doesn't exist yet, it's that 
 
 **Honest gaps — PI specifically:**
 
-What do you need to learn, research, or get educated on before you'd feel confident running Second Chair's PI media program? Name the specific gaps: compliance constraints (state bar advertising rules, TCPA, FTC), claimant behavioral patterns, B2B attorney targeting, geographic and DMA-level strategy — anything else. No hedging. Name the gaps so the team can figure out how to fill them before you're in market.
+What do you need to learn, research, or get educated on before you'd feel confident running Second Chair's PI media program? Name the specific gaps: compliance constraints (state bar advertising rules, TCPA, FTC), claimant behavioral patterns, B2B attorney targeting, geographic and Market-level strategy — anything else. No hedging. Name the gaps so the team can figure out how to fill them before you're in market.
 
 **Your answer:**
 

@@ -331,7 +331,7 @@ For video content, this image guide provides the **reference frame** direction. 
 | `Visual_Styles_Library.md` | Cinematic, UGC, stylized presets |
 | `Cinematography_Direction.md` | Shots, camera movement, lighting |
 | `Text_Overlay_System.md` | Text overlays + automated subtitle pipeline |
-| `Music_Audio_Direction.md` | Music selection, VO direction |
+| `../Ennio_Morricone_(Sound_Designer)/AGENT.md` | Sound Designer — score, VO direction, SFX, mix (audio is Ennio's domain, not Giuseppe's) |
 
 **Second Chair Video Style Priority:**
 1. **UGC/Authentic** — Platform-native, iPhone-shot aesthetic

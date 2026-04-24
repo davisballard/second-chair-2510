@@ -163,7 +163,7 @@ Some states require additional disclosures beyond the federal/FCC baseline. Befo
 Meta Special Ad Category designation requires that Fair Case:
 - Does not use demographic targeting (age, gender, income)
 - Does not use interest or behavioral targeting
-- Uses geographic targeting only (DMA / city / zip)
+- Uses geographic targeting only (Market / city / zip)
 - Includes "This is an advertisement" language accessible via ad transparency tools
 
 Note: Meta's ad library makes all Fair Case ads publicly visible. Write copy as if anyone — including opposing counsel, state bar investigators, and journalists — can read it. Because they can.

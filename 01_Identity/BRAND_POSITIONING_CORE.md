@@ -91,8 +91,8 @@ Proof: Three founders' specific roles — Davis (creative/strategy), Alex (produ
 | "Your leads are probably garbage." | Do you generate leads honestly? | "Here's the advertising. Here's the compliance record — TrustedForm certification, origin documentation, the full stack. You're evaluating the product, not trusting our claim." |
 | "I need proof before I commit." | Give me proof without risk | "Here's a firm in a comparable market. Here's the CPSC data from their last 90 days. Here's the pilot structure — minimum commitment, easy exit if the data doesn't support continuing." |
 | "It's too expensive." | Does the ROI math work? | "What's your current cost-per-signed-case? Most attorneys don't have this number because their vendors don't report it. Let's do the math together before we talk price." |
-| "$1,500 per lead is too much." | Premium tier pricing concern | "Standard leads at $315 convert at 12% = $2,625 per signed case. Live transfers at $1,515 convert at 50% = $3,030 per case. You're paying 15% more per case but need 75% fewer leads and your intake team saves 6+ hours per week. Plus, you're the only firm getting live transfers in your DMA." |
-| "Why not just use Settlement Allies?" | CPA model alternative | "Settlement Allies charges $2,500-$6,500 per signed case with 30-60 day payment delay. Our premium tier costs $3,030 per signed case with weekly billing. You pay 20% more than SA's low end but get paid 4-6 weeks faster and keep DMA exclusivity." |
+| "$1,500 per lead is too much." | Premium tier pricing concern | "Standard leads at $315 convert at 12% = $2,625 per signed case. Live transfers at $1,515 convert at 50% = $3,030 per case. You're paying 15% more per case but need 75% fewer leads and your intake team saves 6+ hours per week. Plus, you're the only firm getting live transfers in your Market." |
+| "Why not just use Settlement Allies?" | CPA model alternative | "Settlement Allies charges $2,500-$6,500 per signed case with 30-60 day payment delay. Our premium tier costs $3,030 per signed case with weekly billing. You pay 20% more than SA's low end but get paid 4-6 weeks faster and keep Market exclusivity." |
 | "I need to talk to my partner." | I'm not ready yet | "Absolutely. Here's the one-page — the advertising, the compliance record, and the CPSC reporting format. That's usually what partners want to see." |
 
 ### The Four Buying Moments
@@ -246,11 +246,11 @@ The attorney who hears Second Chair speak should feel: *this person understands 
 **Month-to-month terms.** No long-term contracts required.
 
 ### Post-Launch — Format to Be Populated
-- Average CPSC by DMA and case type
+- Average CPSC by Market and case type
 - Intake conversion rate: SC leads vs. prior vendor (90-day and 6-month marks)
 - TrustedForm compliance rate (target: 100%)
 - Attorney retention rate at 3, 6, 12 months
-- Named references per active DMA
+- Named references per active Market
 
 ---
 

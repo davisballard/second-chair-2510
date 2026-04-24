@@ -39,13 +39,13 @@ Meta's language targeting serves ads to users based on two signals:
 
 Setting an ad set's language to "Spanish (All)" delivers to Spanish-dominant users in your geographic target area. A bilingual user who engages equally in Spanish and English may see the ad. A monolingual English user will not. The targeting is not 100% watertight, but research and practitioner experience consistently show that Spanish-language campaigns reach Spanish-dominant audiences with sufficient precision to produce dramatically higher engagement rates among that audience than running English ads into a broad market and hoping for reach.
 
-**The efficiency math:** Spanish-language ad sets in PI markets produce significantly lower CPMs than English-language targeting in the same DMA — because fewer advertisers are competing for that audience. In markets like Miami, Los Angeles, and Houston, this means more impressions for the same budget, which produces more leads at lower cost. The practitioners at Abogados Now (the dominant Hispanic legal marketing firm) describe it explicitly: *"The Spanish-speaking PI market offers smaller ad spend with greater results than the saturated English-speaking market."*
+**The efficiency math:** Spanish-language ad sets in PI markets produce significantly lower CPMs than English-language targeting in the same Market — because fewer advertisers are competing for that audience. In markets like Miami, Los Angeles, and Houston, this means more impressions for the same budget, which produces more leads at lower cost. The practitioners at Abogados Now (the dominant Hispanic legal marketing firm) describe it explicitly: *"The Spanish-speaking PI market offers smaller ad spend with greater results than the saturated English-speaking market."*
 
 ### Special Ad Category — What's Available for Hispanic Targeting
 
 **Correction (March 2026):** PI legal advertising runs under Meta's Special Ad Category. Demographic, interest, and lookalike targeting are NOT available. However, **language targeting IS available** under SAC — you can target users whose Facebook language is set to Spanish or who engage primarily with Spanish content. See `Ad_Set_Segmentation_Strategy.md` Part 3 for the corrected breakdown.
 
-For Hispanic market campaigns: geographic targeting (full DMA) + language targeting (Spanish) + specific Spanish-language creative. Creative does the rest. Civil rights policy: target by inclusion (language = Spanish), do not exclude by demographic characteristic.
+For Hispanic market campaigns: geographic targeting (full Market) + language targeting (Spanish) + specific Spanish-language creative. Creative does the rest. Civil rights policy: target by inclusion (language = Spanish), do not exclude by demographic characteristic.
 
 ---
 
@@ -109,7 +109,7 @@ This structure means:
 
 ### Priority Market Rankings
 
-Markets are ranked by three factors: Hispanic concentration (% of DMA population), PI market size (attorney density and case volume), and current Spanish-language lead gen saturation (how competitive the market already is).
+Markets are ranked by three factors: Hispanic concentration (% of Market population), PI market size (attorney density and case volume), and current Spanish-language lead gen saturation (how competitive the market already is).
 
 **Tier 1: Launch Priority**
 
@@ -277,7 +277,7 @@ If this hypothesis is validated — even partially — Second Chair's Spanish-ma
 | Hispanic % of PI advertising spend | ~5–10% (estimated) | Practitioner assessment |
 | Hispanic adults on social media | 85% | Pew Research |
 | Hispanic adults using smartphones | 80% | Pew Research |
-| Spanish-language CPM vs. English (same DMA) | Lower (30–50% less competition estimated) | Abogados Now, practitioner data |
+| Spanish-language CPM vs. English (same Market) | Lower (30–50% less competition estimated) | Abogados Now, practitioner data |
 | Facebook as primary platform (older Hispanic) | Dominant | Pew Research |
 | Instagram as primary platform (younger Hispanic) | Growing | Pew Research |
 

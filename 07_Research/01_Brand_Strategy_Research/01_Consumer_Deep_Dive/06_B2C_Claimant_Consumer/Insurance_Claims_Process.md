@@ -175,7 +175,7 @@ Meta, Google, and all major platforms classify personal injury legal advertising
 **What this means operationally:**
 - **Zero demographic targeting available.** Age, gender, household income, relationship status, education — all locked. We cannot target "25–45 year old working adults." We get everyone.
 - **No interest-based targeting.** We cannot target "people interested in car accidents" or "recent accident searches." We cannot target people who have visited competitors' sites (interest inference is disabled).
-- **Geographic targeting only.** State, DMA, city, and zip-code level targeting is permitted. This is our only available precision tool.
+- **Geographic targeting only.** State, Market, city, and zip-code level targeting is permitted. This is our only available precision tool.
 - **No lookalike audiences based on demographic attributes.** Lookalikes can be built from behavioral conversion signals (people who submitted a lead form), but Meta cannot use age, gender, or income to narrow delivery.
 
 **What this means for the 72-hour targeting question:**

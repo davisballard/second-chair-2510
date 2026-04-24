@@ -1,4 +1,4 @@
-# Geo-Exclusivity Territory Model: Per-State vs. Per-DMA vs. Per-Metro
+# Geo-Exclusivity Territory Model: Per-State vs. Per-Market vs. Per-Metro
 
 > **For:** Alex  
 > **From:** Davis  
@@ -45,7 +45,7 @@ This distinction is a sales argument, not just a positioning statement. When a p
 
 Specifically:
 
-1. **What is the unit of exclusivity going forward?** State? DMA? MSA? Something else?
+1. **What is the unit of exclusivity going forward?** State? Market? MSA? Something else?
 
 2. **For multi-location firms:** If a firm has offices in 3 cities in the same state, do they get the entire state? Just the markets where they have offices? A bundle?
 
@@ -53,7 +53,7 @@ Specifically:
 
 4. **Is the Jacoby model (whole-state) the standard, or was that a one-off deal for a large anchor client?** If it's the standard, we need to understand what that does to our ability to sell other firms in the same state.
 
-5. **What should the pricing structure look like?** Per DMA? Per MSA? Bundled? Tiered by market size?
+5. **What should the pricing structure look like?** Per Market? Per MSA? Bundled? Tiered by market size?
 
 ---
 
@@ -66,17 +66,17 @@ This is not just a pricing question — the choice of territory unit directly de
 | Territory Unit | Max Clients (Full US) | Avg ARR per Client | Maximum ARR Ceiling |
 |---------------|----------------------|-------------------|---------------------|
 | **Per State** (current Jacoby) | 50 | $800K–$1.2M | $40M–$60M |
-| **Per DMA** (what Taqtics uses) | 210 | $400K–$800K | $84M–$168M |
+| **Per Market** (what Taqtics uses) | 210 | $400K–$800K | $84M–$168M |
 | **Per MSA** (Census metro areas) | 382 | $300K–$650K | $115M–$248M |
 
 **The California illustration:**  
-California has 25 MSAs and roughly 7 major DMAs (LA, SF, Sacramento, San Diego, Fresno, Bakersfield, and others).
+California has 25 MSAs and roughly 7 major Markets (LA, SF, Sacramento, San Diego, Fresno, Bakersfield, and others).
 
 - **Per-state:** 1 California client. $800K–$1.2M ARR. Everything else locked.
-- **Per-DMA:** Up to 7 California clients. $400K–$800K each. $2.8M–$5.6M ARR from California alone.
+- **Per-Market:** Up to 7 California clients. $400K–$800K each. $2.8M–$5.6M ARR from California alone.
 - **Per-MSA:** Up to 25 California clients. $300K–$650K each. $7.5M–$16.3M ARR from California alone.
 
-The per-state model caps California at ~$1M ARR. The per-DMA model opens it to $5.6M. The per-MSA model opens it to $16M+. That delta compounds across every state.
+The per-state model caps California at ~$1M ARR. The per-Market model opens it to $5.6M. The per-MSA model opens it to $16M+. That delta compounds across every state.
 
 ---
 
@@ -99,38 +99,38 @@ The per-state model caps California at ~$1M ARR. The per-DMA model opens it to $
 
 ---
 
-### Option 2: Per-DMA (Recommended Standard — What Taqtics Uses)
+### Option 2: Per-Market (Recommended Standard — What Taqtics Uses)
 
-**What is a DMA?** Designated Market Area — Nielsen's 210 geographic markets that define local media regions. DMAs are the standard unit for TV, radio, CTV, and streaming advertising. PI law firms already understand and budget by DMA because it's how they buy television.
+**What is a Market?** Designated Market Area — Nielsen's 210 geographic markets that define local media regions. Markets are the standard unit for TV, radio, CTV, and streaming advertising. PI law firms already understand and budget by Market because it's how they buy television.
 
 **Pros:**
 - **Revenue ceiling of $84M–$168M nationally** — 2–3x the per-state model
-- PI firms already understand DMA — it's how they think about media markets and advertising territories
+- PI firms already understand Market — it's how they think about media markets and advertising territories
 - Boundaries are published and unambiguous (Nielsen DMA map — no arguments about what's included)
 - Taqtics' use validates it as a credible industry standard for territory exclusivity
 - Fewer units than MSA (210 vs. 382) means easier inventory management while still dramatically expanding capacity
-- When a prospect asks "what's my territory," you point to the DMA map — clean, visual, understood
+- When a prospect asks "what's my territory," you point to the Market map — clean, visual, understood
 
 **Cons:**
-- Larger territories than MSA — some DMAs are very large (LA DMA includes the Inland Empire, much of SoCal)
-- 210 slots vs. 382 means less granularity; some markets that are functionally separate (e.g., SF and San Jose) may be in the same DMA
+- Larger territories than MSA — some Markets are very large (LA Market includes the Inland Empire, much of SoCal)
+- 210 slots vs. 382 means less granularity; some markets that are functionally separate (e.g., SF and San Jose) may be in the same Market
 - Slightly less revenue upside than the MSA model
 
 ---
 
 ### Option 3: Per-MSA (Maximum Granularity)
 
-**What is an MSA?** Metropolitan Statistical Area — 382 Census Bureau-defined metro economies. More granular than DMA, based on population/economic data rather than media markets.
+**What is an MSA?** Metropolitan Statistical Area — 382 Census Bureau-defined metro economies. More granular than Market, based on population/economic data rather than media markets.
 
 **Pros:**
 - **Revenue ceiling of $115M–$248M nationally** — the highest possible ceiling
 - More markets = more clients = more revenue
-- Captures distinct local economies (SF and San Jose are separate MSAs; they're in the same DMA)
+- Captures distinct local economies (SF and San Jose are separate MSAs; they're in the same Market)
 
 **Cons:**
 - Less intuitive to PI attorneys — MSA is a Census term, not an advertising term
-- Boundary disputes are more likely — MSA definitions are more complex and less visually obvious than DMA maps
-- Harder to enforce in contracts — "what exactly is the Riverside-San Bernardino MSA?" requires more explanation than "what's the LA DMA?"
+- Boundary disputes are more likely — MSA definitions are more complex and less visually obvious than Market maps
+- Harder to enforce in contracts — "what exactly is the Riverside-San Bernardino MSA?" requires more explanation than "what's the LA Market?"
 
 ---
 
@@ -140,9 +140,9 @@ The per-state model caps California at ~$1M ARR. The per-DMA model opens it to $
 *Example: Firm with offices in LA, San Francisco, and San Diego*
 
 Options:
-1. **Sell them 3 DMAs.** They get the LA DMA + SF DMA + San Diego DMA, charged per DMA. Fresno DMA, Sacramento DMA, etc. remain open.
-2. **Sell them the whole state.** They get California. Block all 7 DMAs.
-3. **Sell them a regional bundle.** "SoCal" (LA + San Diego DMAs) + "NorCal" (SF DMA) as a bundle with a modest discount.
+1. **Sell them 3 Markets.** They get the LA Market + SF Market + San Diego Market, charged per Market. Fresno Market, Sacramento Market, etc. remain open.
+2. **Sell them the whole state.** They get California. Block all 7 Markets.
+3. **Sell them a regional bundle.** "SoCal" (LA + San Diego Markets) + "NorCal" (SF Market) as a bundle with a modest discount.
 
 **Recommended:** Option 1 or 3. They pay for what they actually use; we protect the rest of the state.
 
@@ -152,11 +152,11 @@ Options:
 *Example: Firm with offices in CA, TX, FL, NY, and IL*
 
 Options:
-1. **Per DMA in each state.** They buy their specific DMAs — LA, Dallas, Miami, NYC, Chicago. Everything else stays open.
+1. **Per Market in each state.** They buy their specific Markets — LA, Dallas, Miami, NYC, Chicago. Everything else stays open.
 2. **Per state, 5 states.** They get all 5 states locked. Gives away $84M+ in potential revenue to one firm.
-3. **Custom multi-state enterprise package.** Bundle their primary DMAs across states with a volume discount. Each DMA is named and locked.
+3. **Custom multi-state enterprise package.** Bundle their primary Markets across states with a volume discount. Each Market is named and locked.
 
-**Recommended:** Option 1 with Option 3 framing. Sell them their markets, name every DMA explicitly in the contract, and offer a bundle discount for volume. Keep everything else open.
+**Recommended:** Option 1 with Option 3 framing. Sell them their markets, name every Market explicitly in the contract, and offer a bundle discount for volume. Keep everything else open.
 
 **This is where we need Alex's direction.** A firm like Morgan & Morgan will push for broad national exclusivity. Our answer needs to be ready.
 
@@ -165,13 +165,13 @@ Options:
 ### Scenario C: Large Statewide Advertiser (The Jacoby Model)
 *Example: A firm that genuinely runs statewide TV/radio campaigns and wants every lead in the state*
 
-For firms that actually operate statewide, a state-wide package can still exist — but it must be **priced as the sum of the individual DMAs it contains**, not as a flat state fee.
+For firms that actually operate statewide, a state-wide package can still exist — but it must be **priced as the sum of the individual Markets it contains**, not as a flat state fee.
 
-- California state-wide = all 7 CA DMAs bundled → priced at aggregate DMA value with modest bundle discount
-- Colorado state-wide = 3 CO DMAs → priced accordingly (much cheaper than California)
+- California state-wide = all 7 CA Markets bundled → priced at aggregate Market value with modest bundle discount
+- Colorado state-wide = 3 CO Markets → priced accordingly (much cheaper than California)
 - This prevents the trap of pricing CA and CO the same just because both are "one state"
 
-**Recommended pricing logic:** State-wide = named DMA bundle with 10–15% discount vs. buying each DMA individually.
+**Recommended pricing logic:** State-wide = named Market bundle with 10–15% discount vs. buying each Market individually.
 
 ---
 
@@ -193,17 +193,17 @@ For firms that actually operate statewide, a state-wide package can still exist 
 
 ---
 
-### Per-DMA Model (Recommended)
+### Per-Market Model (Recommended)
 
 **Pros:**
 - 210 US markets vs. 50 states — revenue ceiling 2–3x higher ($84M–$168M)
-- Clients already understand DMA — it's how they buy TV and streaming media
+- Clients already understand Market — it's how they buy TV and streaming media
 - Taqtics validates it as the industry standard for territory exclusivity
-- Nielsen publishes DMA maps — unambiguous boundaries, no disputes
-- Bundle pricing is intuitive (SoCal = 2 DMAs, NorCal = 1 DMA)
+- Nielsen publishes Market maps — unambiguous boundaries, no disputes
+- Bundle pricing is intuitive (SoCal = 2 Markets, NorCal = 1 Market)
 
 **Cons:**
-- Some DMAs are large — a firm might want only part of the LA DMA
+- Some Markets are large — a firm might want only part of the LA Market
 - 210 slots vs. 382 MSAs leaves some revenue upside on the table
 - Requires learning a new vocabulary if team is currently using MSA/metro language
 
@@ -214,51 +214,51 @@ For firms that actually operate statewide, a state-wide package can still exist 
 **Pros:**
 - 382 markets — highest possible revenue ceiling ($115M–$248M)
 - Most granular alignment with actual metro populations
-- Allows selling SF and San Jose as separate territories (they're in the same DMA)
+- Allows selling SF and San Jose as separate territories (they're in the same Market)
 
 **Cons:**
 - MSA is not advertising language — PI firms won't immediately understand it
 - More complex boundaries = more contract disputes
-- Harder to explain to prospects than DMA or state
+- Harder to explain to prospects than Market or state
 
 ---
 
 ## Suggested Framework
 
-**The Standard Product: Per-DMA Exclusivity**
+**The Standard Product: Per-Market Exclusivity**
 
-One firm per DMA. Pricing tiers by DMA market size:
+One firm per Market. Pricing tiers by Market market size:
 - Tier 1 (Mega — LA, NYC, Chicago, Dallas, Houston, Miami): $400–$500/lead
 - Tier 2 (Large — SF, San Diego, Tampa, Denver, Phoenix, Seattle): $350–$450/lead
 - Tier 3–5 (Mid/Small/Micro — Fresno, Bakersfield, Corpus Christi, etc.): $200–$350/lead
 
-**The Bundle Product: Multi-DMA or State Packages**
+**The Bundle Product: Multi-Market or State Packages**
 
 For firms that want multiple markets:
-- "SoCal Bundle" (LA DMA + San Diego DMA): 10% discount vs. individual pricing
-- "California Bundle" (all CA DMAs): 15% discount vs. individual DMA pricing
-- "Multi-State Enterprise" (national firms): Custom pricing — each DMA named, bundled at volume discount
+- "SoCal Bundle" (LA Market + San Diego Market): 10% discount vs. individual pricing
+- "California Bundle" (all CA Markets): 15% discount vs. individual Market pricing
+- "Multi-State Enterprise" (national firms): Custom pricing — each Market named, bundled at volume discount
 
 **The Enterprise Exception: State or Multi-State Packages**
 
 For firms like Jacoby who want statewide coverage:
-- Price as the sum of all named DMAs in that state, minus a 10–15% bundle discount
-- Each DMA must be explicitly listed in the contract (protects us from implied coverage of DMAs not served)
-- Minimum 12-month contract; annual review of volume delivery by DMA
+- Price as the sum of all named Markets in that state, minus a 10–15% bundle discount
+- Each Market must be explicitly listed in the contract (protects us from implied coverage of Markets not served)
+- Minimum 12-month contract; annual review of volume delivery by Market
 
 ---
 
 ## What We Need to Align On
 
-1. **Do we adopt DMA as our standard territory unit?** This is the core decision. DMA aligns with how clients think about media markets, is validated by Taqtics, and is unambiguous.
+1. **Do we adopt Market as our standard territory unit?** This is the core decision. Market aligns with how clients think about media markets, is validated by Taqtics, and is unambiguous.
 
-2. **What does Jacoby's contract actually say?** Are they paying for "California" as a state, or for specific markets? This matters for whether other California DMAs are available to sell.
+2. **What does Jacoby's contract actually say?** Are they paying for "California" as a state, or for specific markets? This matters for whether other California Markets are available to sell.
 
-3. **For multi-location firms wanting multiple DMAs — do we offer bundle pricing, or sell each DMA individually?**
+3. **For multi-location firms wanting multiple Markets — do we offer bundle pricing, or sell each Market individually?**
 
-4. **Do we grandfather Jacoby's model or migrate them to DMA-based pricing?**
+4. **Do we grandfather Jacoby's model or migrate them to Market-based pricing?**
 
-5. **What's the answer when a prospect says "I want the whole state"?** It exists as a bundle product — but priced as the sum of the DMAs, not a flat state fee.
+5. **What's the answer when a prospect says "I want the whole state"?** It exists as a bundle product — but priced as the sum of the Markets, not a flat state fee.
 
 ---
 
@@ -268,7 +268,7 @@ For firms like Jacoby who want statewide coverage:
 
 **Sasha** — On the frontlines of outreach and will face this question on every discovery call. Needs a crisp, one-sentence answer for what geo-exclusivity means.
 
-**Contracts** — Before finalizing DMA territory definitions, the DMA boundaries need to be written into contracts. A reference to the Nielsen DMA map by name and year is the cleanest approach — avoids any boundary dispute.
+**Contracts** — Before finalizing Market territory definitions, the Market boundaries need to be written into contracts. A reference to the Nielsen DMA map by name and year is the cleanest approach — avoids any boundary dispute.
 
 **Competitive prep** — The sales distinction between "exclusive leads" (LBM/Ngage) and "exclusive territory" (Second Chair/Taqtics) should be part of every discovery and sales deck. Prospects often don't know this distinction exists.
 
@@ -276,22 +276,22 @@ For firms like Jacoby who want statewide coverage:
 
 ## The Recommended Position
 
-**Adopt DMA as the standard territory unit. Move to per-DMA exclusivity as the default product.**
+**Adopt Market as the standard territory unit. Move to per-Market exclusivity as the default product.**
 
-The per-state model served its purpose to land Jacoby fast. It is not the scalable model. It caps the revenue ceiling at $40–60M when the DMA model opens it to $84–168M, and the MSA model opens it further.
+The per-state model served its purpose to land Jacoby fast. It is not the scalable model. It caps the revenue ceiling at $40–60M when the Market model opens it to $84–168M, and the MSA model opens it further.
 
-The DMA model is the right standard because:
+The Market model is the right standard because:
 1. It's how PI firms already think about their markets
 2. Taqtics validates it as the industry standard for territory exclusivity
-3. Nielsen's published DMA map makes boundaries unambiguous and legally defensible
+3. Nielsen's published Market map makes boundaries unambiguous and legally defensible
 4. 210 slots vs. 50 states means we can grow 4x more clients
 
-For multi-location firms: sell them their specific DMAs, named explicitly, with bundle pricing for volume. For firms that want statewide coverage: sell it as a DMA bundle at aggregate DMA pricing with a discount — never a flat state fee.
+For multi-location firms: sell them their specific Markets, named explicitly, with bundle pricing for volume. For firms that want statewide coverage: sell it as a Market bundle at aggregate Market pricing with a discount — never a flat state fee.
 
-The goal: when a large firm says "I want all of California," the answer is "Great — California has 7 DMAs. Here's what each costs, here's the bundle price, and here's what stays open when we lock your territory."
+The goal: when a large firm says "I want all of California," the answer is "Great — California has 7 Markets. Here's what each costs, here's the bundle price, and here's what stays open when we lock your territory."
 
 **The sales argument that arms the team:**  
-"Legal Brand Marketing sells exclusive leads. We sell an exclusive market. Two firms in Los Angeles can both be LBM clients at the same time, buying from the same inventory, competing for the same injured consumers. Only one firm in the Los Angeles DMA can ever be a Second Chair client."
+"Legal Brand Marketing sells exclusive leads. We sell an exclusive market. Two firms in Los Angeles can both be LBM clients at the same time, buying from the same inventory, competing for the same injured consumers. Only one firm in the Los Angeles Market can ever be a Second Chair client."
 
 ---
 

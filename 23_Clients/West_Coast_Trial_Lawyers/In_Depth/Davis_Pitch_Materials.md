@@ -6,17 +6,17 @@
 
 ## 1. How We Build Campaigns
 
-Before we run a single ad in your market, we study it. Not the surface — the people. Who lives in this DMA. What they do for work. What corridors they drive. What their household looks like. What keeps them up at night after an accident. Are they afraid of the cost? Are they angry at the other driver? Do they just want someone to tell them it's going to be okay?
+Before we run a single ad in your market, we study it. Not the surface — the people. Who lives in this Market. What they do for work. What corridors they drive. What their household looks like. What keeps them up at night after an accident. Are they afraid of the cost? Are they angry at the other driver? Do they just want someone to tell them it's going to be okay?
 
 Every market has different archetypes. A working mom in the Inland Empire commuting 45 minutes on the I-10 is not the same person as a tech worker in San Francisco who got hit on a bike. A construction worker in Bakersfield isn't the same as a service-industry pro in Vegas. They're dealing with the same kind of problem, but they think about it differently, they feel it differently, and they respond to different messages. We build advertising for each of those people specifically.
 
-That means different creative for different segments — narrative storytelling for some, straightforward education for others, still images, video, different tones, different emotional registers. We test a wide variety of angles simultaneously. We put 3-5 different creatives inside each campaign — a Spanish-language narrative that speaks to the Hispanic community (critical in CA's Central Valley and Inland Empire), an educational piece about insurance lowball tactics, a direct opportunity play, a different emotional hook. All running at the same time, all targeting the full DMA.
+That means different creative for different segments — narrative storytelling for some, straightforward education for others, still images, video, different tones, different emotional registers. We test a wide variety of angles simultaneously. We put 3-5 different creatives inside each campaign — a Spanish-language narrative that speaks to the Hispanic community (critical in CA's Central Valley and Inland Empire), an educational piece about insurance lowball tactics, a direct opportunity play, a different emotional hook. All running at the same time, all targeting the full Market.
 
 The creative IS the targeting. We don't narrow the audience through platform filters — we target everyone in the market and let the creative self-select the right people. The Hispanic family in Fresno stops scrolling on the Spanish narrative. The suburban mom in Irvine stops on the educational piece. The veteran scrolls past everything because he wasn't in an accident. Meta watches who responds to which creative and builds the audience model from that actual behavior — not from our assumptions about who should see what.
 
 This is what separates real advertising from templates. Most lead gen vendors take one national ad, swap in a city name, and call it local. We don't do that. We go deep into your market, understand the real people in it, and build creative that speaks to each of them specifically. The platform then learns from who actually responds and gets smarter at finding more people like them. That's a compounding advantage — the longer we run, the more precise the targeting becomes, because it's trained on real behavior, not demographic assumptions.
 
-We start wide — casting a broader net across the full DMA to learn the market, see what resonates, gather real data. Then we hone in. The creatives that work get scaled. The ones that don't get replaced. New variations get tested against the proven winners. It's a continuous optimization cycle — and the result is advertising that connects real people who've been hurt with real lawyers in their area who can fight for them.
+We start wide — casting a broader net across the full Market to learn the market, see what resonates, gather real data. Then we hone in. The creatives that work get scaled. The ones that don't get replaced. New variations get tested against the proven winners. It's a continuous optimization cycle — and the result is advertising that connects real people who've been hurt with real lawyers in their area who can fight for them.
 
 ### Why Creative Quality Is the Whole Game
 
@@ -73,7 +73,7 @@ There's a big difference between using psychology to help someone take an action
 
 ### Real People, Real Voices
 
-We're connecting real people in each market with real, nuanced voices that speak to them. That show we know them — not in a cliche way, not in a "stock photo of a diverse group of people" way. Through deep research into who actually lives in that DMA, what their lives look like, what corridors they drive, what their day-to-day is. We speak to them in a way that shows genuine understanding of them and their situation.
+We're connecting real people in each market with real, nuanced voices that speak to them. That show we know them — not in a cliche way, not in a "stock photo of a diverse group of people" way. Through deep research into who actually lives in that Market, what their lives look like, what corridors they drive, what their day-to-day is. We speak to them in a way that shows genuine understanding of them and their situation.
 
 And then we connect them with lawyers in their area who are like them. Who understand them. Who will get them a fair case and what they deserve. Not take advantage of them. That's what this whole thing is about — fairness. Getting people who've been hurt connected with someone who will fight for them, without being manipulated along the way.
 
@@ -165,7 +165,7 @@ There's a distinction most firms don't know exists. There's a difference between
 
 An exclusive lead means the same contact record isn't sold twice. But two competing firms in Los Angeles can both be clients of the same vendor, both buying "exclusive" leads from the same pool of injured consumers. They're competing through the same source.
 
-An exclusive market means no competing firm in your territory can buy from us at all. If you're our client in the LA DMA, your competitor can't become a Second Chair client in LA. Period.
+An exclusive market means no competing firm in your territory can buy from us at all. If you're our client in the LA Market, your competitor can't become a Second Chair client in LA. Period.
 
 Almost no one in the PI lead gen space offers that. We do.
 
@@ -191,7 +191,7 @@ If you want to approve advertisements before we run them, we can add that as a d
 
 When you're running low on leads, we'll notify you before that happens so you can renew. You're never caught off guard.
 
-If you want to add new markets, you can do that straight from the dashboard. Pick a DMA, we spin up campaigns.
+If you want to add new markets, you can do that straight from the dashboard. Pick a Market, we spin up campaigns.
 
 **The dashboard tracks:**
 - Cost per lead by market
@@ -220,7 +220,7 @@ Here's how a lead gets to you, start to finish:
 
 **Step 3 — Qualification and scoring.** Every lead gets scored for fit and quality. We're filtering for legitimate cases, not just contact records. By the time a lead reaches you, it's been through qualification.
 
-**Step 4 — Routing.** The lead is routed exclusively to the firm that holds that DMA. One lead, one firm. No sharing, no auction, no ping-post.
+**Step 4 — Routing.** The lead is routed exclusively to the firm that holds that Market. One lead, one firm. No sharing, no auction, no ping-post.
 
 **Step 5 — Delivery.** You get the lead via portal, email, or webhook — whatever fits your intake workflow. Full data package: contact info, accident details, injury type, qualification score, consent proof via TrustedForm.
 
@@ -247,16 +247,16 @@ The score maps directly to price. Higher operating cost markets like Los Angeles
 - Phoenix–Mesa: $315
 - Seattle–Tacoma: $335
 - **CA blended with lockdown: ~$320**
-- **Full 11-DMA portfolio blended: ~$320-$325**
+- **Full 11-Market portfolio blended: ~$320-$325**
 
 **The California lockdown:**
-When you lock down the entire state — all seven DMAs — we apply a 15% discount. There's real operational efficiency for us when we build one compliance framework under SB-37, one creative system for the whole state. That's the only state where that structure applies. For WCTL, this is the primary deal — 7 of your 11 DMAs are in California.
+When you lock down the entire state — all seven Markets — we apply a 15% discount. There's real operational efficiency for us when we build one compliance framework under SB-37, one creative system for the whole state. That's the only state where that structure applies. For WCTL, this is the primary deal — 7 of your 11 Markets are in California.
 
 **If he asks why not discount other states:**
 For individual markets in different states, each one is independent work — different compliance rules, different creative, different campaigns. The price reflects what it costs to operate in that market. What you get across all your markets isn't a price break — it's territory exclusivity and a single partner. No one else can offer that.
 
 **If he references a lower price from another vendor:**
-A flat rate across all markets tells me the vendor is either averaging — overcharging cheaper markets to subsidize expensive ones — or selling shared territory. We price each DMA at what it costs to operate there. And the other thing embedded in our price is exclusivity. With a flat-rate vendor, your competitor in LA is probably buying from the same source. With us, that can't happen.
+A flat rate across all markets tells me the vendor is either averaging — overcharging cheaper markets to subsidize expensive ones — or selling shared territory. We price each Market at what it costs to operate there. And the other thing embedded in our price is exclusivity. With a flat-rate vendor, your competitor in LA is probably buying from the same source. With us, that can't happen.
 
 ---
 
@@ -313,7 +313,7 @@ Contingency fee baseline: 33.33% pre-litigation (95% of PI cases settle before t
 
 **Projected ROAS: $248,500 ÷ $36,000 ≈ 6.9×**
 
-Conservative scenario: ~5.2×. Optimistic scenario: ~8.9×. **Defensible range to quote: 5 to 8× projected ROAS for California DMAs on day one.**
+Conservative scenario: ~5.2×. Optimistic scenario: ~8.9×. **Defensible range to quote: 5 to 8× projected ROAS for California Markets on day one.**
 
 ### Pitch Language For Sales Calls
 
@@ -372,20 +372,20 @@ The person who comes through our funnel was honestly persuaded by advertising th
 
 If we're aligned on this call, the next step is simple.
 
-**Step 1 — We agree on which DMAs you want to start with.** We'd suggest 2-3 markets to start. For WCTL, that's probably LA + one or two other CA markets. We lock those territories for you.
+**Step 1 — We agree on which Markets you want to start with.** We'd suggest 2-3 markets to start. For WCTL, that's probably LA + one or two other CA markets. We lock those territories for you.
 
-**Step 2 — You buy a lead package for each DMA.** 100 leads per market for the first package. You pay upfront — like credits. We deliver them as fast as we generate them. A 100-lead package fills in roughly 5-7 weeks.
+**Step 2 — You buy a lead package for each Market.** 100 leads per market for the first package. You pay upfront — like credits. We deliver them as fast as we generate them. A 100-lead package fills in roughly 5-7 weeks.
 
 **Why 100 per market:** The first 30 or so leads come during the algorithm's learning phase — costs are higher, targeting is least precise. If you only buy 50, you're evaluating us almost entirely on pre-optimization performance. At 100, you see the full arc — learning, stabilization, and early optimization. By lead 100, the campaigns are dialed in and you're seeing what they actually produce. That's a much fairer test for both of us.
 
-**Step 3 — We send you a scope of work and invoice.** Clean document — which DMAs, pricing, terms. You review it, sign it, we're in business.
+**Step 3 — We send you a scope of work and invoice.** Clean document — which Markets, pricing, terms. You review it, sign it, we're in business.
 
 **Step 4 — We get you onto our dashboard.** Your own login. Everything from here lives there.
 
-**Step 5 — We do deep research into each market.** We're figuring out the different archetypes in each DMA — who are the people we're reaching, what motivates them, how they think about this process. We map out the demographics, the corridors, the community patterns. This research informs the creative we build — different angles for different segments of the market, all running simultaneously.
+**Step 5 — We do deep research into each market.** We're figuring out the different archetypes in each Market — who are the people we're reaching, what motivates them, how they think about this process. We map out the demographics, the corridors, the community patterns. This research informs the creative we build — different angles for different segments of the market, all running simultaneously.
 
-**Step 6 — We build the first batch of creative.** For each DMA, we develop the initial test creative — different formats, different messages, different angles. All of this goes into your dashboard so you can see exactly what we're running. If you want approval before anything goes live, we set that up.
+**Step 6 — We build the first batch of creative.** For each Market, we develop the initial test creative — different formats, different messages, different angles. All of this goes into your dashboard so you can see exactly what we're running. If you want approval before anything goes live, we set that up.
 
-**Step 7 — We launch and start delivering leads.** Ads go live, leads start flowing as we generate them, and we begin the optimization cycle — honing in on what works for each segment of each DMA. You see it all in real time on the dashboard.
+**Step 7 — We launch and start delivering leads.** Ads go live, leads start flowing as we generate them, and we begin the optimization cycle — honing in on what works for each segment of each Market. You see it all in real time on the dashboard.
 
-**When the first package is filled:** We notify you before the last leads are delivered. You purchase a renewal — 50+ leads per DMA. Campaigns continue without interruption. Every renewal benefits from the optimization of the first 100 — better targeting, better creative, better leads. The longer we run, the better it gets.
+**When the first package is filled:** We notify you before the last leads are delivered. You purchase a renewal — 50+ leads per Market. Campaigns continue without interruption. Every renewal benefits from the optimization of the first 100 — better targeting, better creative, better leads. The longer we run, the better it gets.

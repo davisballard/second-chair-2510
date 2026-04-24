@@ -1,6 +1,8 @@
 # Second Chair Ad Creation Workflow
 
-> **Trigger:** "Make ads for [STATE]" or "Create ads for [STATE]"
+> **Runtime:** This workflow is sequenced by the Ad Creative Roundtable skill at `Abracadabra/02_Creative/_Roundtable/SKILL.md`. That skill is the runtime — 5 phases, Giuseppe as Director in Phases 3 and 5, Hegarty and Massimo active in the room (not gate-only), CTA Resolution Map instead of placement menu. This document remains the reference spec the skill loads: context files, compliance rules, state-specific stats, the form-alignment Golden Rule. The skill orchestrates the phase order; this doc defines what each phase enforces.
+>
+> **Trigger:** "Make ads for [STATE]" or "Create ads for [STATE]" (plus any of the roundtable skill's trigger phrases)
 > 
 > **What Happens:** The agency team loads all relevant context, runs a roundtable discussion, and works interactively with you to develop concepts and executions.
 
@@ -34,6 +36,7 @@ When triggered, load these expert agents for the roundtable:
 | **Depesh Mandalia** | Meta Specialist — Format selection, platform tactics | `03_Media/Depesh_Mandalia_(Meta_Paid_Social)/AGENT.md` |
 | **Indigo Sato** | Performance Creative — Testing structure, creative strategy | `03_Media/Indigo_Sato_(Performance_Creative)/AGENT.md` |
 | **Giuseppe Karma** | AI Creative Director — Visual direction, image prompts | `04_Production/Giuseppe_Karma_(AI_Creative_Director)/AGENT.md` |
+| **Ennio Morricone** | Sound Designer — Score, VO direction, SFX, mix (audio counterpart to Giuseppe). Joins when audio is part of the treatment (Mode A cinematic spots). | `04_Production/Ennio_Morricone_(Sound_Designer)/AGENT.md` |
 | **John Hegarty** | Executive Creative Director — Quality gate, pushes for stronger concepts | `02_Creative/John_Hegarty_(Executive_Creative_Director)/AGENT.md` |
 
 ---
@@ -57,7 +60,7 @@ When triggered, load these expert agents for the roundtable:
 - `05_Restrictions/State_Bar_Quick_Ref.md` — State-specific disclosure requirements
 
 **Campaign Operations:**
-- `09_Operations/HOW_META_CAMPAIGNS_OPTIMIZE.md` — How Pixel, algorithm learning, retargeting, and creative-as-targeting work under SAC. Defines 100-lead minimum per DMA, 1 ad set at launch with 3-5 creatives, and the optimization cycle.
+- `09_Operations/HOW_META_CAMPAIGNS_OPTIMIZE.md` — How Pixel, algorithm learning, retargeting, and creative-as-targeting work under SAC. Defines 100-lead minimum per Market, 1 ad set at launch with 3-5 creatives, and the optimization cycle.
 
 ### State-Specific Context
 
@@ -162,6 +165,12 @@ iterated into..."
 
 GIUSEPPE (Visual): "Visually, I'd execute this as [description]. iPhone 
 quality, documentary feel. The prompt direction: [brief prompt idea]..."
+
+ENNIO (Sound, when audio is in scope): "If we're scoring this, we are not in 
+trailer territory — Giuseppe is calling Mindhunter cool. That is Reznor 
+and Ross. Cold synth pulse, minimal piano motif, no resolution. 
+Twenty-second generation for a fifteen-second ad — the tail must fall after 
+the CTA. *Allora*, when do we hear the voice?"
 
 HEGARTY (ECD): "Hold on. Is this in the 10%? Does it give you goosebumps? 
 [Either approves or pushes for stronger work before presenting]"

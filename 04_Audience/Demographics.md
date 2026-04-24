@@ -130,7 +130,7 @@ Under Meta Special Ad Categories, demographic and interest targeting is eliminat
 - Lookalikes based on injury lead data
 
 **What IS available:**
-- Broad geographic targeting (DMA-level)
+- Broad geographic targeting (Market-level)
 - Age range (18+)
 - Language
 - Creative that does the qualifying

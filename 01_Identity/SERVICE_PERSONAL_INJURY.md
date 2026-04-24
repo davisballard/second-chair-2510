@@ -18,15 +18,15 @@ Subtitle: "Honestly won leads for PI firms — advertising you can evaluate befo
 
 ### Core Offering
 
-DMA-exclusive MVA lead generation with pre-qualification, real-time delivery, and optional premium qualification for personal injury law firms. Territory exclusivity is structured per DMA (Designated Market Area) as the standard — one firm per DMA. Statewide and custom arrangements are available by negotiation.
+Market-exclusive MVA lead generation with pre-qualification, real-time delivery, and optional premium qualification for personal injury law firms. Territory exclusivity is structured per Market (Designated Market Area) as the standard — one firm per Market. Statewide and custom arrangements are available by negotiation.
 
 **Three Service Tiers:**
 
-**Tier 1: Standard Web Lead** ($175-$500 based on DMA)
+**Tier 1: Standard Web Lead** ($175-$500 based on Market)
 - Pre-qualified web form submission from Fair Case consumer funnel
 - Dual scoring (conversion likelihood + case value)
 - Real-time delivery via portal, email, webhook
-- DMA exclusivity
+- Market exclusivity
 - Client calls lead
 
 **Tier 2: AI-Qualified Lead** (Base + $200)
@@ -59,10 +59,10 @@ DMA-exclusive MVA lead generation with pre-qualification, real-time delivery, an
 
 ### 1. Demand Creation (Geography-Exclusive)
 
-We don't run generic PI ads. We build honest advertising within your DMA-exclusive territory — one firm per DMA as the standard. Statewide arrangements available by negotiation.
+We don't run generic PI ads. We build honest advertising within your Market-exclusive territory — one firm per Market as the standard. Statewide arrangements available by negotiation.
 
 - **Agency-grade creative:** 18+ years Fortune 500 advertising experience applied to legal — campaigns that earn attention, not just interrupt
-- **Behavioral targeting:** DMA-exclusive campaigns that reach the right people at the right time
+- **Behavioral targeting:** Market-exclusive campaigns that reach the right people at the right time
 - **Brand familiarity:** By the time someone needs help, they've already seen Fair Case
 
 **Emotional layer:** We're building awareness for people who need help after the worst moments of their lives—and connecting them to attorneys who can fight back against insurance companies.
@@ -143,17 +143,17 @@ We reject leads before you have to:
 - **Primary metric: Projected Attorney Fee → Projected ROAS** (day-one, from Fit Score × sign probability × median attorney fee by case type). CPSC tracks alongside as a confirmation metric once sign rate data accumulates. See `Projected_Attorney_Fee_Model.md` for the full framework.
 - Over-qualification standard: we reject leads before you have to
 
-**Pricing structure:** (Based on DMA-exclusive model)
+**Pricing structure:** (Based on Market-exclusive model)
 - Pay per qualified lead delivered
-- DMA-exclusive territory lock — one firm per DMA
-- Statewide or multi-DMA bundles available by negotiation
+- Market-exclusive territory lock — one firm per Market
+- Statewide or multi-Market bundles available by negotiation
 - No shared leads, no bidding wars
 - Transparent reporting, bad leads credited
 
 **Territory tiers:**
-- Standard: Per-DMA exclusivity — $200–$500/lead depending on market size
-- Bundle: Multi-DMA or regional (10–15% discount vs. individual DMA pricing)
-- Enterprise: Statewide (priced as sum of DMAs in state, not a flat fee)
+- Standard: Per-Market exclusivity — $200–$500/lead depending on market size
+- Bundle: Multi-Market or regional (10–15% discount vs. individual Market pricing)
+- Enterprise: Statewide (priced as sum of Markets in state, not a flat fee)
 
 *See `GEO_EXCLUSIVITY_POLICY.md` for full pricing structure and sales guidance.*
 
@@ -189,13 +189,13 @@ Second Chair is the only PI lead gen company that builds advertising that honest
 1. **"Advertising you can evaluate before you commit"**
    - Honest advertising from co-founders with 18+ years Fortune 500 experience
    - Claimants arrive with accurate expectations — the advertising earned their response
-   - One firm per market (DMA-exclusive)
+   - One firm per market (Market-exclusive)
    - **Projected Attorney Fee → Projected ROAS as the day-one primary metric**, with CPSC alongside as confirmation
 
 2. **"The full case spectrum, built by a real agency"**
    - Consistent "keep the lights on" volume: soft tissue, minor fractures, general MVA
    - Intentional high-value targeting: rideshare (Uber/Lyft), commercial trucking, spine/TBI, wrongful death
-   - DMA-exclusive campaigns with behavioral targeting — not recycled templates
+   - Market-exclusive campaigns with behavioral targeting — not recycled templates
    - Consumer brand: Fair Case
 
 3. **"Over-qualification beats volume"**
@@ -224,7 +224,7 @@ Second Chair is the only PI lead gen company that builds advertising that honest
 > "Predictable MVA case flow for PI firms who care how the lead was won. One firm per market. Advertising you can evaluate before you commit. Because you didn't become a PI attorney to stress about pipeline — you became one to fight for people against insurance companies with unlimited resources."
 
 **Email Campaign:**
-> "What if next month's cases were already certain? DMA-exclusive lead generation. Projected return on ad spend visible from day one. No bidding wars. The baseline that keeps your practice alive while you focus on the fight that matters."
+> "What if next month's cases were already certain? Market-exclusive lead generation. Projected return on ad spend visible from day one. No bidding wars. The baseline that keeps your practice alive while you focus on the fight that matters."
 
 **Sales Call Opening:**
 > "Most lead gen companies sell you contact information and you never see the advertising that produced it. We show you the ads before you commit — because we built them to be worth showing. One firm per market. Every lead arrives with a Projected Attorney Fee attached, so you see the value of the pipeline on day one — before anyone has signed anything."
@@ -265,9 +265,9 @@ See: [`05_Restrictions/State_Bar_Quick_Ref.md`](../05_Restrictions/State_Bar_Qui
 
 **Strategic value:**
 - Separates consumer advertising from attorney relationship
-- Builds brand familiarity in exclusive DMAs before accidents happen
+- Builds brand familiarity in exclusive Markets before accidents happen
 - Enables trust-building creative that educates and empowers injury victims
-- Allows DMA-exclusive campaign deployment without competitor visibility
+- Allows Market-exclusive campaign deployment without competitor visibility
 
 ### Honest Advertising as Mechanism (Core Differentiator)
 
@@ -277,7 +277,7 @@ See: [`05_Restrictions/State_Bar_Quick_Ref.md`](../05_Restrictions/State_Bar_Qui
 **How it works:**
 - **Honest persuasion as filter:** Advertising that earns the claimant's response attracts people with accurate expectations — the honesty itself pre-qualifies
 - **Behavioral targeting:** Campaigns reach people based on behavioral signals, not just keyword bidding
-- **DMA-exclusive deployment:** One firm per market means campaigns are built for that market, not recycled nationally
+- **Market-exclusive deployment:** One firm per market means campaigns are built for that market, not recycled nationally
 - **Full-funnel creative:** From awareness content through qualification funnels — every touchpoint is built by the founding team with shared accountability
 
 ---
@@ -302,10 +302,10 @@ See: [`05_Restrictions/State_Bar_Quick_Ref.md`](../05_Restrictions/State_Bar_Qui
 
 **Our model:**
 - **Honest advertising as mechanism** — 18+ years Fortune 500 advertising experience. Advertising that honestly persuades claimants, producing leads who arrive with accurate expectations. No other PI lead gen company shows you the ads before you commit.
-- **Integrated lead gen + qualification + transfer** — Optional premium tiers provide AI or human qualification within 90 seconds, with live transfer capability. No other PI lead vendor combines exclusive DMA leads, honest advertising, and premium intake qualification from one partner.
+- **Integrated lead gen + qualification + transfer** — Optional premium tiers provide AI or human qualification within 90 seconds, with live transfer capability. No other PI lead vendor combines exclusive Market leads, honest advertising, and premium intake qualification from one partner.
 - **Full case spectrum** — soft tissue for consistency, high-value targeting (rideshare, trucking, spine/TBI, wrongful death) for upside
-- DMA-exclusive (one firm per DMA, actually enforced)
-- DMA-exclusive campaign deployment with behavioral targeting
+- Market-exclusive (one firm per Market, actually enforced)
+- Market-exclusive campaign deployment with behavioral targeting
 - Over-qualification beats volume — we reject leads before you have to
 - Transparent reporting, bad leads credited
 - Premium tier performance: 40-60% conversion on live transfers vs. 10-15% on web leads

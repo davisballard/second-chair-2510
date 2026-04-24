@@ -8,7 +8,7 @@
 
 ### Yours
 
-- [ ] **Send Robert the full pricing table / cost-per-lead breakdown by state and DMA** — Due: Monday end of day
+- [ ] **Send Robert the full pricing table / cost-per-lead breakdown by state and Market** — Due: Monday end of day
 
   - *Priority:* Critical
   - *Context:* Robert needs to see transparent pricing before the follow-up call. Davis committed to sending this over the weekend.
@@ -52,7 +52,7 @@
 
 ### Target Market: Washington State (Tentative)
 
-- **Decision:** Washington is the likely target DMA for the pilot
+- **Decision:** Washington is the likely target Market for the pilot
 - **Made by:** Davis (proposed), Robert (supported)
 - **Rationale:** Robert indicated Washington and Arizona are performing better than California for WCTL right now. Davis felt Washington offered the strongest market fit given Second Chair's capabilities and cost structure.
 - **Implication:** Second Chair will need to build Washington-specific creative and funnel. Davis emphasized campaigns must be localized, not one-size-fits-all.
@@ -146,7 +146,7 @@
   - Needs answer from: Davis / Alex
   - Blocking: Yes — Robert explicitly asked for this and it will inform the agreement
 
-- **Should the pilot target Washington or Arizona (or a specific DMA within either)?**
+- **Should the pilot target Washington or Arizona (or a specific Market within either)?**
 
   - Needs answer from: Davis (after internal analysis)
   - Blocking: Yes — must be decided before campaign buildout
@@ -182,7 +182,7 @@
 
 - **Risk:** $10K may not be enough ad spend for Meta/TikTok pixels to optimize, leading to poor initial performance that kills the partnership before it starts
 - **Flagged by:** Davis — "The results we're able to get you in that first $10K will obviously be the worst results we can possibly get"
-- **Mitigation discussed:** Davis set expectations proactively. Focusing on a single DMA (Washington) to concentrate pixel learning. Robert indicated he evaluates holistically — if leads are quality but WCTL's own intake drops the ball, he won't blame Second Chair.
+- **Mitigation discussed:** Davis set expectations proactively. Focusing on a single Market (Washington) to concentrate pixel learning. Robert indicated he evaluates holistically — if leads are quality but WCTL's own intake drops the ball, he won't blame Second Chair.
 
 ### Soft Tissue Filter May Reduce Viable Lead Volume
 

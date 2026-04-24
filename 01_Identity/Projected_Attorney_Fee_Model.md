@@ -94,7 +94,7 @@ From PLATFORM_INTELLIGENCE.md scoring engine + industry benchmarks on exclusive 
 
 ## The Full Projection Math — Example
 
-**Scenario:** 100-lead cohort delivered to a California firm in the Los Angeles DMA at $360/lead.
+**Scenario:** 100-lead cohort delivered to a California firm in the Los Angeles Market at $360/lead.
 **Spend:** $36,000
 
 **Typical cohort mix (based on SC's scoring distribution):**
@@ -113,7 +113,7 @@ From PLATFORM_INTELLIGENCE.md scoring engine + industry benchmarks on exclusive 
 
 **The optimistic version** (higher sign rates, better case mix): ~$320,000+ projected fees, **~8.9× ROAS**.
 
-**Defensible range to quote on sales calls: 5 to 8× projected ROAS** for California DMAs on day one.
+**Defensible range to quote on sales calls: 5 to 8× projected ROAS** for California Markets on day one.
 
 This matches and slightly exceeds 2ndchair.net's published "3.5-7× ROAS" positioning, giving us room to be honest about the range without over-promising.
 

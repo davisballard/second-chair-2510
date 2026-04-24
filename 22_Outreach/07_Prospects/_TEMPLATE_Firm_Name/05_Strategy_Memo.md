@@ -53,7 +53,7 @@ See `07_Oracle_And_Negotiation.md` for the buyer-specific Black Swan watch list.
 ## Post-Call Deliverable
 
 Within 24 hours we owe them:
-1. {{e.g., pricing sheet customized to their DMAs}}
+1. {{e.g., pricing sheet customized to their Markets}}
 2. {{e.g., one-pager SB-37 memo they can share internally}}
 3. {{e.g., short thank-you email with commitments}}
 

@@ -120,7 +120,7 @@ The legal industry averaged $49.70 CPM throughout 2025 — **147% above the glob
 
 **However, Arizona-specific factors may moderate these costs:**
 - AZ is not a top-5 legal advertising market (CA, NY, FL, TX, IL dominate spend)
-- Tucson DMA has structurally lower competition
+- Tucson Market has structurally lower competition
 - January-March historically offers the lowest legal CPMs (our campaign launches in this favorable window)
 - Special Ad Category campaigns with broad targeting tend to have lower CPMs than narrowly targeted campaigns because the algorithm has more room to find cheap inventory
 
@@ -384,7 +384,7 @@ Unlike Meta's Special Ad Categories, YouTube (Google Ads) offers more granular t
 - **Topic targeting:** Legal, automotive, insurance, health & wellness
 - **In-market audiences:** People in-market for legal services
 - **Demographic targeting:** Age and gender targeting available (not restricted like Meta SAC)
-- **Geographic targeting:** AZ statewide, Phoenix DMA, Tucson DMA, or custom radius
+- **Geographic targeting:** AZ statewide, Phoenix Market, Tucson Market, or custom radius
 
 **Motorcycle-specific opportunity:** YouTube is a primary platform for motorcycle enthusiasts — riding content, gear reviews, crash compilations, route videos. Pre-roll ads on motorcycle content in AZ reach our highest-value demographic (25-54 male motorcycle riders) with high contextual relevance.
 
@@ -595,7 +595,7 @@ Reddit users are **active researchers**, not passive scrollers. Someone browsing
 | Target | Description | AZ Relevance |
 |--------|-------------|-------------|
 | r/phoenix | 400K+ members, regular "need a lawyer" posts | High — largest AZ community |
-| r/tucson | Active local community | Moderate — Tucson DMA coverage |
+| r/tucson | Active local community | Moderate — Tucson Market coverage |
 | r/legaladvice | Millions of members, highest legal intent | High — people actively asking legal questions |
 | r/insurance | People frustrated with claims process | High — post-accident frustration is a trigger |
 | r/motorcycles | Rider community, accident discussions | High — direct case type alignment |

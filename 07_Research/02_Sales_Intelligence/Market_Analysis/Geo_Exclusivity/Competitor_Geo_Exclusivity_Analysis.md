@@ -31,16 +31,16 @@ Second Chair's model offers something fundamentally different: one firm per mark
 
 **Service type:** CTV (Connected TV) advertising + audience platform for PI law firms  
 **Website:** taqtics.com  
-**Territory unit:** DMA (Designated Market Area)  
-**Exclusivity type:** True territory exclusivity — one firm per DMA
+**Territory unit:** Market (Designated Market Area)  
+**Exclusivity type:** True territory exclusivity — one firm per Market
 
 **How it works:**
-When a firm partners with Taqtics, they secure exclusive access to their DMA's custom audiences. Competing firms cannot access or purchase those audiences within that designated area. Taqtics explicitly states they are "selective" and work with only one firm per market.
+When a firm partners with Taqtics, they secure exclusive access to their Market's custom audiences. Competing firms cannot access or purchase those audiences within that designated area. Taqtics explicitly states they are "selective" and work with only one firm per market.
 
 **What makes it exclusive:**
-- The proprietary audience data built for that DMA is locked to one firm
-- Competitors in the same DMA cannot access Taqtics' services at all
-- Territory is defined at the DMA level — Taqtics tracks competitive data "across every U.S. DMA" using that as their standard geographic unit
+- The proprietary audience data built for that Market is locked to one firm
+- Competitors in the same Market cannot access Taqtics' services at all
+- Territory is defined at the Market level — Taqtics tracks competitive data "across every U.S. Market" using that as their standard geographic unit
 
 **Key differentiator:**
 Taqtics builds custom audience targeting using clinical data (IQVIA, HealthVerity, Komodo Health), life event signals, and intent data. The custom audience is market-specific and can't simply be replicated by a competitor — it's not just lead routing, it's proprietary data infrastructure per market.
@@ -48,7 +48,7 @@ Taqtics builds custom audience targeting using clinical data (IQVIA, HealthVerit
 **Pricing model:** Not publicly disclosed. Full-service engagement (CTV creative + media placement + attribution).
 
 **What this means for Second Chair:**
-Taqtics is our closest competitive analog on territory structure. They use DMA as the unit, we currently use state (Jacoby) or some undefined metro standard. They're CTV-focused; we're paid social + form lead gen. We're not head-to-head on channel, but we are on the territory model. A firm choosing between Taqtics and Second Chair will be evaluating two true territory-exclusive models.
+Taqtics is our closest competitive analog on territory structure. They use Market as the unit, we currently use state (Jacoby) or some undefined metro standard. They're CTV-focused; we're paid social + form lead gen. We're not head-to-head on channel, but we are on the territory model. A firm choosing between Taqtics and Second Chair will be evaluating two true territory-exclusive models.
 
 ---
 
@@ -145,33 +145,33 @@ The research reveals the industry uses at least four different geographic units 
 |------|------------|----------------------|---------------------|
 | **ZIP Code** | Various smaller vendors | ~42,000 | USPS postal boundaries |
 | **County** | Some regional vendors | ~3,143 | County government lines |
-| **DMA** | Taqtics | 210 | Nielsen media market boundaries |
+| **Market** | Taqtics | 210 | Nielsen media market boundaries |
 | **MSA** | Second Chair (proposed) | 382 | Census Bureau metro definitions |
 | **State** | Second Chair (current Jacoby model) | 50 | State government lines |
 
 **Key observations:**
 - ZIP and county are too granular for meaningful territory exclusivity at scale — most PI firms serve a full metro, not a ZIP code
 - State is too broad — see the California problem (25 metros treated as one territory)
-- DMA and MSA are the two serious options at metro scale
+- Market and MSA are the two serious options at metro scale
 - Most competitors who claim "exclusive" leads are operating at the lead level, not any geographic unit
 
 ---
 
-## DMA vs. MSA: The Deciding Factor
+## Market vs. MSA: The Deciding Factor
 
-The two realistic territory units for Second Chair are DMA and MSA. Here's how they compare:
+The two realistic territory units for Second Chair are Market and MSA. Here's how they compare:
 
-**DMA (Designated Market Area)**
+**Market (Designated Market Area)**
 - 210 DMAs nationally (Nielsen-defined)
 - Standard unit for TV, radio, streaming, and CTV advertising
-- PI law firms already understand and use DMAs — this is how they buy media
-- Fewer, larger markets — LA DMA covers the entire Los Angeles media market including surrounding suburbs
+- PI law firms already understand and use Markets — this is how they buy media
+- Fewer, larger markets — LA Market covers the entire Los Angeles media market including surrounding suburbs
 - What Taqtics uses
 
 **MSA (Metropolitan Statistical Area)**
 - 382 MSAs nationally (Census Bureau-defined)
 - Standard for economic and demographic analysis
-- More granular than DMA — captures distinct metro economies
+- More granular than Market — captures distinct metro economies
 - More units = more clients Second Chair can sell; more revenue ceiling
 - Less intuitive to PI firms in advertising context
 
@@ -180,15 +180,15 @@ The two realistic territory units for Second Chair are DMA and MSA. Here's how t
 | Model | Max Clients (Full US) | Avg ARR per Client | Maximum ARR Ceiling |
 |-------|----------------------|-------------------|---------------------|
 | Per State | 50 | $800K–$1.2M | $40M–$60M |
-| Per DMA | 210 | $400K–$800K | $84M–$168M |
+| Per Market | 210 | $400K–$800K | $84M–$168M |
 | Per MSA | 382 | $300K–$650K | $115M–$248M |
 
-**Recommendation:** DMA is the better standard unit. Here's why:
-1. PI firms already understand and budget by DMA — it's how they think about TV and streaming spend
+**Recommendation:** Market is the better standard unit. Here's why:
+1. PI firms already understand and budget by Market — it's how they think about TV and streaming spend
 2. It aligns Second Chair's territory language with how clients already talk about their markets
-3. Taqtics' use of DMA validates it as a credible industry standard for territory exclusivity
-4. 210 DMA slots is still a dramatically better ceiling than 50 state slots
-5. DMA boundaries are published and unambiguous — no arguments about whether Pasadena is in the "LA territory"
+3. Taqtics' use of Market validates it as a credible industry standard for territory exclusivity
+4. 210 Market slots is still a dramatically better ceiling than 50 state slots
+5. Market boundaries are published and unambiguous — no arguments about whether Pasadena is in the "LA territory"
 
 The MSA model has a higher theoretical ceiling but introduces boundary complexity. If a client asks "what's included in my territory," pointing to the Nielsen DMA map is cleaner than a Census MSA definition.
 
@@ -198,7 +198,7 @@ The MSA model has a higher theoretical ceiling but introduces boundary complexit
 
 **Against LBM (the most common competitor mention):**
 
-> "Legal Brand Marketing sells exclusive leads — meaning they won't sell the same person's contact info to two firms. But they can, and do, sell leads to two competing PI firms in the same city at the same time. Both firms think they're getting 'exclusive' leads. Neither has the market locked. With Second Chair, you're the only firm in your DMA. Period. Your competitor can't become a Second Chair client in your market."
+> "Legal Brand Marketing sells exclusive leads — meaning they won't sell the same person's contact info to two firms. But they can, and do, sell leads to two competing PI firms in the same city at the same time. Both firms think they're getting 'exclusive' leads. Neither has the market locked. With Second Chair, you're the only firm in your Market. Period. Your competitor can't become a Second Chair client in your market."
 
 **Against Taqtics:**
 
@@ -214,8 +214,8 @@ The MSA model has a higher theoretical ceiling but introduces boundary complexit
 
 | Competitor | Territory Exclusivity? | Territory Unit | Lead Exclusivity? | Contracts? |
 |-----------|----------------------|---------------|------------------|-----------|
-| **Second Chair** | Yes | State (current) / DMA (proposed) | Yes | Yes |
-| **Taqtics** | Yes | DMA | Yes | Yes |
+| **Second Chair** | Yes | State (current) / Market (proposed) | Yes | Yes |
+| **Taqtics** | Yes | Market | Yes | Yes |
 | **Legal Brand Marketing** | No | None | Yes (lead-level only) | No |
 | **iLawyer Marketing** | No | N/A (agency model) | N/A | Varies |
 | **Ngage** | No | None | Yes (lead-level only) | No |

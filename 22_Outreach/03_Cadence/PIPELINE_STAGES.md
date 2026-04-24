@@ -45,7 +45,7 @@
 
 ## CRM Configuration Notes
 
-- Every prospect must have: firm name, contact name, title, email, tier (1/2/3), persona, DMA, current stage
+- Every prospect must have: firm name, contact name, title, email, tier (1/2/3), persona, Market, current stage
 - Log every touch: date, channel (email/LinkedIn/phone), type (outreach/follow-up/call), notes
 - Tag prospects by source: SpyFu, Best Lawyers, Google Maps, Avvo, referral, inbound
 - Weekly pipeline report: count by stage, conversion rates stage-to-stage, average time in stage

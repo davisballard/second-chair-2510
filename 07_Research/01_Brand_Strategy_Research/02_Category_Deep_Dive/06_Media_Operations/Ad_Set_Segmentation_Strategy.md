@@ -33,7 +33,7 @@ The gap is structural and validated by federal data (NHTSA 2020, CDC 2021):
 **The Hispanic gap is the most actionable:** 19% of the population, 17–21% of accident victims, but served by less than 6% of PI attorneys (Hispanic lawyers are dramatically underrepresented in the PI bar). The Spanish-speaking PI legal market is described by legal marketing practitioners as offering **"smaller ad spend with greater results than the saturated English-speaking market"** — because the CPM is lower, the competition is lower, and the audience is genuinely underserved.
 
 **The practical translation for Second Chair:** Running Spanish-language ad sets targeting accident-relevant demographics in markets with high Hispanic populations (NYC, Miami, LA, Las Vegas, Phoenix, Houston) will produce:
-- Lower CPM than English-language targeting in the same DMA
+- Lower CPM than English-language targeting in the same Market
 - Lower competition from other PI lead gen vendors
 - Higher qualified lead rates because the audience is actively seeking help with fewer vendor alternatives
 
@@ -52,10 +52,10 @@ Second Chair's ad set structure should be organized across three axes simultaneo
 - Spanish-language / Hispanic market (Spanglish and full Spanish)
 - *(Future: Haitian Creole for South Florida; Mandarin/Cantonese for urban West Coast markets)*
 
-**Axis 2: Geographic DMA**
+**Axis 2: Geographic Market**
 - Each major market gets its own campaign with its own budget
 - Prevents cross-market budget contamination
-- Allows DMA-specific creative (local landmarks, local attorneys' market context, local media buy timing)
+- Allows Market-specific creative (local landmarks, local attorneys' market context, local media buy timing)
 
 **Axis 3: Behavioral / Timing Signal**
 - Recent accident behavioral signals (not directly targetable on Meta due to special ad category restrictions, but proxied through interest targeting)
@@ -84,7 +84,7 @@ Second Chair's ad set structure should be organized across three axes simultaneo
 
 *Note: Miami's Hispanic ad set allocation is higher (45%) than NYC's (35%) because Miami's Hispanic population is ~70% of the metropolitan area, versus ~30% in NYC. The budget weight follows the market.*
 
-**How to expand to new markets:** When Second Chair launches a new DMA, the baseline template is always: 40% English general, 30–45% Spanish (weighted by DMA Hispanic population %), 15% retargeting, 10% lookalike. Adjust the Spanish weight up or down based on census data for that DMA.
+**How to expand to new markets:** When Second Chair launches a new Market, the baseline template is always: 40% English general, 30–45% Spanish (weighted by Market Hispanic population %), 15% retargeting, 10% lookalike. Adjust the Spanish weight up or down based on census data for that Market.
 
 ---
 
@@ -96,7 +96,7 @@ Second Chair's ad set structure should be organized across three axes simultaneo
 
 | Targeting Option | Available? | Notes |
 |---|---|---|
-| Geographic targeting (DMA/city) | **Yes** | Broad DMA targeting. Creative does the audience filtering. |
+| Geographic targeting (Market/city) | **Yes** | Broad Market targeting. Creative does the audience filtering. |
 | Language targeting (Spanish) | **Yes** | Target users whose Facebook language is Spanish |
 | Custom audiences (retargeting) | **Yes** | Website visitors, video viewers, form openers, customer lists |
 | Creative-based self-selection | **Yes** | SC's primary targeting method — specific creative self-selects the right audience |
@@ -118,7 +118,7 @@ Meta's language targeting identifies users in one of two ways:
 
 Setting a campaign's language to "Spanish (All)" will reach users who are Spanish-dominant by either signal. It does not guarantee zero English-speaker crossover (a bilingual user might engage in both languages), but the targeting is accurate enough that Spanish-language campaigns primarily reach Spanish-dominant audiences without wasting significant budget on non-Spanish speakers.
 
-**The efficiency advantage:** Spanish-language targeting in PI markets produces lower CPMs than English-language targeting in the same DMA — because fewer advertisers are competing for that audience. Less competition = lower cost per impression = more leads for the same budget.
+**The efficiency advantage:** Spanish-language targeting in PI markets produces lower CPMs than English-language targeting in the same Market — because fewer advertisers are competing for that audience. Less competition = lower cost per impression = more leads for the same budget.
 
 ### No "Accident Targeting" Signal — Proxying Is Required
 
@@ -195,7 +195,7 @@ Every new market launch follows this sequence:
 
 | Metric | Kill Threshold | Why |
 |---|---|---|
-| CPM | > $75 sustained | Media costs exceeding target; DMA too competitive |
+| CPM | > $75 sustained | Media costs exceeding target; Market too competitive |
 | CTR | < 0.5% after 1,000 impressions | Creative not resonating; needs refresh |
 | CPL (raw form fill) | > $400 | Approaching the price ceiling; no margin |
 | Qualification rate | < 35% | Targeting too broad; reaching wrong audience |
@@ -209,7 +209,7 @@ Every new market launch follows this sequence:
 
 **The structural issue:** Running campaigns in multiple markets simultaneously on Meta can produce audience overlap — a Miami user who travels to NYC might see both market-specific ads. This is minor at scale but wastes budget on dual-market impression costs.
 
-**The solution:** Strict geographic targeting with a 15–20 mile DMA boundary exclusion between markets. Meta's geographic targeting allows city-level specificity. Each market campaign explicitly excludes the geographic radius of any other active market campaign.
+**The solution:** Strict geographic targeting with a 15–20 mile Market boundary exclusion between markets. Meta's geographic targeting allows city-level specificity. Each market campaign explicitly excludes the geographic radius of any other active market campaign.
 
 **The budget independence principle:** Each market gets its own campaign (not just ad sets) in Meta's structure. This ensures:
 - Budget does not bleed from one market to another

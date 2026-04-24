@@ -51,9 +51,9 @@
 
 **Permission:** *"Can I walk you through how we think about this?"*
 
-1. **DMA-specific creative** — {{local-specific angle}}
+1. **Market-specific creative** — {{local-specific angle}}
 2. **We run our own advertising** — visible, compliant, optional approval workflow
-3. **One firm per DMA** — territory exclusivity
+3. **One firm per Market** — territory exclusivity
 4. **Projected Attorney Fee → Projected ROAS** — day-one value
 
 **Flip back:** *"Does that framing resonate? If the biggest risk isn't cost, it's brand exposure — what would you need to see?"* *(their answer IS the proposal requirements — write it down)*
@@ -112,7 +112,7 @@ Buyer-tuning: `07_Oracle_And_Negotiation.md`
 > *"[Name] — the reason we wanted to get on a call is because the {{wedge}} piece felt like something that belongs in a room with {{DM_NAME}}. Not to close you today — because this is material worth walking upstairs."*
 
 **Davis — no-oriented:**
-> *"I'll send two things by end of day tomorrow — a pricing sheet for your {{N}} DMAs and a short {{wedge}} memo. No pressure on timing. Would that be a bad idea?"*
+> *"I'll send two things by end of day tomorrow — a pricing sheet for your {{N}} Markets and a short {{wedge}} memo. No pressure on timing. Would that be a bad idea?"*
 
 > *"And if the material lands well — is it crazy to think we could get a second call with {{DM_NAME}} on it?"*
 
