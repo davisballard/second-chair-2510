@@ -140,9 +140,11 @@ Every SC spot, regardless of format (Motion Still / Story Slide / Luca Maxim Cin
 
 ---
 
-## §6 — THE THREE SC SIGNATURE PATTERNS
+## §6 — THE FIVE SC SIGNATURE PATTERNS
 
 Each pattern has a default static form (used most of the time) and a motion variant (used when motion adds meaning).
+
+Patterns 1–3 are non-footage compositions (rendered as Higgsfield stills or CapCut shapes, often used in designed-static units or chroma-keyed onto cinematic frames). Patterns 4–5 (added 2026-04-25) are CapCut-native text layers built to sit *over* generated footage — they own the sound-off scroll-stop and VO-emphasis problems on Reels.
 
 ### Pattern 1 — The Exhibit
 
@@ -206,6 +208,106 @@ Each pattern has a default static form (used most of the time) and a motion vari
 3. Never re-animates
 
 **Use the motion variant when:** the rule is functioning as a transition between two scenes. For static placement within a single frame (e.g., separating EXHIBIT label from chart in The Exhibit pattern), the rule appears in its final state — no separate animation.
+
+### Pattern 4 — The Hook Card
+
+**Function:** the 0–2s scroll-stopper. Sound-off comprehension lock for Reels-feed viewers. Signals "this is for me, this is real, this is from a credible source" before the VO opens. Used at the top of nearly every spot where the visual register on its own doesn't carry the territory in 0.5s.
+
+**Reference lineage:** Bass title-card discipline (graphic distillation, the type IS the image) + New Yorker / Pentagram editorial cover logic + A24 trailer typography. Per-register variants — Editorial vs UGC-Native — share the underlying restraint but render to different vocabulary.
+
+**Palette note:** Hook Card uses the SC parent overlay palette (Cream / Warm Charcoal / Burgundy), NOT the Fair Case brand palette (Roman Navy / Torch Amber). Fair Case's palette is built for controlled-background contexts (landing page, form, static) and fails as letter-fill over warm-graded video footage. Fair Case branding lives at the final CTA frame only. See `../../20_Fair_Case/04_Visual_Identity_Brief/BRAND_SYSTEM_BRIEF.md` Ad Creative Overlay Rule.
+
+#### Editorial register (Elevated Documentary spots — S1, M1, M2 primaries)
+
+**Default — static:**
+- Headline: Tiempos Headline 64–88pt, two lines max, McCabe-tight (3–5 words per line)
+- Letter-fill: Cream `#FFF7F0` over warm/dark footage; Warm Charcoal `#1C1917` over bright/cool footage. Massimo picks per footage grade.
+- Sub-line (usually used): Söhne Mono 11pt small caps, letterspacing ~80, e.g., `S1 — TRUCKING / I-17 PHOENIX`. Sits above headline. Sound-off context lock.
+- Burgundy `#490A0A` 0.5pt rule between sub-line and headline (Bass title-sequence move, structural).
+- One contrast device — pick exactly one, never stack:
+  - **60% Cream scrim**, gradient fade-down in upper third. Default for most footage.
+  - **80% Warm Charcoal scrim**, gradient fade-down in upper third. Used over bright/blown footage (golden-hour gardens, white-room MVA, etc.).
+  - **Knockout Burgundy chip** behind a single accent word. At most one Hook Card per ad set uses this — the signature peak hook only.
+  - **1px Warm Charcoal outline + 8% directional drop-shadow.** Last-resort device when no scrim works (motivated practical light makes the upper third busy).
+- Position: headline anchored at 35–48% Y, sub-line at 28% Y, rule at 33% Y. Composition leaves bottom half clear for footage and captions.
+- Hold: 1.5s minimum, 3.0s maximum. Headline retires before VO peaks.
+
+**Motion variant — Bass two-beat reveal (CapCut-native):**
+1. Sub-line + Burgundy rule fade up at t=0.0–0.3s (Massimo's "settling" — opacity 0→100, no scale, no slide).
+2. Headline letterforms resolve from 8% blur to sharp at t=0.0–0.4s (Patrick Clair living-photograph technique). Tracking tightens 3% over the resolve.
+3. Holds. **No second animation. No pulse. No re-trigger.**
+
+**Use the motion variant when:** the spot opens on a footage hold and the headline needs to *appear* rather than be present from frame 1. For most Reels, where the user has just scrolled into the frame, the static variant from frame 1 is the right answer — every frame the user sees has the headline doing its work.
+
+#### UGC-Native register (S5 Diana, MS-Diana, MS-Laura)
+
+**Default — static:**
+- Headline: Inter Black 56–64pt, two lines max, white `#FFFFFF` letter-fill with 2px black `#000000` stroke
+- Sub-line (optional): Inter Bold 14pt italic, white with 1px black stroke
+- Position: top-third or bottom-third, 5% from frame edge. Avoid center.
+- No scrim. No rule. No Burgundy chip. **The black stroke is the device.**
+- Register: iPhone-Notes / native phone-text. Reads as a screenshot, not a designed overlay. Patrick Clair would call this *the absence of design as a design choice* — the discipline is to not over-design.
+- Hold: 1.5s minimum, 3.0s maximum.
+
+**Motion variant — snap-cut or hard-fade:**
+- Snap-cut on (0 frames). Default.
+- Hard-fade in 4 frames (~0.13s at 30fps) when snap reads abrupt against a particular cut.
+- **No blur-to-sharp. No tracking-tighten. No Bass reveal.** UGC tolerates abruptness; editorial does not. Smuggling editorial motion into UGC produces "glossy UGC" — the failure mode `UGC_Native.md §6.5` calls out.
+
+**Use the motion variant when:** always — UGC Hook Cards either snap on at frame 0 or hard-fade in 4 frames. Pick whichever cuts better against the footage.
+
+#### Time budget for the Hook Card (universal, both registers)
+
+| Time | Job |
+|------|-----|
+| 0.0–0.5s | Comprehension lock — headline visible and readable |
+| 0.5–1.5s | Credibility — sub-line resolved, sound-off viewer locks context |
+| 1.5–3.0s | Hold while VO opens |
+| 3.0s+ | Headline retires; footage and captions take over |
+
+### Pattern 5 — The Peak Card
+
+**Function:** single mid-spot moment that lands at the VO turn. The graphical anchor for the *one* beat where the sound-off viewer needs to read the spot's claim, not just feel it. Used at the moment of greatest narrative tension — the line the VO is most committed to.
+
+**One Peak Card per spot. Never two.** Massimo + Indigo own the call (which beat earns it). McCabe picks the content (3–8 words). Giuseppe picks the variant.
+
+**Reference lineage:** Patrick Clair living-photograph reveal + Apple keynote comparison-reveals + Bass distillation (a single hero element, weighted restraint).
+
+#### Three variants — Giuseppe picks per spot
+
+**Variant A — Hero Number** (already in Pattern 2; tuned for over-video use)
+- Single stat in Tiempos Headline 120–180pt, Cream knockout chip bottom-third or full-bleed cream/black field. See Pattern 2 for production spec (chroma-key / blend-mode pipeline).
+- Use when: the spot has ONE number that carries the entire claim. Filters for sound-off viewers who clock the number even if they didn't read the headline.
+
+**Variant B — Defined Term**
+- Term: Tiempos Italic 48pt (Editorial) or Inter Black 36pt caps with letterspacing 60 (UGC), Warm Charcoal on Cream knockout chip (Editorial) or white-with-2px-stroke (UGC).
+- Definition line: Söhne 14pt regular caps with letterspacing ~50, Warm Grey, beneath the term (Editorial). For UGC: Inter Bold 14pt caps, white with 1px stroke.
+- 0.5pt Burgundy rule between term and definition (Editorial only — UGC drops the rule).
+- Format: `FMCSA / federal motor carrier safety administration` or `RECORDED STATEMENT / what insurance asks for before you have a lawyer`.
+- Use when: the VO uses a legal/industry term whose meaning the sound-off viewer needs anchored in 1.5s. The Peak Card teaches the term while the VO completes the sentence.
+
+**Variant C — Quote Card**
+- VO's spoken line as block quote in Tiempos 36–44pt (Editorial) or Inter Black 32pt (UGC).
+- Italic for emotional emphasis lines, regular for declarative.
+- Burgundy 0.5pt rule below the quote (Editorial only).
+- Use when: the emotional peak of the VO is the line itself, and a sound-off viewer needs to *hear it visually*. The line that would be the spot's pull-quote in print.
+
+#### Static or motion (Massimo + Indigo decide)
+
+- **Static default:** Peak Card appears in final state on the cut. Holds 1.5–2.5s. Works for most spots.
+- **Motion variant** (Editorial only): element resolves from texture into form via Patrick Clair living-photograph reveal — blur-to-sharp 0.0–0.6s, tracking tightens 3%, no slide, no bounce. Used only when the reveal IS the punchline — when the spot has built up to this moment specifically.
+- **UGC motion:** snap-cut or hard-fade. No Patrick Clair reveal in UGC register — that smuggles editorial in.
+- Hero Number variant motion: see Pattern 2.
+
+#### Position and timing
+
+- Position: bottom-third typically (above the captions safe zone), or full-bleed for Hero Number.
+- Timing: at the VO turn — typically 5.0–8.0s into a 12–15s spot. Some VO scripts frontload the thesis (M1's "They ask for what's fair" lands at 3.5s) — Peak Card lands at the *content* peak, not a fixed time.
+- Hold: 1.5s minimum, 2.5s maximum. Long enough to read; short enough to keep momentum.
+
+#### Coexistence with the Hook Card
+
+Hook owns 0–3s; Peak owns the VO-turn moment. They never overlap spatially or temporally. They usually share the same register (both Editorial or both UGC), but a UGC spot can use a Defined Term Peak Card if Indigo decides the educational anchor outweighs register consistency.
 
 ---
 

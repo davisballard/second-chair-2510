@@ -241,6 +241,30 @@ These extend the form tokens. All form tokens remain unchanged.
 
 ---
 
+## Ad Creative Overlay Rule (added 2026-04-25)
+
+Fair Case's color palette is built for landing-page, form, and brand-identity contexts — surfaces where the background is fully under our control. **It is NOT a video-overlay palette.** Roman Navy `#0D1F3C` and Torch Amber `#C8821A` cannot serve as letter-fill for headlines sitting over warm-graded video footage: Roman Navy reads as a low-contrast murky letter against most documentary grades, and Torch Amber dies in the warm/amber zone of typical client footage.
+
+For ad creative — every video ad running under the Fair Case brand for any client — the rule is:
+
+| Layer | Palette | Source |
+|-------|---------|--------|
+| Hook Card / Peak Card / on-video headlines / kinetic captions | **SC parent overlay palette**: Cream `#FFF7F0`, Warm Charcoal `#1C1917`, Burgundy `#490A0A` | `../../02_Visual/Designed_Overlay_System.md` §6 Patterns 4 + 5 |
+| Final CTA frame (last 1.5s of the spot) | **Fair Case brand palette**: Roman Navy chip + Torch Amber CTA + torch mark | This document |
+| Landing page / form (post-click) | **Fair Case brand palette** | This document + `FORM_DESIGN_BRIEF.md` |
+
+This aligns with the production rule already in operation: Fair Case branding is added in the final CapCut pass at the CTA frame, never baked into Higgsfield generation or used as letter-fill in headline overlays.
+
+### UGC Branding Exception
+
+For UGC-register ads (where the visual register is iPhone-candid, not designed) — even the CTA frame deviates: **the torch mark does NOT appear in the ad creative itself.** The CTA reads as text-only `See Options` in Inter Bold with a single Torch Amber accent word. The torch mark and full Fair Case branding appear post-click on the landing page. Locked per `../../23_Clients/West_Coast_Trial_Lawyers/Creative/Week_1_Review_Upgrades/Agency_Creative_Review.md` (Massimo's UGC branding note).
+
+### Why this rule exists
+
+The Fair Case "two colors swap roles depending on background" logic was built for surfaces with controlled backgrounds. Ad creative places type over uncontrolled video footage. The SC parent overlay system already solves the over-video legibility problem with Cream + Warm Charcoal + Burgundy (anchored to Bass + Clair + the West Federal Reporter spine, etc., per `../../07_Research/04_Visual_Research/12_Designed_Overlay_System_Research/Research_Notes.md`). Fair Case ads inherit that solution for the headline layer; Fair Case's own palette stays where it belongs — at the CTA chip and on the form.
+
+---
+
 ## The Anti-Rules
 
 Things that look like they fit but don't:

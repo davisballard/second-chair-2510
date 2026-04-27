@@ -249,6 +249,45 @@ Live list of which WCTL assets use this style.
 
 ---
 
+## 13. Overlay Layer — Hook Card + Peak Card (added 2026-04-25)
+
+UGC register overlay treatment per `../../../../02_Visual/Designed_Overlay_System.md §6 Patterns 4 + 5` (UGC-Native register). The discipline here is SUBTRACTIVE — same logic as §1.5 directors-forbidden rule. The temptation is to import editorial typography into the overlay layer because it looks "designed"; doing so produces "glossy UGC" and breaks the §6.5 failure-mode test.
+
+### Hook Card (0–3s)
+
+- **Headline:** Inter Black 56–64pt, white `#FFFFFF` with 2px black `#000000` stroke. Two lines max.
+- **Position:** top-third or bottom-third, 5% from frame edge. Avoid center.
+- **Sub-line:** optional, Inter Bold 14pt italic with 1px black stroke.
+- **NO scrim. NO Tiempos. NO Burgundy rule. NO Söhne.** The black stroke is the device.
+- **Register:** iPhone-Notes / native phone-text. Reads as a screenshot, not a designed overlay.
+- **Motion:** snap-cut on at frame 0 (default), or hard-fade 4 frames if snap reads abrupt. **No blur-to-sharp. No tracking-tighten. No Patrick Clair reveal.**
+- **Hold:** 1.5s minimum, 3.0s maximum.
+
+### Peak Card (at VO turn)
+
+ONE per spot. Same three variants as Editorial (Hero Number / Defined Term / Quote), but UGC-register typography:
+
+- **Hero Number** — register-agnostic; can use Tiempos as in Pattern 2 even within a UGC spot.
+- **Defined Term** — Inter Black 36pt caps for the term (NOT Tiempos italic), Inter Bold 14pt caps for the definition line, white with stroke. No Burgundy rule.
+- **Quote Card** — Inter Black 32pt for the quote line. No knockout chip. No Burgundy rule.
+
+Motion: snap-cut or hard-fade only. No Patrick Clair reveal in UGC.
+
+### Always-on captions
+
+Same as Editorial: CapCut auto-captions, Inter Bold 22pt white with 2px black stroke, bottom-center 250px safe zone.
+
+### CTA frame (last 1.5s) — UGC EXCEPTION
+
+UGC ads do **NOT** show the Fair Case torch mark in the ad creative itself. The CTA reads as text-only: `See Options` in Inter Bold, single Torch Amber `#C8821A` accent word, rest white. The torch mark and full Fair Case branding appear post-click on the landing page. This UGC branding exception is locked per `Week_1_Review_Upgrades/Agency_Creative_Review.md` (Massimo's UGC note) and codified in `../../../../20_Fair_Case/04_Visual_Identity_Brief/BRAND_SYSTEM_BRIEF.md` UGC Branding Exception.
+
+### Per-unit overlay spec
+
+- `../Week_1_Approval_Package/Renders/S5_Diana_MVA/Primary/overlay_spec.md`
+- (MS-Diana, MS-Laura specs added when those units enter production)
+
+---
+
 ## 12. Cross-references (upgraded 2026-04-23)
 
 UGC Native deliberately does NOT load most of Giuseppe's director / color / film-stock knowledge — those files exist to build CINEMATIC output, which is the opposite of what UGC wants. However, some Giuseppe knowledge is still useful here:

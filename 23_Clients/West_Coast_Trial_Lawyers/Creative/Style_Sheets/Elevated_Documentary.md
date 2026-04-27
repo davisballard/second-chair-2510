@@ -457,6 +457,29 @@ Live list of which WCTL assets use this style. Update when adding or removing an
 
 ---
 
+## 13. Overlay Layer — Hook Card + Peak Card (added 2026-04-25)
+
+The Elevated register's overlay treatment is governed by `../../../../02_Visual/Designed_Overlay_System.md §6 Patterns 4 + 5` (Editorial register). Summary at a glance:
+
+- **Hook Card (0–3s):** Tiempos Headline 64–88pt, Cream `#FFF7F0` or Warm Charcoal `#1C1917` letter-fill (Massimo picks per footage grade), Söhne Mono 11pt small-caps sub-line (e.g., `S1 — TRUCKING / I-17 PHOENIX`), 0.5pt Burgundy `#490A0A` rule. ONE contrast device — pick exactly one: 60% Cream scrim (default), 80% Warm Charcoal scrim (over bright/blown footage), Burgundy knockout chip (signature peak hook only), or 1px outline + 8% drop-shadow (last resort). Bass two-beat reveal motion (sub-line + rule fade up 0.0–0.3s, headline blur-to-sharp 0.0–0.4s) — or static from frame 1.
+- **Peak Card (at VO turn):** ONE per spot. Three variants — Hero Number / Defined Term / Quote Card. Tiempos italic or block quote on Cream knockout chip, Burgundy 0.5pt rule. Patrick Clair living-photograph reveal (blur-to-sharp 0.6s, tracking tightens 3%) — or static.
+- **Always-on captions:** CapCut auto-captions, Inter Bold white with 2px black stroke, bottom-center 250px safe zone (per `../../../../../04_Production/Giuseppe_Karma_(AI_Creative_Director)/Text_Overlay_System.md §1`).
+- **CTA frame (last 1.5s):** Fair Case torch mark + Torch Amber `#C8821A` chip per `../../../../20_Fair_Case/04_Visual_Identity_Brief/BRAND_SYSTEM_BRIEF.md` Ad Creative Overlay Rule.
+
+### Palette resolution (load-bearing)
+
+Hook Card and Peak Card use the SC parent overlay palette (Cream / Burgundy / Warm Charcoal), **NOT the Fair Case brand palette** (Roman Navy / Torch Amber). Roman Navy and Torch Amber as letter-fill over warm-graded WCTL footage fail Massimo's footage-grade legibility test. Fair Case branding is reserved for the final CTA frame only. Source: `BRAND_SYSTEM_BRIEF.md` Ad Creative Overlay Rule (codified 2026-04-25).
+
+### Per-unit overlay specs
+
+Each Elevated unit carries its own `overlay_spec.md` adjacent to the rendered VO:
+
+- `../Week_1_Approval_Package/Renders/S1_Sarah_Trucking/Primary/overlay_spec.md`
+- `../Week_1_Approval_Package/Renders/M1_Ty_Identity/Primary/overlay_spec.md`
+- (M2, S2 specs added when those units enter production)
+
+---
+
 ## 12. Cross-references (upgraded 2026-04-23)
 
 The 2026-04-23 upgrade of this style sheet anchors every prompt in Giuseppe's director library and companion knowledge. When writing or iterating prompts, load:

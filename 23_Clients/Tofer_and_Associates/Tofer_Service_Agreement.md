@@ -5,11 +5,9 @@ client:
   name: "Tofer & Associates"
   contact: "Claudia Salazar, Intake Manager"
   address: "Beverly Hills, CA"
-date: "2026-04-23"
+date: "2026-04-24"
 draft: false
 ---
-
-# LEAD GENERATION SERVICE AGREEMENT
 
 **This Lead Generation Service Agreement** ("Agreement") is entered into as of the date of the last signature below ("Effective Date") by and between:
 
@@ -83,7 +81,7 @@ Each individually a "Party" and collectively the "Parties."
 
 4.3 **Lead Volume.** Provider shall deliver two hundred (200) qualified leads to Client under this Agreement.
 
-4.4 **Payment Method.** Provider prefers payment via direct bank deposit (ACH/wire). Payment by credit card is accepted with an additional processing fee of three percent (3%) of the total amount charged.
+4.4 **Payment Method.** Payment shall be made via direct bank deposit (ACH or wire transfer). Banking details are provided on the invoice.
 
 4.5 **Invoicing.** Upon execution of this Agreement by both Parties, Provider shall issue an invoice for the Total Fee with payment instructions. The Total Fee is due within ten (10) business days of the date of invoice. Creative development and campaign launch will not commence until payment is received in full.
 
@@ -109,7 +107,7 @@ Each individually a "Party" and collectively the "Parties."
 
 5.2 **Delivery Method.** Leads shall be delivered via email to a designated email address provided by Client. Each lead shall include: full name, phone number, email address (if available), accident type, injury description, fault status, accident date, and TCPA consent proof. Alternative delivery methods (e.g., CRM integration, webhook, API) are available and can be configured at any time upon Client's request, including integration with Client's existing intake automation stack.
 
-5.3 **Delivery Timeline.** Provider estimates delivery of all leads within approximately ten to fourteen (10–14) weeks of campaign launch. The Central Valley Market is a smaller-population market relative to major California metros, and the delivery timeline reflects this. Estimates may vary based on advertising platform approval timelines, creative optimization pace, and market conditions. Campaign launch occurs after creative approval (see Section 7).
+5.3 **Delivery Timeline.** Provider estimates delivery of all leads within approximately eight to twelve (8–12) weeks of campaign launch. Estimates may vary based on advertising platform approval timelines, creative optimization pace, and market conditions. Campaign launch occurs after creative approval (see Section 7).
 
 ---
 
@@ -159,8 +157,7 @@ Each individually a "Party" and collectively the "Parties."
 ## 8. COMPLIANCE
 
 8.1 **Provider Responsibilities.** Provider shall:
-- Obtain TCPA-compliant consent explicitly naming Client on all leads, with TrustedForm certification
-- Comply with FCC 2025 one-to-one consent requirements
+- Obtain TCPA-compliant, one-to-one consent that explicitly names Client on each lead (rather than generic or shared consent), evidenced by a TrustedForm certificate
 - Comply with Meta platform advertising policies, including Special Ad Category requirements
 - Comply with the California Rules of Professional Conduct applicable to legal advertising (Rules 7.1, 7.2, 7.3)
 - Comply with California Senate Bill 37 (SB-37) and all related California-specific advertising regulations
@@ -175,6 +172,10 @@ Each individually a "Party" and collectively the "Parties."
 - Comply with all applicable laws and ethical rules governing the practice of law in California
 
 8.3 **Mutual Obligations.** Neither Party shall engage in misleading, deceptive, or non-compliant advertising in connection with this Agreement.
+
+8.4 **Marketing Vendor; No Referral Service.** Provider is engaged solely as an advertising, lead generation, and marketing technology vendor. Provider does not provide legal advice, does not evaluate or recommend attorneys to consumers, does not select counsel for any consumer, does not guarantee legal representation, and does not receive any fee contingent on Client's signing, settlement, fee recovery, or legal outcome. Client acknowledges that approved advertisements and landing pages will identify Client as the law firm responsible for the legal services advertised, and Client shall review and approve all legal advertising content for compliance with applicable law and professional rules.
+
+8.5 **Joint Advertising Compliance.** To the extent the Parties' activities are treated as joint legal advertising under California Business and Professions Code Section 6155 or related provisions, Client expressly authorizes the advertising, agrees that approved advertising will identify Client as a participating law firm, and accepts responsibility for the legal-advertising content approved by Client.
 
 ---
 
@@ -283,7 +284,7 @@ Name: William Davis Ballard
 
 Title: Co-Founder
 
-Date: 04/23/26
+Date: 04/24/26
 
 **CLIENT: Tofer & Associates**
 
