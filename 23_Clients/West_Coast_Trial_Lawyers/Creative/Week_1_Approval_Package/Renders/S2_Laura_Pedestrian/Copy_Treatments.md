@@ -162,8 +162,29 @@ Dark-gradient photographic, lifted from S2 elevated-photographic Primary's dusk 
 
 <!-- DAVIS EDIT -->
 
+### Generation prompt — Higgsfield (no-text photo, you layer typography in post)
 
+**Before you paste — Higgsfield uploads:**
 
+- **Reference image slot:** Laura's locked reference portrait. REQUIRED — keeps face / build / register consistent.
+- **Fair Case torch logo:** Do NOT upload — added in post.
+- **Other reference images:** none.
+
+**Paste this prompt:**
+
+```
+Photographic still, 4:5 portrait, magazine-cover register. Shot on Mamiya 645 with 80mm equivalent lens, ISO 400, natural light only.
+
+The woman in the attached reference image stands at the near-side curb of a residential intersection crosswalk in Gilbert, Arizona — three-quarter body angle camera-left, looking down at the painted white crosswalk lines (NOT at camera). Cane in her LEFT hand, medical-issue, simple aluminum or hardwood, not a fashion accessory. ACE wrap subtle at her RIGHT ankle below the jean cuff, beige compression wrap. Pale cream-grey cardigan over a white t-shirt, simple slip-on Sperrys.
+
+Setting: cyan-fade dusk sky transitioning to warmer amber on the horizon line. Single amber streetlight upper-right casting warm key on her face from frame-right. Warm-sand asphalt foreground. Painted white crosswalk lines lead diagonally from lower-right into deep frame-left. Palo-verde tree subtle in deep out-of-focus background camera-left. Quiet observational palette in the spirit of Alec Soth and Hiroshi Kander — place-as-protagonist composition, neighborly composure, no drama.
+
+Composition: upper 60% of frame is dusk sky deepening into a near-black warm-charcoal zone at the very top — a naturally dark crepuscular overhead designed to carry legible serif typography when text is layered in post. Lower 40% is the photo focus — the woman, the curb, the crosswalk lines.
+
+No HDR. No text in the image. No logos. No graphic overlays. No street signs, no crosswalk signage, no business names visible.
+
+Avoid: harsh midday light, daylight register, looking at camera, symmetrical face, waxy skin, melted hands, plastic eyes, HDR glow, billboard energy, drop shadows, AI tells.
+```
 
 ---
 
@@ -286,8 +307,24 @@ Number-anchored composition. **Top 70% of frame:** Warm Charcoal `#1C1917` solid
 
 <!-- DAVIS EDIT — alternative pull number if Davis prefers crashes over fatalities: "2,079" hero with "Arizona pedestrian crashes, 2024." subhead. Less stark, more category-volume framing. -->
 
+### Generation — V3 has no Higgsfield render (build directly in CapCut)
 
+V3 is 100% typography on a solid Roman Navy field. There is no photographic subject and no graphic element beyond the typeface and a 0.5pt rule. With text laid in post, Higgsfield has nothing to generate — the "background" is just a flat color fill that CapCut produces as a solid-color layer in two clicks.
 
+**Build directly in CapCut (or Figma) on a Roman Navy fill:**
+
+1. **Solid color fill:** Roman Navy `#0D1F3C` — pure, uniform, no texture, no gradient. 4:5 portrait canvas.
+2. **"263"** — Tiempos Headline serif at 200-220pt, Cream `#FFF7F0`, center frame, tight confident kerning. Single typographic event.
+3. **0.5pt horizontal rule** — Torch Amber `#C8821A`, ~40% frame width, centered below "263".
+4. **Subhead** — `ARIZONA PEDESTRIAN FATALITIES, 2024.` in Caslon Pro small caps 22pt, Torch Amber `#C8821A`, two lines, generous letter-spacing.
+5. **Body context** — `2,079 crashes. / Pedestrian cases turn on / the law of right-of-way.` in Caslon Pro 14pt, Cream `#FFF7F0` at 50% opacity, three lines.
+6. **Closing action line** — `Find out what the law says.` in Caslon Pro semi-bold 18pt, Torch Amber `#C8821A`, lower third (above where Meta renders its Learn More button).
+7. **Footer** — `Source: ADOT Crash Facts 2024. No fee unless we win.` in IBM Plex Mono 8pt, Muted Navy Light, bottom-left.
+8. **Fair Case torch** — white, ~24px tall, bottom-right, ~40px margin.
+
+Layout discipline: ~12% L/R margins, ~25% empty upper-quadrant negative space, single typographic event, no ornament.
+
+**If you'd rather have a scaffolding render** (just the navy field as a starter plate to drop type onto in CapCut): "Pure solid Roman Navy color field, hex #0D1F3C, 4:5 portrait, no texture, no gradient, no elements, no subject." But honestly, a CapCut solid-color layer does the same job in two clicks — V3 doesn't benefit from a generation pass.
 
 ---
 
@@ -406,8 +443,31 @@ Photographic-led with **70% black-to-warm-charcoal scrim over upper third** carr
 
 <!-- DAVIS EDIT -->
 
+### Generation prompt — Higgsfield (no-text photo, you layer typography in post)
 
+**Before you paste — Higgsfield uploads:**
 
+- **Reference image slot:** Laura's locked reference portrait (same one as V1).
+- **Fair Case torch logo:** Do NOT upload — added in post.
+- **Other reference images:** none.
+
+**Paste this prompt:**
+
+```
+Photographic still, 4:5 portrait. Same dusk Gilbert intersection crosswalk composition family as V1 but framed slightly tighter and lower — the woman occupies the middle 50% of frame with a narrower upper band of dusk sky and a thin asphalt strip below.
+
+Shot on Mamiya 645 with 80mm equivalent lens, ISO 400, natural light only.
+
+The woman in the attached reference image stands at the near-side curb of a residential intersection crosswalk in Gilbert, Arizona — three-quarter body angle camera-left, looking down at the painted white crosswalk lines (NOT at camera). Cane in her LEFT hand, medical-issue, simple aluminum or hardwood. ACE wrap subtle at her RIGHT ankle below the jean cuff. Pale cream-grey cardigan over a white t-shirt, simple slip-on Sperrys.
+
+Setting: cyan-fade dusk sky in a narrow upper band, single amber streetlight upper-right casting warm key on her face from frame-right, warm-sand asphalt foreground, painted crosswalk lines diagonal across the lower frame, palo-verde tree subtle in deep out-of-focus background camera-left. Quiet observational palette in the spirit of Alec Soth and Hiroshi Kander — place-as-protagonist composition, neighborly composure.
+
+Composition: narrow upper-third deepens to warm-charcoal at the very top — designed to carry a single serif headline when text is layered in post. Middle 50% is the photo focus — the woman, the curb, the painted lines. Bottom strip is gradient-light asphalt that will carry a single closing-line typesetting in post.
+
+No text in the image. No logos. No graphic overlays. No street signs, no crosswalk signage, no business names visible.
+
+Avoid: composition reading identical to V1 — this should feel tighter, more present in the frame. Avoid daylight, harsh light, looking at camera, AI tells, HDR, billboard energy, drop shadows.
+```
 
 ---
 

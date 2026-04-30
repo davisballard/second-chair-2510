@@ -1,19 +1,32 @@
-"""Roll two parallel Laura VO samples at the same settings.
+"""Generate M3 Ty Injustice V4 Video Primary VO — Bill voice, M1 settings.
 
-Davis feedback (2026-04-27): "Its so close but the first 4 seconds are weird,
-the last part is great." Settings are right; we just need a fresh roll where
-the model lands the first fragment cleanly. Generate two parallel samples
-and pick the one with the cleaner opening.
+V4 is a NET-ADD video Primary on top of M3's static V1/V2/V3. Architecture
+mirrors Laura S2 Pedestrian Primary: Hook (situation filter) → Early CTA →
+Barrier breakdown (presumption-of-fault wound) → Diegetic phone CTA → Close.
+
+Persona discipline (from Audience/Deep_Personas/Ty/):
+- NO sympathy framing — "Riders don't ask for sympathy"
+- NO combat language — accountability + factual record register
+- Wound: presumption of fault ("they said the rider was reckless")
+- ER-nurse-asked-were-you-speeding-before-how-much-pain shadow
+
+[serious] inline audio tag at the top anchors Ty's factual register (same
+pattern as Diana, NOT Laura's [calm]).
+
+Generates 3 parallel rolls at the same Ty M1-proven settings — pick the
+cleanest one against the visuals.
 """
 import asyncio
 import os
 import subprocess
 import time
+import urllib.error
 import urllib.request
 from pathlib import Path
 
 
 def download_with_retry(url: str, dest: Path, max_attempts: int = 6) -> None:
+    """Download with exponential backoff to handle fal CDN 503s."""
     headers = {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
     }
@@ -49,31 +62,33 @@ generate_voiceover = _el.generate_voiceover
 
 OUT_DIR = Path(__file__).parent
 
+# M3-V4 Ty — Laura-formula applied to motorcycle injustice frame
 SCRIPT = (
-    "[calm] "
-    "Hit while crossing the street? "
+    "[serious] "
+    "Hit while riding? "
     "Find out what the law says about your case. "
-    "You weren't the one driving. "
-    "They blamed her for crossing. "
-    "The law says otherwise. "
+    "You were doing the speed limit. "
+    "They said the rider was reckless. "
+    "The law reads the record. "
     "Free 60-second case review. "
     "No fee unless we win."
 )
 
+# Ty M1-proven Bill settings (locked from M1 Primary final)
 SETTINGS = {
     "voice": "Bill",
-    "stability": 0.65,
-    "similarity_boost": 0.75,
-    "style": 0.20,
-    "speed": 1.05,
+    "stability": 0.75,
+    "similarity_boost": 0.70,
+    "style": 0.15,
+    "speed": 1.0,
 }
 
 
 async def generate_one(name: str) -> Path:
     print(f"\n[{name}] Generating...")
     url = await generate_voiceover(text=SCRIPT, **SETTINGS)
-    raw_path = OUT_DIR / f"vo_s2_primary_bill_{name}.mp3"
-    padded_path = OUT_DIR / f"vo_s2_primary_bill_{name}_padded.mp3"
+    raw_path = OUT_DIR / f"vo_m3v4_bill_{name}.mp3"
+    padded_path = OUT_DIR / f"vo_m3v4_bill_{name}_padded.mp3"
     download_with_retry(url, raw_path)
     print(f"[{name}] Raw saved: {raw_path.name}")
     print(f"[{name}] URL: {url}")
@@ -89,10 +104,13 @@ async def generate_one(name: str) -> Path:
 
 async def main() -> None:
     print(f"Script ({len(SCRIPT.split())} words):\n{SCRIPT}\n")
-    a_task = asyncio.create_task(generate_one("roll3"))
-    b_task = asyncio.create_task(generate_one("roll4"))
-    await asyncio.gather(a_task, b_task)
-    print("\nBoth rolls generated. Compare roll1 vs roll2 — pick the one with the cleaner opening.")
+    tasks = [
+        asyncio.create_task(generate_one("roll1")),
+        asyncio.create_task(generate_one("roll2")),
+        asyncio.create_task(generate_one("roll3")),
+    ]
+    await asyncio.gather(*tasks)
+    print("\nAll 3 rolls generated. Pick the cleanest delivery — same settings, different sample.")
 
 
 if __name__ == "__main__":

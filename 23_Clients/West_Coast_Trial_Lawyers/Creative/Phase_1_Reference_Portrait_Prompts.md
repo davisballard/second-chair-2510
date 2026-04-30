@@ -4,7 +4,7 @@
 **Prepared:** 2026-04-22
 **Room:** Giuseppe Karma (chair), Hegarty (emotional truth), Fink (art direction / side-specific craft), Indigo Sato (silent observer — downstream scene derivability), Phil Dusenberry (silent observer — reproducibility discipline). Liaison: Nigel Bogle.
 **Upstream (archived 2026-04-23):** `Archive/Week_1_Launch_Concepts_2026-04-21.md` §"Protagonist Character Briefs" — retained for reference only. Current canonical persona source is `Audience/Deep_Personas/{Sarah,Diana,Laura,Ty}/` and the active creative package at `Creative/Week_1_Approval_Package/`.
-**Scope:** Four reference portraits. Ty Rivera, Sarah, Laura, Diana. English-only, Phase 1. Miguel deferred to Phase 2.
+**Scope:** Five reference portraits. Ty Rivera, Sarah, Laura, Diana, Jason Reardon. English-only, Phase 1. Jason added 2026-04-29 as the AZ male MVA volume slot (see `Audience/Deep_Personas/Jason/`). Miguel deferred to Phase 2.
 **Purpose:** Davis pastes each prompt below into Higgsfield's ChatGPT Images 2.0 workflow, generates 4 candidates per character, picks one per character. That locked image becomes the character-consistency reference for every downstream scene prompt (M1/M2/M3/S1/S2/S5).
 
 ---
@@ -40,7 +40,7 @@ The four reference prompts below are split across two SC style sheets that live 
 1. Generate 4 candidates per character.
 2. Check side-specific props FIRST, before face aesthetics — reject any candidate with a flipped prop (Ty's scar on the left eyebrow, Ty's tattoo on the left forearm, Sarah's brace on the right forearm, Laura's cane in the right hand, Laura's ACE wrap on the left ankle, Diana's sling on the left arm, Diana's bruise on the left jawline). A flipped prop breaks the downstream character lock even if the face is perfect.
 3. Among the side-correct candidates, pick the one that reads most like the specific person the brief describes — not a generic working-class American.
-4. Save the winning image to `Abracadabra/08_Brands/Second_Chair/23_Clients/West_Coast_Trial_Lawyers/Creative/Reference_Portraits/` (create folder if it doesn't exist) as `ty_reference_locked_v1.png`, `sarah_reference_locked_v1.png`, `laura_reference_locked_v1.png`, `diana_reference_locked_v1.png`.
+4. Save the winning image to `Abracadabra/08_Brands/Second_Chair/23_Clients/West_Coast_Trial_Lawyers/Creative/Reference_Portraits/` (create folder if it doesn't exist) as `ty_reference_locked_v1.png`, `sarah_reference_locked_v1.png`, `laura_reference_locked_v1.png`, `diana_reference_locked_v1.png`, `jason_reference_locked_v1.png`.
 5. Save a companion `{character}_reference_lock.md` alongside each image capturing: Higgsfield seed used, date locked, full prompt pasted in, one-line reason each of the 3 rejected candidates was rejected.
 
 **Run order (recommendation, Giuseppe):** Run Ty FIRST to validate the Elevated Documentary grammar, then Diana SECOND to validate the UGC Native grammar. These two together confirm both style sheets are producing real-feeling output before you commit to Sarah and Laura (both Elevated). Ty is the highest-leverage Elevated character (3 of 6 downstream assets, most distinctive visual anchors — eyebrow scar, right-forearm tattoo, lean build); Diana is the only UGC asset so she must stand on her own. If either first run reads generated, tune that style sheet's Injection Block (for Elevated: add more grain + imperfection, drop "photorealistic" which can push ChatGPT Images 2.0 toward uncanny; for UGC: remove any accidental cinematic vocabulary, double-down on phone-camera specificity) before running the other three characters.
@@ -226,7 +226,70 @@ Do NOT generate any AI tells: no waxy or plastic skin, no symmetrical faces, no 
 
 ---
 
-## After you lock the four references
+## Prompt 5 — Jason Reardon (severe MVA / role inversion, concrete foreman) — Elevated Documentary
+
+**Style sheet:** `Style_Sheets/Elevated_Documentary.md`
+**Deep persona:** `Audience/Deep_Personas/Jason/` (see `01_Life_World.md` §4 wardrobe + §10 visual anchors and `05_Campaign_Implications.md` §3 character lock)
+**Added:** 2026-04-29. Pairs with Diana on the volume floor — together they cover the largest addressable pool. The Cinematic Documentary register is Jason's native treatment (NOT UGC; Diana is the UGC test).
+
+**Persona moment to render:** Week 6+ post-crash. Off the walker, on the cane. Concussion-fog mostly cleared. Bruising fading. The campaign reaches him in this exact window (per `Jason/02` Month 2 timeline).
+
+Paste the block below into Higgsfield's ChatGPT Images 2.0 prompt field verbatim.
+
+```
+A documentary photorealistic waist-up portrait of a specific middle-aged American man, indistinguishable from a real digital camera photograph. Shot in the quiet naturalism of Paul Thomas Anderson's Phantom Thread interiors — a single large north-facing window as the only key light, positioned camera-right, diffused, producing soft directional falloff across the face from bright camera-right to gently shadowed camera-left. Painterly Vermeer-quality natural interior light. No three-point cinema setup, no soft-box glamour, no bounce fill — one window doing all the work. Subject and light share the room honestly.
+
+Reference aesthetic: Alec Soth portraits of American working-class subjects for the honest dignity, Nadav Kander portrait compositional rigor for the still weight. Every light source is one you could point to in the room (David Fincher's Mindhunter discipline on motivated-light-only).
+
+Capture format: Fujifilm X-T5 or Sony A7R IV digital look, 50mm prime lens, f/2.8. Subtle-to-moderate 35mm Kodak Vision3-adjacent film grain, honest skin saturation, no HDR, no over-sharpening, no airbrushing. Skin texture must show pores, fine lines, subtle asymmetry — his face is not symmetrical, weathered from twenty-two years of Arizona sun on jobsites. Hair has natural separation, no perfect part, slightly disheveled from a man who hasn't put his cap on today. Eyes show a single soft catchlight from the window.
+
+Focus plane: eyes sharp at f/2.8, ears already softening, cane top visible in lower-right frame but softened, background out-of-focus but legibly dimensional (not abstract blur).
+
+Framing: waist-up, three-quarter body angle turned slightly to camera-left, head turned to face camera, eyes to camera. He is standing, weight shifted subtly onto his RIGHT side (away from his cane side, his unbroken side). Subject inhabits the frame completely — composed, present, not performing the injury, not performing health. Neutral soft warm-grey or cream out-of-focus background with gentle depth — could be a hallway, a kitchen wall, the inside of a garage with the door open. Composition rule-of-thirds with subject's eyes on the upper-third horizontal line — NOT dead-centered. Aspect ratio 4:5.
+
+Blocking: standing still, weight shifted slightly off the cane side, body honest about the injury without performing it. His LEFT hand holds the cane at his side, cane top visible in lower-right frame (Jason's own left hand, which on a camera-facing portrait appears on the viewer's RIGHT side of the frame). His RIGHT hand at his side, slightly forward, palm angled toward camera so the calloused base of the thumb and palm are visible in the lower-left frame. No gesture. Mouth closed or relaxed (no mid-word speech shape, no teeth showing, no "talking head" pose). Micro-settle of weight only — a slow exhale, the slightest lean onto the unbroken side.
+
+Subject: Jason Reardon, 45, white (Arizona-native, mixed Anglo features), Apache Junction Arizona — East Valley trades-belt male. Concrete and masonry foreman, 22 years on the tools, six weeks past a T-bone collision with a left femur surgical fracture, pelvic fracture (non-displaced), three rib fractures, grade 2 concussion. 5'10" to 6'0", approximately 200 to 215 lbs, solid working-trade build — broad shoulders and thick forearms that read as twenty-two years of pouring and lifting concrete; thick neck; slight thickening at the waist from middle age, NOT a beer belly. He looked like he could still set forms six weeks ago, until the femur and the pelvis went. Not a gym body and not a soft body. Sun-darkened skin on the forearms and the back of the neck with a visible neck tan-line where his t-shirt sleeve ends. Mid-brown hair short, slightly grey at the temples, slightly receding at the temple corners. Five-day stubble — the visual marker that he's lost his morning shaving routine. Brown or hazel eyes, weathered with sun lines from squinting on jobsites. Small white scars on his knuckles from years of forming and rebar work. A simple Casio G-Shock watch on his LEFT wrist.
+
+Wardrobe: a plain heather-grey or navy crew-neck cotton t-shirt (no logos). A brown Carhartt cotton-duck overshirt, UNBUTTONED, hanging loose over the t-shirt — he can't easily bend down to fasten things and won't admit it. Carhartt B11 brown duck dungarees, broken in past the knees, NOT jeans. Faint healing bruising along his LEFT ribs through the t-shirt — barely visible, fading toward yellow-green, NOT fresh red or purple. Wedding band plain titanium on his LEFT ring finger, visible on the cane-holding hand.
+
+Continuity prop: a simple wooden walking cane in his LEFT hand (Jason's own left hand, which on a camera-facing portrait appears on the viewer's RIGHT side of the frame). His left femur fracture is on his LEFT side, so the cane goes on the LEFT — same side as the fracture, NOT the opposite side. The cane's top is visible in lower-right frame, held in his left hand. Plain wooden cane with a curved handle, slightly scuffed bottom rubber tip — not a hospital-issue aluminum cane, not decorative, not new.
+
+Hands: real working hands. Visible callus along the meat of the RIGHT palm where twenty-two years of trowel work and forming has left a permanent thickness; small white scars across the knuckles of both hands; short clean nails (Kristy's influence). NOT manicured. NOT smooth. Working hands, not laborer-cliché hands.
+
+Critical side-specific details to lock:
+- The cane is in Jason's OWN LEFT hand (viewer's RIGHT side of frame). Do NOT flip it to his right hand.
+- The wedding band is on his OWN LEFT ring finger, same hand as the cane.
+- The G-Shock watch is on his OWN LEFT wrist, same arm as the cane.
+- The faint healing rib bruise is on his OWN LEFT ribs, same side as the femur fracture and the cane.
+- The calloused right palm is visible on his RIGHT hand at his side (viewer's LEFT side of frame).
+
+Emotional register: the man whose body was the only thing he ever sold and whose competence has been temporarily relocated to a recliner. Not defeated, not angry, not pitying himself — composed, present, quietly testing whether he's still the competent man he was six weeks ago. A foreman caught between the version of his life where he ran a six-to-eight-man crew on Phoenix-metro foundation pours, and the version where he sits at the kitchen counter answering insurance calls he doesn't want to make. The eye is the audit — he should read as a foreman who happens to be on camera, NOT as an actor playing a foreman. Clear eyes, steady gaze, low-grade fatigue from poor sleep on a recliner, present.
+
+Critical casting-direction note: do NOT generate a country-music-video aesthetic — no pickup-truck-and-sunset register, no flag, no cowboy hat, no Marlboro-man parody, no golden-hour-Western-grade. Do NOT generate a Brad-Pitt-with-a-tool-belt aesthetic — Jason is weathered, not chiseled; solid, not cut; working-man build, not gym body. Do NOT generate a generic "tough working-class hero" stock persona. He is a specific 45-year-old AZ trades-male — sun-tanned forearms, neck tan-line, thick forearms from twenty-two years of pouring concrete, knuckle scars — NOT a casting director's idea of one. No hospital context, no surgical scars visible, no medical equipment other than the cane, no hardhat or PPE in frame, no Hardin Concrete polo or branded cap (the polo is a downstream scene wardrobe option for supplier-meeting days, not the neutral baseline). No facial bruising — his structural injuries are below the neck.
+
+Failure flag review (regenerate if any hit):
+- FLAT EVEN LIGHTING (no directional falloff across the face) → the single-window setup didn't take; reinforce "single large north-facing window as the only key, camera-right, soft directional falloff from bright camera-right to gently shadowed camera-left, like a Vermeer interior."
+- CENTERED SYMMETRIC COMPOSITION → rule-of-thirds with eyes on upper-third line was specified; regen.
+- EVERYTHING IN FOCUS → eyes sharp + ears softening + cane and background soft; regen with focus-plane language reinforced.
+- WAXY / AIRBRUSHED / PLASTIC SKIN → Fujifilm X-T5 + Vision3 grain didn't take; reinforce camera-body and grain phrases plus "weathered from twenty-two years of Arizona sun on jobsites."
+- MODEL-FACE SYMMETRY → explicit "face is not symmetrical, subtle asymmetry around the eyes, weathered" reinforcement needed.
+- YOUTHFUL / GLAMOUR FACE → Jason is 45 and lived; reinforce "weathered, sun lines from squinting on jobsites, mid-brown hair greying at temples, solid working-trade build with thick forearms and a slight thickening at the waist."
+- COUNTRY-MUSIC-VIDEO AESTHETIC → reinforce "documentary realism, NO pickup-truck-and-sunset register, NO flag, NO cowboy hat, NO Marlboro-man parody, NO golden-hour-Western-grade."
+- BRAD-PITT-WITH-A-TOOL-BELT AESTHETIC → reinforce "weathered not chiseled, solid not cut, working-trade build not gym body."
+- BEER-BELLY / SCHLUBBY BUILD → Jason is solid-thick from concrete-trade labor, NOT soft-thick from drinking. If output reads as overweight or soft-bodied, reinforce "200–215 lbs, solid working-trade build, broad shoulders, thick forearms from twenty-two years of pouring concrete, thick neck, slight middle-age thickening at the waist but NO beer belly, NOT a soft body."
+- CANE IN WRONG HAND → critical side-lock failure — regen with explicit "cane in Jason's OWN LEFT hand (viewer's RIGHT side of frame), same side as his left femur fracture."
+- "DRAMATIC INJURY VICTIM" POSE → no performance of the injury; he's standing composed, weight shifted honestly to the unbroken side but NOT performing pain. NO grimace, NO leaning hard on the cane, NO clutching the ribs.
+- BUTTONED-UP CARHARTT → the overshirt is UNBUTTONED, hanging loose; he can't bend down to fasten things and won't admit it. Reinforce.
+- SHAVED FACE / FRESH SHAVE → he has FIVE-DAY STUBBLE; reinforce.
+- HARDHAT OR HARDIN POLO PRESENT → neutral reference baseline does NOT include workwear branding; the polo and cap live in downstream scene prompts only.
+
+Do NOT generate any AI tells: no waxy or plastic skin, no symmetrical faces, no uncanny eyes, no extra or malformed fingers, no floating hair, no distorted hands, no over-saturated color, no HDR look, no over-sharpened edges, no airbrushed finish, no text in image, no watermark, no model-face symmetry, no perfectly-styled hair.
+```
+
+---
+
+## After you lock the five references
 
 1. **Save the four locked images** to `Creative/Reference_Portraits/` using the naming convention above.
 2. **Save the four lock records** (`{character}_reference_lock.md`) with seed + prompt + rejection notes.
