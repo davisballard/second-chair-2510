@@ -87,7 +87,7 @@ CapCut auto-captions per `Giuseppe_Karma/Text_Overlay_System.md §1`. Inter Bold
 
 - 9:16 (Reels native) — primary
 - 4:5 (Feed)
-- 1:1 (Feed legacy) — Hook Card may need top-quarter re-anchor; Peak Card may compress to single-line `"They ask for what's fair."` italic
+- ~~1:1~~ — deprecated 2026-05-01 (Davis: "I never see them"); do not produce square crops
 
 ---
 

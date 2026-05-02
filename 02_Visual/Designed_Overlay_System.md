@@ -140,11 +140,11 @@ Every SC spot, regardless of format (Motion Still / Story Slide / Luca Maxim Cin
 
 ---
 
-## §6 — THE FIVE SC SIGNATURE PATTERNS
+## §6 — THE SIX SC SIGNATURE PATTERNS
 
 Each pattern has a default static form (used most of the time) and a motion variant (used when motion adds meaning).
 
-Patterns 1–3 are non-footage compositions (rendered as Higgsfield stills or CapCut shapes, often used in designed-static units or chroma-keyed onto cinematic frames). Patterns 4–5 (added 2026-04-25) are CapCut-native text layers built to sit *over* generated footage — they own the sound-off scroll-stop and VO-emphasis problems on Reels.
+Patterns 1–3 are non-footage compositions (rendered as Higgsfield stills or CapCut shapes, often used in designed-static units or chroma-keyed onto cinematic frames). Patterns 4–5 (added 2026-04-25) are CapCut-native text layers built to sit *over* generated footage — they own the sound-off scroll-stop and VO-emphasis problems on Reels. Pattern 6 (added 2026-04-30) is the FIRST persistent / full-spot-duration pattern AND the first to use the Fair Case brand palette rather than the SC parent palette — it serves the half-listening-scroller comprehension job the other five don't.
 
 ### Pattern 1 — The Exhibit
 
@@ -308,6 +308,71 @@ Patterns 1–3 are non-footage compositions (rendered as Higgsfield stills or Ca
 #### Coexistence with the Hook Card
 
 Hook owns 0–3s; Peak owns the VO-turn moment. They never overlap spatially or temporally. They usually share the same register (both Editorial or both UGC), but a UGC spot can use a Defined Term Peak Card if Indigo decides the educational anchor outweighs register consistency.
+
+---
+
+### Pattern 6 — The Anchor
+
+**Function:** persistent brand+context+CTA strip that lives in the bottom 35-40% of frame for the FULL duration of the spot. The job no other pattern does: deliver the brand mark, the headline-promise, and the "what to do" prompt to scrollers who are half-listening, sound-off, or only glancing for half a second. Earns its place by serving comprehension + credibility + conversion *continuously*, not as a moment.
+
+**Reference lineage:** Wall Street Journal print-ad standing-head + New York Times opinion-video lower-third + Apple keynote credibility band + Fair Case wordmark identity.
+
+**Critical exception to two SC overlay rules:**
+- **Persistence:** every other SC pattern earns its place as a *moment* (Hook 0–3s, Peak at VO turn, Burgundy Rule between scenes). The Anchor is the first pattern that earns its place by being *continuous*. Justification: half-listening / 0.5s-glance scrollers don't get a moment to wait for. Without persistent context, they bounce before the spot's earned-moment lands.
+- **Palette:** every other SC pattern uses the SC parent overlay palette (Cream / Warm Charcoal / Burgundy). The Anchor uses the FAIR CASE brand palette (Roman Navy `#0D1F3C` + Torch Amber `#C8821A` + white `#FFFFFF`). Justification: the Anchor IS the brand-identity layer of the spot. Fair Case palette is correct here precisely because this is where the spot reads as a Fair Case ad. SC parent palette is preserved for editorial overlays (Hook / Peak / Exhibit / Hero Number) which sit *above* the Anchor when used.
+
+**Default — static (no motion variant for the Anchor):**
+
+| Element | Spec |
+|---|---|
+| **Position** | Bottom 35-40% of 9:16 frame (672–768px tall in 1080×1920); pinned, no animate-in/out |
+| **Duration** | Full spot — frame 0 through CTA frame |
+| **Background** | Roman Navy `#0D1F3C` solid OR 88-92% opacity (when over light footage); 0.5pt Torch Amber `#C8821A` horizontal rule at top edge |
+| **Headline (largest, white)** | Tiempos Headline Medium, 56-72pt, `#FFFFFF`, 1-2 lines max — Spanish copy needs +20-30% line-length budget |
+| **Secondary line** | Inter Medium, 22-26pt, Muted Navy Light `#A8B8CC`, 1 line, sentence case OR optical small caps |
+| **Disclaimer** | Inter Regular, 11-13pt, Muted Navy Light at 70% opacity, 1 line, justified to baseline |
+| **CTA prompt** | Inline Torch Amber `#C8821A` arrow `→` at end of secondary line, OR small Torch Amber pill ("Tap to start", "Free Consultation") flush-right |
+| **Brand mark** | Fair Case torch (Roman Navy mark + Torch Amber flame) top-right of Anchor block, 28-32pt height — this IS the only SC pattern that carries the brand mark in the overlay layer |
+| **Padding** | 48px left/right, 24px top/bottom |
+
+**1:1 feed adaptation (FB Feed at 1080×1080):** same Anchor pinned to bottom; reduces to 25% of frame (1080×270 strip); typography hierarchy preserved with sizes scaled ~85%.
+
+**Why no motion variant:** the Anchor's job is continuous comprehension. Motion-in defeats it; motion-out defeats it. The only acceptable motion is INSIDE the Anchor (e.g., a Torch Amber arrow pulse on the CTA microcopy), and even that is optional and discouraged for Phase 1 — restraint is the design move.
+
+**Surface fit (placement-tuned by design):**
+
+| Surface | Anchor performance | Why |
+|---|---|---|
+| **FB Feed (1:1 + 4:5)** | NATIVE | FB Feed scrolls slower; designed/editorial register reads native, not pasted-on. Mirrors WSJ print-ad rhythm. |
+| **IG Feed (4:5)** | NATIVE | Similar to FB Feed; designed register works in passive scroll mood-state. |
+| **IG Reels / Stories (9:16)** | DEPLOYABLE BUT NOT OPTIMAL | Reels users scroll fast; native UGC + cinematic content beats designed-overlay content. Use Translucent Dark Scrim variant (lower opacity, scrim feather instead of hard panel) if the Anchor must run on Reels. |
+| **YouTube Pre-Roll (9:16)** | NATIVE | Pre-roll is a captive-attention surface; designed register matches. |
+
+**Per-persona deployment rule:** the Anchor is the first SC pattern that requires per-persona/per-creative deployment judgment, not application by default. Deploy on FB-Feed-leaning units (designed cinematic, editorial static, cinematic primary). Leave OFF for IG-Reels-leaning units (UGC pattern-interrupt, motorcycle identity, content-style camouflage). The single Advantage+ ad set distributes both; the algorithm pulls each to the surface where it earns its keep.
+
+**Anti-deployment cases:**
+- Don't Anchor a UGC unit — the Anchor breaks UGC's "looks like content not ad" pattern-interrupt mechanic
+- Don't Anchor a motorcycle / identity-creative unit — riders pattern-match on the rider, not the brand panel; the Anchor dampens identity-trigger
+- Don't Anchor a Designed Static Brand Unit (Hero Number / Exhibit) — those units are ALREADY designed objects; double-overlay creates visual fight
+
+**Coexistence with Hook Card and Peak Card:**
+- Hook Card (0-3s) sits in TOP third; Anchor sits in BOTTOM third — no spatial fight
+- Peak Card (5-8s) sits in BOTTOM third — would conflict spatially with Anchor. Resolution: when Anchor is deployed, the Peak Card upgrades to a TOP-third position OR is omitted (the Anchor's continuous CTA absorbs the Peak Card's punctuation job)
+- Always-on captions (Söhne 11pt small caps bottom-center) sit ABOVE the Anchor zone in their existing 250px safe-zone padding
+
+**Variation surface (copy only — structure, palette, hierarchy never change):**
+
+| Variant | Headline | Secondary | Disclaimer |
+|---|---|---|---|
+| **A — Promise** | Free case review | 45 seconds. No obligation. | Attorney advertising. Prior results do not guarantee outcomes. |
+| **B — Specificity** | See what your case is worth | Reviewed by California-licensed attorneys. | Attorney advertising. Not legal advice. |
+| **C — Speed** | Hurt in a wreck? | We respond in under 24 hours. | Attorney advertising. Free consultation. |
+| **D — Reassurance** | $0 upfront | You pay nothing unless we win. | Attorney advertising. Contingency-fee representation. |
+| **E — Trust (Phase 2 Spanish-ready)** | Lo atendemos en español | Consulta gratuita. 24/7. | Anuncio legal. No garantizamos resultados. |
+
+**Higgsfield mockup prompts:** see `../../../04_Production/Giuseppe_Karma_(AI_Creative_Director)/Higgsfield_Anchor_Mockup_Prompts.md` — five aesthetic directions (Roman Navy Authority, Cream Paper Register, Translucent Dark Scrim, Newspaper Strip Editorial, Minimal Floating) with surface-fit annotations. Davis picks one per client/campaign before building the Figma component.
+
+**Production path:** Higgsfield mock → Davis picks aesthetic direction → Davis builds Figma component with linked text overrides for the variation library → CapCut composite over generated footage. Fair Case torch logo + Anchor panel are the FINAL CapCut pass per Giuseppe Principle 6 — never baked into Higgsfield/Kling/Seedance generation.
 
 ---
 

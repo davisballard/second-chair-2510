@@ -281,7 +281,7 @@ Shot types adapted from Luca Maxim's 12-shot library (`Luca_Maxim_Style.md` §40
 
 **NOT used in WCTL** (wrong register for empathy-driven PI): Wide Crowd Shot, Selfie POV, Confrontation Two-Shot, God View / Miniature, Command Center.
 
-**Aspect ratios:** 9:16 vertical for video (Meta feed + Reels). 1:1 or 4:5 for static images (M3, S2). For video-ready reference portraits, use 4:5 so the frame crops clean to both 9:16 and 1:1 downstream.
+**Aspect ratios:** 9:16 vertical for video (Meta feed + Reels). 4:5 for static images (M3, S2). For video-ready reference portraits, use 4:5 so the frame crops clean to 9:16 downstream. **1:1 deprecated 2026-05-01** — never produce square crops; Meta's own data shows 4:5 and 9:16 both outperform 1:1.
 
 ---
 
@@ -444,9 +444,9 @@ Live list of which WCTL assets use this style. Update when adding or removing an
 |-------|--------|-----------|-------|--------|
 | M1 — Identity | Video 15–30s | Ty Rivera | Garage, golden hour | Pending reference lock |
 | M2 — Loss | Video 15–30s | Ty Rivera | Kitchen morning | Pending reference lock |
-| M3 — Injustice | Static 1:1 + 9:16 | Ty Rivera | Intersection dusk | Pending reference lock |
+| M3 — Injustice | Static 4:5 + 9:16 | Ty Rivera | Intersection dusk | Pending reference lock |
 | S1 — Trucking | Video 15–30s | Sarah | I-10 passenger seat → kitchen | Pending reference lock |
-| S2 — Pedestrian | Static 1:1 + 9:16 | Laura | Suburban crosswalk, late afternoon | Pending reference lock |
+| S2 — Pedestrian | Static 4:5 + 9:16 | Laura | Suburban crosswalk, late afternoon | Pending reference lock |
 | Reference portrait — Ty Rivera | Still | Ty Rivera | Neutral | Prompt ready — see `Phase_1_Reference_Portrait_Prompts.md` |
 | Reference portrait — Sarah | Still | Sarah | Neutral | Prompt ready — see `Phase_1_Reference_Portrait_Prompts.md` |
 | Reference portrait — Laura | Still | Laura | Neutral | Prompt ready — see `Phase_1_Reference_Portrait_Prompts.md` |

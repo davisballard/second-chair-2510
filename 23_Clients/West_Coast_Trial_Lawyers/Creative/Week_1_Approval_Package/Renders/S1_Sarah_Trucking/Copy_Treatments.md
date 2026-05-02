@@ -5,7 +5,7 @@
 **Lane:** Direct-Response print stills (Phase 1 LEAD candidate + Phase 2 ammo) — runs alongside the existing S1 cinematic primary
 **Author:** McCabe (drawing from Caples + Schwab + Hopkins + Slaughter + Storm)
 **Layout collaboration:** McCabe writes copy, Giuseppe sketches layout, both negotiate density per variant
-**Format:** Static 1:1 + 4:5 (Feed) — branding added in CapCut last pass
+**Format:** Static 4:5 (Feed) — branding added in CapCut last pass
 
 ---
 

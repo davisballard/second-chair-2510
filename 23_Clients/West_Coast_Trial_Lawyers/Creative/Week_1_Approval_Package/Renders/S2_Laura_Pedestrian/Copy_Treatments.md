@@ -5,7 +5,7 @@
 **Lane:** Direct-Response print stills (Phase 1 LEAD candidate + Phase 2 ammo) — runs alongside the existing S2 elevated-photographic stills in `Primary/prompt_log.md` (the 6-unit Soth/Kander dusk-crosswalk set, which is the elevated-photographic emerging-lane work)
 **Author:** McCabe (drawing from Slaughter + Collier + Caples + Storm — neighborly empathy register, NOT clinical-respect like Sarah, NOT tradesman like Ty)
 **Layout collaboration:** McCabe writes copy, Giuseppe sketches layout, both negotiate density per variant
-**Format:** Static 1:1 + 4:5 (Feed) — branding added in CapCut last pass
+**Format:** Static 4:5 (Feed) — branding added in CapCut last pass
 
 ---
 

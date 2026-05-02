@@ -1,6 +1,6 @@
 # 08 — Compliance & Counsel
 
-**Scope:** AZ Bar ER 7.1 / 7.2 / 7.3 position, Meta Special Ad Category policy citations, and the specific counsel-review routing for M2-V3 dramatization.
+**Scope:** AZ Bar ER 7.1 / 7.2 / 7.3 position and Meta Special Ad Category policy citations covering the 6 produced launch units (S1 Sarah Trucking, S2 Sarah Underpayment, L1 Laura Pedestrian, D1 Diana, T1 Ty Identity, T2 Ty Injustice).
 
 **Audience:** WCTL's Arizona-licensed counsel (for §7.1 approval window) + Robert for situational awareness.
 
@@ -16,10 +16,10 @@ Operative rule: a lawyer shall not make a *false or misleading communication* ab
 - Creates unjustified expectations about results the lawyer can achieve
 - States or implies the lawyer can achieve results by means violating the Rules
 
-**Position across all 24 variants in this package:**
+**Position across all units in this package:**
 - Zero guaranteed-results language
 - Zero specific case-outcome claims ("We won $X" / "Average settlement $Y")
-- All numeric props (e.g., "$18,000 offer" in Diana S5-V3, "$35,000" in Sarah S1 agitation beat, "$47,000 ER" in Ty M1-V2) are framed as *illustrative of insurance-company lowball dynamics*, not WCTL results
+- All numeric props (e.g., "$18,000 offer" in Diana D1-V3, "$18K vs $74K" in Sarah S2 underpayment primary, "$35,000" in Sarah S1-V3 agitation beat, "$47,000 ER" in Ty T1-V2) are framed as *illustrative of insurance-company lowball dynamics*, not WCTL results
 - All creative directs viewers to a "free case review" or similar evaluative framing — it offers consultation, not outcome
 - Every hook and body copy element has been filtered for truthfulness before inclusion
 
@@ -68,12 +68,12 @@ Every hook in this package is written to comply. Body copy in each variant uses 
 - Recovery imagery (casts, crutches, slings, mobility aids) without graphic content
 - Third-person educational framing
 
-**Position across all 24 variants in this package:**
-- 23 of 24 variants use pure absence/aftermath doctrine — no crash imagery whatsoever
-- 1 variant (M2-V3) uses a compliant moment-before + cut-to-black construction with "Dramatization" overlay; see §4 below
-- Recovery props (arm brace on Sarah, sling on Diana, cane on Laura, leg brace/crutch on Ty, cracked helmet on Ty M3-V3) are compliant visible severity indicators without graphic content
+**Position across all units in this package:**
+- All units use absence/aftermath doctrine — no impact moments, no graphic injury
+- Crash-aftermath imagery (debris, road flare, helmet on asphalt, crashed vehicles parked at scene, dashcam-POV without impact moment) is in-bounds for AZ pilot per SB-37 non-applicability; craft bar met (golden-hour photographic, no shock-factor, no injured bodies)
+- Recovery props (arm brace on Sarah, sling on Diana, cane on Laura, leg brace/crutch on Ty, cracked helmet on Ty T2-V4) are compliant visible severity indicators without graphic content
 
-**Sponsored-post disclosure:** All ads run under Meta's standard "Sponsored" label via the ad placement system. UGC-Native creatives (Diana ×4, M2-V1 UGC, S1-V3 UGC) still surface the Sponsored label — we do not suppress it and do not disguise sponsored content as organic.
+**Sponsored-post disclosure:** All ads run under Meta's standard "Sponsored" label via the ad placement system. UGC-Native creatives (Diana primary + V1-V5, Sarah S1-V3 UGC) still surface the Sponsored label — we do not suppress it and do not disguise sponsored content as organic.
 
 ---
 
@@ -89,41 +89,33 @@ Full disclosure language lives in `lead-gen/apps/second-chair-website/` (SC webs
 
 ---
 
-## 4. M2-V3 Dramatization — Heightened Review Section
+## 4. Jason (J1 + J2) — Phase 2 placeholder note
 
-**This section is the specific material WCTL counsel should review before launching M2-V3.** Separate email inbound with storyboard frames and this section in isolation.
+Both Jason files in this package (`J1_Jason_Standard_(MVA).md` + `J2_Jason_Wild_(MVA).md`) are **directional placeholders**, not produced units. No production assets attach to either at package-send. **Per-bend production-stage compliance gating happens at build-out**, not in this approval window.
 
-### 4a. The creative
+**Concept-set-level clearance already in place.** Saul cleared all 5 J2 wild register-bend directions at the concept-set level in `Bold_Sister_Line_Severe_MVA/00_Concept_Set_Overview.md` (Hard Guardrails). Voice test 3/3 confirmed for all 5 per Ferrier audit. None of the 5 directions needs to re-litigate the voice test or concept-level compliance fence at production stage — they go directly into production-stage gating once one is selected for build-out.
 
-**Hook:** *"Southern and Dobson. 4:45 PM. Full sun. She never looked right."*
-**Full 15-second breakdown:** See `05_M2_Ty_Loss.md` §Variant M2-V3.
-**Format:** 15-second vertical video (9:16 Reels / 4:5 feed / 1:1 square), dashcam-POV simulation approaching a suburban AZ intersection, generic silver/white SUV enters frame from opposite direction, driver's head visible turning left (not right), cut to black at 7-8s before any impact, cut to Ty composed at home for remainder.
+**Per-bend copyright-fence summary** (informational, not gating at this stage):
 
-### 4b. Compliance position
+| J2 direction | Cultural register | Copyright fence |
+|---|---|---|
+| J2-A Documentary | Mike Rowe / *Dirty Jobs* doc segment | NO *Dirty Jobs* assets; NO Mike Rowe voice |
+| J2-B Tutorial | YouTube how-to / Concrete Pump School format | NO specific YouTube creator brand |
+| J2-C Cutscene | PS2-era cel-shaded sports-game cutscene + broadcast chyron | NO Madden / NFL on FOX brand assets; NO team logos; NO FOX Cleatus asset; NO real broadcast graphic-package elements |
+| J2-D Listing | Bring-A-Trailer / classic-truck IG auction-listing | NO Bring-A-Trailer / Hemmings logos; generic insurer names; \$38,000 attributed to at-fault driver's insurance offer (Loss 6 substantiation in `Jason/02`, ER 7.1 cleared) |
+| J2-E Radio | KMLE country-radio morning-DJ patter | NO KMLE asset; NO real DJ name; ElevenLabs TTS voices are AI; generic country-radio bumper synthesized |
 
-**AZ Bar:** Reenactments-with-disclosure are expressly permitted. "Dramatization" overlay (white sans-serif, 40% opacity black card, bottom-right corner, 11pt minimum, visible frames 1 to 15) is the disclosure. No identifiable person (driver face obscured/turned), no identifiable vehicle (generic SUV, no plate visible). No specific case-outcome claim. **Position: GREEN under ER 7.1 with counsel sign-off.**
+**Heightened-review routing — J2-C only.** When/if J2-C Cutscene is selected for build-out, it routes as **heightened review** (akin to how M2-V3 dramatization was previously routed before that frame was dropped). The PS2 + sports-broadcast register has the most active copyright fence in the inventory; counsel sees J2-C in isolation. Other 4 J2 directions = standard review at build-out.
 
-**Meta Special Ad Category:** Implied-impact-without-gore-or-victim is permitted. The cut-to-black is the industry-standard compliant treatment for this kind of implication. **Position: GREEN at human review, AMBER on algorithmic reach** — Meta's algorithm may deprioritize (rate-limit) even after human review approval if it perceives sensational content. Budget accordingly; M1 and M3 absorb impressions if M2-V3 throttles.
+**ER 7.1 substantiation gates that surface at J2 build-out** (per the deep concept docs at `Bold_Sister_Line_Severe_MVA/01..05_Concept_*.md`):
 
-**Second Chair brand doctrine:** SC's prior "no crash footage" position was a brand-discipline choice modeled on California's stricter SB-37 standard. Davis has explicitly re-evaluated: for the AZ market specifically, a tactfully-executed Moment-Before Dramatization is consistent with "honest persuasion over shock factor" — it makes the factual argument for Ty's innocence visible rather than asking viewers to take it on faith. The treatment does not rely on shock value; it relies on the *specificity* of the intersection and the *factual* structure of the events (full sun, driver turned left-not-right, no impact shown).
+- J2-A: VO claim *"how insurance companies handle a pelvic fracture... fast, low, and final"* → substantiate to industry-typical (initial offers run 25–40% of final settlement value)
+- J2-B: three procedural claims (hospital-bill ≠ debt; first-offer ≠ true value; workers'-comp parallel-line) → confirm with Robert + WCTL counsel that workers'-comp coordination is a service WCTL substantiates
+- J2-C: chyron stat lines (BILLS OWED \$96,400 / OFFER ON TABLE \$38,000 / MONTHS OUT OF WORK 5 / WORKERS COMP STATUS DISPUTED) — each substantiated to Jason-the-archetype's actual case math; Robert confirms illustrative framing satisfies AZ Bar
+- J2-D: \$38,000 = at-fault insurance offer (Loss 6); FAIR MARKET VALUE: TBD = question, not claim
+- J2-E: closing VO line locked at *"Find out what the law actually says"* (without "about your case") per Saul's mitigation; \$38K substantiated to Loss 6
 
-### 4c. What counsel is being asked to approve
-
-1. The creative as specified above, including the dashcam-POV simulation, generic SUV rendering, cut-to-black timing, and "Dramatization" overlay specification.
-2. Storyboard frames (5-6 key frames — to be sent with this document in the heightened-review email). These frames show structure without committing to final generation; Davis will re-render to counsel-specified edits if requested.
-3. The associated hook copy and body text as written in `05_M2_Ty_Loss.md`.
-
-### 4d. What counsel is NOT being asked
-
-- Counsel is not reviewing the 23 other variants in this package via the heightened-review email — those go through standard Service Agreement §7.1 approval with the main package email.
-- Counsel is not reviewing the campaign architecture, media plan, or funnel spec — those were settled in the April call and signed.
-
-### 4e. Fallback if counsel declines
-
-If counsel finds M2-V3 non-compliant or wants substantive edits that can't be produced within the Fri 2026-05-01 response window:
-- **M2-V3 is held for Phase 2.** Not included in 2026-05-05 launch.
-- M2 launches with primary + V1 + V2 only (three units instead of four).
-- Package is unchanged otherwise.
+**J1 (standard, when built):** standard review, same gates as T1 / S1 / L1 / D1.
 
 ---
 
@@ -131,14 +123,14 @@ If counsel finds M2-V3 non-compliant or wants substantive edits that can't be pr
 
 Before WCTL counsel signs off on the package, please confirm:
 
-- [ ] All 24 hooks use third-person framing per Meta Personal Attributes policy (§2 above)
+- [ ] All hooks across 6 produced units use third-person framing per Meta Personal Attributes policy (§2 above)
 - [ ] All body copy is free of guaranteed-results language per AZ ER 7.1 (§1 above)
-- [ ] Numeric props ($18K offer, $35K offer, $47K ER, etc.) are framed as illustrative, not as WCTL case results
-- [ ] Recovery props (arm brace, sling, cane, leg brace, cracked helmet) are not paired with graphic injury content
+- [ ] Numeric props ($18K offer in Diana D1-V3, $18K vs $74K mismatch in Sarah S2 underpayment primary, $35K offer in Sarah S1-V3, $47K ER in Ty T1-V2, $74,839 hospital bill in Sarah S2 primary) are framed as illustrative, not as WCTL case results
+- [ ] Recovery props (arm brace, sling, cane, leg brace/crutch, cracked helmet, X-ray with surgical hardware) are not paired with graphic injury content
 - [ ] "Free case review" CTA does not cross into solicitation under ER 7.3 — ad invites contact, does not initiate it
-- [ ] M2-V3 dramatization (separate review) — if approved, "Dramatization" overlay visible frames 1–15s, generic SUV rendering, no identifiable driver, cut-to-black timing at 7-8s
+- [ ] AI-generated crash-aftermath imagery (Sarah S1 desert aftermath, Diana D1 auto-body shop, Ty T1 helmet on asphalt, Ty T2 crashed bike + Rogue at intersection) is in-bounds for AZ pilot per SB-37 non-applicability and the no-shock-factor craft bar
 
-Any flag → edit required before Meta submission (Sun 2026-05-03 EOD).
+Any flag → edit required before Meta submission.
 
 ---
 

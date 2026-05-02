@@ -281,4 +281,26 @@ Things that look like they fit but don't:
 
 ---
 
-*Brand System Brief — March 2026. Governs homepage, social posts, and all brand materials outside the quiz form. Read alongside `FORM_DESIGN_BRIEF.md` for the complete Fair Case design system.*
+## Anchor Extension (added 2026-04-30)
+
+The Fair Case brand palette is built for landing-page and form contexts — controlled-background surfaces. It is NOT a video-overlay palette by default. Roman Navy `#0D1F3C` and Torch Amber `#C8821A` cannot serve as letter-fill for headlines sitting over warm-graded video footage; that's why the SC parent palette (Cream / Warm Charcoal / Burgundy) handles editorial overlays in Fair Case ad creative.
+
+**Exception: The Anchor.** Pattern 6 in the SC Designed Overlay System (`../../02_Visual/Designed_Overlay_System.md §6 Pattern 6`) is the FIRST and ONLY video overlay that uses the Fair Case brand palette directly — because the Anchor IS the brand-identity layer of the spot. It earns its place by being persistent (full-spot duration) and brand-bearing (carries the torch logo in the overlay layer).
+
+**Anchor palette use:**
+- **Background:** Roman Navy `#0D1F3C` solid (over light footage: 88-92% opacity)
+- **Top-edge rule:** 0.5pt Torch Amber `#C8821A`
+- **Headline:** white `#FFFFFF` (Tiempos Headline Medium 56-72pt)
+- **Secondary + Disclaimer:** Muted Navy Light `#A8B8CC` (Inter)
+- **CTA prompt:** Torch Amber `#C8821A` arrow or pill button
+- **Brand mark:** Fair Case torch (Roman Navy mark + Torch Amber flame, the one invariant)
+
+**Multilingual readiness for Phase 2 Spanish:** the Anchor's Tiempos + Inter typography stack handles Spanish characters natively. Layout reserves +20-30% line-length budget so Spanish copy ("Lo atendemos en español" / "Consulta gratuita. 24/7.") doesn't break the headline wrap or push the secondary line into the disclaimer zone. If Spanish copy strains, increase Anchor height from 35% to 38% of frame.
+
+**Editorial overlay rule unchanged:** all OTHER on-video overlays in Fair Case ad creative (Hook Card, Peak Card, Exhibit, Hero Number) continue to use the SC parent palette (Cream / Warm Charcoal / Burgundy). The Anchor and editorial overlays can coexist in the same spot — Anchor in the bottom 35-40%, editorial overlays in the top or middle of frame.
+
+**UGC creative exception preserved:** UGC ad creative (Diana UGC variants, etc.) does NOT carry the Anchor and does NOT carry the Fair Case torch logo in the ad creative itself. CTA reads as text-only (Inter Bold + Torch Amber accent word). The torch logo appears post-click on the landing page. This rule, locked in `Agency_Creative_Review.md`, is not affected by the Anchor pattern.
+
+---
+
+*Brand System Brief — March 2026 (Anchor Extension added 2026-04-30). Governs homepage, social posts, and all brand materials outside the quiz form. Read alongside `FORM_DESIGN_BRIEF.md` for the complete Fair Case design system. Read alongside `../../02_Visual/Designed_Overlay_System.md` for video-overlay rules.*

@@ -10,7 +10,7 @@
 
 ## Aspect / format strategy
 
-- **Native generation:** 4:5 portrait (1024×1280 ChatGPT Image 2 / Higgsfield) — Feed-optimal, also crops cleanly to 1:1 if Robert's deck wants it.
+- **Native generation:** 4:5 portrait (1024×1280 ChatGPT Image 2 / Higgsfield) — Feed-optimal. (1:1 deprecated 2026-05-01.)
 - **Reels motion-still extension (V1, V2, V5, V6 only):** generate the still in 4:5 first, then in CapCut layer the type, extend the canvas to 9:16 with the photographic background's environmental cue continued (steam, light shift, paper edge stir). Designed-static variants V3 (Hero Number) and V4 (Exhibit) do **NOT** get a Reels treatment — Bass distillation requires stillness; animated $1M numbers / bar charts read cheap.
 
 ---
@@ -310,7 +310,7 @@ Type system and palette per `Designed_Overlay_System.md` and `feedback_fair_case
 | V4 Chart label | IBM Plex Mono Small Caps | 9pt | Muted Navy Light | Below chart |
 | Fair Case torch | logo (white) | ~24px tall | white | Bottom-right corner, ~40px margin |
 
-**Safe zones:** Meta Feed crops from a 1:1 master at 4:5 are conservative — keep critical type within central 90% of frame both axes. The closing action line should sit in the lower-third but at least 80px above the bottom edge to avoid Meta's "Sponsored" / Learn More button overlap on iOS Feed.
+**Safe zones:** Meta Feed crops from a 4:5 master are conservative — keep critical type within central 90% of frame both axes. The closing action line should sit in the lower-third but at least 80px above the bottom edge to avoid Meta's "Sponsored" / Learn More button overlap on iOS Feed.
 
 **Reels (9:16) extension** for V1, V2, V5, V6 only: in CapCut, extend canvas to 9:16, animate the photographic background with subtle environmental motion (1-2 second loops): coffee steam (V1), bills page edge stir (V2), policy paperwork edge settling (V5), calendar pages slight waver (V6). Type holds locked-position. Total runtime 6-10s, music bed neutral (Fair Case sonic palette per brand brief).
 

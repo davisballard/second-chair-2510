@@ -88,7 +88,7 @@ CapCut auto-captions per `../../../../../../../04_Production/Giuseppe_Karma_(AI_
 
 - 9:16 (Reels native, 1080×1920) — primary
 - 4:5 (Feed, 1080×1350) — center-crop hook headline
-- 1:1 (Feed legacy, 1080×1080) — Hook Card may need re-position to top-quarter; Peak Card may compress to single line
+- ~~1:1~~ — deprecated 2026-05-01 (Davis: "I never see them"); do not produce square crops
 
 ---
 

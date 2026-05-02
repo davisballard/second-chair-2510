@@ -463,6 +463,55 @@ Delivered leads arrive at different points in the 4–6 week campaign window. **
 
 ---
 
+## 6.6 Anchor Cohort Definition + Surface-Aware Format Rules (added 2026-04-30)
+
+> **What's new:** Phase 1 creative now includes a controlled split-test variable — the Fair Case "Anchor" persistent bottom-frame overlay (Pattern 6, see `../../../02_Visual/Designed_Overlay_System.md §6`). This section defines the cohort, the surface-aware static-vs-video rule, and the validation thresholds. Cohort assignment lives in `../Creative/Anchor_Template_Spec.md`; full split-test plan in `../Creative/Phase_1_Split_Test_Plan.md`.
+
+### Anchor Cohort vs. Clean Cohort
+
+Both cohorts run inside the single Advantage+ ad set. Algorithm distributes naturally to the placements where each cohort earns its keep. No budget split, no separate ad set.
+
+| Cohort | Units | Expected placement skew |
+|---|---|---|
+| **Anchored** (~13 units) | S1 Sarah trucking cinematic + S2 Laura pedestrian static + S5 Diana cinematic | FB Feed-heavy (designed/editorial register native to FB scroll) |
+| **Clean** (~19 units) | M1/M2/M3 Ty motorcycle + S5 Diana UGC + HN/EX Designed Static Brand Units + matched-clean controls | IG Reels-heavy (UGC + cinematic motion native to Reels scroll) |
+
+### Surface-Aware Static-vs-Video Rule
+
+| Unit type | Surface | Format treatment |
+|---|---|---|
+| **S2 Laura static** | FB Feed | Pure static image post (FB Feed renders static at full impression weight; don't force motion where stillness is the editorial point) |
+| **S2 Laura static** | IG Reels / Stories | Render as 4-7s ambient-motion video with audio bed (-18 LUFS); IG Reels surface downranks pure static |
+| **HN/EX Designed Statics** | FB Feed | Pure static fine |
+| **HN/EX Designed Statics** | IG Reels / Stories | Render as 4-7s ambient-motion |
+| **All cinematic + UGC units** | All surfaces | Already video |
+
+**Operational:** Davis or Alex builds 2 versions of each static unit — pure JPG for FB Feed placement, 4-7s MP4 with subtle motion + audio for IG Reels/Stories. Meta supports per-placement creative customization in Advantage+; the algorithm serves the right version to the right surface.
+
+### Anchor Validation Thresholds (Week 1)
+
+After Week 1 / 100+ qualified-lead-conversion events:
+
+| Metric | Hypothesis | If confirmed | If disconfirmed |
+|---|---|---|---|
+| **FB Feed CPL (Anchored vs Clean)** | Anchored ≤ Clean on FB Feed | Lift Anchor to Phase 2 standard for FB-Feed-native units | Investigate variant copy + opacity |
+| **IG Reels CPL (Anchored vs Clean)** | Clean ≤ Anchored on IG Reels | Confirm Anchor is FB-Feed-only pattern; never deploy on Reels-native creative | Re-test Translucent Dark Scrim variant |
+| **Hook rate** | No more than 10% degradation either surface | Anchor isn't costing scroll-stops; ship | Reduce panel opacity or revisit copy density |
+| **Hold rate (75%)** | Anchored ≥ Clean | Designed register helps comprehension | Anchor is editorial-overdesigned for ad delivery; cut |
+
+Full decision rules in `../Creative/Phase_1_Split_Test_Plan.md`.
+
+### Reporting Add-On
+
+Daily / 3-day / weekly cadence per §8 unchanged; add to existing reports:
+
+- **Daily:** Anchored vs Clean impression share by placement (FB Feed / IG Feed / IG Reels / IG Stories)
+- **Every 3 days:** Anchored vs Clean CTR by placement; flag if Anchored CTR degrades >15% on FB Feed
+- **Weekly:** Anchored vs Clean CPL by placement, hook rate, hold rate, cost per qualified lead — three-sentence summary for Robert
+- **End of Week 1:** Validation against thresholds above; ship/refine/cut decision documented
+
+---
+
 ## 7. Reallocation Triggers
 
 ### Architecture Hot-Swap (Single-Ad-Set → Two-Ad-Set Contingency)

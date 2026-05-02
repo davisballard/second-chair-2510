@@ -115,7 +115,7 @@ same face, same wardrobe, same side-specific props
 
 ## 4. Composition Rules
 
-**Aspect ratios:** 9:16 vertical primary (Meta Reels, Stories feed). 1:1 secondary (Facebook feed). Reference portrait at 4:5 for flexibility.
+**Aspect ratios:** 9:16 vertical primary (Meta Reels, Stories feed). 4:5 secondary (Facebook feed). Reference portrait at 4:5 for flexibility. **1:1 deprecated 2026-05-01** — Davis's call after never seeing 1:1 deliveries; Meta data confirms 4:5 + 9:16 both outperform 1:1.
 
 **Shot types that fit UGC Native:**
 

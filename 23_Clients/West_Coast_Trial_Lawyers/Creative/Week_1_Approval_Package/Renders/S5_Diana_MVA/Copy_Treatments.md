@@ -5,7 +5,7 @@
 **Lane:** Direct-Response print stills (Phase 1 LEAD candidate + Phase 2 ammo) — runs alongside the existing S5 cinematic primary which is **UGC-native** (Diana's primary cinematic uses the UGC register; this DR set uses the editorial Tiempos/Caslon register, same as Sarah/Laura/Ty)
 **Author:** McCabe (drawing from Hopkins + Caples + Sugarman + Storm — household-CFO register, system-seeing not rescuing; NOT clinical-precise like Sarah, NOT neighborly-soft like Laura, NOT tradesman like Ty)
 **Layout collaboration:** McCabe writes copy, Giuseppe sketches layout, both negotiate density per variant
-**Format:** Static 1:1 + 4:5 (Feed) — branding added in CapCut last pass
+**Format:** Static 4:5 (Feed) — branding added in CapCut last pass
 
 ---
 

@@ -5,7 +5,7 @@
 **Lane:** Direct-Response print stills (Phase 1 LEAD candidate + Phase 2 ammo) — runs alongside the existing M1 cinematic primary
 **Author:** McCabe (drawing from Caples + Hopkins + Slaughter + Storm — tradesman register, NOT empathy-soft like Laura, NOT clinical-precise like Sarah)
 **Layout collaboration:** McCabe writes copy, Giuseppe sketches layout, both negotiate density per variant
-**Format:** Static 1:1 + 4:5 (Feed) — branding added in CapCut last pass
+**Format:** Static 4:5 (Feed) — branding added in CapCut last pass
 
 ---
 

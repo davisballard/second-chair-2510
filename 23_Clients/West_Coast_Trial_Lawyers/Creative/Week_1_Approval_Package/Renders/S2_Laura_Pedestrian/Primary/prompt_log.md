@@ -4,7 +4,7 @@
 **Persona:** Laura Henderson, 42, elementary school librarian, Gilbert AZ
 **Register:** Elevated Documentary — Coens/Fargo + Sopranos director anchor, Alec Soth / Nadav Kander photographic composition
 **Tool:** Higgsfield × ChatGPT Images 2.0 (stills)
-**Aspect:** 4:5 portrait native (crops clean to 1:1 feed square; 9:16 optional crop)
+**Aspect:** 4:5 portrait native (9:16 optional crop). 1:1 deprecated 2026-05-01.
 **VO:** ElevenLabs Bill voice in post — N/A on a static, here as register reminder for tone-match
 **Branding:** None in image. Hook text + Fair Case CTA layered in CapCut. **Do NOT render any text, logo, or watermark in the image.**
 

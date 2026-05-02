@@ -92,7 +92,7 @@ UGC-mode CTA per `../../../../../../20_Fair_Case/04_Visual_Identity_Brief/BRAND_
 
 - 9:16 (Reels native) — primary
 - 4:5 (Feed) — Hook Card stays top-anchored
-- 1:1 (Feed legacy) — Hook Card may compress to one line: `Broken bones. Bills don't stop.`
+- ~~1:1~~ — deprecated 2026-05-01 (Davis: "I never see them"); do not produce square crops
 
 ---
 
